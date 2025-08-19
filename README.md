@@ -43,7 +43,6 @@ python src/f1/f1.py
 
 3. 生成的文件位于：
 - WRC赛事：
-  - `release/wrc/wrc_page.html` - 原始网页备份
   - `release/wrc/wrc_data.json` - 解析后的赛事数据
   - `release/wrc/wrc_calendar.ics` - 生成的日历文件
 - F1赛事：
