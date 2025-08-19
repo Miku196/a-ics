@@ -79,7 +79,7 @@ python src/f1/f1.py
 
 您可以通过以下链接订阅赛事日历：
 - [WRC赛事日历](https://Miku196.github.io/sport_schedule/release/wrc/wrc.ics)
-- [F1赛事日历](https://Miku196.github.io/sport_schedule/release/f1/races.ics)
+- [F1赛事日历](https://Miku196.github.io/sport_schedule/release/f1/f1.ics)
 
 ## 注意事项
 
