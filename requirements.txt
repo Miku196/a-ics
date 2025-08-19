@@ -1,0 +1,4 @@
+requests
+icalendar
+beautifulsoup4
+lxml
