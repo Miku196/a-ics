@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import json, re, requests
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -61,4 +62,4 @@ for ev in events:
 ics_lines.append("END:VCALENDAR")
 Path("./release/wrc/wrc.ics").write_bytes("\r\n".join(ics_lines).encode("utf-8"))
 
-print(f"✅ 已导出 {len(events)} 场赛事")
+print(f"[成功] 已导出 {len(events)} 场赛事")
