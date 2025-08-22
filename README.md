@@ -9,7 +9,7 @@
 ## 订阅日历
 
 您可以通过以下链接订阅赛事日历：
-- [WRC赛事日历](https://Miku196.github.io/a-ics/release/wrc/wrc_calendar.ics)
+- [WRC赛事日历](https://Miku196.github.io/a-ics/release/wrc/wrc.ics)
 - [F1赛事日历](https://Miku196.github.io/a-ics/release/f1/f1.ics)
 - [csgo赛事日历](https://Miku196.github.io/a-ics/release/csgo/csgo.ics)
 - [dota2赛事日历](https://Miku196.github.io/a-ics/release/dota2/dota2.ics)
