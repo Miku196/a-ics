@@ -1,0 +1,445 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//5EPlay Dota 2 赛事日历//
+X-WR-CALNAME:Dota 2 赛事日程
+BEGIN:VEVENT
+SUMMARY:裂变宇宙 第6季: Aurora vs VP
+DTSTART:20250822T080000Z
+DTEND:20250822T100000Z
+UID:dt_mc_2025071822103584grf@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_2025071822103584grf\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: A级\n状态: 未开始\n预计时长: 2小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_2025071822103584grf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:裂变宇宙 第6季: Tidebd vs PARI
+DTSTART:20250822T100000Z
+DTEND:20250822T120000Z
+UID:dt_mc_20250718221035qtrul@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250718221035qtrul\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: A级\n状态: 未开始\n预计时长: 2小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250718221035qtrul
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 4: Yes vs MOUZ
+DTSTART:20250822T110000Z
+DTEND:20250822T140000Z
+UID:dt_mc_20250711203432mbrb1@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711203432mbrb1\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711203432mbrb1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:裂变宇宙 第6季: Avulus vs BB
+DTSTART:20250822T120000Z
+DTEND:20250822T140000Z
+UID:dt_mc_20250718221036jshej@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250718221036jshej\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: A级\n状态: 未开始\n预计时长: 2小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250718221036jshej
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 4: 4P vs OG
+DTSTART:20250822T140000Z
+DTEND:20250822T170000Z
+UID:dt_mc_20250711203433msey0@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711203433msey0\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711203433msey0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 4: L1ga vs TNL
+DTSTART:20250822T170000Z
+DTEND:20250822T200000Z
+UID:dt_mc_20250711203434ofvzp@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711203434ofvzp\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 淘汰赛 胜者组 决赛\n赛事等级: 其他\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711203434ofvzp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:裂变宇宙 第6季:  Falcons vs TBD
+DTSTART:20250823T080000Z
+DTEND:20250823T110000Z
+UID:dt_mc_20250816003554fp609@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250816003554fp609\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: A级\n状态:
+  未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250816003554fp609
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:裂变宇宙 第6季: TBD vs TBD
+DTSTART:20250823T110000Z
+DTEND:20250823T140000Z
+UID:dt_mc_2025081600025740rzh@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_2025081600025740rzh\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: A级\n状态:
+  未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_2025081600025740rzh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 4: TBD vs TBD
+DTSTART:20250823T130000Z
+DTEND:20250823T160000Z
+UID:dt_mc_20250711203434smp1g@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711203434smp1g\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 淘汰赛 败者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711203434smp1g
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:裂变宇宙 第6季: TSpirit vs Liquid
+DTSTART:20250823T140000Z
+DTEND:20250823T170000Z
+UID:dt_mc_20250816003554t1ho0@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250816003554t1ho0\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 淘汰赛 胜者组 决赛\n赛事等级: A级\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250816003554t1ho0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 4: TBD vs TBD
+DTSTART:20250823T160000Z
+DTEND:20250823T190000Z
+UID:dt_mc_20250711203435ms4x2@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711203435ms4x2\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 淘汰赛 败者组 决赛\n赛事等级: 其他\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711203435ms4x2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:裂变宇宙 第6季: TBD vs TBD
+DTSTART:20250823T170000Z
+DTEND:20250823T200000Z
+UID:dt_mc_20250816000257czhcr@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250816000257czhcr\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 淘汰赛 败者组 半决赛\n赛事等级: A级\n状态:
+  未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250816000257czhcr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:裂变宇宙 第6季: TBD vs TBD
+DTSTART:20250824T110000Z
+DTEND:20250824T140000Z
+UID:dt_mc_20250816000259pxu6o@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250816000259pxu6o\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 淘汰赛 败者组 决赛\n赛事等级: A级\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250816000259pxu6o
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 4: TBD vs TBD
+DTSTART:20250824T110000Z
+DTEND:20250824T140000Z
+UID:dt_mc_20250711203435o37ev@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711203435o37ev\n赛制: BO5\n轮次: 总
+ 决赛\n阶段: 淘汰赛  总决赛\n赛事等级: 其他\n状态: 未开
+ 始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711203435o37ev
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:裂变宇宙 第6季: TBD vs TBD
+DTSTART:20250824T150000Z
+DTEND:20250824T180000Z
+UID:dt_mc_202508160002587uxzo@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202508160002587uxzo\n赛制: BO5\n轮次: 总
+ 决赛\n阶段: 淘汰赛  总决赛\n赛事等级: A级\n状态: 未开
+ 始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202508160002587uxzo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 ST锦标赛: GermanIvan+4 vs eSpoiled
+DTSTART:20250829T190000Z
+DTEND:20250829T220000Z
+UID:dt_mc_20250817123258ega8x@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250817123258ega8x\n赛制: BO5\n轮次: 决
+ 赛\n阶段: 淘汰赛 决赛\n赛事等级: \n状态: 未开始\n预计
+ 时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250817123258ega8x
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251003T080000Z
+DTEND:20251003T110000Z
+UID:dt_mc_2025071121043062nvf@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_2025071121043062nvf\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 小组赛 胜者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_2025071121043062nvf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251003T110000Z
+DTEND:20251003T140000Z
+UID:dt_mc_202507112104317csr4@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202507112104317csr4\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 小组赛 胜者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202507112104317csr4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251003T140000Z
+DTEND:20251003T170000Z
+UID:dt_mc_202507112104321s8wh@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202507112104321s8wh\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 小组赛 胜者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202507112104321s8wh
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251003T170000Z
+DTEND:20251003T200000Z
+UID:dt_mc_20250711210433hb0k1@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210433hb0k1\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 小组赛 胜者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210433hb0k1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251004T080000Z
+DTEND:20251004T110000Z
+UID:dt_mc_202507112104347zip8@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202507112104347zip8\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 小组赛 败者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202507112104347zip8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251004T110000Z
+DTEND:20251004T140000Z
+UID:dt_mc_20250711210434rbvu3@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210434rbvu3\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 小组赛 败者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210434rbvu3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251004T140000Z
+DTEND:20251004T170000Z
+UID:dt_mc_20250711210434vu382@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210434vu382\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 小组赛 胜者组 决赛\n赛事等级: 其他\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210434vu382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251004T170000Z
+DTEND:20251004T200000Z
+UID:dt_mc_202507112104351igzc@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202507112104351igzc\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 小组赛 胜者组 决赛\n赛事等级: 其他\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202507112104351igzc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251005T080000Z
+DTEND:20251005T110000Z
+UID:dt_mc_20250711210435h2eg8@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210435h2eg8\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 小组赛 败者组 决赛\n赛事等级: 其他\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210435h2eg8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251005T110000Z
+DTEND:20251005T140000Z
+UID:dt_mc_2025071121043646tfq@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_2025071121043646tfq\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 小组赛 败者组 决赛\n赛事等级: 其他\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_2025071121043646tfq
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251007T080000Z
+DTEND:20251007T110000Z
+UID:dt_mc_20250711210436tgiso@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210436tgiso\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 胜者组 1/4决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210436tgiso
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251007T110000Z
+DTEND:20251007T140000Z
+UID:dt_mc_202507112104371rr7u@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202507112104371rr7u\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 胜者组 1/4决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202507112104371rr7u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251007T140000Z
+DTEND:20251007T170000Z
+UID:dt_mc_20250711210438vg3on@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210438vg3on\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 胜者组 1/4决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210438vg3on
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251007T170000Z
+DTEND:20251007T200000Z
+UID:dt_mc_20250711210440v2zd0@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210440v2zd0\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 胜者组 1/4决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210440v2zd0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251008T080000Z
+DTEND:20251008T110000Z
+UID:dt_mc_20250711210440jcs8o@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210440jcs8o\n赛制: BO3\n轮次: 第1
+ 轮\n阶段: 淘汰赛 败者组 第1轮\n赛事等级: 其他\n状态: 
+ 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210440jcs8o
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251008T110000Z
+DTEND:20251008T140000Z
+UID:dt_mc_20250711210440ui2zy@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210440ui2zy\n赛制: BO3\n轮次: 第1
+ 轮\n阶段: 淘汰赛 败者组 第1轮\n赛事等级: 其他\n状态: 
+ 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210440ui2zy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251008T140000Z
+DTEND:20251008T170000Z
+UID:dt_mc_202507112104414wz0o@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202507112104414wz0o\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 淘汰赛 胜者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202507112104414wz0o
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251008T170000Z
+DTEND:20251008T200000Z
+UID:dt_mc_20250711210441vyvpa@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210441vyvpa\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 淘汰赛 胜者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210441vyvpa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251009T110000Z
+DTEND:20251009T140000Z
+UID:dt_mc_20250711210441dk7zm@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210441dk7zm\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210441dk7zm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251009T140000Z
+DTEND:20251009T170000Z
+UID:dt_mc_202507112104429tguu@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202507112104429tguu\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202507112104429tguu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251009T170000Z
+DTEND:20251009T200000Z
+UID:dt_mc_202507112104429lbex@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202507112104429lbex\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 淘汰赛 胜者组 决赛\n赛事等级: 其他\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202507112104429lbex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251010T130000Z
+DTEND:20251010T160000Z
+UID:dt_mc_202507112104435di47@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202507112104435di47\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 淘汰赛 败者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202507112104435di47
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251010T160000Z
+DTEND:20251010T190000Z
+UID:dt_mc_202507112104452lbzq@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202507112104452lbzq\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 淘汰赛 败者组 决赛\n赛事等级: 其他\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202507112104452lbzq
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251011T110000Z
+DTEND:20251011T140000Z
+UID:dt_mc_20250711210445pt8u9@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210445pt8u9\n赛制: BO5\n轮次: 总
+ 决赛\n阶段: 淘汰赛  总决赛\n赛事等级: 其他\n状态: 未开
+ 始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210445pt8u9
+END:VEVENT
+END:VCALENDAR
