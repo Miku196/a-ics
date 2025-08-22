@@ -1323,6 +1323,17 @@ STATUS:TENTATIVE
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384753
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:未知赛事: TBD vs TBD
+DTSTART:20250825T000000Z
+DTEND:20250825T030000Z
+UID:csgo_mc_2384864@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384864\n赛制: BO3\n状态: 未开始\n预
+ 计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+STATUS:TENTATIVE
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384864
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:未知赛事: Sangal vs Nuclear TigeRES
 DTSTART:20250824T170000Z
 DTEND:20250824T200000Z
@@ -1332,6 +1343,17 @@ DESCRIPTION:比赛ID: csgo_mc_2384728\n赛制: BO3\n状态: 未开始\n预
 LOCATION:5EPlay 赛事平台
 STATUS:TENTATIVE
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384728
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:未知赛事: TBD vs TBD
+DTSTART:20250824T170000Z
+DTEND:20250824T200000Z
+UID:csgo_mc_2384802@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384802\n赛制: BO3\n状态: 未开始\n预
+ 计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+STATUS:TENTATIVE
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384802
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:未知赛事: SENZA vs Khan
@@ -1543,7 +1565,7 @@ STATUS:TENTATIVE
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384796
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:未知赛事: Wildcard Academy vs TBD
+SUMMARY:未知赛事: Wildcard Academy vs EYE
 DTSTART:20250823T080000Z
 DTEND:20250823T110000Z
 UID:csgo_mc_2384668@5eplay.com
@@ -1706,38 +1728,5 @@ DESCRIPTION:比赛ID: csgo_mc_2384547\n赛制: BO3\n状态: 未开始\n预
 LOCATION:5EPlay 赛事平台
 STATUS:TENTATIVE
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384547
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:未知赛事: BC.Game vs OG
-DTSTART:20250822T110000Z
-DTEND:20250822T140000Z
-UID:csgo_mc_2384685@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384685\n赛制: BO3\n状态: 未开始\n预
- 计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-STATUS:TENTATIVE
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384685
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:未知赛事: CYBERSHOKE vs Metizport
-DTSTART:20250822T110000Z
-DTEND:20250822T140000Z
-UID:csgo_mc_2384546@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384546\n赛制: BO3\n状态: 未开始\n预
- 计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-STATUS:TENTATIVE
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384546
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:未知赛事: FORZE Reload vs EYE
-DTSTART:20250822T110000Z
-DTEND:20250822T140000Z
-UID:csgo_mc_2384598@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384598\n赛制: BO3\n状态: 未开始\n预
- 计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-STATUS:TENTATIVE
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384598
 END:VEVENT
 END:VCALENDAR
