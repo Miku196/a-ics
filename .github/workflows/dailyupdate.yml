@@ -19,6 +19,10 @@ jobs:
         pip install -r requirements.txt
     - name: Run WRC scraper
       run: python src/wrc/wrc.py
+    - name: Run csgo scraper
+      run: python src/csgo/csgo.py
+    - name: Run dota2 scraper
+      run: python src/dota2/dota2.py
     - name: Run F1 scraper
       run: python src/f1/f1.py
     - name: Commit and push changes
