@@ -47,7 +47,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250816003554t1ho0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第2赛季 系列赛 4: TBD vs TBD
+SUMMARY:CCT 第2赛季 系列赛 4: L1ga vs TBD
 DTSTART:20250823T160000Z
 DTEND:20250823T190000Z
 UID:dt_mc_20250711203435ms4x2@5eplay.com
@@ -80,7 +80,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250816000259pxu6o
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第2赛季 系列赛 4: TBD vs TBD
+SUMMARY:CCT 第2赛季 系列赛 4: TNL vs TBD
 DTSTART:20250824T110000Z
 DTEND:20250824T140000Z
 UID:dt_mc_20250711203435o37ev@5eplay.com
@@ -430,5 +430,16 @@ DESCRIPTION:比赛ID: dt_mc_20250711213432mqx9c\n赛制: BO3\n轮次: 半
  态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250711213432mqx9c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 6: TBD vs TBD
+DTSTART:20251129T080000Z
+DTEND:20251129T110000Z
+UID:dt_mc_20250711213434m6jri@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711213434m6jri\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 小组赛 败者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711213434m6jri
 END:VEVENT
 END:VCALENDAR
