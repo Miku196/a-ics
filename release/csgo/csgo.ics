@@ -1323,39 +1323,6 @@ STATUS:TENTATIVE
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384753
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:未知赛事: TBD vs TBD
-DTSTART:20250826T110000Z
-DTEND:20250826T140000Z
-UID:csgo_mc_2384816@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384816\n赛制: BO3\n状态: 未开始\n预
- 计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-STATUS:TENTATIVE
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384816
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:未知赛事: SemperFi vs ex-TALON
-DTSTART:20250826T090000Z
-DTEND:20250826T120000Z
-UID:csgo_mc_2384559@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384559\n赛制: BO3\n状态: 未开始\n预
- 计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-STATUS:TENTATIVE
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384559
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:未知赛事: TBD vs TBD
-DTSTART:20250826T080000Z
-DTEND:20250826T110000Z
-UID:csgo_mc_2384815@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384815\n赛制: BO3\n状态: 未开始\n预
- 计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-STATUS:TENTATIVE
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384815
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:未知赛事: Sangal vs Nuclear TigeRES
 DTSTART:20250824T170000Z
 DTEND:20250824T200000Z
@@ -1365,17 +1332,6 @@ DESCRIPTION:比赛ID: csgo_mc_2384728\n赛制: BO3\n状态: 未开始\n预
 LOCATION:5EPlay 赛事平台
 STATUS:TENTATIVE
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384728
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:未知赛事: TBD vs TBD
-DTSTART:20250824T170000Z
-DTEND:20250824T200000Z
-UID:csgo_mc_2384802@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384802\n赛制: BO3\n状态: 未开始\n预
- 计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-STATUS:TENTATIVE
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384802
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:未知赛事: SENZA vs Khan
@@ -1464,6 +1420,28 @@ DESCRIPTION:比赛ID: csgo_mc_2384387\n赛制: BO3\n状态: 未开始\n预
 LOCATION:5EPlay 赛事平台
 STATUS:TENTATIVE
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:未知赛事: Chicken Coop vs Getting Info
+DTSTART:20250824T000000Z
+DTEND:20250824T030000Z
+UID:csgo_mc_2384861@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384861\n赛制: BO3\n状态: 未开始\n预
+ 计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+STATUS:TENTATIVE
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384861
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:未知赛事: TSG vs FULL SEND
+DTSTART:20250824T000000Z
+DTEND:20250824T030000Z
+UID:csgo_mc_2384862@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384862\n赛制: BO3\n状态: 未开始\n预
+ 计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+STATUS:TENTATIVE
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384862
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:未知赛事: TBD vs TBD
@@ -1620,6 +1598,50 @@ STATUS:TENTATIVE
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384599
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:未知赛事: Legacy Kingdom vs FLYRED
+DTSTART:20250823T000000Z
+DTEND:20250823T030000Z
+UID:csgo_mc_2384859@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384859\n赛制: BO3\n状态: 未开始\n预
+ 计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+STATUS:TENTATIVE
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384859
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:未知赛事: ASPYRE vs LAG
+DTSTART:20250823T000000Z
+DTEND:20250823T030000Z
+UID:csgo_mc_2384860@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384860\n赛制: BO3\n状态: 未开始\n预
+ 计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+STATUS:TENTATIVE
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384860
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:未知赛事: Marsborne vs BOSS
+DTSTART:20250823T000000Z
+DTEND:20250823T030000Z
+UID:csgo_mc_2384857@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384857\n赛制: BO3\n状态: 未开始\n预
+ 计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+STATUS:TENTATIVE
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384857
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:未知赛事: Shimmer vs Aether
+DTSTART:20250823T000000Z
+DTEND:20250823T030000Z
+UID:csgo_mc_2384858@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384858\n赛制: BO3\n状态: 未开始\n预
+ 计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+STATUS:TENTATIVE
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384858
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:未知赛事: TBD vs TBD
 DTSTART:20250822T180000Z
 DTEND:20250822T210000Z
@@ -1717,27 +1739,5 @@ DESCRIPTION:比赛ID: csgo_mc_2384598\n赛制: BO3\n状态: 未开始\n预
 LOCATION:5EPlay 赛事平台
 STATUS:TENTATIVE
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384598
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:未知赛事: EYE vs BIG.A
-DTSTART:20250822T080000Z
-DTEND:20250822T110000Z
-UID:csgo_mc_2384667@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384667\n赛制: BO3\n状态: 未开始\n预
- 计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-STATUS:TENTATIVE
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384667
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:未知赛事: Betclic vs SPARTA
-DTSTART:20250822T080000Z
-DTEND:20250822T110000Z
-UID:csgo_mc_2384545@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384545\n赛制: BO3\n状态: 未开始\n预
- 计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-STATUS:TENTATIVE
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384545
 END:VEVENT
 END:VCALENDAR

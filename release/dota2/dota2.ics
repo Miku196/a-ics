@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:裂变宇宙 第6季: Aurora vs VP
-DTSTART:20250822T080000Z
-DTEND:20250822T100000Z
-UID:dt_mc_2025071822103584grf@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_2025071822103584grf\n赛制: BO2\n阶段: 小
- 组赛\n赛事等级: A级\n状态: 未开始\n预计时长: 2小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_2025071822103584grf
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:裂变宇宙 第6季: Tidebd vs PARI
 DTSTART:20250822T100000Z
 DTEND:20250822T120000Z
