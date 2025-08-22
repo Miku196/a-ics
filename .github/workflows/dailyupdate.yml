@@ -1,7 +1,7 @@
 name: Weekly Update
 on:
   schedule:
-    - cron: '0 0,12 * * *'  # 每周一北京时间早上10点(UTC+8对应UTC时间2点)
+    - cron: '0 0/2 * * *'  # 每周一北京时间早上10点(UTC+8对应UTC时间2点)
   workflow_dispatch:  # 允许手动触发
 
 jobs:
