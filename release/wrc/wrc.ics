@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//WRC 2025//EN
@@ -145,4 +146,153 @@ DESCRIPTION:世界拉力锦标赛(WRC)赛事: 🇸🇦WRC Rally Saudi Arabia\n\n
 CATEGORIES:SPORTS,MOTORSPORTS,RALLY
 TRANSP:TRANSPARENT
 END:VEVENT
+=======
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WRC 2025//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WRC赛事日历
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:🇲🇨WRC_Rallye_Monte-Carlo@wrc.com
+DTSTART;VALUE=DATE:20250122
+DTEND;VALUE=DATE:20250127
+SUMMARY:🇲🇨WRC Rallye Monte-Carlo
+LOCATION:Monte-Carlo
+DESCRIPTION:世界拉力锦标赛(WRC)赛事: 🇲🇨WRC Rallye Monte-Carlo\n\n开始时间: 2025-01-22 (东八区)\n结束时间: 2025-01-26 (东八区)
+CATEGORIES:SPORTS,MOTORSPORTS,RALLY
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:🇸🇪WRC_Rally_Sweden@wrc.com
+DTSTART;VALUE=DATE:20250213
+DTEND;VALUE=DATE:20250217
+SUMMARY:🇸🇪WRC Rally Sweden
+LOCATION:Sweden
+DESCRIPTION:世界拉力锦标赛(WRC)赛事: 🇸🇪WRC Rally Sweden\n\n开始时间: 2025-02-13 (东八区)\n结束时间: 2025-02-16 (东八区)
+CATEGORIES:SPORTS,MOTORSPORTS,RALLY
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:🇰🇪WRC_Safari_Rally_Kenya@wrc.com
+DTSTART;VALUE=DATE:20250320
+DTEND;VALUE=DATE:20250324
+SUMMARY:🇰🇪WRC Safari Rally Kenya
+LOCATION:Rally Kenya
+DESCRIPTION:世界拉力锦标赛(WRC)赛事: 🇰🇪WRC Safari Rally Kenya\n\n开始时间: 2025-03-20 (东八区)\n结束时间: 2025-03-23 (东八区)
+CATEGORIES:SPORTS,MOTORSPORTS,RALLY
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:🇪🇸WRC_Rally_Islas_Canarias@wrc.com
+DTSTART;VALUE=DATE:20250424
+DTEND;VALUE=DATE:20250428
+SUMMARY:🇪🇸WRC Rally Islas Canarias
+LOCATION:Islas Canarias
+DESCRIPTION:世界拉力锦标赛(WRC)赛事: 🇪🇸WRC Rally Islas Canarias\n\n开始时间: 2025-04-24 (东八区)\n结束时间: 2025-04-27 (东八区)
+CATEGORIES:SPORTS,MOTORSPORTS,RALLY
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:🇵🇹WRC_Vodafone_Rally_de_Portugal@wrc.com
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250519
+SUMMARY:🇵🇹WRC Vodafone Rally de Portugal
+LOCATION:Rally de Portugal
+DESCRIPTION:世界拉力锦标赛(WRC)赛事: 🇵🇹WRC Vodafone Rally de Portugal\n\n开始时间: 2025-05-15 (东八区)\n结束时间: 2025-05-18 (东八区)
+CATEGORIES:SPORTS,MOTORSPORTS,RALLY
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:🇮🇹WRC_Rally_Italia_Sardegna@wrc.com
+DTSTART;VALUE=DATE:20250605
+DTEND;VALUE=DATE:20250609
+SUMMARY:🇮🇹WRC Rally Italia Sardegna
+LOCATION:Italia Sardegna
+DESCRIPTION:世界拉力锦标赛(WRC)赛事: 🇮🇹WRC Rally Italia Sardegna\n\n开始时间: 2025-06-05 (东八区)\n结束时间: 2025-06-08 (东八区)
+CATEGORIES:SPORTS,MOTORSPORTS,RALLY
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:🇬🇷WRC_EKO_Acropolis_Rally_Greece@wrc.com
+DTSTART;VALUE=DATE:20250626
+DTEND;VALUE=DATE:20250630
+SUMMARY:🇬🇷WRC EKO Acropolis Rally Greece
+LOCATION:Acropolis Rally Greece
+DESCRIPTION:世界拉力锦标赛(WRC)赛事: 🇬🇷WRC EKO Acropolis Rally Greece\n\n开始时间: 2025-06-26 (东八区)\n结束时间: 2025-06-29 (东八区)
+CATEGORIES:SPORTS,MOTORSPORTS,RALLY
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:🇪🇪WRC_Delfi_Rally_Estonia@wrc.com
+DTSTART;VALUE=DATE:20250717
+DTEND;VALUE=DATE:20250721
+SUMMARY:🇪🇪WRC Delfi Rally Estonia
+LOCATION:Rally Estonia
+DESCRIPTION:世界拉力锦标赛(WRC)赛事: 🇪🇪WRC Delfi Rally Estonia\n\n开始时间: 2025-07-17 (东八区)\n结束时间: 2025-07-20 (东八区)
+CATEGORIES:SPORTS,MOTORSPORTS,RALLY
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:🇫🇮WRC_Secto_Rally_Finland@wrc.com
+DTSTART;VALUE=DATE:20250831
+DTEND;VALUE=DATE:20250804
+SUMMARY:🇫🇮WRC Secto Rally Finland
+LOCATION:Rally Finland
+DESCRIPTION:世界拉力锦标赛(WRC)赛事: 🇫🇮WRC Secto Rally Finland\n\n开始时间: 2025-08-31 (东八区)\n结束时间: 2025-08-03 (东八区)
+CATEGORIES:SPORTS,MOTORSPORTS,RALLY
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:🇵🇾WRC_ueno_Rally_del_Paraguay@wrc.com
+DTSTART;VALUE=DATE:20250828
+DTEND;VALUE=DATE:20250901
+SUMMARY:🇵🇾WRC ueno Rally del Paraguay
+LOCATION:Rally del Paraguay
+DESCRIPTION:世界拉力锦标赛(WRC)赛事: 🇵🇾WRC ueno Rally del Paraguay\n\n开始时间: 2025-08-28 (东八区)\n结束时间: 2025-08-31 (东八区)
+CATEGORIES:SPORTS,MOTORSPORTS,RALLY
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:🇨🇱WRC_Rally_Chile_Bio_Bío@wrc.com
+DTSTART;VALUE=DATE:20250911
+DTEND;VALUE=DATE:20250915
+SUMMARY:🇨🇱WRC Rally Chile Bio Bío
+LOCATION:Chile Bio Bío
+DESCRIPTION:世界拉力锦标赛(WRC)赛事: 🇨🇱WRC Rally Chile Bio Bío\n\n开始时间: 2025-09-11 (东八区)\n结束时间: 2025-09-14 (东八区)
+CATEGORIES:SPORTS,MOTORSPORTS,RALLY
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:🇪🇺WRC_Central_European_Rally@wrc.com
+DTSTART;VALUE=DATE:20251016
+DTEND;VALUE=DATE:20251020
+SUMMARY:🇪🇺WRC Central European Rally
+LOCATION:European Rally
+DESCRIPTION:世界拉力锦标赛(WRC)赛事: 🇪🇺WRC Central European Rally\n\n开始时间: 2025-10-16 (东八区)\n结束时间: 2025-10-19 (东八区)
+CATEGORIES:SPORTS,MOTORSPORTS,RALLY
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:🇯🇵WRC_FORUM8_Rally_Japan@wrc.com
+DTSTART;VALUE=DATE:20251106
+DTEND;VALUE=DATE:20251110
+SUMMARY:🇯🇵WRC FORUM8 Rally Japan
+LOCATION:Rally Japan
+DESCRIPTION:世界拉力锦标赛(WRC)赛事: 🇯🇵WRC FORUM8 Rally Japan\n\n开始时间: 2025-11-06 (东八区)\n结束时间: 2025-11-09 (东八区)
+CATEGORIES:SPORTS,MOTORSPORTS,RALLY
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:🇸🇦WRC_Rally_Saudi_Arabia@wrc.com
+DTSTART;VALUE=DATE:20251126
+DTEND;VALUE=DATE:20251130
+SUMMARY:🇸🇦WRC Rally Saudi Arabia
+LOCATION:Saudi Arabia
+DESCRIPTION:世界拉力锦标赛(WRC)赛事: 🇸🇦WRC Rally Saudi Arabia\n\n开始时间: 2025-11-26 (东八区)\n结束时间: 2025-11-29 (东八区)
+CATEGORIES:SPORTS,MOTORSPORTS,RALLY
+TRANSP:TRANSPARENT
+END:VEVENT
+>>>>>>> origin/main
 END:VCALENDAR

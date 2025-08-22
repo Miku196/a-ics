@@ -43,7 +43,6 @@ python src/f1/f1.py
 
 3. 生成的文件位于：
 - WRC赛事：
-  - `release/wrc/wrc_page.html` - 原始网页备份
   - `release/wrc/wrc_data.json` - 解析后的赛事数据
   - `release/wrc/wrc_calendar.ics` - 生成的日历文件
 - F1赛事：
@@ -79,8 +78,8 @@ python src/f1/f1.py
 ## 订阅日历
 
 您可以通过以下链接订阅赛事日历：
-- [WRC赛事日历](https://[YOUR_GITHUB_USERNAME].github.io/[REPO_NAME]/release/wrc/wrc_calendar.ics)
-- [F1赛事日历](https://[YOUR_GITHUB_USERNAME].github.io/[REPO_NAME]/release/f1/races.ics)
+- [WRC赛事日历](https://Miku196.github.io/sport_schedule/release/wrc/wrc.ics)
+- [F1赛事日历](https://Miku196.github.io/sport_schedule/release/f1/f1.ics)
 
 ## 注意事项
 
@@ -89,6 +88,4 @@ python src/f1/f1.py
 - 配置文件中的URL变更需同步更新代码中的解析逻辑
 - 订阅链接需要启用GitHub Pages功能
 =======
-# sport_schedule
-用来订阅体育赛事的
->>>>>>> 80550a40c14f8097cb0ac6f0d0f0a98ff08511df
+
