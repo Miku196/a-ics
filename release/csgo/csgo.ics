@@ -25,7 +25,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384862
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:电竞世界杯 2025: Vitality vs TBD
+SUMMARY:电竞世界杯 2025: Vitality vs Falcons
 DTSTART:20250824T070000Z
 DTEND:20250824T093000Z
 UID:csgo_mc_2384387@5eplay.com
@@ -69,7 +69,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384799
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:电竞世界杯 2025: Mongolz vs TBD
+SUMMARY:电竞世界杯 2025: Mongolz vs Aurora
 DTSTART:20250824T100000Z
 DTEND:20250824T140000Z
 UID:csgo_mc_2384388@5eplay.com
@@ -179,6 +179,29 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384865
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2封闭预选: EF vs NIP Impact
+DTSTART:20250825T080000Z
+DTEND:20250825T103000Z
+UID:csgo_mc_2384891@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384891\n赛事: 欧洲职业联赛 系列
+ 赛2封闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
+ 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384891
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2封闭预选: Khan vs Algo
+DTSTART:20250825T103000Z
+DTEND:20250825T130000Z
+UID:csgo_mc_2384892@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384892\n赛事: 欧洲职业联赛 系列
+ 赛2封闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 
+ 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384892
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:United21 联赛 第36赛季: Wildcard Academy vs EYE
 DTSTART:20250825T103000Z
 DTEND:20250825T130000Z
@@ -223,6 +246,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384868
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2封闭预选: FORZE Reload vs m1x
+DTSTART:20250826T080000Z
+DTEND:20250826T103000Z
+UID:csgo_mc_2384893@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384893\n赛事: 欧洲职业联赛 系列
+ 赛2封闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 
+ 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384893
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Majestic LanDaLan 3 封闭预选: TBD vs TBD
 DTSTART:20250826T080000Z
 DTEND:20250826T103000Z
@@ -244,6 +278,17 @@ DESCRIPTION:比赛ID: csgo_mc_2384559\n赛事: ESL 挑战者联赛 S50 大
   5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384559
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2封闭预选: AMKAL vs Imperial fe
+DTSTART:20250826T103000Z
+DTEND:20250826T130000Z
+UID:csgo_mc_2384894@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384894\n赛事: 欧洲职业联赛 系列
+ 赛2封闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 
+ 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384894
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 5: TBD vs TBD
@@ -405,41 +450,5 @@ DESCRIPTION:比赛ID: csgo_mc_2384579\n赛事: ESL 挑战者联赛 S50 南
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384579
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第1季: Flamengo vs 2GAME
-DTSTART:20250826T210000Z
-DTEND:20250826T233000Z
-UID:csgo_mc_2384580@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384580\n赛事: ESL 挑战者联赛 S50 南
- 美 第1季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384580
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第1季: Fluxo vs ShindeN
-DTSTART:20250826T210000Z
-DTEND:20250826T233000Z
-UID:csgo_mc_2384581@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384581\n赛事: ESL 挑战者联赛 S50 南
- 美 第1季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384581
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第1季: BLUEJAYS vs NRG
-DTSTART:20250827T010000Z
-DTEND:20250827T033000Z
-UID:csgo_mc_2384612@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384612\n赛事: ESL 挑战者联赛 S50 北
- 美 第1季\n阶段: 淘汰赛 胜者组 第4轮\n轮次: 第4轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384612
 END:VEVENT
 END:VCALENDAR
