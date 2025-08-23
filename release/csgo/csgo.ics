@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Myskill 职业联赛第2季 决赛: VP.P vs Flame Sharks
-DTSTART:20250823T081500Z
-DTEND:20250823T104500Z
-UID:csgo_mc_2384779@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384779\n赛事: Myskill 职业联赛第2季
-  决赛\n阶段: 淘汰赛 败者组决赛\n轮次: 败者组决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384779
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Majestic LanDaLan 3 封闭预选: RUBY vs 9BOOMPRO
 DTSTART:20250823T110000Z
 DTEND:20250823T133000Z
@@ -411,5 +399,17 @@ DESCRIPTION:比赛ID: csgo_mc_2384871\n赛事: CCT 第3赛季 欧洲系列
  : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384871
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第1季: Nexus vs ENCE
+DTSTART:20250826T170000Z
+DTEND:20250826T193000Z
+UID:csgo_mc_2384691@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384691\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第1季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384691
 END:VEVENT
 END:VCALENDAR
