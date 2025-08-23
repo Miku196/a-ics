@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:裂变宇宙 第6季:  Falcons vs PARI
-DTSTART:20250823T170000Z
-DTEND:20250823T200000Z
-UID:dt_mc_20250816000257czhcr@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250816000257czhcr\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 淘汰赛 败者组 半决赛\n赛事等级: A级\n状态:
-  未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250816000257czhcr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: InterAct
  ive vs Kopite
 DTSTART:20250824T030000Z
@@ -49,7 +38,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250816000259pxu6o
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第2赛季 系列赛 4: TNL vs TBD
+SUMMARY:CCT 第2赛季 系列赛 4: TNL vs OG
 DTSTART:20250824T110000Z
 DTEND:20250824T140000Z
 UID:dt_mc_20250711203435o37ev@5eplay.com
@@ -438,5 +427,27 @@ DESCRIPTION:比赛ID: dt_mc_20250711210440v2zd0\n赛制: BO3\n轮次: 1/4
  态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250711210440v2zd0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251008T080000Z
+DTEND:20251008T110000Z
+UID:dt_mc_20250711210440jcs8o@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210440jcs8o\n赛制: BO3\n轮次: 第1
+ 轮\n阶段: 淘汰赛 败者组 第1轮\n赛事等级: 其他\n状态: 
+ 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210440jcs8o
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251008T110000Z
+DTEND:20251008T140000Z
+UID:dt_mc_20250711210440ui2zy@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210440ui2zy\n赛制: BO3\n轮次: 第1
+ 轮\n阶段: 淘汰赛 败者组 第1轮\n赛事等级: 其他\n状态: 
+ 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210440ui2zy
 END:VEVENT
 END:VCALENDAR
