@@ -3,31 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Myskill 职业联赛第2季 决赛: Novaq vs VP.P
-DTSTART:20250823T130000Z
-DTEND:20250823T170000Z
-UID:csgo_mc_2384780@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384780\n赛事: Myskill 职业联赛第2季
-  决赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 
- 其他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384780
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: ARCRED vs SPARTA
-DTSTART:20250823T140000Z
-DTEND:20250823T163000Z
-UID:csgo_mc_2384723@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384723\n赛事: Majestic LanDaLan 3 封闭
- 预选\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384723
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 5: CYBERSHOKE vs Betera
-DTSTART:20250823T140000Z
-DTEND:20250823T163000Z
+DTSTART:20250823T141500Z
+DTEND:20250823T164500Z
 UID:csgo_mc_2384797@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384797\n赛事: CCT 第3赛季 欧洲系列
  赛 5\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级
@@ -413,5 +391,28 @@ DESCRIPTION:比赛ID: csgo_mc_2384689\n赛事: ESL 挑战者联赛 S50 欧
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384689
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第1季: Iberian Soul vs Nemiga
+DTSTART:20250826T170000Z
+DTEND:20250826T193000Z
+UID:csgo_mc_2384688@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384688\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第1季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384688
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Majestic LanDaLan 3 封闭预选: TBD vs TBD
+DTSTART:20250826T170000Z
+DTEND:20250826T193000Z
+UID:csgo_mc_2384818@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384818\n赛事: Majestic LanDaLan 3 封闭
+ 预选\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384818
 END:VEVENT
 END:VCALENDAR
