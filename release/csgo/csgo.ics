@@ -3,48 +3,15 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:电竞世界杯 2025: Vitality vs Falcons
-DTSTART:20250824T070000Z
-DTEND:20250824T093000Z
-UID:csgo_mc_2384387@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384387\n赛事: 电竞世界杯 2025\n阶
- 段: 季军赛\n赛制: BO3\n等级: A级\n状态: 未开始\n预估时长
- : 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384387
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2 印度大师赛 25: TBD vs TBD
-DTSTART:20250824T080000Z
-DTEND:20250824T103000Z
+SUMMARY:Dust2 印度大师赛 25: VICTORES SUMUS vs ScarX
+DTSTART:20250824T082000Z
+DTEND:20250824T105000Z
 UID:csgo_mc_2384890@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384890\n赛事: Dust2 印度大师赛 25\n
  阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO3\n等级: 其
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384890
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: CYBERSHOKE vs K27
-DTSTART:20250824T080000Z
-DTEND:20250824T103000Z
-UID:csgo_mc_2384725@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384725\n赛事: Majestic LanDaLan 3 封闭
- 预选\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384725
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 5: Betclic vs EF
-DTSTART:20250824T080000Z
-DTEND:20250824T103000Z
-UID:csgo_mc_2384799@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384799\n赛事: CCT 第3赛季 欧洲系列
- 赛 5\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384799
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:香港电子竞技节 2025: Sleeping Dogs vs BDB
