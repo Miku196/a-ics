@@ -47,6 +47,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384799
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:香港电子竞技节 2025: Sleeping Dogs vs BDB
+DTSTART:20250824T090000Z
+DTEND:20250824T113000Z
+UID:csgo_mc_2384903@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384903\n赛事: 香港电子竞技节 2025\
+ n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384903
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:电竞世界杯 2025: Mongolz vs Aurora
 DTSTART:20250824T100000Z
 DTEND:20250824T140000Z
@@ -58,24 +69,24 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384388
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Legion Regular Cup 2025: Algo vs Lazer Cats
+SUMMARY:军团常规杯 2025: Algo vs Lazer Cats
 DTSTART:20250824T100000Z
 DTEND:20250824T123000Z
 UID:csgo_mc_2384900@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384900\n赛事: Legion Regular Cup 2025\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2384900\n赛事: 军团常规杯 2025\n阶
+ 段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384900
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RESF Russia Cup 2025: TPuDCATb_TPu vs Hesta
+SUMMARY:俄罗斯杯 2025: TPuDCATb_TPu vs Hesta
 DTSTART:20250824T101500Z
 DTEND:20250824T124500Z
 UID:csgo_mc_2384899@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384899\n赛事: RESF Russia Cup 2025\n赛
- 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2384899\n赛事: 俄罗斯杯 2025\n阶段: 
+ 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状态: 未
+ 开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384899
 END:VEVENT
@@ -102,13 +113,13 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384800
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Legion Regular Cup 2025: TNL vs CSDE
+SUMMARY:军团常规杯 2025: TNL vs CSDE
 DTSTART:20250824T130000Z
 DTEND:20250824T153000Z
 UID:csgo_mc_2384901@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384901\n赛事: Legion Regular Cup 2025\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2384901\n赛事: 军团常规杯 2025\n阶
+ 段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384901
 END:VEVENT
@@ -135,13 +146,13 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384801
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Legion Regular Cup 2025: TBD vs TBD
+SUMMARY:军团常规杯 2025: TBD vs TBD
 DTSTART:20250824T160000Z
 DTEND:20250824T183000Z
 UID:csgo_mc_2384902@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384902\n赛事: Legion Regular Cup 2025\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2384902\n赛事: 军团常规杯 2025\n阶
+ 段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状态
+ : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384902
 END:VEVENT
@@ -218,8 +229,9 @@ DTSTART:20250825T103000Z
 DTEND:20250825T130000Z
 UID:csgo_mc_2384892@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384892\n赛事: 欧洲职业联赛 系列
- 赛2封闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 
- 2.5小时\n数据来源: 5EPlay
+ 赛2封闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
+ 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384892
 END:VEVENT
@@ -273,8 +285,9 @@ DTSTART:20250826T080000Z
 DTEND:20250826T103000Z
 UID:csgo_mc_2384893@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384893\n赛事: 欧洲职业联赛 系列
- 赛2封闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 
- 2.5小时\n数据来源: 5EPlay
+ 赛2封闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
+ 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384893
 END:VEVENT
@@ -307,8 +320,9 @@ DTSTART:20250826T103000Z
 DTEND:20250826T130000Z
 UID:csgo_mc_2384894@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384894\n赛事: 欧洲职业联赛 系列
- 赛2封闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 
- 2.5小时\n数据来源: 5EPlay
+ 赛2封闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
+ 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384894
 END:VEVENT
