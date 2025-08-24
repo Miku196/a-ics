@@ -4,8 +4,8 @@ PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
 SUMMARY:2025 俄罗斯电子竞技杯: 4P vs 7 Ошибок
-DTSTART:20250824T142500Z
-DTEND:20250824T172500Z
+DTSTART:20250824T143000Z
+DTEND:20250824T173000Z
 UID:dt_mc_20250824073252tfhvk@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250824073252tfhvk\n赛制: BO5\n轮次: 决
  赛\n阶段: 淘汰赛  决赛\n赛事等级: \n状态: 未开始\n预计
@@ -14,7 +14,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250824073252tfhvk
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:裂变宇宙 第6季: TSpirit vs TBD
+SUMMARY:裂变宇宙 第6季: TSpirit vs  Falcons
 DTSTART:20250824T150000Z
 DTEND:20250824T180000Z
 UID:dt_mc_202508160002587uxzo@5eplay.com
@@ -420,5 +420,27 @@ DESCRIPTION:比赛ID: dt_mc_20250824200256lqfj7\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250824200256lqfj7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cis Battle S2: L1ga vs 4P
+DTSTART:20250830T140000Z
+DTEND:20250830T170000Z
+UID:dt_mc_20250824200257mji2z@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250824200257mji2z\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250824200257mji2z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cis Battle S2: 4P vs Yes
+DTSTART:20250830T170000Z
+DTEND:20250830T200000Z
+UID:dt_mc_20250824200258j2pcl@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250824200258j2pcl\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250824200258j2pcl
 END:VEVENT
 END:VCALENDAR
