@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: Sangal vs Nuclear TigeRES
-DTSTART:20250824T170000Z
-DTEND:20250824T193000Z
-UID:csgo_mc_2384728@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384728\n赛事: Majestic LanDaLan 3 封闭
- 预选\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384728
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 5: ZT vs Metizport
-DTSTART:20250824T170000Z
-DTEND:20250824T193000Z
-UID:csgo_mc_2384802@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384802\n赛事: CCT 第3赛季 欧洲系列
- 赛 5\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384802
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S3: ASPYRE vs Legacy Kingdom
 DTSTART:20250825T000000Z
 DTEND:20250825T023000Z
@@ -444,5 +422,17 @@ DESCRIPTION:比赛ID: csgo_mc_2384612\n赛事: ESL 挑战者联赛 S50 北
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384612
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第1季: M80 vs InControl
+DTSTART:20250827T010000Z
+DTEND:20250827T033000Z
+UID:csgo_mc_2384613@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384613\n赛事: ESL 挑战者联赛 S50 北
+ 美 第1季\n阶段: 淘汰赛 胜者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384613
 END:VEVENT
 END:VCALENDAR
