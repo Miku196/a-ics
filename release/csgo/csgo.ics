@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S3: Chicken Coop vs Getting Info
-DTSTART:20250824T000000Z
-DTEND:20250824T023000Z
-UID:csgo_mc_2384861@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384861\n赛事: Dust2.us 猎鹰大师赛 S3
- \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384861
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S3: TSG vs FULL SEND
-DTSTART:20250824T003000Z
-DTEND:20250824T030000Z
-UID:csgo_mc_2384862@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384862\n赛事: Dust2.us 猎鹰大师赛 S3
- \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384862
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:电竞世界杯 2025: Vitality vs Falcons
 DTSTART:20250824T070000Z
 DTEND:20250824T093000Z
@@ -80,6 +58,28 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384388
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Legion Regular Cup 2025: Algo vs Lazer Cats
+DTSTART:20250824T100000Z
+DTEND:20250824T123000Z
+UID:csgo_mc_2384900@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384900\n赛事: Legion Regular Cup 2025\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384900
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RESF Russia Cup 2025: TPuDCATb_TPu vs Hesta
+DTSTART:20250824T101500Z
+DTEND:20250824T124500Z
+UID:csgo_mc_2384899@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384899\n赛事: RESF Russia Cup 2025\n赛
+ 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384899
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Majestic LanDaLan 3 封闭预选: Betera vs FORZE Reload
 DTSTART:20250824T110000Z
 DTEND:20250824T133000Z
@@ -102,6 +102,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384800
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Legion Regular Cup 2025: TNL vs CSDE
+DTSTART:20250824T130000Z
+DTEND:20250824T153000Z
+UID:csgo_mc_2384901@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384901\n赛事: Legion Regular Cup 2025\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384901
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Majestic LanDaLan 3 封闭预选: SENZA vs Khan
 DTSTART:20250824T140000Z
 DTEND:20250824T163000Z
@@ -122,6 +133,17 @@ DESCRIPTION:比赛ID: csgo_mc_2384801\n赛事: CCT 第3赛季 欧洲系列
  : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384801
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Legion Regular Cup 2025: TBD vs TBD
+DTSTART:20250824T160000Z
+DTEND:20250824T183000Z
+UID:csgo_mc_2384902@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384902\n赛事: Legion Regular Cup 2025\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384902
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Majestic LanDaLan 3 封闭预选: Sangal vs Nuclear TigeRES
@@ -404,51 +426,5 @@ DESCRIPTION:比赛ID: csgo_mc_2384688\n赛事: ESL 挑战者联赛 S50 欧
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384688
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: TBD vs TBD
-DTSTART:20250826T170000Z
-DTEND:20250826T193000Z
-UID:csgo_mc_2384818@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384818\n赛事: Majestic LanDaLan 3 封闭
- 预选\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384818
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UKIC 游戏联赛 秋季 2025: 8Sins vs HAWAII
-DTSTART:20250826T180000Z
-DTEND:20250826T203000Z
-UID:csgo_mc_2384697@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384697\n赛事: UKIC 游戏联赛 秋季 20
- 25\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制: BO3\n等级: \n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384697
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第1季: RED Canids vs Dusty Roots
-DTSTART:20250826T210000Z
-DTEND:20250826T233000Z
-UID:csgo_mc_2384578@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384578\n赛事: ESL 挑战者联赛 S50 南
- 美 第1季\n阶段: 淘汰赛 胜者组 第4轮\n轮次: 第4轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384578
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第1季: BESTIA vs 9z
-DTSTART:20250826T210000Z
-DTEND:20250826T233000Z
-UID:csgo_mc_2384579@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384579\n赛事: ESL 挑战者联赛 S50 南
- 美 第1季\n阶段: 淘汰赛 胜者组 第4轮\n轮次: 第4轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384579
 END:VEVENT
 END:VCALENDAR
