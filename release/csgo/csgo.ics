@@ -3,50 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:军团常规杯 2025: TNL vs CSDE
-DTSTART:20250824T130000Z
-DTEND:20250824T153000Z
-UID:csgo_mc_2384901@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384901\n赛事: 军团常规杯 2025\n阶
- 段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384901
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: SENZA vs Khan
-DTSTART:20250824T140000Z
-DTEND:20250824T163000Z
-UID:csgo_mc_2384727@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384727\n赛事: Majestic LanDaLan 3 封闭
- 预选\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384727
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 5: Alliance vs SPARTA
-DTSTART:20250824T140000Z
-DTEND:20250824T163000Z
-UID:csgo_mc_2384801@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384801\n赛事: CCT 第3赛季 欧洲系列
- 赛 5\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384801
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:军团常规杯 2025: Lazer Cats vs TBD
-DTSTART:20250824T160000Z
-DTEND:20250824T183000Z
-UID:csgo_mc_2384902@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384902\n赛事: 军团常规杯 2025\n阶
- 段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状态
- : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384902
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Majestic LanDaLan 3 封闭预选: Sangal vs Nuclear TigeRES
 DTSTART:20250824T170000Z
 DTEND:20250824T193000Z
@@ -102,6 +58,32 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384865
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 1 封闭预选: RA vs Pressure Mon
+ sters
+DTSTART:20250825T030000Z
+DTEND:20250825T053000Z
+UID:csgo_mc_2384916@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384916\n赛事: 完美世界 挑战者系
+ 列赛 1 封闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\
+ n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384916
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 1 封闭预选: Just Swing vs WDNM
+ D
+DTSTART:20250825T060000Z
+DTEND:20250825T083000Z
+UID:csgo_mc_2384917@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384917\n赛事: 完美世界 挑战者系
+ 列赛 1 封闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\
+ n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384917
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2封闭预选: EF vs NIP Impact
 DTSTART:20250825T080000Z
 DTEND:20250825T103000Z
@@ -112,6 +94,18 @@ DESCRIPTION:比赛ID: csgo_mc_2384891\n赛事: 欧洲职业联赛 系列
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384891
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 1 封闭预选: TBD vs TBD
+DTSTART:20250825T090000Z
+DTEND:20250825T113000Z
+UID:csgo_mc_2384918@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384918\n赛事: 完美世界 挑战者系
+ 列赛 1 封闭预选\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\
+ n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384918
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2封闭预选: Khan vs Algo
@@ -170,6 +164,32 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384868
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 1 封闭预选: FengDa vs Magic Ca
+ pe
+DTSTART:20250826T030000Z
+DTEND:20250826T053000Z
+UID:csgo_mc_2384919@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384919\n赛事: 完美世界 挑战者系
+ 列赛 1 封闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\
+ n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 1 封闭预选: Kaleido vs BORING 
+ PLAYER
+DTSTART:20250826T060000Z
+DTEND:20250826T083000Z
+UID:csgo_mc_2384920@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384920\n赛事: 完美世界 挑战者系
+ 列赛 1 封闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\
+ n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384920
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2封闭预选: FORZE Reload vs m1x
 DTSTART:20250826T080000Z
 DTEND:20250826T103000Z
@@ -191,6 +211,18 @@ DESCRIPTION:比赛ID: csgo_mc_2384815\n赛事: Majestic LanDaLan 3 封闭
  级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 1 封闭预选: TBD vs TBD
+DTSTART:20250826T090000Z
+DTEND:20250826T113000Z
+UID:csgo_mc_2384921@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384921\n赛事: 完美世界 挑战者系
+ 列赛 1 封闭预选\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\
+ n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384921
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 大洋洲 第1季: SemperFi vs ex-TALON
