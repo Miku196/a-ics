@@ -3,48 +3,15 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2 印度大师赛 25: VICTORES SUMUS vs ScarX
-DTSTART:20250824T082000Z
-DTEND:20250824T105000Z
-UID:csgo_mc_2384890@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384890\n赛事: Dust2 印度大师赛 25\n
- 阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384890
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:香港电子竞技节 2025: Sleeping Dogs vs BDB
-DTSTART:20250824T090000Z
-DTEND:20250824T113000Z
-UID:csgo_mc_2384903@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384903\n赛事: 香港电子竞技节 2025\
- n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384903
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:电竞世界杯 2025: Mongolz vs Aurora
-DTSTART:20250824T100000Z
-DTEND:20250824T140000Z
+DTSTART:20250824T101500Z
+DTEND:20250824T141500Z
 UID:csgo_mc_2384388@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384388\n赛事: 电竞世界杯 2025\n阶
  段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO5\n等级: A级\n
  状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384388
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:军团常规杯 2025: Algo vs Lazer Cats
-DTSTART:20250824T100000Z
-DTEND:20250824T123000Z
-UID:csgo_mc_2384900@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384900\n赛事: 军团常规杯 2025\n阶
- 段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384900
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:俄罗斯杯 2025: TPuDCATb_TPu vs Hesta
@@ -146,7 +113,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384802
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S3: TBD vs TBD
+SUMMARY:Dust2.us 猎鹰大师赛 S3: ASPYRE vs Legacy Kingdom
 DTSTART:20250825T000000Z
 DTEND:20250825T023000Z
 UID:csgo_mc_2384864@5eplay.com
@@ -157,7 +124,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384864
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S3: TBD vs TBD
+SUMMARY:Dust2.us 猎鹰大师赛 S3: Chicken Coop vs TSG
 DTSTART:20250825T000000Z
 DTEND:20250825T023000Z
 UID:csgo_mc_2384863@5eplay.com
@@ -168,7 +135,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384863
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S3: TBD vs TBD
+SUMMARY:Dust2.us 猎鹰大师赛 S3: BOSS vs Aether
 DTSTART:20250825T000000Z
 DTEND:20250825T023000Z
 UID:csgo_mc_2384865@5eplay.com
@@ -418,5 +385,40 @@ DESCRIPTION:比赛ID: csgo_mc_2384818\n赛事: Majestic LanDaLan 3 封闭
  级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UKIC 游戏联赛 秋季 2025: 8Sins vs HAWAII
+DTSTART:20250826T180000Z
+DTEND:20250826T203000Z
+UID:csgo_mc_2384697@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384697\n赛事: UKIC 游戏联赛 秋季 20
+ 25\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制: BO3\n等级: \n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384697
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第1季: RED Canids vs Dusty Roots
+DTSTART:20250826T210000Z
+DTEND:20250826T233000Z
+UID:csgo_mc_2384578@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384578\n赛事: ESL 挑战者联赛 S50 南
+ 美 第1季\n阶段: 淘汰赛 胜者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384578
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第1季: BESTIA vs 9z
+DTSTART:20250826T210000Z
+DTEND:20250826T233000Z
+UID:csgo_mc_2384579@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384579\n赛事: ESL 挑战者联赛 S50 南
+ 美 第1季\n阶段: 淘汰赛 胜者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384579
 END:VEVENT
 END:VCALENDAR
