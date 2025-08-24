@@ -3,50 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:电竞世界杯 2025: Mongolz vs Aurora
-DTSTART:20250824T101500Z
-DTEND:20250824T141500Z
-UID:csgo_mc_2384388@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384388\n赛事: 电竞世界杯 2025\n阶
- 段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO5\n等级: A级\n
- 状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384388
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:俄罗斯杯 2025: TPuDCATb_TPu vs Hesta
-DTSTART:20250824T101500Z
-DTEND:20250824T124500Z
-UID:csgo_mc_2384899@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384899\n赛事: 俄罗斯杯 2025\n阶段: 
- 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状态: 未
- 开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384899
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: Betera vs FORZE Reload
-DTSTART:20250824T110000Z
-DTEND:20250824T133000Z
-UID:csgo_mc_2384726@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384726\n赛事: Majestic LanDaLan 3 封闭
- 预选\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384726
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 5: Tricked vs Monte
-DTSTART:20250824T110000Z
-DTEND:20250824T133000Z
-UID:csgo_mc_2384800@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384800\n赛事: CCT 第3赛季 欧洲系列
- 赛 5\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384800
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:军团常规杯 2025: TNL vs CSDE
 DTSTART:20250824T130000Z
 DTEND:20250824T153000Z
@@ -80,7 +36,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384801
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:军团常规杯 2025: TBD vs TBD
+SUMMARY:军团常规杯 2025: Lazer Cats vs TBD
 DTSTART:20250824T160000Z
 DTEND:20250824T183000Z
 UID:csgo_mc_2384902@5eplay.com
@@ -420,5 +376,41 @@ DESCRIPTION:比赛ID: csgo_mc_2384579\n赛事: ESL 挑战者联赛 S50 南
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384579
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第1季: Flamengo vs 2GAME
+DTSTART:20250826T210000Z
+DTEND:20250826T233000Z
+UID:csgo_mc_2384580@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384580\n赛事: ESL 挑战者联赛 S50 南
+ 美 第1季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384580
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第1季: Fluxo vs ShindeN
+DTSTART:20250826T210000Z
+DTEND:20250826T233000Z
+UID:csgo_mc_2384581@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384581\n赛事: ESL 挑战者联赛 S50 南
+ 美 第1季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384581
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第1季: BLUEJAYS vs NRG
+DTSTART:20250827T010000Z
+DTEND:20250827T033000Z
+UID:csgo_mc_2384612@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384612\n赛事: ESL 挑战者联赛 S50 北
+ 美 第1季\n阶段: 淘汰赛 胜者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384612
 END:VEVENT
 END:VCALENDAR
