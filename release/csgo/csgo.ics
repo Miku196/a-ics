@@ -3,31 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S3: ASPYRE vs Legacy Kingdom
-DTSTART:20250825T000000Z
-DTEND:20250825T023000Z
-UID:csgo_mc_2384864@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384864\n赛事: Dust2.us 猎鹰大师赛 S3
- \n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384864
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S3: Chicken Coop vs TSG
-DTSTART:20250825T000000Z
-DTEND:20250825T023000Z
-UID:csgo_mc_2384863@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384863\n赛事: Dust2.us 猎鹰大师赛 S3
- \n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384863
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S3: BOSS vs Aether
-DTSTART:20250825T000000Z
-DTEND:20250825T023000Z
+DTSTART:20250825T010000Z
+DTEND:20250825T033000Z
 UID:csgo_mc_2384865@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384865\n赛事: Dust2.us 猎鹰大师赛 S3
  \n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: 其
