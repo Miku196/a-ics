@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: MongolZ 
- vs Ivory
-DTSTART:20250825T060000Z
-DTEND:20250825T090000Z
-UID:dt_mc_202508231238543vco3@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202508231238543vco3\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202508231238543vco3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cis Battle S2: L1ga vs YeS
 DTSTART:20250825T080000Z
 DTEND:20250825T110000Z
@@ -443,5 +431,16 @@ DESCRIPTION:比赛ID: dt_mc_20250824200259y6wvr\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250824200259y6wvr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cis Battle S2: 4P vs YeS
+DTSTART:20250831T110000Z
+DTEND:20250831T140000Z
+UID:dt_mc_20250824200301edzbz@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250824200301edzbz\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250824200301edzbz
 END:VEVENT
 END:VCALENDAR
