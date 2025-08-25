@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Cis Battle S2: Yes vs eSpoiled
-DTSTART:20250825T140000Z
-DTEND:20250825T170000Z
-UID:dt_mc_20250824200029i5skr@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250824200029i5skr\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250824200029i5skr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cis Battle S2: Runa vs eSpoiled
 DTSTART:20250825T170000Z
 DTEND:20250825T200000Z
@@ -442,5 +431,17 @@ DESCRIPTION:比赛ID: dt_mc_2025082420030109cak\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025082420030109cak
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: REKONIX 
+ vs Ivory
+DTSTART:20250901T030000Z
+DTEND:20250901T060000Z
+UID:dt_mc_2025082313025413zmw@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_2025082313025413zmw\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_2025082313025413zmw
 END:VEVENT
 END:VCALENDAR
