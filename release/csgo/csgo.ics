@@ -459,4 +459,16 @@ DESCRIPTION:比赛ID: csgo_mc_2384808\n赛事: BLAST 伦敦公开赛 2025\
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384808
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第1季: RA vs LVG
+DTSTART:20250827T130000Z
+DTEND:20250827T153000Z
+UID:csgo_mc_2384567@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384567\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第1季\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制
+ : BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384567
+END:VEVENT
 END:VCALENDAR
