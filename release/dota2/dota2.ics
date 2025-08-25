@@ -444,4 +444,16 @@ DESCRIPTION:比赛ID: dt_mc_2025082313025413zmw\n赛制: BO3\n阶段: 小
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025082313025413zmw
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: Veroja v
+ s CARST
+DTSTART:20250901T060000Z
+DTEND:20250901T090000Z
+UID:dt_mc_20250823133252zfshq@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250823133252zfshq\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250823133252zfshq
+END:VEVENT
 END:VCALENDAR
