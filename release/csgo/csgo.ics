@@ -3,57 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第1季: RED Canids vs Dusty Roots
-DTSTART:20250826T210000Z
-DTEND:20250826T233000Z
-UID:csgo_mc_2384578@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384578\n赛事: ESL 挑战者联赛 S50 南
- 美 第1季\n阶段: 淘汰赛 胜者组 第4轮\n轮次: 第4轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384578
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第1季: BESTIA vs 9z
-DTSTART:20250826T210000Z
-DTEND:20250826T233000Z
-UID:csgo_mc_2384579@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384579\n赛事: ESL 挑战者联赛 S50 南
- 美 第1季\n阶段: 淘汰赛 胜者组 第4轮\n轮次: 第4轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384579
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第1季: Flamengo vs 2GAME
-DTSTART:20250826T210000Z
-DTEND:20250826T233000Z
-UID:csgo_mc_2384580@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384580\n赛事: ESL 挑战者联赛 S50 南
- 美 第1季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384580
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第1季: Fluxo vs ShindeN
-DTSTART:20250826T210000Z
-DTEND:20250826T233000Z
-UID:csgo_mc_2384581@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384581\n赛事: ESL 挑战者联赛 S50 南
- 美 第1季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384581
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S3: Wildcard vs ASPYRE
-DTSTART:20250826T220000Z
-DTEND:20250827T003000Z
+DTSTART:20250826T221500Z
+DTEND:20250827T004500Z
 UID:csgo_mc_2384933@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384933\n赛事: Dust2.us 猎鹰大师赛 S3
  \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
@@ -206,7 +158,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384896
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 5: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 5: Betclic vs Reason
 DTSTART:20250827T110000Z
 DTEND:20250827T133000Z
 UID:csgo_mc_2384872@5eplay.com
@@ -251,7 +203,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384567
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 5: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 5: Tricked vs Betera
 DTSTART:20250827T140000Z
 DTEND:20250827T163000Z
 UID:csgo_mc_2384873@5eplay.com
@@ -284,7 +236,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384809
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 5: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 5: ARCRED vs SPARTA
 DTSTART:20250827T170000Z
 DTEND:20250827T193000Z
 UID:csgo_mc_2384874@5eplay.com
@@ -447,5 +399,39 @@ DESCRIPTION:比赛ID: csgo_mc_2384926\n赛事: 完美世界 挑战者系
  EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384926
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 5: TBD vs TBD
+DTSTART:20250828T080000Z
+DTEND:20250828T103000Z
+UID:csgo_mc_2384875@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384875\n赛事: CCT 第3赛季 欧洲系列
+ 赛 5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384875
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2封闭预选: Rhyno vs Ence.A
+DTSTART:20250828T080000Z
+DTEND:20250828T103000Z
+UID:csgo_mc_2384897@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384897\n赛事: 欧洲职业联赛 系列
+ 赛2封闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
+ 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384897
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Majestic LanDaLan 3 封闭预选: TBD vs TBD
+DTSTART:20250828T080000Z
+DTEND:20250828T103000Z
+UID:csgo_mc_2384823@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384823\n赛事: Majestic LanDaLan 3 封闭
+ 预选\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384823
 END:VEVENT
 END:VCALENDAR
