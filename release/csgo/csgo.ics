@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: 9BOOMPRO vs Nuclear TigeRES
-DTSTART:20250826T181500Z
-DTEND:20250826T204500Z
-UID:csgo_mc_2384818@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384818\n赛事: Majestic LanDaLan 3 封闭
- 预选\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384818
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 南美 第1季: RED Canids vs Dusty Roots
 DTSTART:20250826T210000Z
 DTEND:20250826T233000Z
@@ -330,7 +319,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384693
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第1季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第1季: Gentle Mates vs OG
 DTSTART:20250827T170000Z
 DTEND:20250827T193000Z
 UID:csgo_mc_2384694@5eplay.com
@@ -342,7 +331,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384694
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第1季: Johnny Speeds vs TBD
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第1季: Johnny Speeds vs ENCE
 DTSTART:20250827T170000Z
 DTEND:20250827T193000Z
 UID:csgo_mc_2384695@5eplay.com
@@ -409,5 +398,54 @@ DESCRIPTION:比赛ID: csgo_mc_2384934\n赛事: Dust2.us 猎鹰大师赛 S3
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384934
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第1季: TBD vs TBD
+DTSTART:20250828T010000Z
+DTEND:20250828T033000Z
+UID:csgo_mc_2384946@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384946\n赛事: ESL 挑战者联赛 S50 北
+ 美 第1季\n阶段: 淘汰赛 败者组 第5轮\n轮次: 第5轮\n赛制:
+  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第1季: TBD vs TBD
+DTSTART:20250828T010000Z
+DTEND:20250828T033000Z
+UID:csgo_mc_2384947@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384947\n赛事: ESL 挑战者联赛 S50 北
+ 美 第1季\n阶段: 淘汰赛 败者组 第5轮\n轮次: 第5轮\n赛制:
+  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384947
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 1 封闭预选: BORING PLAYER vs T
+ BD
+DTSTART:20250828T030000Z
+DTEND:20250828T053000Z
+UID:csgo_mc_2384925@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384925\n赛事: 完美世界 挑战者系
+ 列赛 1 封闭预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\
+ n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384925
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 1 封闭预选: RA vs TBD
+DTSTART:20250828T060000Z
+DTEND:20250828T083000Z
+UID:csgo_mc_2384926@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384926\n赛事: 完美世界 挑战者系
+ 列赛 1 封闭预选\n阶段: 小组赛  决赛\n轮次: 决赛\n赛制: 
+ BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5
+ EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384926
 END:VEVENT
 END:VCALENDAR
