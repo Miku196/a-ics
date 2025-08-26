@@ -432,4 +432,15 @@ DESCRIPTION:比赛ID: dt_mc_202508242003036v2oe\n赛制: BO3\n轮次: 半
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202508242003036v2oe
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cis Battle S2: TBD vs TBD
+DTSTART:20250901T160000Z
+DTEND:20250901T190000Z
+UID:dt_mc_20250824200305yv3jt@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250824200305yv3jt\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 淘汰赛 胜者组 决赛\n赛事等级: \n状态: 未开始
+ \n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250824200305yv3jt
+END:VEVENT
 END:VCALENDAR
