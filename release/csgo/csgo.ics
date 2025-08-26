@@ -423,4 +423,26 @@ DESCRIPTION:比赛ID: csgo_mc_2384695\n赛事: ESL 挑战者联赛 S50 欧
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384695
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Majestic LanDaLan 3 封闭预选: Sangal vs FORZE Reload
+DTSTART:20250827T170000Z
+DTEND:20250827T193000Z
+UID:csgo_mc_2384822@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384822\n赛事: Majestic LanDaLan 3 封闭
+ 预选\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384822
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST 伦敦公开赛 2025: NAVI vs FNC
+DTSTART:20250827T173000Z
+DTEND:20250827T200000Z
+UID:csgo_mc_2384810@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384810\n赛事: BLAST 伦敦公开赛 2025\
+ n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ A级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384810
+END:VEVENT
 END:VCALENDAR
