@@ -3,32 +3,10 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2封闭预选: FORZE Reload vs m1x
-DTSTART:20250826T080000Z
-DTEND:20250826T103000Z
-UID:csgo_mc_2384893@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384893\n赛事: 欧洲职业联赛 系列
- 赛2封闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
- 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384893
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: SENZA vs K27
-DTSTART:20250826T080000Z
-DTEND:20250826T103000Z
-UID:csgo_mc_2384815@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384815\n赛事: Majestic LanDaLan 3 封闭
- 预选\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384815
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 1 封闭预选: FengDa vs TBD
-DTSTART:20250826T090000Z
-DTEND:20250826T113000Z
+SUMMARY:完美世界 挑战者系列赛 1 封闭预选: FengDa vs BORING P
+ LAYER
+DTSTART:20250826T082000Z
+DTEND:20250826T105000Z
 UID:csgo_mc_2384921@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384921\n赛事: 完美世界 挑战者系
  列赛 1 封闭预选\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\
@@ -319,7 +297,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384922
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 1 封闭预选: Magic Cape vs TBD
+SUMMARY:完美世界 挑战者系列赛 1 封闭预选: Magic Cape vs Kale
+ ido
 DTSTART:20250827T060000Z
 DTEND:20250827T083000Z
 UID:csgo_mc_2384923@5eplay.com
@@ -455,5 +434,16 @@ DESCRIPTION:比赛ID: csgo_mc_2384873\n赛事: CCT 第3赛季 欧洲系列
  : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384873
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Majestic LanDaLan 3 封闭预选: GUN5 vs AMKAL
+DTSTART:20250827T140000Z
+DTEND:20250827T163000Z
+UID:csgo_mc_2384821@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384821\n赛事: Majestic LanDaLan 3 封闭
+ 预选\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384821
 END:VEVENT
 END:VCALENDAR
