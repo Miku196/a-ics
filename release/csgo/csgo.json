@@ -1130,7 +1130,7 @@
     "team2": "Magic Cape",
     "best_type": "BO3",
     "status": "进行中",
-    "result": "0-0",
+    "result": "1-0",
     "status_code": "1",
     "api_status": 1,
     "tournament_id": "csgo_tt_8664",
@@ -1143,7 +1143,7 @@
     "stage_desc": "小组赛 胜者组 首轮",
     "tournament_stage": "小组赛 胜者组 首轮",
     "team1_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cu4f18cconkqmjpn7t0g.png",
-    "team2_logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+    "team2_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d2miie4conkqbk3bnl30.png",
     "tournament_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d2iae8cconkt3legf15g.png",
     "estimated_duration": 2.5
   },
