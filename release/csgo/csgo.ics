@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S3: Wildcard vs ASPYRE
-DTSTART:20250826T221500Z
-DTEND:20250827T004500Z
-UID:csgo_mc_2384933@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384933\n赛事: Dust2.us 猎鹰大师赛 S3
- \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384933
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 北美 第1季: BLUEJAYS vs NRG
 DTSTART:20250827T010000Z
 DTEND:20250827T033000Z
@@ -225,6 +214,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384821
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Urban Academies Season 1: BIG.A vs Sangal Academy
+DTSTART:20250827T150000Z
+DTEND:20250827T173000Z
+UID:csgo_mc_2384958@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384958\n赛事: Urban Academies Season 1\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384958
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BLAST 伦敦公开赛 2025: FaZe vs ECSTATIC
 DTSTART:20250827T150000Z
 DTEND:20250827T173000Z
@@ -317,7 +317,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384810
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第1季: TBD vs TBD
+SUMMARY:Urban Academies Season 1: G2 Ares vs Aurora YB
+DTSTART:20250827T180000Z
+DTEND:20250827T203000Z
+UID:csgo_mc_2384959@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384959\n赛事: Urban Academies Season 1\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第1季: BESTIA vs Flamengo
 DTSTART:20250827T210000Z
 DTEND:20250827T233000Z
 UID:csgo_mc_2384940@5eplay.com
@@ -329,7 +340,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384940
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第1季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 南美 第1季: Dusty Roots vs Fluxo
 DTSTART:20250827T210000Z
 DTEND:20250827T233000Z
 UID:csgo_mc_2384941@5eplay.com
@@ -433,5 +444,29 @@ DESCRIPTION:比赛ID: csgo_mc_2384823\n赛事: Majestic LanDaLan 3 封闭
  级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384823
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 1 封闭预选: FengDa vs TBD
+DTSTART:20250828T090000Z
+DTEND:20250828T113000Z
+UID:csgo_mc_2384927@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384927\n赛事: 完美世界 挑战者系
+ 列赛 1 封闭预选\n阶段: 小组赛  决赛\n轮次: 决赛\n赛制: 
+ BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5
+ EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384927
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 大洋洲 第1季: ex-TALON vs TBD
+DTSTART:20250828T090000Z
+DTEND:20250828T113000Z
+UID:csgo_mc_2384561@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384561\n赛事: ESL 挑战者联赛 S50 大
+ 洋洲 第1季\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制
+ : BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384561
 END:VEVENT
 END:VCALENDAR
