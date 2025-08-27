@@ -3,43 +3,8 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 1 封闭预选: Magic Cape vs Kale
- ido
-DTSTART:20250827T065000Z
-DTEND:20250827T092000Z
-UID:csgo_mc_2384923@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384923\n赛事: 完美世界 挑战者系
- 列赛 1 封闭预选\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\
- n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384923
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2封闭预选: 1win vs Mousquetaires
-DTSTART:20250827T080000Z
-DTEND:20250827T103000Z
-UID:csgo_mc_2384895@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384895\n赛事: 欧洲职业联赛 系列
- 赛2封闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
- 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384895
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: RUBY vs ARCRED
-DTSTART:20250827T080000Z
-DTEND:20250827T103000Z
-UID:csgo_mc_2384819@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384819\n赛事: Majestic LanDaLan 3 封闭
- 预选\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384819
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 1 封闭预选: WDNMD vs TBD
+SUMMARY:完美世界 挑战者系列赛 1 封闭预选: WDNMD vs Just Swin
+ g
 DTSTART:20250827T090000Z
 DTEND:20250827T113000Z
 UID:csgo_mc_2384924@5eplay.com
@@ -157,9 +122,9 @@ SUMMARY:城市院校赛 S1: BIG.A vs Sangal Academy
 DTSTART:20250827T150000Z
 DTEND:20250827T173000Z
 UID:csgo_mc_2384958@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384958\n赛事: 城市院校赛 S1\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2384958\n赛事: 城市院校赛 S1\n阶段:
+  淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384958
 END:VEVENT
