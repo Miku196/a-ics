@@ -3,19 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Liga 玩家俱乐部 2025 系列赛A 八月杯: ODDIK Academy vs L
- aChampionsLiga
-DTSTART:20250828T190000Z
-DTEND:20250828T213000Z
-UID:csgo_mc_2384970@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384970\n赛事: Liga 玩家俱乐部 2025 
- 系列赛A 八月杯\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384970
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 南美 第1季: Fluxo vs BESTIA
 DTSTART:20250828T210000Z
 DTEND:20250828T233000Z
@@ -53,8 +40,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2384933
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S3: Marsborne vs Chicken Coop
-DTSTART:20250829T000000Z
-DTEND:20250829T023000Z
+DTSTART:20250828T230000Z
+DTEND:20250829T013000Z
 UID:csgo_mc_2384936@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384936\n赛事: Dust2.us 猎鹰大师赛 S3
  \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
@@ -427,5 +414,39 @@ DESCRIPTION:比赛ID: csgo_mc_2384837\n赛事: BLAST 伦敦公开赛 2025\
  A级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384837
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第一季: NIP vs TBD
+DTSTART:20250829T130000Z
+DTEND:20250829T153000Z
+UID:csgo_mc_2384752@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384752\n赛事: DraculaN 第一季\n阶段:
+  淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: C级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384752
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第一季: Passion UA vs TBD
+DTSTART:20250829T130000Z
+DTEND:20250829T153000Z
+UID:csgo_mc_2384753@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384753\n赛事: DraculaN 第一季\n阶段:
+  淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: C级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384753
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第1季: LVG vs RA
+DTSTART:20250829T130000Z
+DTEND:20250829T153000Z
+UID:csgo_mc_2384569@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384569\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第1季\n阶段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: B
+ O3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5E
+ Play
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384569
 END:VEVENT
 END:VCALENDAR
