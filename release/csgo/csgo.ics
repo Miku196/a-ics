@@ -3,52 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 5: BB vs Monte
-DTSTART:20250828T170000Z
-DTEND:20250828T193000Z
-UID:csgo_mc_2384878@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384878\n赛事: CCT 第3赛季 欧洲系列
- 赛 5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384878
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第1季: ZT vs ENCE
-DTSTART:20250828T170000Z
-DTEND:20250828T193000Z
-UID:csgo_mc_2384953@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384953\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第1季\n阶段: 淘汰赛 败者组 第6轮\n轮次: 第6轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384953
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第1季: OG vs PARIVISION
-DTSTART:20250828T170000Z
-DTEND:20250828T193000Z
-UID:csgo_mc_2384952@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384952\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第1季\n阶段: 淘汰赛 败者组 第6轮\n轮次: 第6轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384952
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST 伦敦公开赛 2025: FURIA vs Legacy
-DTSTART:20250828T173000Z
-DTEND:20250828T200000Z
-UID:csgo_mc_2384814@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384814\n赛事: BLAST 伦敦公开赛 2025\
- n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
- A级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384814
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Liga 玩家俱乐部 2025 系列赛A 八月杯: ODDIK Academy vs L
  aChampionsLiga
 DTSTART:20250828T190000Z
@@ -416,5 +370,62 @@ DESCRIPTION:比赛ID: csgo_mc_2384905\n赛事: 欧洲职业联赛 系列
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384905
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MESA Pro系列 2025年秋季: TBD vs TBD
+DTSTART:20250829T103000Z
+DTEND:20250829T130000Z
+UID:csgo_mc_2384981@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384981\n赛事: MESA Pro系列 2025年秋
+ 季\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384981
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5E全国大赛夏季赛总决赛: TBD vs TBD
+DTSTART:20250829T103000Z
+DTEND:20250829T130000Z
+UID:cg_mc_manual_1864@5eplay.com
+DESCRIPTION:比赛ID: cg_mc_manual_1864\n赛事: 5E全国大赛夏季赛
+ 总决赛\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1864
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 5: OG vs Metizport
+DTSTART:20250829T110000Z
+DTEND:20250829T133000Z
+UID:csgo_mc_2384880@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384880\n赛事: CCT 第3赛季 欧洲系列
+ 赛 5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384880
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Majestic LanDaLan 3 封闭预选: ARCRED vs FORZE Reload
+DTSTART:20250829T110000Z
+DTEND:20250829T133000Z
+UID:csgo_mc_2384828@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384828\n赛事: Majestic LanDaLan 3 封闭
+ 预选\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384828
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST 伦敦公开赛 2025: M80 vs VP
+DTSTART:20250829T123000Z
+DTEND:20250829T150000Z
+UID:csgo_mc_2384837@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384837\n赛事: BLAST 伦敦公开赛 2025\
+ n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ A级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384837
 END:VEVENT
 END:VCALENDAR
