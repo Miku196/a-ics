@@ -3,19 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 1 封闭预选: BORING PLAYER vs K
- aleido
-DTSTART:20250828T030000Z
-DTEND:20250828T053000Z
-UID:csgo_mc_2384925@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384925\n赛事: 完美世界 挑战者系
- 列赛 1 封闭预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\
- n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384925
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:完美世界 挑战者系列赛 1 封闭预选: RA vs Just Swing
 DTSTART:20250828T060000Z
 DTEND:20250828T083000Z
@@ -279,7 +266,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384936
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第1季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 北美 第1季: BOSS vs BLUEJAYS
 DTSTART:20250829T010000Z
 DTEND:20250829T033000Z
 UID:csgo_mc_2384948@5eplay.com
@@ -446,5 +433,17 @@ DESCRIPTION:比赛ID: csgo_mc_2384964\n赛事: 完美世界 挑战者系
  小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 大洋洲 第1季: SemperFi vs TBD
+DTSTART:20250829T090000Z
+DTEND:20250829T113000Z
+UID:csgo_mc_2384562@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384562\n赛事: ESL 挑战者联赛 S50 大
+ 洋洲 第1季\n阶段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: B
+ O3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5E
+ Play
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384562
 END:VEVENT
 END:VCALENDAR
