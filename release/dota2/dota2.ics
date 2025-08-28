@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: REKONIX 
- vs MongolZ
-DTSTART:20250828T063000Z
-DTEND:20250828T093000Z
-UID:dt_mc_202508231253531fyy1@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202508231253531fyy1\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202508231253531fyy1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cis Battle S2: Runa vs Yes
-DTSTART:20250828T080000Z
-DTEND:20250828T110000Z
-UID:dt_mc_20250824200032ge05e@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250824200032ge05e\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250824200032ge05e
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cis Battle S2: Z10 vs YeS
 DTSTART:20250828T083000Z
 DTEND:20250828T113000Z
