@@ -435,4 +435,28 @@ DESCRIPTION:比赛ID: dt_mc_20250826203856w4ejn\n赛制: BO3\n轮次: 决
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250826203856w4ejn
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: TBD vs T
+ BD
+DTSTART:20250910T030000Z
+DTEND:20250910T060000Z
+UID:dt_mc_20250826203857we6al@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250826203857we6al\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 淘汰赛 败者组 决赛\n赛事等级: 其他\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250826203857we6al
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: TBD vs T
+ BD
+DTSTART:20250910T063000Z
+DTEND:20250910T093000Z
+UID:dt_mc_20250826203858eaxb7@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250826203858eaxb7\n赛制: BO5\n轮次: 总
+ 决赛\n阶段: 淘汰赛  总决赛\n赛事等级: 其他\n状态: 未开
+ 始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250826203858eaxb7
+END:VEVENT
 END:VCALENDAR

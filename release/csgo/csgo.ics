@@ -3,22 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2封闭预选: Reason vs HEROIC Academ
- y
-DTSTART:20250828T103000Z
-DTEND:20250828T130000Z
-UID:csgo_mc_2384898@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384898\n赛事: 欧洲职业联赛 系列
- 赛2封闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
- 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384898
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 5: ENCE vs ARCRED
-DTSTART:20250828T110000Z
-DTEND:20250828T133000Z
+DTSTART:20250828T130000Z
+DTEND:20250828T153000Z
 UID:csgo_mc_2384876@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384876\n赛事: CCT 第3赛季 欧洲系列
  赛 5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
@@ -27,20 +14,9 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384876
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: GUN5 vs K27
-DTSTART:20250828T110000Z
-DTEND:20250828T133000Z
-UID:csgo_mc_2384824@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384824\n赛事: Majestic LanDaLan 3 封闭
- 预选\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384824
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLAST 伦敦公开赛 2025: G2 vs Liquid
-DTSTART:20250828T123000Z
-DTEND:20250828T150000Z
+DTSTART:20250828T130000Z
+DTEND:20250828T153000Z
 UID:csgo_mc_2384812@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384812\n赛事: BLAST 伦敦公开赛 2025\
  n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
@@ -235,6 +211,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384962
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MESA Pro系列 2025年秋季: CW vs Eruption
+DTSTART:20250829T040000Z
+DTEND:20250829T063000Z
+UID:csgo_mc_2384979@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384979\n赛事: MESA Pro系列 2025年秋
+ 季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384979
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:完美世界 挑战者系列赛 1: TYLOO vs B8
 DTSTART:20250829T060000Z
 DTEND:20250829T083000Z
@@ -245,6 +233,30 @@ DESCRIPTION:比赛ID: csgo_mc_2384963\n赛事: 完美世界 挑战者系
   5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384963
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5E全国大赛夏季赛总决赛: MagicCape vs ICECOLD
+DTSTART:20250829T060000Z
+DTEND:20250829T083000Z
+UID:cg_mc_manual_1862@5eplay.com
+DESCRIPTION:比赛ID: cg_mc_manual_1862\n赛事: 5E全国大赛夏季赛
+ 总决赛\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1862
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5E全国大赛夏季赛总决赛: BORING PLAYER vs SWC
+DTSTART:20250829T070000Z
+DTEND:20250829T093000Z
+UID:cg_mc_manual_1863@5eplay.com
+DESCRIPTION:比赛ID: cg_mc_manual_1863\n赛事: 5E全国大赛夏季赛
+ 总决赛\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1863
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DraculaN 第一季: Inner Circle vs HyperSpirit
@@ -291,6 +303,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384751
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MESA Pro系列 2025年秋季: The Huns vs The QUBE
+DTSTART:20250829T073000Z
+DTEND:20250829T100000Z
+UID:csgo_mc_2384980@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384980\n赛事: MESA Pro系列 2025年秋
+ 季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384980
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 5: JJH vs ZT
 DTSTART:20250829T080000Z
 DTEND:20250829T103000Z
@@ -312,6 +336,18 @@ DESCRIPTION:比赛ID: csgo_mc_2384904\n赛事: 欧洲职业联赛 系列
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384904
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5E全国大赛夏季赛总决赛: TBD vs TBD
+DTSTART:20250829T080000Z
+DTEND:20250829T103000Z
+UID:cg_mc_manual_1865@5eplay.com
+DESCRIPTION:比赛ID: cg_mc_manual_1865\n赛事: 5E全国大赛夏季赛
+ 总决赛\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1865
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Majestic LanDaLan 3 封闭预选: TPuDCATb_TPu vs Khan
@@ -379,28 +415,5 @@ DESCRIPTION:比赛ID: csgo_mc_2384964\n赛事: 完美世界 挑战者系
   5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384964
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 大洋洲 第1季: SemperFi vs Rooster
-DTSTART:20250829T090000Z
-DTEND:20250829T113000Z
-UID:csgo_mc_2384562@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384562\n赛事: ESL 挑战者联赛 S50 大
- 洋洲 第1季\n阶段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: B
- O3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5E
- Play
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384562
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第一季: 9INE vs Inner Circle
-DTSTART:20250829T100000Z
-DTEND:20250829T110000Z
-UID:csgo_mc_2384740@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384740\n赛事: DraculaN 第一季\n阶段:
-  小组赛\n赛制: BO1\n等级: C级\n状态: 未开始\n预估时长: 1.
- 0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384740
 END:VEVENT
 END:VCALENDAR
