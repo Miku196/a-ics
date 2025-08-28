@@ -3,32 +3,8 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第1季: InControl vs BOSS
-DTSTART:20250828T010000Z
-DTEND:20250828T033000Z
-UID:csgo_mc_2384946@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384946\n赛事: ESL 挑战者联赛 S50 北
- 美 第1季\n阶段: 淘汰赛 败者组 第5轮\n轮次: 第5轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384946
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第1季: BLUEJAYS vs Marsborne
-DTSTART:20250828T010000Z
-DTEND:20250828T033000Z
-UID:csgo_mc_2384947@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384947\n赛事: ESL 挑战者联赛 S50 北
- 美 第1季\n阶段: 淘汰赛 败者组 第5轮\n轮次: 第5轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384947
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 1 封闭预选: BORING PLAYER vs T
- BD
+SUMMARY:完美世界 挑战者系列赛 1 封闭预选: BORING PLAYER vs K
+ aleido
 DTSTART:20250828T030000Z
 DTEND:20250828T053000Z
 UID:csgo_mc_2384925@5eplay.com
@@ -40,7 +16,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384925
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 1 封闭预选: RA vs TBD
+SUMMARY:完美世界 挑战者系列赛 1 封闭预选: RA vs Just Swing
 DTSTART:20250828T060000Z
 DTEND:20250828T083000Z
 UID:csgo_mc_2384926@5eplay.com
@@ -52,7 +28,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384926
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 5: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 5: HOTU vs Alliance
 DTSTART:20250828T080000Z
 DTEND:20250828T103000Z
 UID:csgo_mc_2384875@5eplay.com
@@ -75,7 +51,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384897
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: TBD vs TBD
+SUMMARY:Majestic LanDaLan 3 封闭预选: Sangal vs 1win
 DTSTART:20250828T080000Z
 DTEND:20250828T103000Z
 UID:csgo_mc_2384823@5eplay.com
@@ -98,7 +74,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384927
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 大洋洲 第1季: ex-TALON vs TBD
+SUMMARY:ESL 挑战者联赛 S50 大洋洲 第1季: ex-TALON vs Rooster
 DTSTART:20250828T090000Z
 DTEND:20250828T113000Z
 UID:csgo_mc_2384561@5eplay.com
@@ -134,7 +110,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384898
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 5: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 5: ENCE vs ARCRED
 DTSTART:20250828T110000Z
 DTEND:20250828T133000Z
 UID:csgo_mc_2384876@5eplay.com
@@ -145,7 +121,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384876
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: TBD vs TBD
+SUMMARY:Majestic LanDaLan 3 封闭预选: GUN5 vs K27
 DTSTART:20250828T110000Z
 DTEND:20250828T133000Z
 UID:csgo_mc_2384824@5eplay.com
@@ -167,7 +143,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384812
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 亚太区 第1季: NomadS vs TBD
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第1季: NomadS vs RA
 DTSTART:20250828T130000Z
 DTEND:20250828T153000Z
 UID:csgo_mc_2384568@5eplay.com
@@ -179,7 +155,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384568
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 5: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 5: FUT vs Betera
 DTSTART:20250828T140000Z
 DTEND:20250828T163000Z
 UID:csgo_mc_2384877@5eplay.com
@@ -190,7 +166,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384877
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: TBD vs TBD
+SUMMARY:Majestic LanDaLan 3 封闭预选: CYBERSHOKE vs Nuclear TigeRES
 DTSTART:20250828T140000Z
 DTEND:20250828T163000Z
 UID:csgo_mc_2384825@5eplay.com
@@ -201,7 +177,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384825
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:城市院校赛 S1: TBD vs TBD
+SUMMARY:城市院校赛 S1: Sangal Academy vs G2 Ares
 DTSTART:20250828T150000Z
 DTEND:20250828T173000Z
 UID:csgo_mc_2384960@5eplay.com
@@ -223,7 +199,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384813
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 5: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 5: BB vs Monte
 DTSTART:20250828T170000Z
 DTEND:20250828T193000Z
 UID:csgo_mc_2384878@5eplay.com
@@ -234,7 +210,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384878
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第1季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第1季: ZT vs ENCE
 DTSTART:20250828T170000Z
 DTEND:20250828T193000Z
 UID:csgo_mc_2384953@5eplay.com
@@ -246,7 +222,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384953
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第1季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第1季: OG vs PARIVISION
 DTSTART:20250828T170000Z
 DTEND:20250828T193000Z
 UID:csgo_mc_2384952@5eplay.com
@@ -269,7 +245,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384814
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第1季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 南美 第1季: Fluxo vs BESTIA
 DTSTART:20250828T210000Z
 DTEND:20250828T233000Z
 UID:csgo_mc_2384942@5eplay.com
@@ -383,7 +359,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 5: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 5: JJH vs ZT
 DTSTART:20250829T080000Z
 DTEND:20250829T103000Z
 UID:csgo_mc_2384879@5eplay.com
@@ -406,7 +382,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384904
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: TBD vs TBD
+SUMMARY:Majestic LanDaLan 3 封闭预选: TPuDCATb_TPu vs Khan
 DTSTART:20250829T080000Z
 DTEND:20250829T103000Z
 UID:csgo_mc_2384826@5eplay.com
@@ -448,5 +424,27 @@ DESCRIPTION:比赛ID: csgo_mc_2384746\n赛事: DraculaN 第一季\n阶段:
  0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384746
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第一季: Nexus vs Infinite
+DTSTART:20250829T083000Z
+DTEND:20250829T093000Z
+UID:csgo_mc_2384747@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384747\n赛事: DraculaN 第一季\n阶段:
+  小组赛\n赛制: BO1\n等级: C级\n状态: 未开始\n预估时长: 1.
+ 0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384747
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 1: TBD vs TBD
+DTSTART:20250829T090000Z
+DTEND:20250829T113000Z
+UID:csgo_mc_2384964@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384964\n赛事: 完美世界 挑战者系
+ 列赛 1\n赛制: BO3\n等级: C级\n状态: 未开始\n预估时长: 2.5
+ 小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384964
 END:VEVENT
 END:VCALENDAR

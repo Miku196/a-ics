@@ -39,8 +39,8 @@ URL:https://event.5eplay.com/dota/session/dt_mc_20250824200032ge05e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cis Battle S2: Z10 vs YeS
-DTSTART:20250828T110000Z
-DTEND:20250828T140000Z
+DTSTART:20250828T083000Z
+DTEND:20250828T113000Z
 UID:dt_mc_202508242000329fk4o@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_202508242000329fk4o\n赛制: BO3\n阶段: 小
  组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
@@ -139,17 +139,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202508242002555892k
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2025 ST锦标赛: GermanIvan+4 vs eSpoiled
-DTSTART:20250829T190000Z
-DTEND:20250829T220000Z
-UID:dt_mc_20250817123258ega8x@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250817123258ega8x\n赛制: BO5\n轮次: 决
- 赛\n阶段: 淘汰赛 决赛\n赛事等级: \n状态: 未开始\n预计
- 时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250817123258ega8x
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: Veroja v
  s Ivory
 DTSTART:20250830T030000Z
@@ -194,6 +183,17 @@ DESCRIPTION:比赛ID: dt_mc_20250824200256lqfj7\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250824200256lqfj7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 ST锦标赛: GermanIvan+4 vs eSpoiled
+DTSTART:20250830T113000Z
+DTEND:20250830T143000Z
+UID:dt_mc_20250817123258ega8x@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250817123258ega8x\n赛制: BO5\n轮次: 决
+ 赛\n阶段: 淘汰赛 决赛\n赛事等级: \n状态: 未开始\n预计
+ 时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250817123258ega8x
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cis Battle S2: L1ga vs 4P
