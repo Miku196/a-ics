@@ -3,34 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第1季: Fluxo vs BESTIA
-DTSTART:20250828T210000Z
-DTEND:20250828T233000Z
-UID:csgo_mc_2384942@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384942\n赛事: ESL 挑战者联赛 S50 南
- 美 第1季\n阶段: 淘汰赛 败者组 第6轮\n轮次: 第6轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384942
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Liga 玩家俱乐部 2025 系列赛A 八月杯: Crashers vs RED Ca
- nids Academy
-DTSTART:20250828T213000Z
-DTEND:20250829T000000Z
-UID:csgo_mc_2384971@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384971\n赛事: Liga 玩家俱乐部 2025 
- 系列赛A 八月杯\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384971
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S3: Wildcard vs ASPYRE
-DTSTART:20250828T220000Z
-DTEND:20250829T003000Z
+DTSTART:20250828T221000Z
+DTEND:20250829T004000Z
 UID:csgo_mc_2384933@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384933\n赛事: Dust2.us 猎鹰大师赛 S3
  \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
@@ -448,5 +423,16 @@ DESCRIPTION:比赛ID: csgo_mc_2384569\n赛事: ESL 挑战者联赛 S50 亚
  Play
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384569
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 5: Spirit.A vs Partizan
+DTSTART:20250829T140000Z
+DTEND:20250829T163000Z
+UID:csgo_mc_2384881@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384881\n赛事: CCT 第3赛季 欧洲系列
+ 赛 5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384881
 END:VEVENT
 END:VCALENDAR
