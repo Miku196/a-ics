@@ -5,8 +5,8 @@ X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: REKONIX 
  vs MongolZ
-DTSTART:20250828T060000Z
-DTEND:20250828T090000Z
+DTSTART:20250828T063000Z
+DTEND:20250828T093000Z
 UID:dt_mc_202508231253531fyy1@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_202508231253531fyy1\n赛制: BO3\n阶段: 小
  组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
@@ -444,5 +444,17 @@ DESCRIPTION:比赛ID: dt_mc_20250826203855xk4i0\n赛制: BO3\n轮次: 1/4
  态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250826203855xk4i0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: TBD vs T
+ BD
+DTSTART:20250909T030000Z
+DTEND:20250909T060000Z
+UID:dt_mc_202508262038559m25h@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202508262038559m25h\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 淘汰赛 败者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202508262038559m25h
 END:VEVENT
 END:VCALENDAR

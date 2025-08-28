@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 1 封闭预选: RA vs Just Swing
-DTSTART:20250828T060000Z
-DTEND:20250828T083000Z
-UID:csgo_mc_2384926@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384926\n赛事: 完美世界 挑战者系
- 列赛 1 封闭预选\n阶段: 小组赛  决赛\n轮次: 决赛\n赛制: 
- BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5
- EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384926
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 5: HOTU vs Alliance
 DTSTART:20250828T080000Z
 DTEND:20250828T103000Z
@@ -49,7 +37,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384823
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 1 封闭预选: FengDa vs TBD
+SUMMARY:完美世界 挑战者系列赛 1 封闭预选: FengDa vs Kaleido
 DTSTART:20250828T090000Z
 DTEND:20250828T113000Z
 UID:csgo_mc_2384927@5eplay.com
@@ -232,6 +220,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384814
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Liga 玩家俱乐部 2025 系列赛A 八月杯: ODDIK Academy vs L
+ aChampionsLiga
+DTSTART:20250828T190000Z
+DTEND:20250828T213000Z
+UID:csgo_mc_2384970@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384970\n赛事: Liga 玩家俱乐部 2025 
+ 系列赛A 八月杯\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
+ 估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384970
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 南美 第1季: Fluxo vs BESTIA
 DTSTART:20250828T210000Z
 DTEND:20250828T233000Z
@@ -242,6 +242,18 @@ DESCRIPTION:比赛ID: csgo_mc_2384942\n赛事: ESL 挑战者联赛 S50 南
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384942
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liga 玩家俱乐部 2025 系列赛A 八月杯: Crashers vs RED Ca
+ nids Academy
+DTSTART:20250828T213000Z
+DTEND:20250829T000000Z
+UID:csgo_mc_2384971@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384971\n赛事: Liga 玩家俱乐部 2025 
+ 系列赛A 八月杯\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
+ 估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384971
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S3: Wildcard vs ASPYRE
@@ -433,17 +445,5 @@ DESCRIPTION:比赛ID: csgo_mc_2384964\n赛事: 完美世界 挑战者系
  小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384964
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 大洋洲 第1季: SemperFi vs TBD
-DTSTART:20250829T090000Z
-DTEND:20250829T113000Z
-UID:csgo_mc_2384562@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384562\n赛事: ESL 挑战者联赛 S50 大
- 洋洲 第1季\n阶段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: B
- O3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5E
- Play
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384562
 END:VEVENT
 END:VCALENDAR
