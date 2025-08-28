@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S3: Getting Info vs LAG
-DTSTART:20250828T000000Z
-DTEND:20250828T023000Z
-UID:csgo_mc_2384934@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384934\n赛事: Dust2.us 猎鹰大师赛 S3
- \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384934
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 北美 第1季: InControl vs BOSS
 DTSTART:20250828T010000Z
 DTEND:20250828T033000Z
@@ -448,5 +437,16 @@ DESCRIPTION:比赛ID: csgo_mc_2384745\n赛事: DraculaN 第一季\n阶段:
  0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384745
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第一季: ENCE vs Insiders
+DTSTART:20250829T083000Z
+DTEND:20250829T093000Z
+UID:csgo_mc_2384746@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384746\n赛事: DraculaN 第一季\n阶段:
+  小组赛\n赛制: BO1\n等级: C级\n状态: 未开始\n预估时长: 1.
+ 0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384746
 END:VEVENT
 END:VCALENDAR
