@@ -3,130 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:DraculaN 第一季: Monte vs aimclub
-DTSTART:20250829T101500Z
-DTEND:20250829T111500Z
-UID:csgo_mc_2384745@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384745\n赛事: DraculaN 第一季\n阶段:
-  小组赛\n赛制: BO1\n等级: C级\n状态: 未开始\n预估时长: 1.
- 0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384745
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2封闭预选: EF vs Khan
-DTSTART:20250829T103000Z
-DTEND:20250829T130000Z
-UID:csgo_mc_2384905@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384905\n赛事: 欧洲职业联赛 系列
- 赛2封闭预选\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛
- 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384905
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MESA Pro系列 2025年秋季: Eruption vs TBD
-DTSTART:20250829T103000Z
-DTEND:20250829T130000Z
-UID:csgo_mc_2384981@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384981\n赛事: MESA Pro系列 2025年秋
- 季\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384981
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:5E全国大赛夏季赛总决赛: ICECOLD vs SWC
-DTSTART:20250829T103000Z
-DTEND:20250829T130000Z
-UID:cg_mc_manual_1864@5eplay.com
-DESCRIPTION:比赛ID: cg_mc_manual_1864\n赛事: 5E全国大赛夏季赛
- 总决赛\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3
- \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
- : 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1864
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第一季: 9INE vs Inner Circle
-DTSTART:20250829T103000Z
-DTEND:20250829T113000Z
-UID:csgo_mc_2384740@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384740\n赛事: DraculaN 第一季\n阶段:
-  小组赛\n赛制: BO1\n等级: C级\n状态: 未开始\n预估时长: 1.
- 0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384740
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第一季: ENCE vs MANA
-DTSTART:20250829T103000Z
-DTEND:20250829T113000Z
-UID:csgo_mc_2384742@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384742\n赛事: DraculaN 第一季\n阶段:
-  小组赛\n赛制: BO1\n等级: C级\n状态: 未开始\n预估时长: 1.
- 0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384742
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第一季: Nexus vs EYE
-DTSTART:20250829T103000Z
-DTEND:20250829T113000Z
-UID:csgo_mc_2384743@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384743\n赛事: DraculaN 第一季\n阶段:
-  小组赛\n赛制: BO1\n等级: C级\n状态: 未开始\n预估时长: 1.
- 0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384743
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 5: OG vs Metizport
-DTSTART:20250829T110000Z
-DTEND:20250829T133000Z
-UID:csgo_mc_2384880@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384880\n赛事: CCT 第3赛季 欧洲系列
- 赛 5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384880
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第一季: Monte vs Tricked
-DTSTART:20250829T110000Z
-DTEND:20250829T120000Z
-UID:csgo_mc_2384741@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384741\n赛事: DraculaN 第一季\n阶段:
-  小组赛\n赛制: BO1\n等级: C级\n状态: 未开始\n预估时长: 1.
- 0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384741
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: ARCRED vs FORZE Reload
-DTSTART:20250829T110000Z
-DTEND:20250829T133000Z
-UID:csgo_mc_2384828@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384828\n赛事: Majestic LanDaLan 3 封闭
- 预选\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384828
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST 伦敦公开赛 2025: M80 vs VP
-DTSTART:20250829T123000Z
-DTEND:20250829T150000Z
-UID:csgo_mc_2384837@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384837\n赛事: BLAST 伦敦公开赛 2025\
- n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
- A级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384837
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DraculaN 第一季: NIP vs TBD
 DTSTART:20250829T130000Z
 DTEND:20250829T153000Z
@@ -323,7 +199,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384965
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MESA Pro系列 2025年秋季: CW vs TBD
+SUMMARY:MESA Pro系列 2025年秋季: CW vs The Huns
 DTSTART:20250830T040000Z
 DTEND:20250830T063000Z
 UID:csgo_mc_2384982@5eplay.com
@@ -358,6 +234,28 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384985
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Telkom VS 游戏大师 2025: TBD vs TBD
+DTSTART:20250830T070000Z
+DTEND:20250830T093000Z
+UID:csgo_mc_2384995@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384995\n赛事: Telkom VS 游戏大师 2025
+ \n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384995
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Telkom VS 游戏大师 2025: Bravado vs Nixuh
+DTSTART:20250830T070000Z
+DTEND:20250830T093000Z
+UID:csgo_mc_2384994@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384994\n赛事: Telkom VS 游戏大师 2025
+ \n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384994
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DraculaN 第一季: TBD vs TBD
 DTSTART:20250830T070000Z
 DTEND:20250830T093000Z
@@ -390,5 +288,96 @@ DESCRIPTION:比赛ID: csgo_mc_2384983\n赛事: MESA Pro系列 2025年秋
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384983
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 5: TBD vs TBD
+DTSTART:20250830T080000Z
+DTEND:20250830T103000Z
+UID:csgo_mc_2384883@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384883\n赛事: CCT 第3赛季 欧洲系列
+ 赛 5\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384883
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2封闭预选: m1x vs TBD
+DTSTART:20250830T080000Z
+DTEND:20250830T103000Z
+UID:csgo_mc_2384906@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384906\n赛事: 欧洲职业联赛 系列
+ 赛2封闭预选\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛
+ 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384906
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5E全国大赛夏季赛总决赛: BORING PLAYER vs ICECOLD
+DTSTART:20250830T080000Z
+DTEND:20250830T103000Z
+UID:cg_mc_manual_1866@5eplay.com
+DESCRIPTION:比赛ID: cg_mc_manual_1866\n赛事: 5E全国大赛夏季赛
+ 总决赛\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1866
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Majestic LanDaLan 3 封闭预选: TBD vs TBD
+DTSTART:20250830T080000Z
+DTEND:20250830T103000Z
+UID:csgo_mc_2384829@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384829\n赛事: Majestic LanDaLan 3 封闭
+ 预选\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
+ 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 1: TBD vs TBD
+DTSTART:20250830T090000Z
+DTEND:20250830T113000Z
+UID:csgo_mc_2384967@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384967\n赛事: 完美世界 挑战者系
+ 列赛 1\n阶段: 淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛制
+ : BO3\n等级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384967
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MESA Pro系列 2025年秋季: TBD vs TBD
+DTSTART:20250830T100000Z
+DTEND:20250830T123000Z
+UID:csgo_mc_2384984@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384984\n赛事: MESA Pro系列 2025年秋
+ 季\n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384984
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FRAG 第15赛季: AK BARS vs DEPO
+DTSTART:20250830T100000Z
+DTEND:20250830T123000Z
+UID:csgo_mc_2384986@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384986\n赛事: FRAG 第15赛季\n阶段: 
+ 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384986
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第一季: TBD vs TBD
+DTSTART:20250830T100000Z
+DTEND:20250830T123000Z
+UID:csgo_mc_2384758@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384758\n赛事: DraculaN 第一季\n阶段:
+  淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: C级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384758
 END:VEVENT
 END:VCALENDAR
