@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: CARST vs
-  Ivory
-DTSTART:20250829T070000Z
-DTEND:20250829T100000Z
-UID:dt_mc_202508231302531hnzw@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202508231302531hnzw\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202508231302531hnzw
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cis Battle S2: 4P vs eSpoiled
-DTSTART:20250829T080000Z
-DTEND:20250829T110000Z
-UID:dt_mc_20250824200033l2v03@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250824200033l2v03\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250824200033l2v03
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cis Battle S2: 4P vs Z10
 DTSTART:20250829T110000Z
 DTEND:20250829T140000Z
@@ -446,5 +423,16 @@ DESCRIPTION:比赛ID: dt_mc_202507112104317csr4\n赛制: BO3\n轮次: 半
  态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202507112104317csr4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251003T140000Z
+DTEND:20251003T170000Z
+UID:dt_mc_202507112104321s8wh@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202507112104321s8wh\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 小组赛 胜者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202507112104321s8wh
 END:VEVENT
 END:VCALENDAR
