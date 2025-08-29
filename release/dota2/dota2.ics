@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Cis Battle S2: L1ga vs Yes
-DTSTART:20250829T140000Z
-DTEND:20250829T170000Z
-UID:dt_mc_20250824200254i9uif@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250824200254i9uif\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250824200254i9uif
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cis Battle S2: Yes vs Kalmychata
 DTSTART:20250829T170000Z
 DTEND:20250829T200000Z
@@ -445,5 +434,16 @@ DESCRIPTION:比赛ID: dt_mc_202507112104347zip8\n赛制: BO3\n轮次: 半
  态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202507112104347zip8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251004T110000Z
+DTEND:20251004T140000Z
+UID:dt_mc_20250711210434rbvu3@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210434rbvu3\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 小组赛 败者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210434rbvu3
 END:VEVENT
 END:VCALENDAR
