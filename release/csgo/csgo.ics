@@ -3,42 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:MESA Pro系列 2025年秋季: CW vs Eruption
-DTSTART:20250829T042000Z
-DTEND:20250829T065000Z
-UID:csgo_mc_2384979@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384979\n赛事: MESA Pro系列 2025年秋
- 季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384979
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 1: TYLOO vs B8
-DTSTART:20250829T060000Z
-DTEND:20250829T083000Z
-UID:csgo_mc_2384963@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384963\n赛事: 完美世界 挑战者系
- 列赛 1\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制: BO
- 3\n等级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384963
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:5E全国大赛夏季赛总决赛: Magic Cape vs ICECOLD
-DTSTART:20250829T060000Z
-DTEND:20250829T070000Z
-UID:cg_mc_manual_1862@5eplay.com
-DESCRIPTION:比赛ID: cg_mc_manual_1862\n赛事: 5E全国大赛夏季赛
- 总决赛\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1
- \n等级: 其他\n状态: 未开始\n预估时长: 1.0小时\n数据来源
- : 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1862
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:5E全国大赛夏季赛总决赛: BORING PLAYER vs SWC
 DTSTART:20250829T070000Z
 DTEND:20250829T080000Z
@@ -197,7 +161,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384747
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 1: TBD vs TBD
+SUMMARY:完美世界 挑战者系列赛 1:  3DMAX vs TBD
 DTSTART:20250829T090000Z
 DTEND:20250829T113000Z
 UID:csgo_mc_2384964@5eplay.com
@@ -444,5 +408,16 @@ DESCRIPTION:比赛ID: csgo_mc_2384755\n赛事: DraculaN 第一季\n阶段:
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384755
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 5: TNL vs Reason
+DTSTART:20250829T170000Z
+DTEND:20250829T193000Z
+UID:csgo_mc_2384882@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384882\n赛事: CCT 第3赛季 欧洲系列
+ 赛 5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384882
 END:VEVENT
 END:VCALENDAR
