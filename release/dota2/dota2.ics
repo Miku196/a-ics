@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Cis Battle S2: 4P vs Yes
-DTSTART:20250830T170000Z
-DTEND:20250830T200000Z
-UID:dt_mc_20250824200258j2pcl@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250824200258j2pcl\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250824200258j2pcl
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: MongolZ 
  vs Kopite
 DTSTART:20250831T030000Z
@@ -106,7 +95,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250823133252zfshq
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cis Battle S2: OG vs TBD
+SUMMARY:Cis Battle S2: OG vs L1ga
 DTSTART:20250901T090000Z
 DTEND:20250901T120000Z
 UID:dt_mc_20250824200301ksitx@5eplay.com
@@ -432,5 +421,27 @@ DESCRIPTION:比赛ID: dt_mc_202507112104371rr7u\n赛制: BO3\n轮次: 1/4
  态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202507112104371rr7u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251007T140000Z
+DTEND:20251007T170000Z
+UID:dt_mc_20250711210438vg3on@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210438vg3on\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 胜者组 1/4决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210438vg3on
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251007T170000Z
+DTEND:20251007T200000Z
+UID:dt_mc_20250711210440v2zd0@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210440v2zd0\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 胜者组 1/4决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210440v2zd0
 END:VEVENT
 END:VCALENDAR
