@@ -422,4 +422,15 @@ DESCRIPTION:比赛ID: dt_mc_20250711210436tgiso\n赛制: BO3\n轮次: 1/4
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250711210436tgiso
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251007T110000Z
+DTEND:20251007T140000Z
+UID:dt_mc_202507112104371rr7u@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202507112104371rr7u\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 胜者组 1/4决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202507112104371rr7u
+END:VEVENT
 END:VCALENDAR
