@@ -445,4 +445,16 @@ DESCRIPTION:比赛ID: csgo_mc_2384950\n赛事: ESL 挑战者联赛 S50 北
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384950
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 1: TYLOO vs TBD
+DTSTART:20250831T060000Z
+DTEND:20250831T083000Z
+UID:csgo_mc_2384968@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384968\n赛事: 完美世界 挑战者系
+ 列赛 1\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\
+ n等级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5
+ EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384968
+END:VEVENT
 END:VCALENDAR
