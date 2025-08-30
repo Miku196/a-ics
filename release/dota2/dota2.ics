@@ -433,4 +433,15 @@ DESCRIPTION:比赛ID: dt_mc_20250711210435h2eg8\n赛制: BO3\n轮次: 决
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250711210435h2eg8
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251005T110000Z
+DTEND:20251005T140000Z
+UID:dt_mc_2025071121043646tfq@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_2025071121043646tfq\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 小组赛 败者组 决赛\n赛事等级: 其他\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_2025071121043646tfq
+END:VEVENT
 END:VCALENDAR
