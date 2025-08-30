@@ -49,7 +49,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250824200301edzbz
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cis Battle S2: L1ga vs YeS
+SUMMARY:Cis Battle S2: Kalmychata vs YeS
 DTSTART:20250831T140000Z
 DTEND:20250831T170000Z
 UID:dt_mc_20250824203552b5twe@5eplay.com
@@ -443,5 +443,16 @@ DESCRIPTION:比赛ID: dt_mc_20250711210440v2zd0\n赛制: BO3\n轮次: 1/4
  态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250711210440v2zd0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251008T080000Z
+DTEND:20251008T110000Z
+UID:dt_mc_20250711210440jcs8o@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210440jcs8o\n赛制: BO3\n轮次: 第1
+ 轮\n阶段: 淘汰赛 败者组 第1轮\n赛事等级: 其他\n状态: 
+ 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210440jcs8o
 END:VEVENT
 END:VCALENDAR
