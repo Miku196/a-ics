@@ -3,21 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第1季: BESTIA vs RED Canids
-DTSTART:20250830T210000Z
-DTEND:20250830T233000Z
-UID:csgo_mc_2384944@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384944\n赛事: ESL 挑战者联赛 S50 南
- 美 第1季\n阶段: 淘汰赛 败者组 第7轮\n轮次: 第7轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384944
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:夜班邀请赛 2025 北美: LAG vs BOSS
-DTSTART:20250830T230000Z
-DTEND:20250831T013000Z
+DTSTART:20250830T224500Z
+DTEND:20250831T011500Z
 UID:csgo_mc_2384992@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384992\n赛事: 夜班邀请赛 2025 北美
  \n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
@@ -151,17 +139,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384997
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第一季: TBD vs TBD
-DTSTART:20250831T100000Z
-DTEND:20250831T123000Z
-UID:csgo_mc_2384764@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384764\n赛事: DraculaN 第一季\n阶段:
-  淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: C级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384764
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLAST 伦敦公开赛 2025: FNC vs GL
 DTSTART:20250831T100000Z
 DTEND:20250831T123000Z
@@ -184,6 +161,17 @@ DESCRIPTION:比赛ID: csgo_mc_2384909\n赛事: 欧洲职业联赛 系列
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384909
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第一季: ENCE vs Monte
+DTSTART:20250831T110000Z
+DTEND:20250831T133000Z
+UID:csgo_mc_2384764@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384764\n赛事: DraculaN 第一季\n阶段:
+  淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: C级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384764
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Majestic LanDaLan 3 封闭预选: TPuDCATb_TPu vs AMKAL
@@ -231,9 +219,9 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384989
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第一季: TBD vs TBD
-DTSTART:20250831T130000Z
-DTEND:20250831T153000Z
+SUMMARY:DraculaN 第一季: FNC vs TBD
+DTSTART:20250831T143000Z
+DTEND:20250831T170000Z
 UID:csgo_mc_2384765@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384765\n赛事: DraculaN 第一季\n阶段:
   淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\n等级: C级\n状
@@ -242,7 +230,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384765
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST 伦敦公开赛 2025: Liquid vs TBD
+SUMMARY:BLAST 伦敦公开赛 2025: Liquid vs Spirit
 DTSTART:20250831T150000Z
 DTEND:20250831T173000Z
 UID:csgo_mc_2384848@5eplay.com
@@ -289,7 +277,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384849
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:夜班邀请赛 2025 北美: TBD vs TBD
+SUMMARY:夜班邀请赛 2025 北美: Getting Info vs TBD
 DTSTART:20250831T200000Z
 DTEND:20250831T223000Z
 UID:csgo_mc_2384993@5eplay.com
@@ -390,7 +378,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384843
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST 伦敦公开赛 2025: MOUZ vs TBD
+SUMMARY:BLAST 伦敦公开赛 2025: MOUZ vs FURIA
 DTSTART:20250901T150000Z
 DTEND:20250901T173000Z
 UID:csgo_mc_2384850@5eplay.com
@@ -410,5 +398,51 @@ DESCRIPTION:比赛ID: csgo_mc_2384957\n赛事: ESL 挑战者联赛 S50 欧
  预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST 伦敦公开赛 2025: TBD vs TBD
+DTSTART:20250901T173000Z
+DTEND:20250901T200000Z
+UID:csgo_mc_2384851@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384851\n赛事: BLAST 伦敦公开赛 2025\
+ n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
+ A级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S3: Marsborne vs BLUEJAYS
+DTSTART:20250902T000000Z
+DTEND:20250902T023000Z
+UID:csgo_mc_2384938@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384938\n赛事: Dust2.us 猎鹰大师赛 S3
+ \n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384938
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2封闭预选: TBD vs TBD
+DTSTART:20250902T080000Z
+DTEND:20250902T103000Z
+UID:csgo_mc_2384912@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384912\n赛事: 欧洲职业联赛 系列
+ 赛2封闭预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛
+ 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384912
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2封闭预选: TBD vs TBD
+DTSTART:20250902T103000Z
+DTEND:20250902T130000Z
+UID:csgo_mc_2384913@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384913\n赛事: 欧洲职业联赛 系列
+ 赛2封闭预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛
+ 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384913
 END:VEVENT
 END:VCALENDAR
