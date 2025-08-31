@@ -31,8 +31,8 @@ DTSTART:20250831T072000Z
 DTEND:20250831T095000Z
 UID:csgo_mc_2384996@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384996\n赛事: Telkom VS 游戏大师 2025
- \n赛制: BO3\n等级: C级\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+ \n阶段: 季军赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: C级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384996
 END:VEVENT
@@ -72,13 +72,13 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384969
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort Series 15: FORZE Reload vs Insilio
+SUMMARY:Exort Series 第15赛季: FORZE Reload vs Insilio
 DTSTART:20250831T093000Z
 DTEND:20250831T120000Z
 UID:csgo_mc_2384998@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384998\n赛事: Exort Series 15\n赛制: BO
- 3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2384998\n赛事: Exort Series 第15赛季\n
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384998
 END:VEVENT
@@ -110,8 +110,8 @@ DTSTART:20250831T100000Z
 DTEND:20250831T123000Z
 UID:csgo_mc_2384997@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384997\n赛事: Telkom VS 游戏大师 2025
- \n赛制: BO3\n等级: C级\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+ \n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: C级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384997
 END:VEVENT
@@ -162,13 +162,13 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384833
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort Series 15: RUSTEC vs Phantom
+SUMMARY:Exort Series 第15赛季: RUSTEC vs Phantom
 DTSTART:20250831T123000Z
 DTEND:20250831T150000Z
 UID:csgo_mc_2384999@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384999\n赛事: Exort Series 15\n赛制: BO
- 3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2384999\n赛事: Exort Series 第15赛季\n
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384999
 END:VEVENT
@@ -230,13 +230,13 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384848
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort Series 15: TPuDCATb_TPu vs UNiTY
+SUMMARY:Exort Series 第15赛季: TPuDCATb_TPu vs UNiTY
 DTSTART:20250831T153000Z
 DTEND:20250831T180000Z
 UID:csgo_mc_2385000@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385000\n赛事: Exort Series 15\n赛制: BO
- 3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2385000\n赛事: Exort Series 第15赛季\n
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385000
 END:VEVENT
@@ -276,18 +276,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384849
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort Series 15: HyperSpirit vs ECLOT
+SUMMARY:Exort Series 第15赛季: HyperSpirit vs ECLOT
 DTSTART:20250831T183000Z
 DTEND:20250831T210000Z
 UID:csgo_mc_2385001@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385001\n赛事: Exort Series 15\n赛制: BO
- 3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2385001\n赛事: Exort Series 第15赛季\n
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385001
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:夜班邀请赛 2025 北美: Getting Info vs TBD
+SUMMARY:夜班邀请赛 2025 北美: Getting Info vs BOSS
 DTSTART:20250831T200000Z
 DTEND:20250831T223000Z
 UID:csgo_mc_2384993@5eplay.com
@@ -309,7 +309,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384945
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第1季: NRG vs TBD
+SUMMARY:ESL 挑战者联赛 S50 北美 第1季: NRG vs BLUEJAYS
 DTSTART:20250901T010000Z
 DTEND:20250901T033000Z
 UID:csgo_mc_2384951@5eplay.com
@@ -377,13 +377,13 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384835
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort Series 15: TBD vs TBD
+SUMMARY:Exort Series 第15赛季: TBD vs TBD
 DTSTART:20250901T123000Z
 DTEND:20250901T150000Z
 UID:csgo_mc_2385002@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385002\n赛事: Exort Series 15\n赛制: BO
- 3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2385002\n赛事: Exort Series 第15赛季\n
+ 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385002
 END:VEVENT
@@ -410,13 +410,13 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384850
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort Series 15: TBD vs TBD
+SUMMARY:Exort Series 第15赛季: TBD vs TBD
 DTSTART:20250901T153000Z
 DTEND:20250901T180000Z
 UID:csgo_mc_2385003@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385003\n赛事: Exort Series 15\n赛制: BO
- 3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2385003\n赛事: Exort Series 第15赛季\n
+ 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385003
 END:VEVENT
@@ -441,5 +441,16 @@ DESCRIPTION:比赛ID: csgo_mc_2384851\n赛事: BLAST 伦敦公开赛 2025\
  A级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort Series 第15赛季: TBD vs TBD
+DTSTART:20250901T193000Z
+DTEND:20250901T220000Z
+UID:csgo_mc_2385004@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385004\n赛事: Exort Series 第15赛季\n
+ 阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385004
 END:VEVENT
 END:VCALENDAR
