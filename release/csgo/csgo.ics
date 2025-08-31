@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2封闭预选: 1win vs SPARTA
-DTSTART:20250831T103000Z
-DTEND:20250831T130000Z
-UID:csgo_mc_2384909@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384909\n赛事: 欧洲职业联赛 系列
- 赛2封闭预选\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛
- 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384909
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第一季: ENCE vs Monte
-DTSTART:20250831T110000Z
-DTEND:20250831T133000Z
-UID:csgo_mc_2384764@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384764\n赛事: DraculaN 第一季\n阶段:
-  淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: C级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384764
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: TPuDCATb_TPu vs AMKAL
-DTSTART:20250831T110000Z
-DTEND:20250831T133000Z
-UID:csgo_mc_2384833@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384833\n赛事: Majestic LanDaLan 3 封闭
- 预选\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384833
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Exort Series 第15赛季: RUSTEC vs Phantom
 DTSTART:20250831T123000Z
 DTEND:20250831T150000Z
@@ -69,17 +35,6 @@ DESCRIPTION:比赛ID: csgo_mc_2384888\n赛事: CCT 第3赛季 欧洲系列
  : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384888
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FRAG 第15赛季: Novaq vs TBD
-DTSTART:20250831T130000Z
-DTEND:20250831T153000Z
-UID:csgo_mc_2384989@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384989\n赛事: FRAG 第15赛季\n阶段: 
- 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2
- .5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384989
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DraculaN 第一季: FNC vs TBD
@@ -195,6 +150,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384951
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: Mindfreak vs Animus Victoria
+DTSTART:20250901T070000Z
+DTEND:20250901T093000Z
+UID:csgo_mc_2385005@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385005\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385005
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2封闭预选: HEROIC Academy vs Rhyno
 DTSTART:20250901T080000Z
 DTEND:20250901T103000Z
@@ -207,7 +174,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384910
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: Nuclear TigeRES vs TBD
+SUMMARY:Majestic LanDaLan 3 封闭预选: Nuclear TigeRES vs K27
 DTSTART:20250901T080000Z
 DTEND:20250901T103000Z
 UID:csgo_mc_2384834@5eplay.com
@@ -216,6 +183,18 @@ DESCRIPTION:比赛ID: csgo_mc_2384834\n赛事: Majestic LanDaLan 3 封闭
  级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384834
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: KZG vs Exsto
+DTSTART:20250901T100000Z
+DTEND:20250901T123000Z
+UID:csgo_mc_2385006@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385006\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLAST 伦敦公开赛 2025: Vitality vs FaZe
@@ -252,7 +231,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384835
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort Series 第15赛季: TBD vs TBD
+SUMMARY:Exort Series 第15赛季: FORZE Reload vs TBD
 DTSTART:20250901T123000Z
 DTEND:20250901T150000Z
 UID:csgo_mc_2385002@5eplay.com
@@ -340,6 +319,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384938
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: The Art of War vs LE-LUX
+DTSTART:20250902T070000Z
+DTEND:20250902T093000Z
+UID:csgo_mc_2385007@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385007\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385007
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2封闭预选: kONO vs TBD
 DTSTART:20250902T080000Z
 DTEND:20250902T103000Z
@@ -352,6 +343,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384912
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: Fury vs Underground
+DTSTART:20250902T100000Z
+DTEND:20250902T123000Z
+UID:csgo_mc_2385008@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385008\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385008
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2封闭预选: TBD vs TBD
 DTSTART:20250902T103000Z
 DTEND:20250902T130000Z
@@ -362,16 +365,5 @@ DESCRIPTION:比赛ID: csgo_mc_2384913\n赛事: 欧洲职业联赛 系列
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384913
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S3: Getting Info vs TBD
-DTSTART:20250903T000000Z
-DTEND:20250903T023000Z
-UID:csgo_mc_2384939@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384939\n赛事: Dust2.us 猎鹰大师赛 S3
- \n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384939
 END:VEVENT
 END:VCALENDAR
