@@ -3,54 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:FRAG 第15赛季: AI vs AK BARS
-DTSTART:20250831T070000Z
-DTEND:20250831T093000Z
-UID:csgo_mc_2384987@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384987\n赛事: FRAG 第15赛季\n阶段: 
- 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384987
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Telkom VS 游戏大师 2025: Nixuh vs Monarch Realm
-DTSTART:20250831T072000Z
-DTEND:20250831T095000Z
-UID:csgo_mc_2384996@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384996\n赛事: Telkom VS 游戏大师 2025
- \n阶段: 季军赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: C级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384996
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2封闭预选: Mousquetaires vs kONO
-DTSTART:20250831T080000Z
-DTEND:20250831T103000Z
-UID:csgo_mc_2384908@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384908\n赛事: 欧洲职业联赛 系列
- 赛2封闭预选\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛
- 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384908
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: CYBERSHOKE vs K27
-DTSTART:20250831T080000Z
-DTEND:20250831T103000Z
-UID:csgo_mc_2384832@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384832\n赛事: Majestic LanDaLan 3 封闭
- 预选\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384832
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:完美世界 挑战者系列赛 1:  3DMAX vs TBD
-DTSTART:20250831T090000Z
-DTEND:20250831T113000Z
+DTSTART:20250831T093000Z
+DTEND:20250831T120000Z
 UID:csgo_mc_2384969@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384969\n赛事: 完美世界 挑战者系
  列赛 1\n阶段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\n
