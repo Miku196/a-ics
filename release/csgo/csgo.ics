@@ -3,49 +3,26 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Exort Series 第15赛季: RUSTEC vs Phantom
-DTSTART:20250831T123000Z
-DTEND:20250831T150000Z
-UID:csgo_mc_2384999@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384999\n赛事: Exort Series 第15赛季\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384999
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST 伦敦公开赛 2025: M80 vs NAVI
-DTSTART:20250831T123000Z
-DTEND:20250831T150000Z
-UID:csgo_mc_2384840@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384840\n赛事: BLAST 伦敦公开赛 2025\
- n阶段: 小组赛 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n
- 等级: A级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5E
- Play
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384840
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 5: Spirit.A vs TNL
-DTSTART:20250831T130000Z
-DTEND:20250831T153000Z
-UID:csgo_mc_2384888@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384888\n赛事: CCT 第3赛季 欧洲系列
- 赛 5\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384888
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第一季: FNC vs TBD
-DTSTART:20250831T143000Z
-DTEND:20250831T170000Z
+SUMMARY:DraculaN 第一季: FNC vs Monte
+DTSTART:20250831T150000Z
+DTEND:20250831T173000Z
 UID:csgo_mc_2384765@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384765\n赛事: DraculaN 第一季\n阶段:
   淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\n等级: C级\n状
  态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384765
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CTRL POINT 第一季: Wahwah vs Legion
+DTSTART:20250831T150000Z
+DTEND:20250831T173000Z
+UID:csgo_mc_2385029@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385029\n赛事: CTRL POINT 第一季\n阶
+ 段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385029
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLAST 伦敦公开赛 2025: Liquid vs Spirit
@@ -60,18 +37,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384848
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort Series 第15赛季: TPuDCATb_TPu vs UNiTY
-DTSTART:20250831T153000Z
-DTEND:20250831T180000Z
-UID:csgo_mc_2385000@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385000\n赛事: Exort Series 第15赛季\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 5: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 5: BB vs TBD
 DTSTART:20250831T160000Z
 DTEND:20250831T183000Z
 UID:csgo_mc_2384889@5eplay.com
@@ -115,6 +81,17 @@ DESCRIPTION:比赛ID: csgo_mc_2385001\n赛事: Exort Series 第15赛季\n
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort Series 第15赛季: TPuDCATb_TPu vs UNiTY
+DTSTART:20250831T183000Z
+DTEND:20250831T210000Z
+UID:csgo_mc_2385000@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385000\n赛事: Exort Series 第15赛季\n
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:夜班邀请赛 2025 北美: Getting Info vs BOSS
@@ -242,7 +219,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385002
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST 伦敦公开赛 2025: TBD vs TBD
+SUMMARY:BLAST 伦敦公开赛 2025: FNC vs TBD
 DTSTART:20250901T123000Z
 DTEND:20250901T150000Z
 UID:csgo_mc_2384843@5eplay.com
@@ -331,7 +308,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385007
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2封闭预选: kONO vs TBD
+SUMMARY:欧洲职业联赛 系列赛2封闭预选: kONO vs SPARTA
 DTSTART:20250902T080000Z
 DTEND:20250902T103000Z
 UID:csgo_mc_2384912@5eplay.com
@@ -365,5 +342,64 @@ DESCRIPTION:比赛ID: csgo_mc_2384913\n赛事: 欧洲职业联赛 系列
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384913
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S3: Getting Info vs TBD
+DTSTART:20250903T000000Z
+DTEND:20250903T023000Z
+UID:csgo_mc_2384939@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384939\n赛事: Dust2.us 猎鹰大师赛 S3
+ \n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384939
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: TBD vs TBD
+DTSTART:20250903T070000Z
+DTEND:20250903T093000Z
+UID:csgo_mc_2385009@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385009\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2封闭预选: Algo vs Khan
+DTSTART:20250903T080000Z
+DTEND:20250903T103000Z
+UID:csgo_mc_2384914@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384914\n赛事: 欧洲职业联赛 系列
+ 赛2封闭预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛
+ 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384914
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: TBD vs TBD
+DTSTART:20250903T100000Z
+DTEND:20250903T123000Z
+UID:csgo_mc_2385010@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385010\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385010
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2封闭预选: m1x vs FORZE Reload
+DTSTART:20250903T103000Z
+DTEND:20250903T130000Z
+UID:csgo_mc_2384915@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384915\n赛事: 欧洲职业联赛 系列
+ 赛2封闭预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛
+ 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384915
 END:VEVENT
 END:VCALENDAR
