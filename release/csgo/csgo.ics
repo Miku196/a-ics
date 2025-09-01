@@ -3,41 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 2: Mindfreak vs Animus Victoria
-DTSTART:20250901T070000Z
-DTEND:20250901T093000Z
-UID:csgo_mc_2385005@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385005\n赛事: CCT 第3赛季 大洋洲系
- 列赛 2\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\
- n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385005
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2封闭预选: HEROIC Academy vs Rhyno
-DTSTART:20250901T080000Z
-DTEND:20250901T103000Z
-UID:csgo_mc_2384910@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384910\n赛事: 欧洲职业联赛 系列
- 赛2封闭预选\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛
- 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384910
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3 封闭预选: Nuclear TigeRES vs K27
-DTSTART:20250901T080000Z
-DTEND:20250901T103000Z
-UID:csgo_mc_2384834@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384834\n赛事: Majestic LanDaLan 3 封闭
- 预选\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384834
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 大洋洲系列赛 2: KZG vs Exsto
 DTSTART:20250901T100000Z
 DTEND:20250901T123000Z
