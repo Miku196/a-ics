@@ -3,37 +3,15 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:BLAST 伦敦公开赛 2025: FNC vs M80
-DTSTART:20250901T143000Z
-DTEND:20250901T170000Z
-UID:csgo_mc_2384843@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384843\n赛事: BLAST 伦敦公开赛 2025\
- n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- A级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384843
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLAST 伦敦公开赛 2025: MOUZ vs FURIA
-DTSTART:20250901T150000Z
-DTEND:20250901T173000Z
+DTSTART:20250901T163000Z
+DTEND:20250901T190000Z
 UID:csgo_mc_2384850@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384850\n赛事: BLAST 伦敦公开赛 2025\
  n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
  A级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384850
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort Series 第15赛季: TPuDCATb_TPu vs HyperSpirit
-DTSTART:20250901T153000Z
-DTEND:20250901T180000Z
-UID:csgo_mc_2385003@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385003\n赛事: Exort Series 第15赛季\n
- 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385003
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 欧洲 第1季: BB vs PARIVISION
@@ -48,8 +26,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2384957
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLAST 伦敦公开赛 2025: Spirit vs G2
-DTSTART:20250901T173000Z
-DTEND:20250901T200000Z
+DTSTART:20250901T183000Z
+DTEND:20250901T210000Z
 UID:csgo_mc_2384851@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384851\n赛事: BLAST 伦敦公开赛 2025\
  n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
