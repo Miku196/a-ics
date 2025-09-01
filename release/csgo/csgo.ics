@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:BLAST 伦敦公开赛 2025: Spirit vs G2
-DTSTART:20250901T183000Z
-DTEND:20250901T210000Z
-UID:csgo_mc_2384851@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384851\n赛事: BLAST 伦敦公开赛 2025\
- n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- A级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384851
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort Series 第15赛季: Phantom vs TPuDCATb_TPu
-DTSTART:20250901T193000Z
-DTEND:20250901T220000Z
-UID:csgo_mc_2385004@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385004\n赛事: Exort Series 第15赛季\n
- 阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385004
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S3: Marsborne vs BLUEJAYS
 DTSTART:20250902T000000Z
 DTEND:20250902T023000Z
@@ -452,5 +430,16 @@ DESCRIPTION:比赛ID: csgo_mc_2385027\n赛事: CCT 第3赛季 大洋洲系
   5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: TBD vs TBD
+DTSTART:20250912T060000Z
+DTEND:20250912T100000Z
+UID:csgo_mc_2385028@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385028\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 淘汰赛\n赛制: BO5\n等级: 其他\n状态: 未开
+ 始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385028
 END:VEVENT
 END:VCALENDAR
