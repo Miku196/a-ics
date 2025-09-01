@@ -442,4 +442,40 @@ DESCRIPTION:比赛ID: csgo_mc_2385028\n赛事: CCT 第3赛季 大洋洲系
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385028
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tipsport 夏季杯 2025 决赛: Glore vs UNiTY
+DTSTART:20250912T150000Z
+DTEND:20250912T173000Z
+UID:csgo_mc_2384973@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384973\n赛事: Tipsport 夏季杯 2025 决
+ 赛\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384973
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tipsport 夏季杯 2025 决赛: SINNERS vs ECLOT
+DTSTART:20250912T180000Z
+DTEND:20250912T203000Z
+UID:csgo_mc_2384974@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384974\n赛事: Tipsport 夏季杯 2025 决
+ 赛\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384974
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tipsport 夏季杯 2025 决赛: TBD vs TBD
+DTSTART:20250913T150000Z
+DTEND:20250913T173000Z
+UID:csgo_mc_2384975@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384975\n赛事: Tipsport 夏季杯 2025 决
+ 赛\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384975
+END:VEVENT
 END:VCALENDAR
