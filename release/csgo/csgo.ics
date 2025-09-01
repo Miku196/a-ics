@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:BLAST 伦敦公开赛 2025: MOUZ vs FURIA
-DTSTART:20250901T163000Z
-DTEND:20250901T190000Z
-UID:csgo_mc_2384850@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384850\n赛事: BLAST 伦敦公开赛 2025\
- n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- A级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384850
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第1季: BB vs PARIVISION
-DTSTART:20250901T170000Z
-DTEND:20250901T193000Z
-UID:csgo_mc_2384957@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384957\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第1季\n阶段: 淘汰赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384957
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLAST 伦敦公开赛 2025: Spirit vs G2
 DTSTART:20250901T183000Z
 DTEND:20250901T210000Z
@@ -36,7 +14,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort Series 第15赛季: Phantom vs TBD
+SUMMARY:Exort Series 第15赛季: Phantom vs TPuDCATb_TPu
 DTSTART:20250901T193000Z
 DTEND:20250901T220000Z
 UID:csgo_mc_2385004@5eplay.com
@@ -450,5 +428,29 @@ DESCRIPTION:比赛ID: csgo_mc_2385025\n赛事: CCT 第3赛季 大洋洲系
   5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: TBD vs TBD
+DTSTART:20250911T070000Z
+DTEND:20250911T093000Z
+UID:csgo_mc_2385026@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385026\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: TBD vs TBD
+DTSTART:20250911T100000Z
+DTEND:20250911T123000Z
+UID:csgo_mc_2385027@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385027\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385027
 END:VEVENT
 END:VCALENDAR
