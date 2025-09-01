@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第1季: NRG vs BLUEJAYS
-DTSTART:20250901T010000Z
-DTEND:20250901T033000Z
-UID:csgo_mc_2384951@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384951\n赛事: ESL 挑战者联赛 S50 北
- 美 第1季\n阶段: 淘汰赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384951
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 大洋洲系列赛 2: Mindfreak vs Animus Victoria
 DTSTART:20250901T070000Z
 DTEND:20250901T093000Z
@@ -415,8 +404,9 @@ DTSTART:20250906T070000Z
 DTEND:20250906T093000Z
 UID:csgo_mc_2385015@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385015\n赛事: CCT 第3赛季 大洋洲系
- 列赛 2\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.
- 5小时\n数据来源: 5EPlay
+ 列赛 2\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385015
 END:VEVENT
@@ -426,8 +416,9 @@ DTSTART:20250906T100000Z
 DTEND:20250906T123000Z
 UID:csgo_mc_2385016@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385016\n赛事: CCT 第3赛季 大洋洲系
- 列赛 2\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.
- 5小时\n数据来源: 5EPlay
+ 列赛 2\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385016
 END:VEVENT
@@ -461,8 +452,9 @@ DTSTART:20250907T070000Z
 DTEND:20250907T093000Z
 UID:csgo_mc_2385017@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385017\n赛事: CCT 第3赛季 大洋洲系
- 列赛 2\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.
- 5小时\n数据来源: 5EPlay
+ 列赛 2\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385017
 END:VEVENT
