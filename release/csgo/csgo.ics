@@ -443,4 +443,27 @@ DESCRIPTION:比赛ID: csgo_mc_2384854\n赛事: BLAST 伦敦公开赛 2025
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384854
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST 伦敦公开赛 2025 决赛: TBD vs TBD
+DTSTART:20250906T170000Z
+DTEND:20250906T193000Z
+UID:csgo_mc_2384855@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384855\n赛事: BLAST 伦敦公开赛 2025 
+ 决赛\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: A级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384855
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: TBD vs TBD
+DTSTART:20250907T070000Z
+DTEND:20250907T093000Z
+UID:csgo_mc_2385017@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385017\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.
+ 5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385017
+END:VEVENT
 END:VCALENDAR
