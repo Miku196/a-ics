@@ -172,18 +172,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384938
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 2: The Art of War vs LE-LUX
-DTSTART:20250902T070000Z
-DTEND:20250902T093000Z
-UID:csgo_mc_2385007@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385007\n赛事: CCT 第3赛季 大洋洲系
- 列赛 2\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\
- n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385007
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2封闭预选: kONO vs SPARTA
 DTSTART:20250902T080000Z
 DTEND:20250902T103000Z
@@ -194,6 +182,18 @@ DESCRIPTION:比赛ID: csgo_mc_2384912\n赛事: 欧洲职业联赛 系列
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384912
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: The Art of War vs LE-LUX
+DTSTART:20250902T080000Z
+DTEND:20250902T103000Z
+UID:csgo_mc_2385007@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385007\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385007
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 大洋洲系列赛 2: Fury vs Underground
