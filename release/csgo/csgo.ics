@@ -3,20 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Exort Series 第15赛季: FORZE Reload vs Phantom
-DTSTART:20250901T123000Z
-DTEND:20250901T150000Z
-UID:csgo_mc_2385002@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385002\n赛事: Exort Series 第15赛季\n
- 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385002
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLAST 伦敦公开赛 2025: FNC vs M80
-DTSTART:20250901T123000Z
-DTEND:20250901T150000Z
+DTSTART:20250901T143000Z
+DTEND:20250901T170000Z
 UID:csgo_mc_2384843@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384843\n赛事: BLAST 伦敦公开赛 2025\
  n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
@@ -69,7 +58,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384851
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort Series 第15赛季: TBD vs TBD
+SUMMARY:Exort Series 第15赛季: Phantom vs TBD
 DTSTART:20250901T193000Z
 DTEND:20250901T220000Z
 UID:csgo_mc_2385004@5eplay.com
@@ -127,7 +116,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385008
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2封闭预选: Rhyno vs TBD
+SUMMARY:欧洲职业联赛 系列赛2封闭预选: Rhyno vs Ence.A
 DTSTART:20250902T103000Z
 DTEND:20250902T130000Z
 UID:csgo_mc_2384913@5eplay.com
@@ -150,7 +139,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384939
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 2: Animus Victoria vs TBD
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: Animus Victoria vs KZG
 DTSTART:20250903T070000Z
 DTEND:20250903T093000Z
 UID:csgo_mc_2385009@5eplay.com
@@ -198,7 +187,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384915
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 2: Mindfreak vs TBD
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: Mindfreak vs Exsto
 DTSTART:20250904T070000Z
 DTEND:20250904T093000Z
 UID:csgo_mc_2385011@5eplay.com
@@ -423,5 +412,65 @@ DESCRIPTION:比赛ID: csgo_mc_2385020\n赛事: CCT 第3赛季 大洋洲系
   5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385020
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: TBD vs TBD
+DTSTART:20250909T070000Z
+DTEND:20250909T093000Z
+UID:csgo_mc_2385021@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385021\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: TBD vs TBD
+DTSTART:20250909T100000Z
+DTEND:20250909T123000Z
+UID:csgo_mc_2385022@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385022\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: TBD vs TBD
+DTSTART:20250910T070000Z
+DTEND:20250910T093000Z
+UID:csgo_mc_2385023@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385023\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: TBD vs TBD
+DTSTART:20250910T100000Z
+DTEND:20250910T123000Z
+UID:csgo_mc_2385024@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385024\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: TBD vs TBD
+DTSTART:20250911T040000Z
+DTEND:20250911T063000Z
+UID:csgo_mc_2385025@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385025\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385025
 END:VEVENT
 END:VCALENDAR
