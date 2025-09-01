@@ -4,8 +4,8 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 大洋洲系列赛 2: KZG vs Exsto
-DTSTART:20250901T100000Z
-DTEND:20250901T123000Z
+DTSTART:20250901T101500Z
+DTEND:20250901T124500Z
 UID:csgo_mc_2385006@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385006\n赛事: CCT 第3赛季 大洋洲系
  列赛 2\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\
@@ -15,20 +15,9 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385006
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST 伦敦公开赛 2025: Vitality vs FaZe
-DTSTART:20250901T100000Z
-DTEND:20250901T123000Z
-UID:csgo_mc_2384842@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384842\n赛事: BLAST 伦敦公开赛 2025\
- n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- A级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384842
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2封闭预选: Ence.A vs Reason
-DTSTART:20250901T103000Z
-DTEND:20250901T130000Z
+DTSTART:20250901T110000Z
+DTEND:20250901T133000Z
 UID:csgo_mc_2384911@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384911\n赛事: 欧洲职业联赛 系列
  赛2封闭预选\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛
@@ -196,7 +185,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384939
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 2: TBD vs TBD
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: Animus Victoria vs TBD
 DTSTART:20250903T070000Z
 DTEND:20250903T093000Z
 UID:csgo_mc_2385009@5eplay.com
@@ -244,7 +233,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384915
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 2: TBD vs TBD
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: Mindfreak vs TBD
 DTSTART:20250904T070000Z
 DTEND:20250904T093000Z
 UID:csgo_mc_2385011@5eplay.com
@@ -434,5 +423,28 @@ DESCRIPTION:比赛ID: csgo_mc_2385018\n赛事: CCT 第3赛季 大洋洲系
   5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385018
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST 伦敦公开赛 2025 决赛: TBD vs TBD
+DTSTART:20250907T140000Z
+DTEND:20250907T180000Z
+UID:csgo_mc_2384856@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384856\n赛事: BLAST 伦敦公开赛 2025 
+ 决赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: A
+ 级\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384856
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: TBD vs TBD
+DTSTART:20250908T070000Z
+DTEND:20250908T093000Z
+UID:csgo_mc_2385019@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385019\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385019
 END:VEVENT
 END:VCALENDAR
