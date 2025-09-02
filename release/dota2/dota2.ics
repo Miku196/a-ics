@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Cis Battle S2: L1ga vs YeS
-DTSTART:20250902T100000Z
-DTEND:20250902T130000Z
-UID:dt_mc_20250824200306g7gps@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250824200306g7gps\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: \n状态: 未
- 开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250824200306g7gps
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cis Battle S2: OG vs Yes
 DTSTART:20250902T130000Z
 DTEND:20250902T160000Z
@@ -58,8 +47,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250901235353tqoo5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: TBD vs T
- BD
+SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: REKONIX 
+ vs MongolZ
 DTSTART:20250903T030000Z
 DTEND:20250903T060000Z
 UID:dt_mc_202508262038521ykod@5eplay.com
@@ -130,9 +119,9 @@ SUMMARY:TI14国际邀请赛: Tundra vs YB
 DTSTART:20250904T080000Z
 DTEND:20250904T110000Z
 UID:dt_mc_20250902155652novm4@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902155652novm4\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20250902155652novm4\n赛制: BO3\n轮次: 第
+ 一轮\n阶段: 小组赛 第一轮\n赛事等级: S级\n状态: 未开始
+ \n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902155652novm4
 END:VEVENT
@@ -141,9 +130,9 @@ SUMMARY:TI14国际邀请赛: Aurora vs XG
 DTSTART:20250904T080000Z
 DTEND:20250904T110000Z
 UID:dt_mc_202509021559524mhg5@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509021559524mhg5\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_202509021559524mhg5\n赛制: BO3\n轮次: 第
+ 一轮\n阶段: 小组赛 第一轮\n赛事等级: S级\n状态: 未开始
+ \n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509021559524mhg5
 END:VEVENT
@@ -152,9 +141,9 @@ SUMMARY:TI14国际邀请赛: TSpirit vs Wildcard
 DTSTART:20250904T080000Z
 DTEND:20250904T110000Z
 UID:dt_mc_20250902155953wdzwa@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902155953wdzwa\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20250902155953wdzwa\n赛制: BO3\n轮次: 第
+ 一轮\n阶段: 小组赛 第一轮\n赛事等级: S级\n状态: 未开始
+ \n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902155953wdzwa
 END:VEVENT
@@ -163,9 +152,9 @@ SUMMARY:TI14国际邀请赛:  Falcons vs Nemesis
 DTSTART:20250904T080000Z
 DTEND:20250904T110000Z
 UID:dt_mc_2025090215595330jqf@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_2025090215595330jqf\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_2025090215595330jqf\n赛制: BO3\n轮次: 第
+ 一轮\n阶段: 小组赛 第一轮\n赛事等级: S级\n状态: 未开始
+ \n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025090215595330jqf
 END:VEVENT
@@ -174,9 +163,9 @@ SUMMARY:TI14国际邀请赛: PARI vs Heroic
 DTSTART:20250904T110000Z
 DTEND:20250904T140000Z
 UID:dt_mc_20250902155652qf4ks@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902155652qf4ks\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20250902155652qf4ks\n赛制: BO3\n轮次: 第
+ 一轮\n阶段: 小组赛 第一轮\n赛事等级: S级\n状态: 未开始
+ \n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902155652qf4ks
 END:VEVENT
@@ -185,9 +174,9 @@ SUMMARY:TI14国际邀请赛: BB vs NGX
 DTSTART:20250904T110000Z
 DTEND:20250904T140000Z
 UID:dt_mc_20250902155653x3ts1@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902155653x3ts1\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20250902155653x3ts1\n赛制: BO3\n轮次: 第
+ 一轮\n阶段: 小组赛 第一轮\n赛事等级: S级\n状态: 未开始
+ \n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902155653x3ts1
 END:VEVENT
@@ -196,9 +185,9 @@ SUMMARY:TI14国际邀请赛: Tidebd vs NaVi
 DTSTART:20250904T110000Z
 DTEND:20250904T140000Z
 UID:dt_mc_202509021556532qz85@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509021556532qz85\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_202509021556532qz85\n赛制: BO3\n轮次: 第
+ 一轮\n阶段: 小组赛 第一轮\n赛事等级: S级\n状态: 未开始
+ \n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509021556532qz85
 END:VEVENT
@@ -207,9 +196,9 @@ SUMMARY:TI14国际邀请赛: Liquid vs BOOM
 DTSTART:20250904T110000Z
 DTEND:20250904T140000Z
 UID:dt_mc_20250902155954e5hdi@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902155954e5hdi\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20250902155954e5hdi\n赛制: BO3\n轮次: 第
+ 一轮\n阶段: 小组赛 第一轮\n赛事等级: S级\n状态: 未开始
+ \n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902155954e5hdi
 END:VEVENT
@@ -324,118 +313,113 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250901235356mkesl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: TBD vs T
- BD
-DTSTART:20250908T030000Z
-DTEND:20250908T060000Z
-UID:dt_mc_20250826203854xvxvw@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250826203854xvxvw\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: 其他\n状
- 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250905T080000Z
+DTEND:20250905T110000Z
+UID:dt_mc_20250902164451aqah3@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902164451aqah3\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250826203854xvxvw
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: TBD vs T
- BD
-DTSTART:20250908T060000Z
-DTEND:20250908T090000Z
-UID:dt_mc_20250826203855xk4i0@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250826203855xk4i0\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: 其他\n状
- 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250826203855xk4i0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: TW vs Allstars
-DTSTART:20250908T180000Z
-DTEND:20250908T210000Z
-UID:dt_mc_20250901235357cye5p@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250901235357cye5p\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250901235357cye5p
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: TC vs Fantasy
-DTSTART:20250908T210000Z
-DTEND:20250909T000000Z
-UID:dt_mc_20250901235358h7il2@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250901235358h7il2\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250901235358h7il2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: TBD vs T
- BD
-DTSTART:20250909T030000Z
-DTEND:20250909T060000Z
-UID:dt_mc_202508262038559m25h@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202508262038559m25h\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 淘汰赛 败者组 半决赛\n赛事等级: 其他\n状
- 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202508262038559m25h
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: TBD vs T
- BD
-DTSTART:20250909T060000Z
-DTEND:20250909T090000Z
-UID:dt_mc_20250826203856w4ejn@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250826203856w4ejn\n赛制: BO3\n轮次: 决
- 赛\n阶段: 淘汰赛 胜者组 决赛\n赛事等级: 其他\n状态: 未
- 开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250826203856w4ejn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: TBD vs T
- BD
-DTSTART:20250910T030000Z
-DTEND:20250910T060000Z
-UID:dt_mc_20250826203857we6al@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250826203857we6al\n赛制: BO3\n轮次: 决
- 赛\n阶段: 淘汰赛 败者组 决赛\n赛事等级: 其他\n状态: 未
- 开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250826203857we6al
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: TBD vs T
- BD
-DTSTART:20250910T063000Z
-DTEND:20250910T093000Z
-UID:dt_mc_20250826203858eaxb7@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250826203858eaxb7\n赛制: BO5\n轮次: 总
- 决赛\n阶段: 淘汰赛  总决赛\n赛事等级: 其他\n状态: 未开
- 始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250826203858eaxb7
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902164451aqah3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TI14国际邀请赛: TBD vs TBD
-DTSTART:20250911T110000Z
-DTEND:20250911T140000Z
-UID:dt_mc_2025090216030106uug@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_2025090216030106uug\n赛制: BO3\n赛事等级
- : S级\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+DTSTART:20250905T080000Z
+DTEND:20250905T110000Z
+UID:dt_mc_20250902164452qlupl@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902164452qlupl\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_2025090216030106uug
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902164452qlupl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: Pacific vs HunterZ
-DTSTART:20250911T180000Z
-DTEND:20250911T210000Z
-UID:dt_mc_20250902000254q8vj5@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902000254q8vj5\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250905T080000Z
+DTEND:20250905T110000Z
+UID:dt_mc_20250902164453j8v4z@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902164453j8v4z\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902000254q8vj5
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902164453j8v4z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250905T080000Z
+DTEND:20250905T110000Z
+UID:dt_mc_202509021702533lruo@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509021702533lruo\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509021702533lruo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250905T110000Z
+DTEND:20250905T140000Z
+UID:dt_mc_20250902164453j9hbp@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902164453j9hbp\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902164453j9hbp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250905T110000Z
+DTEND:20250905T140000Z
+UID:dt_mc_20250902164454bc9gn@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902164454bc9gn\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902164454bc9gn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250905T110000Z
+DTEND:20250905T140000Z
+UID:dt_mc_202509021644553xm64@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509021644553xm64\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509021644553xm64
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250905T110000Z
+DTEND:20250905T140000Z
+UID:dt_mc_20250902164455m28ex@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902164455m28ex\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902164455m28ex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250905T140000Z
+DTEND:20250905T170000Z
+UID:dt_mc_20250902164752ztfzw@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902164752ztfzw\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902164752ztfzw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250905T140000Z
+DTEND:20250905T170000Z
+UID:dt_mc_20250902164753q8dec@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902164753q8dec\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902164753q8dec
 END:VEVENT
 END:VCALENDAR
