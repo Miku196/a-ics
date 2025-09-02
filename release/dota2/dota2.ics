@@ -38,7 +38,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202508262038536sz48
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cis Battle S2: Yes vs TBD
+SUMMARY:Cis Battle S2: Yes vs L1ga
 DTSTART:20250903T110000Z
 DTEND:20250903T140000Z
 UID:dt_mc_20250824200308nrjb1@5eplay.com
@@ -421,5 +421,16 @@ DESCRIPTION:比赛ID: dt_mc_202509021647531a02y\n赛制: BO3\n阶段: 小
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509021647531a02y
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250906T080000Z
+DTEND:20250906T110000Z
+UID:dt_mc_202509021647544krlf@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509021647544krlf\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509021647544krlf
 END:VEVENT
 END:VCALENDAR
