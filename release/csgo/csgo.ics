@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:俄罗斯媒体精英联赛 2025: Team Buster vs Team-strogo
-DTSTART:20250902T150000Z
-DTEND:20250902T173000Z
-UID:csgo_mc_2385048@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385048\n赛事: 俄罗斯媒体精英联赛
-  2025\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级
- : \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385048
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESEA发展联赛 第54赛季 欧洲: Flame Sharks vs WOPA
 DTSTART:20250902T173000Z
 DTEND:20250902T200000Z
@@ -145,7 +134,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384914
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:俄罗斯媒体精英联赛 2025: Team Recrent vs TBD
+SUMMARY:俄罗斯媒体精英联赛 2025: Team Recrent vs Team m3wsu
 DTSTART:20250903T110000Z
 DTEND:20250903T133000Z
 UID:csgo_mc_2385049@5eplay.com
@@ -253,7 +242,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385011
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2封闭预选: EF vs TBD
+SUMMARY:欧洲职业联赛 系列赛2封闭预选: EF vs Rhyno
 DTSTART:20250904T080000Z
 DTEND:20250904T103000Z
 UID:csgo_mc_2384928@5eplay.com
@@ -456,5 +445,17 @@ DESCRIPTION:比赛ID: csgo_mc_2385057\n赛事: CCT 第3赛季 欧洲系列
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385057
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST 伦敦公开赛 2025 决赛: MOUZ vs M80
+DTSTART:20250905T133000Z
+DTEND:20250905T160000Z
+UID:csgo_mc_2384852@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384852\n赛事: BLAST 伦敦公开赛 2025 
+ 决赛\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
+ 级: A级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384852
 END:VEVENT
 END:VCALENDAR
