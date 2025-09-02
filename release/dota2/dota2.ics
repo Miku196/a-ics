@@ -3,18 +3,7 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Cis Battle S2: OG vs Yes
-DTSTART:20250902T130000Z
-DTEND:20250902T160000Z
-UID:dt_mc_20250824200305yv3jt@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250824200305yv3jt\n赛制: BO3\n轮次: 决
- 赛\n阶段: 淘汰赛 胜者组 决赛\n赛事等级: \n状态: 未开始
- \n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250824200305yv3jt
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cis Battle S2: TBD vs Kalmychata
+SUMMARY:Cis Battle S2: L1ga vs Kalmychata
 DTSTART:20250902T160000Z
 DTEND:20250902T190000Z
 UID:dt_mc_20250824200308hs78a@5eplay.com
@@ -421,5 +410,27 @@ DESCRIPTION:比赛ID: dt_mc_20250902164753q8dec\n赛制: BO3\n阶段: 小
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902164753q8dec
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250905T140000Z
+DTEND:20250905T170000Z
+UID:dt_mc_2025090216595248h62@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_2025090216595248h62\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_2025090216595248h62
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250905T140000Z
+DTEND:20250905T170000Z
+UID:dt_mc_202509021702537dj27@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509021702537dj27\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509021702537dj27
 END:VEVENT
 END:VCALENDAR
