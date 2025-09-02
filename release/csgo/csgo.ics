@@ -157,9 +157,9 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385038
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S3: Getting Info vs TBD
-DTSTART:20250903T001500Z
-DTEND:20250903T024500Z
+SUMMARY:Dust2.us 猎鹰大师赛 S3: Getting Info vs BLUEJAYS
+DTSTART:20250903T000000Z
+DTEND:20250903T023000Z
 UID:csgo_mc_2384939@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2384939\n赛事: Dust2.us 猎鹰大师赛 S3
  \n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
@@ -190,6 +190,17 @@ DESCRIPTION:比赛ID: csgo_mc_2384914\n赛事: 欧洲职业联赛 系列
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384914
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT Season 3 Europe Series 6 Closed Qualifier: TBD vs TBD
+DTSTART:20250903T080000Z
+DTEND:20250903T103000Z
+UID:csgo_mc_2385052@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385052\n赛事: CCT Season 3 Europe Series 
+ 6 Closed Qualifier\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估
+ 时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 大洋洲系列赛 2: TBD vs TBD
@@ -227,6 +238,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385049
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CCT Season 3 Europe Series 6 Closed Qualifier: TBD vs TBD
+DTSTART:20250903T110000Z
+DTEND:20250903T133000Z
+UID:csgo_mc_2385053@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385053\n赛事: CCT Season 3 Europe Series 
+ 6 Closed Qualifier\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估
+ 时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385053
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESEA发展联赛 第54赛季 欧洲: HyperSpirit vs Phantom
 DTSTART:20250903T130000Z
 DTEND:20250903T153000Z
@@ -250,6 +272,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385050
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CCT Season 3 Europe Series 6 Closed Qualifier: TBD vs TBD
+DTSTART:20250903T140000Z
+DTEND:20250903T163000Z
+UID:csgo_mc_2385054@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385054\n赛事: CCT Season 3 Europe Series 
+ 6 Closed Qualifier\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估
+ 时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385054
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:俄罗斯媒体精英联赛 2025: TBD vs TBD
 DTSTART:20250903T163000Z
 DTEND:20250903T190000Z
@@ -259,6 +292,17 @@ DESCRIPTION:比赛ID: csgo_mc_2385051\n赛事: 俄罗斯媒体精英联赛
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385051
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT Season 3 Europe Series 6 Closed Qualifier: TBD vs TBD
+DTSTART:20250903T170000Z
+DTEND:20250903T193000Z
+UID:csgo_mc_2385055@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385055\n赛事: CCT Season 3 Europe Series 
+ 6 Closed Qualifier\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估
+ 时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385055
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 大洋洲系列赛 2: Mindfreak vs Exsto
@@ -427,41 +471,5 @@ DESCRIPTION:比赛ID: csgo_mc_2384930\n赛事: 欧洲职业联赛 系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384930
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 2: TBD vs TBD
-DTSTART:20250905T100000Z
-DTEND:20250905T123000Z
-UID:csgo_mc_2385014@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385014\n赛事: CCT 第3赛季 大洋洲系
- 列赛 2\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\
- n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2封闭预选: TBD vs TBD
-DTSTART:20250905T103000Z
-DTEND:20250905T130000Z
-UID:csgo_mc_2384931@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384931\n赛事: 欧洲职业联赛 系列
- 赛2封闭预选\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制: BO3\
- n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384931
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST 伦敦公开赛 2025 决赛: MOUZ vs M80
-DTSTART:20250905T133000Z
-DTEND:20250905T160000Z
-UID:csgo_mc_2384852@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384852\n赛事: BLAST 伦敦公开赛 2025 
- 决赛\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
- 级: A级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384852
 END:VEVENT
 END:VCALENDAR
