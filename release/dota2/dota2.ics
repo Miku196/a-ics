@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: InterAct
- ive vs Veroja
-DTSTART:20250902T060000Z
-DTEND:20250902T090000Z
-UID:dt_mc_20250823130255l511m@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250823130255l511m\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250823130255l511m
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cis Battle S2: L1ga vs YeS
 DTSTART:20250902T100000Z
 DTEND:20250902T130000Z
