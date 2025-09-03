@@ -433,4 +433,15 @@ DESCRIPTION:比赛ID: dt_mc_20250902164755k9i7s\n赛制: BO3\n阶段: 小
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902164755k9i7s
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250906T080000Z
+DTEND:20250906T110000Z
+UID:dt_mc_20250902170254tm0n6@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902170254tm0n6\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902170254tm0n6
+END:VEVENT
 END:VCALENDAR
