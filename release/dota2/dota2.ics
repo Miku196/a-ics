@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Cis Battle S2: Yes vs L1ga
-DTSTART:20250903T110000Z
-DTEND:20250903T140000Z
-UID:dt_mc_20250824200308nrjb1@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250824200308nrjb1\n赛制: BO3\n轮次: 决
- 赛\n阶段: 淘汰赛 败者组 决赛\n赛事等级: \n状态: 未开始
- \n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250824200308nrjb1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cis Battle S2: OG vs TBD
 DTSTART:20250903T150000Z
 DTEND:20250903T180000Z
