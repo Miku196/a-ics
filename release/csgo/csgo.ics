@@ -99,6 +99,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385060
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第54赛季 欧洲: Fire Flux vs Insilio
+DTSTART:20250904T140000Z
+DTEND:20250904T163000Z
+UID:csgo_mc_2385045@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385045\n赛事: ESEA发展联赛 第54赛
+ 季 欧洲\n阶段: 淘汰赛 胜者组 第2轮\n轮次: 第2轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385045
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESEA发展联赛 第54赛季 欧洲: MINLATE vs KOLESIE
 DTSTART:20250904T140000Z
 DTEND:20250904T163000Z
@@ -122,6 +134,18 @@ DESCRIPTION:比赛ID: csgo_mc_2385090\n赛事: CCT 第3赛季 欧洲系列
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385090
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第54赛季 欧洲: Hesta vs Phantom
+DTSTART:20250904T143000Z
+DTEND:20250904T170000Z
+UID:csgo_mc_2385039@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385039\n赛事: ESEA发展联赛 第54赛
+ 季 欧洲\n阶段: 淘汰赛 胜者组 第2轮\n轮次: 第2轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385039
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Betclic Clash 夏季 2025 入围赛: Aab vs Mousquetaires
@@ -171,18 +195,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385091
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第54赛季 欧洲: Hesta vs Phantom
-DTSTART:20250904T173000Z
-DTEND:20250904T200000Z
-UID:csgo_mc_2385039@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385039\n赛事: ESEA发展联赛 第54赛
- 季 欧洲\n阶段: 淘汰赛 胜者组 第2轮\n轮次: 第2轮\n赛制: 
- BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385039
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESEA发展联赛 第54赛季 欧洲: Megoshort vs 1win
 DTSTART:20250904T173000Z
 DTEND:20250904T200000Z
@@ -193,18 +205,6 @@ DESCRIPTION:比赛ID: csgo_mc_2385040\n赛事: ESEA发展联赛 第54赛
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385040
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第54赛季 欧洲: Fire Flux vs Insilio
-DTSTART:20250904T173000Z
-DTEND:20250904T200000Z
-UID:csgo_mc_2385045@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385045\n赛事: ESEA发展联赛 第54赛
- 季 欧洲\n阶段: 淘汰赛 胜者组 第2轮\n轮次: 第2轮\n赛制: 
- BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385045
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESEA发展联赛 第54赛季 欧洲: K27 vs WOPA
@@ -466,5 +466,17 @@ DESCRIPTION:比赛ID: csgo_mc_2385066\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385066
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛4: ShindeN vs Tropa do KinGui
+DTSTART:20250905T220000Z
+DTEND:20250906T003000Z
+UID:csgo_mc_2385067@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385067\n赛事:  CCT 第3赛季 南美系
+ 列赛4\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385067
 END:VEVENT
 END:VCALENDAR
