@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Cis Battle S2: OG vs TBD
+SUMMARY:Cis Battle S2: OG vs L1ga
 DTSTART:20250903T150000Z
 DTEND:20250903T180000Z
 UID:dt_mc_20250824200310iv1y9@5eplay.com
@@ -430,5 +430,16 @@ DESCRIPTION:比赛ID: dt_mc_20250902164756urrot\n赛制: BO3\n阶段: 小
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902164756urrot
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250906T110000Z
+DTEND:20250906T140000Z
+UID:dt_mc_20250902164756ocbf3@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902164756ocbf3\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902164756ocbf3
 END:VEVENT
 END:VCALENDAR
