@@ -3,64 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: Aurora vs Wildcard
-DTSTART:20250904T163000Z
-DTEND:20250904T193000Z
-UID:dt_mc_202509021559551t7ez@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509021559551t7ez\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509021559551t7ez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: PARI vs TBD
-DTSTART:20250904T170000Z
-DTEND:20250904T200000Z
-UID:dt_mc_20250902155955y6ibv@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902155955y6ibv\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902155955y6ibv
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: Liquid vs Tidebd
-DTSTART:20250904T170000Z
-DTEND:20250904T200000Z
-UID:dt_mc_20250902155956ztefx@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902155956ztefx\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902155956ztefx
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: BOOM vs TBD
-DTSTART:20250904T170000Z
-DTEND:20250904T200000Z
-UID:dt_mc_20250902160259sls4y@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902160259sls4y\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902160259sls4y
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: HunterZ vs Lava
-DTSTART:20250904T180000Z
-DTEND:20250904T210000Z
-UID:dt_mc_20250901235355x8lm2@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250901235355x8lm2\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250901235355x8lm2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: NaVi vs Heroic
-DTSTART:20250904T183000Z
-DTEND:20250904T213000Z
+SUMMARY:TI14国际邀请赛: BOOM vs BB
+DTSTART:20250904T190000Z
+DTEND:20250904T220000Z
 UID:dt_mc_202509021602596s76p@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_202509021602596s76p\n赛制: BO3\n阶段: 小
  组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
@@ -397,5 +342,51 @@ DESCRIPTION:比赛ID: dt_mc_20250902164803yfzwo\n赛制: BO3\n阶段: 突
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902164803yfzwo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: Kopite v
+ s CARST
+DTSTART:20250908T030000Z
+DTEND:20250908T060000Z
+UID:dt_mc_20250826203854xvxvw@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250826203854xvxvw\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250826203854xvxvw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: MongolZ 
+ vs Veroja
+DTSTART:20250908T060000Z
+DTEND:20250908T090000Z
+UID:dt_mc_20250826203855xk4i0@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250826203855xk4i0\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250826203855xk4i0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: TW vs Allstars
+DTSTART:20250908T180000Z
+DTEND:20250908T210000Z
+UID:dt_mc_20250901235357cye5p@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250901235357cye5p\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250901235357cye5p
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: TC vs Fantasy
+DTSTART:20250908T210000Z
+DTEND:20250909T000000Z
+UID:dt_mc_20250901235358h7il2@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250901235358h7il2\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250901235358h7il2
 END:VEVENT
 END:VCALENDAR
