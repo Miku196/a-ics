@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: EB vs TC
-DTSTART:20250904T210000Z
-DTEND:20250905T000000Z
-UID:dt_mc_20250901235356mkesl@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250901235356mkesl\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250901235356mkesl
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TI14国际邀请赛: XG vs  Falcons
 DTSTART:20250905T080000Z
 DTEND:20250905T110000Z
@@ -58,7 +47,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509021702533lruo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs TBD
+SUMMARY:TI14国际邀请赛: PARI vs Tidebd
 DTSTART:20250905T110000Z
 DTEND:20250905T140000Z
 UID:dt_mc_20250902164453j9hbp@5eplay.com
@@ -69,7 +58,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902164453j9hbp
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs TBD
+SUMMARY:TI14国际邀请赛: NGX vs Liquid
 DTSTART:20250905T110000Z
 DTEND:20250905T140000Z
 UID:dt_mc_20250902164454bc9gn@5eplay.com
@@ -80,7 +69,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902164454bc9gn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs TBD
+SUMMARY:TI14国际邀请赛: NaVi vs BB
 DTSTART:20250905T110000Z
 DTEND:20250905T140000Z
 UID:dt_mc_202509021644553xm64@5eplay.com
@@ -91,7 +80,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509021644553xm64
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs TBD
+SUMMARY:TI14国际邀请赛: BOOM vs Heroic
 DTSTART:20250905T110000Z
 DTEND:20250905T140000Z
 UID:dt_mc_20250902164455m28ex@5eplay.com
@@ -425,5 +414,27 @@ DESCRIPTION:比赛ID: dt_mc_20250826203858eaxb7\n赛制: BO5\n轮次: 总
  始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250826203858eaxb7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250911T080000Z
+DTEND:20250911T110000Z
+UID:dt_mc_20250902164805b30hz@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902164805b30hz\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 胜者组 1/4决赛\n赛事等级: S级\n状态:
+  未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902164805b30hz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250911T110000Z
+DTEND:20250911T140000Z
+UID:dt_mc_2025090216030106uug@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_2025090216030106uug\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 胜者组 1/4决赛\n赛事等级: S级\n状态:
+  未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_2025090216030106uug
 END:VEVENT
 END:VCALENDAR
