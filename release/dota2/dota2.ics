@@ -4,36 +4,14 @@ PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
 SUMMARY:TI14国际邀请赛: PARI vs Tidebd
-DTSTART:20250905T110000Z
-DTEND:20250905T140000Z
+DTSTART:20250905T124500Z
+DTEND:20250905T154500Z
 UID:dt_mc_20250902164453j9hbp@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250902164453j9hbp\n赛制: BO3\n阶段: 小
  组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902164453j9hbp
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: NGX vs Liquid
-DTSTART:20250905T110000Z
-DTEND:20250905T140000Z
-UID:dt_mc_20250902164454bc9gn@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902164454bc9gn\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902164454bc9gn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: NaVi vs BB
-DTSTART:20250905T110000Z
-DTEND:20250905T140000Z
-UID:dt_mc_202509021644553xm64@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509021644553xm64\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509021644553xm64
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TI14国际邀请赛: TBD vs TBD
@@ -403,5 +381,38 @@ DESCRIPTION:比赛ID: dt_mc_20250902164806inblv\n赛制: BO3\n轮次: 1/4
   未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902164806inblv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: Pacific vs HunterZ
+DTSTART:20250911T180000Z
+DTEND:20250911T210000Z
+UID:dt_mc_20250902000254q8vj5@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000254q8vj5\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000254q8vj5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: OG.LATAM vs Tortu Ninjas
+DTSTART:20250911T210000Z
+DTEND:20250912T000000Z
+UID:dt_mc_20250902000254z3luj@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000254z3luj\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000254z3luj
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250912T080000Z
+DTEND:20250912T110000Z
+UID:dt_mc_202509021603043itay@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509021603043itay\n赛制: BO3\n轮次: 第1
+ 轮\n阶段: 淘汰赛 败者组 第1轮\n赛事等级: S级\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509021603043itay
 END:VEVENT
 END:VCALENDAR
