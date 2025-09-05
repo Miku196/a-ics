@@ -14,7 +14,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509021647531a02y
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs TBD
+SUMMARY:TI14国际邀请赛:  Falcons vs Liquid
 DTSTART:20250906T080000Z
 DTEND:20250906T110000Z
 UID:dt_mc_202509021647544krlf@5eplay.com
@@ -25,7 +25,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509021647544krlf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs TBD
+SUMMARY:TI14国际邀请赛: TSpirit vs PARI
 DTSTART:20250906T080000Z
 DTEND:20250906T110000Z
 UID:dt_mc_20250902164755k9i7s@5eplay.com
@@ -36,7 +36,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902164755k9i7s
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs TBD
+SUMMARY:TI14国际邀请赛: Aurora vs BB
 DTSTART:20250906T080000Z
 DTEND:20250906T110000Z
 UID:dt_mc_20250902170254tm0n6@5eplay.com
@@ -403,5 +403,27 @@ DESCRIPTION:比赛ID: dt_mc_20250902160306vq4hg\n赛制: BO3\n轮次: 1/4
   未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902160306vq4hg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250913T110000Z
+DTEND:20250913T140000Z
+UID:dt_mc_20250902160306vqndg@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902160306vqndg\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: S级\n状态:
+  未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902160306vqndg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250913T140000Z
+DTEND:20250913T170000Z
+UID:dt_mc_2025090216030791ae0@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_2025090216030791ae0\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 淘汰赛 胜者组 决赛\n赛事等级: S级\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_2025090216030791ae0
 END:VEVENT
 END:VCALENDAR
