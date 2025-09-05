@@ -3,50 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: XG vs  Falcons
-DTSTART:20250905T080000Z
-DTEND:20250905T110000Z
-UID:dt_mc_20250902164451aqah3@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902164451aqah3\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902164451aqah3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: Aurora vs YB
-DTSTART:20250905T080000Z
-DTEND:20250905T110000Z
-UID:dt_mc_20250902164452qlupl@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902164452qlupl\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902164452qlupl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: Nemesis vs Wildcard
-DTSTART:20250905T080000Z
-DTEND:20250905T110000Z
-UID:dt_mc_20250902164453j8v4z@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902164453j8v4z\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902164453j8v4z
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TSpirit vs Tundra
-DTSTART:20250905T080000Z
-DTEND:20250905T110000Z
-UID:dt_mc_202509021702533lruo@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509021702533lruo\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509021702533lruo
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TI14国际邀请赛: PARI vs Tidebd
 DTSTART:20250905T110000Z
 DTEND:20250905T140000Z
