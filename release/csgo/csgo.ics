@@ -3,24 +3,14 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:eXTREMESLAND 2025 Mongolia Open Qualifier 1: CW vs NomadS
-DTSTART:20250905T020000Z
-DTEND:20250905T043000Z
-UID:csgo_mc_2385119@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385119\n赛事: eXTREMESLAND 2025 Mongolia 
- Open Qualifier 1\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 
- 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385119
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:eXTREMESLAND 2025 Mongolia Open Qualifier 1: The Huns vs IHC
+SUMMARY:eXTREMESLAND 2025 蒙古公开预选赛 1: The Huns vs IHC
 DTSTART:20250905T050000Z
 DTEND:20250905T073000Z
 UID:csgo_mc_2385120@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385120\n赛事: eXTREMESLAND 2025 Mongolia 
- Open Qualifier 1\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 
- 2.5小时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2385120\n赛事: eXTREMESLAND 2025 蒙古公
+ 开预选赛 1\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385120
 END:VEVENT
@@ -37,13 +27,14 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385013
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:eXTREMESLAND 2025 Mongolia Open Qualifier 1: TBD vs TBD
+SUMMARY:eXTREMESLAND 2025 蒙古公开预选赛 1: TBD vs TBD
 DTSTART:20250905T080000Z
 DTEND:20250905T103000Z
 UID:csgo_mc_2385121@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385121\n赛事: eXTREMESLAND 2025 Mongolia 
- Open Qualifier 1\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 
- 2.5小时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2385121\n赛事: eXTREMESLAND 2025 蒙古公
+ 开预选赛 1\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385121
 END:VEVENT
@@ -119,13 +110,14 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385116
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:eXTREMESLAND 2025 Mongolia Open Qualifier 1: TBD vs TBD
+SUMMARY:eXTREMESLAND 2025 蒙古公开预选赛 1: TBD vs TBD
 DTSTART:20250905T110000Z
 DTEND:20250905T133000Z
 UID:csgo_mc_2385122@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385122\n赛事: eXTREMESLAND 2025 Mongolia 
- Open Qualifier 1\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 
- 2.5小时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2385122\n赛事: eXTREMESLAND 2025 蒙古公
+ 开预选赛 1\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385122
 END:VEVENT
@@ -147,8 +139,9 @@ DTSTART:20250905T120000Z
 DTEND:20250905T143000Z
 UID:csgo_mc_2385125@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385125\n赛事: ESEA发展联赛 第54赛
- 季 欧洲\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 
- 2.5小时\n数据来源: 5EPlay
+ 季 欧洲\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385125
 END:VEVENT
@@ -306,24 +299,25 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385067
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:eXTREMESLAND 2025 Mongolia Open Qualifier 1: TBD vs TBD
+SUMMARY:eXTREMESLAND 2025 蒙古公开预选赛 1: TBD vs TBD
 DTSTART:20250906T030000Z
 DTEND:20250906T053000Z
 UID:csgo_mc_2385123@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385123\n赛事: eXTREMESLAND 2025 Mongolia 
- Open Qualifier 1\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 
- 2.5小时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2385123\n赛事: eXTREMESLAND 2025 蒙古公
+ 开预选赛 1\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385123
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:eXTREMESLAND 2025 Mongolia Open Qualifier 1: TBD vs TBD
+SUMMARY:eXTREMESLAND 2025 蒙古公开预选赛 1: TBD vs TBD
 DTSTART:20250906T060000Z
 DTEND:20250906T083000Z
 UID:csgo_mc_2385124@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385124\n赛事: eXTREMESLAND 2025 Mongolia 
- Open Qualifier 1\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 
- 2.5小时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2385124\n赛事: eXTREMESLAND 2025 蒙古公
+ 开预选赛 1\n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 
+ 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385124
 END:VEVENT
