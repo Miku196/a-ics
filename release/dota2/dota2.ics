@@ -47,7 +47,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902170254tm0n6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs TBD
+SUMMARY:TI14国际邀请赛: NGX vs NaVi
 DTSTART:20250906T110000Z
 DTEND:20250906T140000Z
 UID:dt_mc_20250902164755ngfti@5eplay.com
@@ -58,7 +58,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902164755ngfti
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs TBD
+SUMMARY:TI14国际邀请赛: Wildcard vs BOOM
 DTSTART:20250906T110000Z
 DTEND:20250906T140000Z
 UID:dt_mc_20250902164756urrot@5eplay.com
@@ -425,5 +425,27 @@ DESCRIPTION:比赛ID: dt_mc_2025090216030791ae0\n赛制: BO3\n轮次: 决
  开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025090216030791ae0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250913T170000Z
+DTEND:20250913T200000Z
+UID:dt_mc_20250902160308toyvv@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902160308toyvv\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 淘汰赛 败者组 半决赛\n赛事等级: S级\n状态:
+  未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902160308toyvv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250914T080000Z
+DTEND:20250914T110000Z
+UID:dt_mc_20250902160308v0ecw@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902160308v0ecw\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 淘汰赛 败者组 决赛\n赛事等级: S级\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902160308v0ecw
 END:VEVENT
 END:VCALENDAR
