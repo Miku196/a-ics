@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: ShindeN vs Tropa do KinGui
-DTSTART:20250905T220000Z
-DTEND:20250906T003000Z
-UID:csgo_mc_2385067@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385067\n赛事:  CCT 第3赛季 南美系
- 列赛4\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385067
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:eXTREMESLAND 2025 蒙古公开预选赛 1: The Huns vs NomadS
 DTSTART:20250906T030000Z
 DTEND:20250906T053000Z
@@ -192,7 +180,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385094
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST 伦敦公开赛 2025 决赛: Vitality vs TBD
+SUMMARY:BLAST 伦敦公开赛 2025 决赛: Vitality vs MOUZ
 DTSTART:20250906T143000Z
 DTEND:20250906T170000Z
 UID:csgo_mc_2384854@5eplay.com
@@ -310,7 +298,40 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385131
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST 伦敦公开赛 2025 决赛: FURIA vs TBD
+SUMMARY:ESEA发展联赛 第54赛季 欧洲: K27 vs Nuclear TigeRES
+DTSTART:20250906T173000Z
+DTEND:20250906T200000Z
+UID:csgo_mc_2385239@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385239\n赛事: ESEA发展联赛 第54赛
+ 季 欧洲\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 
+ 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385239
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第54赛季 欧洲: Ursa vs Glitchtech
+DTSTART:20250906T173000Z
+DTEND:20250906T200000Z
+UID:csgo_mc_2385242@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385242\n赛事: ESEA发展联赛 第54赛
+ 季 欧洲\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 
+ 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385242
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第54赛季 欧洲: Lazer Cats vs Flame Sharks
+DTSTART:20250906T173000Z
+DTEND:20250906T200000Z
+UID:csgo_mc_2385241@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385241\n赛事: ESEA发展联赛 第54赛
+ 季 欧洲\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 
+ 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385241
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST 伦敦公开赛 2025 决赛: FURIA vs G2
 DTSTART:20250906T173000Z
 DTEND:20250906T200000Z
 UID:csgo_mc_2384855@5eplay.com
@@ -436,16 +457,5 @@ DESCRIPTION:比赛ID: csgo_mc_2385018\n赛事: CCT 第3赛季 大洋洲系
   5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United21 联赛 第37赛季: TBD vs TBD
-DTSTART:20250907T103000Z
-DTEND:20250907T130000Z
-UID:csgo_mc_2385150@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385150\n赛事: United21 联赛 第37赛季
- \n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
-  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385150
 END:VEVENT
 END:VCALENDAR
