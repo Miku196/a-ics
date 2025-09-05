@@ -36,17 +36,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509021644553xm64
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: BOOM vs Heroic
-DTSTART:20250905T110000Z
-DTEND:20250905T140000Z
-UID:dt_mc_20250902164455m28ex@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902164455m28ex\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902164455m28ex
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TI14国际邀请赛: TBD vs TBD
 DTSTART:20250905T140000Z
 DTEND:20250905T170000Z
@@ -403,5 +392,16 @@ DESCRIPTION:比赛ID: dt_mc_20250902164806pgyfw\n赛制: BO3\n轮次: 1/4
   未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902164806pgyfw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250911T170000Z
+DTEND:20250911T200000Z
+UID:dt_mc_20250902164806inblv@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902164806inblv\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 胜者组 1/4决赛\n赛事等级: S级\n状态:
+  未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902164806inblv
 END:VEVENT
 END:VCALENDAR
