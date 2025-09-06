@@ -4,8 +4,8 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY:eXTREMESLAND 2025 蒙古公开预选赛 1: The Huns vs NomadS
-DTSTART:20250906T030000Z
-DTEND:20250906T053000Z
+DTSTART:20250906T031000Z
+DTEND:20250906T054000Z
 UID:csgo_mc_2385123@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385123\n赛事: eXTREMESLAND 2025 蒙古公
  开预选赛 1\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制
@@ -303,8 +303,9 @@ DTSTART:20250906T173000Z
 DTEND:20250906T200000Z
 UID:csgo_mc_2385239@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385239\n赛事: ESEA发展联赛 第54赛
- 季 欧洲\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 
- 2.5小时\n数据来源: 5EPlay
+ 季 欧洲\n阶段: 淘汰赛 胜者组 第3轮\n轮次: 第3轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385239
 END:VEVENT
@@ -314,8 +315,9 @@ DTSTART:20250906T173000Z
 DTEND:20250906T200000Z
 UID:csgo_mc_2385242@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385242\n赛事: ESEA发展联赛 第54赛
- 季 欧洲\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 
- 2.5小时\n数据来源: 5EPlay
+ 季 欧洲\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385242
 END:VEVENT
@@ -325,8 +327,9 @@ DTSTART:20250906T173000Z
 DTEND:20250906T200000Z
 UID:csgo_mc_2385241@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385241\n赛事: ESEA发展联赛 第54赛
- 季 欧洲\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 
- 2.5小时\n数据来源: 5EPlay
+ 季 欧洲\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385241
 END:VEVENT
