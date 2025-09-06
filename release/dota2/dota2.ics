@@ -404,4 +404,15 @@ DESCRIPTION:比赛ID: dt_mc_20250902160308v0ecw\n赛制: BO3\n轮次: 决
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902160308v0ecw
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TI14国际邀请赛: TBD vs TBD
+DTSTART:20250914T110000Z
+DTEND:20250914T140000Z
+UID:dt_mc_20250902170255bstla@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902170255bstla\n赛制: BO5\n轮次: 总
+ 决赛\n阶段: 淘汰赛  总决赛\n赛事等级: S级\n状态: 未开
+ 始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902170255bstla
+END:VEVENT
 END:VCALENDAR
