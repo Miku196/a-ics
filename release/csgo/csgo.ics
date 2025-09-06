@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:eXTREMESLAND 2025 蒙古公开预选赛 1: CW vs TBD
-DTSTART:20250906T060000Z
-DTEND:20250906T083000Z
+SUMMARY:eXTREMESLAND 2025 蒙古公开预选赛 1: CW vs The Huns
+DTSTART:20250906T062000Z
+DTEND:20250906T085000Z
 UID:csgo_mc_2385124@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385124\n赛事: eXTREMESLAND 2025 蒙古公
  开预选赛 1\n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 
@@ -459,5 +459,17 @@ DESCRIPTION:比赛ID: csgo_mc_2385150\n赛事: United21 联赛 第37赛季
   其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385150
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2: Metizport vs HAWAII
+DTSTART:20250907T103000Z
+DTEND:20250907T130000Z
+UID:csgo_mc_2385174@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385174\n赛事: 欧洲职业联赛 系列
+ 赛2\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385174
 END:VEVENT
 END:VCALENDAR
