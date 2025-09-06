@@ -141,7 +141,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250826203858eaxb7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs TBD
+SUMMARY:TI14国际邀请赛: XG vs TBD
 DTSTART:20250911T080000Z
 DTEND:20250911T110000Z
 UID:dt_mc_20250902164805b30hz@5eplay.com
@@ -163,7 +163,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025090216030106uug
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs TBD
+SUMMARY:TI14国际邀请赛: BB vs TBD
 DTSTART:20250911T140000Z
 DTEND:20250911T170000Z
 UID:dt_mc_20250902164806pgyfw@5eplay.com
@@ -174,7 +174,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902164806pgyfw
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs TBD
+SUMMARY:TI14国际邀请赛: Tidebd vs TBD
 DTSTART:20250911T170000Z
 DTEND:20250911T200000Z
 UID:dt_mc_20250902164806inblv@5eplay.com
@@ -436,5 +436,16 @@ DESCRIPTION:比赛ID: dt_mc_20250902000258nsa32\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000258nsa32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: TW vs Pacific
+DTSTART:20250920T210000Z
+DTEND:20250921T000000Z
+UID:dt_mc_20250902000300axx2v@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000300axx2v\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000300axx2v
 END:VEVENT
 END:VCALENDAR
