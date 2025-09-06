@@ -132,7 +132,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385080
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛4: Players vs LaChampionsLiga
 DTSTART:20250906T130000Z
 DTEND:20250906T153000Z
 UID:csgo_mc_2385068@5eplay.com
@@ -203,7 +203,19 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385081
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: TBD vs TBD
+SUMMARY:ESEA发展联赛 第54赛季 欧洲: SkyFury vs Algo
+DTSTART:20250906T160000Z
+DTEND:20250906T183000Z
+UID:csgo_mc_2385127@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385127\n赛事: ESEA发展联赛 第54赛
+ 季 欧洲\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛4: MAGICOS vs Crashers
 DTSTART:20250906T160000Z
 DTEND:20250906T183000Z
 UID:csgo_mc_2385069@5eplay.com
@@ -260,18 +272,6 @@ DESCRIPTION:比赛ID: csgo_mc_2385128\n赛事: ESEA发展联赛 第54赛
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385128
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第54赛季 欧洲: SkyFury vs Algo
-DTSTART:20250906T173000Z
-DTEND:20250906T200000Z
-UID:csgo_mc_2385127@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385127\n赛事: ESEA发展联赛 第54赛
- 季 欧洲\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制: 
- BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385127
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESEA发展联赛 第54赛季 欧洲: Hesta vs Leo
@@ -354,7 +354,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385086
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛4: Tropa do KinGui vs JERSA
 DTSTART:20250906T190000Z
 DTEND:20250906T213000Z
 UID:csgo_mc_2385070@5eplay.com
@@ -377,7 +377,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385113
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛4: MIBR.fe vs Vasco
 DTSTART:20250906T220000Z
 DTEND:20250907T003000Z
 UID:csgo_mc_2385071@5eplay.com
@@ -457,5 +457,16 @@ DESCRIPTION:比赛ID: csgo_mc_2385018\n赛事: CCT 第3赛季 大洋洲系
   5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385018
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第37赛季: TBD vs TBD
+DTSTART:20250907T103000Z
+DTEND:20250907T130000Z
+UID:csgo_mc_2385150@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385150\n赛事: United21 联赛 第37赛季
+ \n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
+  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385150
 END:VEVENT
 END:VCALENDAR
