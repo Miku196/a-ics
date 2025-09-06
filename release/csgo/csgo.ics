@@ -3,50 +3,15 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: Tropa do KinGui vs JERSA
-DTSTART:20250906T190000Z
-DTEND:20250906T213000Z
-UID:csgo_mc_2385070@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385070\n赛事:  CCT 第3赛季 南美系
- 列赛4\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385070
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:夜晚邀请赛 2025 欧洲: Sashi vs TBD
-DTSTART:20250906T190000Z
-DTEND:20250906T213000Z
-UID:csgo_mc_2385113@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385113\n赛事: 夜晚邀请赛 2025 欧洲
- \n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385113
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第54赛季 欧洲: Phantom vs 1win
-DTSTART:20250906T193000Z
-DTEND:20250906T220000Z
-UID:csgo_mc_2385131@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385131\n赛事: ESEA发展联赛 第54赛
- 季 欧洲\n阶段: 淘汰赛 胜者组 第3轮\n轮次: 第3轮\n赛制: 
- BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385131
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fragadelphia Fragville 2025: Wildcard vs powerFinesse
+SUMMARY:Fragadelphia Fragville 2025: NRG vs Radford University
 DTSTART:20250906T203000Z
 DTEND:20250906T230000Z
-UID:csgo_mc_2385270@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385270\n赛事: Fragadelphia Fragville 2025
+UID:csgo_mc_2385271@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385271\n赛事: Fragadelphia Fragville 2025
  \n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 其
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385270
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385271
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fragadelphia Fragville 2025: Getting Info vs GameHunters
@@ -58,28 +23,6 @@ DESCRIPTION:比赛ID: csgo_mc_2385272\n赛事: Fragadelphia Fragville 2025
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385272
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fragadelphia Fragville 2025: ODDIK vs Reactor 9
-DTSTART:20250906T203000Z
-DTEND:20250906T230000Z
-UID:csgo_mc_2385274@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385274\n赛事: Fragadelphia Fragville 2025
- \n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385274
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fragadelphia Fragville 2025: Marsborne vs Chicken Coop
-DTSTART:20250906T203000Z
-DTEND:20250906T230000Z
-UID:csgo_mc_2385268@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385268\n赛事: Fragadelphia Fragville 2025
- \n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385268
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 南美系列赛4: MIBR.fe vs Vasco
@@ -94,18 +37,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385071
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Fragville 2025: NRG vs TBD
-DTSTART:20250906T230000Z
-DTEND:20250907T013000Z
-UID:csgo_mc_2385271@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385271\n赛事: Fragadelphia Fragville 2025
- \n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385271
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fragadelphia Fragville 2025: SkinRave vs TBD
+SUMMARY:Fragadelphia Fragville 2025: SkinRave vs Shimmer
 DTSTART:20250906T230000Z
 DTEND:20250907T013000Z
 UID:csgo_mc_2385273@5eplay.com
@@ -116,7 +48,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385273
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Fragville 2025: NIP vs TBD
+SUMMARY:Fragadelphia Fragville 2025: NIP vs Take Flyte
 DTSTART:20250906T230000Z
 DTEND:20250907T013000Z
 UID:csgo_mc_2385267@5eplay.com
@@ -127,7 +59,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385267
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Fragville 2025: Fluxo vs TBD
+SUMMARY:Fragadelphia Fragville 2025: Fluxo vs No Radar
 DTSTART:20250906T230000Z
 DTEND:20250907T013000Z
 UID:csgo_mc_2385269@5eplay.com
@@ -313,7 +245,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385098
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST 伦敦公开赛 2025 决赛: Vitality vs TBD
+SUMMARY:BLAST 伦敦公开赛 2025 决赛: Vitality vs G2
 DTSTART:20250907T143000Z
 DTEND:20250907T183000Z
 UID:csgo_mc_2384856@5eplay.com
@@ -333,5 +265,159 @@ DESCRIPTION:比赛ID: csgo_mc_2385083\n赛事: Betclic Clash 夏季 2025
  : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385083
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第54赛季 欧洲: Inner Circle vs Aurora YB
+DTSTART:20250907T160000Z
+DTEND:20250907T183000Z
+UID:csgo_mc_2385240@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385240\n赛事: ESEA发展联赛 第54赛
+ 季 欧洲\n阶段: 淘汰赛 胜者组 第3轮\n轮次: 第3轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛4: Galorys vs ShindeN
+DTSTART:20250907T160000Z
+DTEND:20250907T183000Z
+UID:csgo_mc_2385073@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385073\n赛事:  CCT 第3赛季 南美系
+ 列赛4\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385073
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 6 封闭预选赛: 1win vs Reason
+DTSTART:20250907T170000Z
+DTEND:20250907T193000Z
+UID:csgo_mc_2385099@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385099\n赛事: CCT 第3赛季 欧洲系列
+ 赛 6 封闭预选赛\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\
+ n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385099
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betclic Clash 夏季 2025 入围赛: TBD vs TBD
+DTSTART:20250907T180000Z
+DTEND:20250907T203000Z
+UID:csgo_mc_2385087@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385087\n赛事: Betclic Clash 夏季 2025 
+ 入围赛\n阶段: 淘汰赛 第2轮\n轮次: 第2轮\n赛制: BO3\n等级
+ : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385087
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:夜晚邀请赛 2025 欧洲: TNL vs ESC
+DTSTART:20250907T180000Z
+DTEND:20250907T220000Z
+UID:csgo_mc_2385114@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385114\n赛事: 夜晚邀请赛 2025 欧洲
+ \n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 其他\n
+ 状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛4: Keyd vs UnderDogs
+DTSTART:20250907T190000Z
+DTEND:20250907T213000Z
+UID:csgo_mc_2385074@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385074\n赛事:  CCT 第3赛季 南美系
+ 列赛4\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385074
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛4: KRÜ vs ex-W7M
+DTSTART:20250907T220000Z
+DTEND:20250908T003000Z
+UID:csgo_mc_2385075@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385075\n赛事:  CCT 第3赛季 南美系
+ 列赛4\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385075
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: KZG vs TBD
+DTSTART:20250908T070000Z
+DTEND:20250908T093000Z
+UID:csgo_mc_2385019@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385019\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第37赛季: MASONIC vs MANA
+DTSTART:20250908T080000Z
+DTEND:20250908T103000Z
+UID:csgo_mc_2385151@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385151\n赛事: United21 联赛 第37赛季
+ \n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385151
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2: Betera vs Famalicão
+DTSTART:20250908T080000Z
+DTEND:20250908T103000Z
+UID:csgo_mc_2385175@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385175\n赛事: 欧洲职业联赛 系列
+ 赛2\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385175
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 6 封闭预选赛: TBD vs TBD
+DTSTART:20250908T080000Z
+DTEND:20250908T103000Z
+UID:csgo_mc_2385100@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385100\n赛事: CCT 第3赛季 欧洲系列
+ 赛 6 封闭预选赛\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 大洋洲 第2季: KZG vs Gz
+DTSTART:20250908T090000Z
+DTEND:20250908T113000Z
+UID:csgo_mc_2385196@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385196\n赛事: ESL 挑战者联赛 S50 大
+ 洋洲 第2季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385196
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 大洋洲 第2季: ex-TALON vs Fury
+DTSTART:20250908T090000Z
+DTEND:20250908T113000Z
+UID:csgo_mc_2385197@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385197\n赛事: ESL 挑战者联赛 S50 大
+ 洋洲 第2季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385197
 END:VEVENT
 END:VCALENDAR
