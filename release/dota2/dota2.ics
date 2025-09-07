@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛:  Falcons vs TSpirit
-DTSTART:20250907T184500Z
-DTEND:20250907T214500Z
-UID:dt_mc_20250902164803yfzwo@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902164803yfzwo\n赛制: BO3\n阶段: 突
- 围赛 \n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902164803yfzwo
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: Kopite v
  s CARST
 DTSTART:20250908T030000Z
@@ -436,5 +425,16 @@ DESCRIPTION:比赛ID: dt_mc_20250902000301drjh1\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000301drjh1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: EB vs OG.LATAM
+DTSTART:20250921T210000Z
+DTEND:20250922T000000Z
+UID:dt_mc_20250902000301nxup6@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000301nxup6\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000301nxup6
 END:VEVENT
 END:VCALENDAR
