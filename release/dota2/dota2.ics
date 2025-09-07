@@ -108,7 +108,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250826203858eaxb7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: XG vs TBD
+SUMMARY:TI14国际邀请赛: XG vs Tundra
 DTSTART:20250911T080000Z
 DTEND:20250911T110000Z
 UID:dt_mc_20250902164805b30hz@5eplay.com
@@ -130,7 +130,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025090216030106uug
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: BB vs TBD
+SUMMARY:TI14国际邀请赛: Tidebd vs  Falcons
 DTSTART:20250911T140000Z
 DTEND:20250911T170000Z
 UID:dt_mc_20250902164806pgyfw@5eplay.com
@@ -141,7 +141,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902164806pgyfw
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: Tidebd vs TBD
+SUMMARY:TI14国际邀请赛: BB vs NGX
 DTSTART:20250911T170000Z
 DTEND:20250911T200000Z
 UID:dt_mc_20250902164806inblv@5eplay.com
@@ -436,5 +436,16 @@ DESCRIPTION:比赛ID: dt_mc_20250902000301nxup6\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000301nxup6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: TC vs Tortu Ninjas
+DTSTART:20250922T180000Z
+DTEND:20250922T210000Z
+UID:dt_mc_20250902000302lp84m@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000302lp84m\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000302lp84m
 END:VEVENT
 END:VCALENDAR
