@@ -4,8 +4,8 @@ PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
 SUMMARY:TI14国际邀请赛: Tundra vs Liquid
-DTSTART:20250907T140000Z
-DTEND:20250907T170000Z
+DTSTART:20250907T150000Z
+DTEND:20250907T180000Z
 UID:dt_mc_202509021648020mlgb@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_202509021648020mlgb\n赛制: BO3\n阶段: 突
  围赛 \n赛事等级: S级\n状态: 未开始\n预计时长: 3小时\n数
@@ -71,6 +71,16 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250901235358h7il2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: Tortu Ninjas vs Fantasy
+DTSTART:20250908T210000Z
+DTEND:20250909T000000Z
+UID:dt_mc_20250907214752xb97n@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907214752xb97n\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907214752xb97n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: TBD vs T
  BD
 DTSTART:20250909T030000Z
@@ -130,7 +140,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902164805b30hz
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs TBD
+SUMMARY:TI14国际邀请赛: Heroic vs TBD
 DTSTART:20250911T110000Z
 DTEND:20250911T140000Z
 UID:dt_mc_2025090216030106uug@5eplay.com
@@ -425,16 +435,5 @@ DESCRIPTION:比赛ID: dt_mc_20250902000300axx2v\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000300axx2v
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: Allstars vs HunterZ
-DTSTART:20250921T180000Z
-DTEND:20250921T210000Z
-UID:dt_mc_20250902000301drjh1@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902000301drjh1\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902000301drjh1
 END:VEVENT
 END:VCALENDAR

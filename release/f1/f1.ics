@@ -1345,185 +1345,187 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 意大利大奖赛即将开始 - 意大利大奖赛 第1次练
- 习赛
+SUMMARY:F1 意大利大奖赛 - 意大利大奖赛 第1次练习赛
 DTSTART:20250905T123000
 DTEND:20250905T143000
-UID:意大利大奖赛即将开始_意大利大奖赛_第1次练习赛_202
- 50905@f1calendar.com
+UID:意大利大奖赛_意大利大奖赛_第1次练习赛_20250905@f1cale
+ ndar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 意大利大奖赛即将开始 - 意大利大奖赛 第1次
- 练习赛\n时间: 12:30 (东八区)
-LOCATION:意大利大奖赛即将开始
+DESCRIPTION:F1 意大利大奖赛 - 意大利大奖赛 第1次练习赛\n
+ 时间: 12:30 (东八区)
+LOCATION:意大利大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 意大利大奖赛即将开始 - 意大利大奖赛 第1次
- 练习赛 即将开始
+DESCRIPTION:F1 意大利大奖赛 - 意大利大奖赛 第1次练习赛 
+ 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 意大利大奖赛即将开始 - 意大利大奖赛 第2次练
- 习赛
+SUMMARY:F1 意大利大奖赛 - 意大利大奖赛 第2次练习赛
 DTSTART:20250905T160000
 DTEND:20250905T180000
-UID:意大利大奖赛即将开始_意大利大奖赛_第2次练习赛_202
- 50905@f1calendar.com
+UID:意大利大奖赛_意大利大奖赛_第2次练习赛_20250905@f1cale
+ ndar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 意大利大奖赛即将开始 - 意大利大奖赛 第2次
- 练习赛\n时间: 16:00 (东八区)
-LOCATION:意大利大奖赛即将开始
+DESCRIPTION:F1 意大利大奖赛 - 意大利大奖赛 第2次练习赛\n
+ 时间: 16:00 (东八区)
+LOCATION:意大利大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 意大利大奖赛即将开始 - 意大利大奖赛 第2次
- 练习赛 即将开始
+DESCRIPTION:F1 意大利大奖赛 - 意大利大奖赛 第2次练习赛 
+ 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 意大利大奖赛即将开始 - 意大利大奖赛 第3次练
- 习赛
+SUMMARY:F1 意大利大奖赛 - 意大利大奖赛 第3次练习赛
 DTSTART:20250906T113000
 DTEND:20250906T133000
-UID:意大利大奖赛即将开始_意大利大奖赛_第3次练习赛_202
- 50906@f1calendar.com
+UID:意大利大奖赛_意大利大奖赛_第3次练习赛_20250906@f1cale
+ ndar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 意大利大奖赛即将开始 - 意大利大奖赛 第3次
- 练习赛\n时间: 11:30 (东八区)
-LOCATION:意大利大奖赛即将开始
+DESCRIPTION:F1 意大利大奖赛 - 意大利大奖赛 第3次练习赛\n
+ 时间: 11:30 (东八区)
+LOCATION:意大利大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 意大利大奖赛即将开始 - 意大利大奖赛 第3次
- 练习赛 即将开始
+DESCRIPTION:F1 意大利大奖赛 - 意大利大奖赛 第3次练习赛 
+ 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 意大利大奖赛即将开始 - 意大利大奖赛 排位赛
+SUMMARY:F1 意大利大奖赛 - 意大利大奖赛 排位赛
 DTSTART:20250906T150000
 DTEND:20250906T170000
-UID:意大利大奖赛即将开始_意大利大奖赛_排位赛_20250906@f
- 1calendar.com
+UID:意大利大奖赛_意大利大奖赛_排位赛_20250906@f1calendar.co
+ m
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 意大利大奖赛即将开始 - 意大利大奖赛 排位
- 赛\n时间: 15:00 (东八区)
-LOCATION:意大利大奖赛即将开始
+DESCRIPTION:F1 意大利大奖赛 - 意大利大奖赛 排位赛\n时间: 
+ 15:00 (东八区)
+LOCATION:意大利大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 意大利大奖赛即将开始 - 意大利大奖赛 排位
- 赛 即将开始
+DESCRIPTION:F1 意大利大奖赛 - 意大利大奖赛 排位赛 即将开
+ 始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 意大利大奖赛即将开始 - 意大利大奖赛 大奖赛
+SUMMARY:F1 意大利大奖赛 - 意大利大奖赛 大奖赛
 DTSTART:20250907T140000
 DTEND:20250907T160000
-UID:意大利大奖赛即将开始_意大利大奖赛_大奖赛_20250907@f
- 1calendar.com
+UID:意大利大奖赛_意大利大奖赛_大奖赛_20250907@f1calendar.co
+ m
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 意大利大奖赛即将开始 - 意大利大奖赛 大奖
- 赛\n时间: 14:00 (东八区)
-LOCATION:意大利大奖赛即将开始
+DESCRIPTION:F1 意大利大奖赛 - 意大利大奖赛 大奖赛\n时间: 
+ 14:00 (东八区)
+LOCATION:意大利大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 意大利大奖赛即将开始 - 意大利大奖赛 大奖
- 赛 即将开始
+DESCRIPTION:F1 意大利大奖赛 - 意大利大奖赛 大奖赛 即将开
+ 始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 阿塞拜疆大奖赛 - 阿塞拜疆大奖赛 第1次练习赛
+SUMMARY:F1 阿塞拜疆大奖赛即将开始 - 阿塞拜疆大奖赛 第1
+ 次练习赛
 DTSTART:20250919T093000
 DTEND:20250919T113000
-UID:阿塞拜疆大奖赛_阿塞拜疆大奖赛_第1次练习赛_20250919@
- f1calendar.com
+UID:阿塞拜疆大奖赛即将开始_阿塞拜疆大奖赛_第1次练习
+ 赛_20250919@f1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 阿塞拜疆大奖赛 - 阿塞拜疆大奖赛 第1次练习
- 赛\n时间: 09:30 (东八区)
-LOCATION:阿塞拜疆大奖赛
+DESCRIPTION:F1 阿塞拜疆大奖赛即将开始 - 阿塞拜疆大奖赛 
+ 第1次练习赛\n时间: 09:30 (东八区)
+LOCATION:阿塞拜疆大奖赛即将开始
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 阿塞拜疆大奖赛 - 阿塞拜疆大奖赛 第1次练习
- 赛 即将开始
+DESCRIPTION:F1 阿塞拜疆大奖赛即将开始 - 阿塞拜疆大奖赛 
+ 第1次练习赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 阿塞拜疆大奖赛 - 阿塞拜疆大奖赛 第2次练习赛
+SUMMARY:F1 阿塞拜疆大奖赛即将开始 - 阿塞拜疆大奖赛 第2
+ 次练习赛
 DTSTART:20250919T130000
 DTEND:20250919T150000
-UID:阿塞拜疆大奖赛_阿塞拜疆大奖赛_第2次练习赛_20250919@
- f1calendar.com
+UID:阿塞拜疆大奖赛即将开始_阿塞拜疆大奖赛_第2次练习
+ 赛_20250919@f1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 阿塞拜疆大奖赛 - 阿塞拜疆大奖赛 第2次练习
- 赛\n时间: 13:00 (东八区)
-LOCATION:阿塞拜疆大奖赛
+DESCRIPTION:F1 阿塞拜疆大奖赛即将开始 - 阿塞拜疆大奖赛 
+ 第2次练习赛\n时间: 13:00 (东八区)
+LOCATION:阿塞拜疆大奖赛即将开始
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 阿塞拜疆大奖赛 - 阿塞拜疆大奖赛 第2次练习
- 赛 即将开始
+DESCRIPTION:F1 阿塞拜疆大奖赛即将开始 - 阿塞拜疆大奖赛 
+ 第2次练习赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 阿塞拜疆大奖赛 - 阿塞拜疆大奖赛 第3次练习赛
+SUMMARY:F1 阿塞拜疆大奖赛即将开始 - 阿塞拜疆大奖赛 第3
+ 次练习赛
 DTSTART:20250920T093000
 DTEND:20250920T113000
-UID:阿塞拜疆大奖赛_阿塞拜疆大奖赛_第3次练习赛_20250920@
- f1calendar.com
+UID:阿塞拜疆大奖赛即将开始_阿塞拜疆大奖赛_第3次练习
+ 赛_20250920@f1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 阿塞拜疆大奖赛 - 阿塞拜疆大奖赛 第3次练习
- 赛\n时间: 09:30 (东八区)
-LOCATION:阿塞拜疆大奖赛
+DESCRIPTION:F1 阿塞拜疆大奖赛即将开始 - 阿塞拜疆大奖赛 
+ 第3次练习赛\n时间: 09:30 (东八区)
+LOCATION:阿塞拜疆大奖赛即将开始
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 阿塞拜疆大奖赛 - 阿塞拜疆大奖赛 第3次练习
- 赛 即将开始
+DESCRIPTION:F1 阿塞拜疆大奖赛即将开始 - 阿塞拜疆大奖赛 
+ 第3次练习赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 阿塞拜疆大奖赛 - 阿塞拜疆大奖赛 排位赛
+SUMMARY:F1 阿塞拜疆大奖赛即将开始 - 阿塞拜疆大奖赛 排
+ 位赛
 DTSTART:20250920T130000
 DTEND:20250920T150000
-UID:阿塞拜疆大奖赛_阿塞拜疆大奖赛_排位赛_20250920@f1calen
- dar.com
+UID:阿塞拜疆大奖赛即将开始_阿塞拜疆大奖赛_排位赛_2025
+ 0920@f1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 阿塞拜疆大奖赛 - 阿塞拜疆大奖赛 排位赛\n
- 时间: 13:00 (东八区)
-LOCATION:阿塞拜疆大奖赛
+DESCRIPTION:F1 阿塞拜疆大奖赛即将开始 - 阿塞拜疆大奖赛 
+ 排位赛\n时间: 13:00 (东八区)
+LOCATION:阿塞拜疆大奖赛即将开始
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 阿塞拜疆大奖赛 - 阿塞拜疆大奖赛 排位赛 即
- 将开始
+DESCRIPTION:F1 阿塞拜疆大奖赛即将开始 - 阿塞拜疆大奖赛 
+ 排位赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 阿塞拜疆大奖赛 - 阿塞拜疆大奖赛 大奖赛
+SUMMARY:F1 阿塞拜疆大奖赛即将开始 - 阿塞拜疆大奖赛 大
+ 奖赛
 DTSTART:20250921T120000
 DTEND:20250921T140000
-UID:阿塞拜疆大奖赛_阿塞拜疆大奖赛_大奖赛_20250921@f1calen
- dar.com
+UID:阿塞拜疆大奖赛即将开始_阿塞拜疆大奖赛_大奖赛_2025
+ 0921@f1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 阿塞拜疆大奖赛 - 阿塞拜疆大奖赛 大奖赛\n
- 时间: 12:00 (东八区)
-LOCATION:阿塞拜疆大奖赛
+DESCRIPTION:F1 阿塞拜疆大奖赛即将开始 - 阿塞拜疆大奖赛 
+ 大奖赛\n时间: 12:00 (东八区)
+LOCATION:阿塞拜疆大奖赛即将开始
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 阿塞拜疆大奖赛 - 阿塞拜疆大奖赛 大奖赛 即
- 将开始
+DESCRIPTION:F1 阿塞拜疆大奖赛即将开始 - 阿塞拜疆大奖赛 
+ 大奖赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -3,43 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第37赛季: Y.NIP vs Ence.A
-DTSTART:20250907T130000Z
-DTEND:20250907T153000Z
-UID:csgo_mc_2385149@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385149\n赛事: United21 联赛 第37赛季
- \n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
-  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385149
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:奥瑞斯 社区杯 2025: Souls Heart vs HAWAII
-DTSTART:20250907T130000Z
-DTEND:20250907T170000Z
-UID:csgo_mc_2385275@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385275\n赛事: 奥瑞斯 社区杯 2025\n
- 阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 其他\n状
- 态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385275
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: LP vs Bounty Hunters
-DTSTART:20250907T130000Z
-DTEND:20250907T153000Z
-UID:csgo_mc_2385072@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385072\n赛事:  CCT 第3赛季 南美系
- 列赛4\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385072
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GG Vasara 2025: LASED vs TBD
-DTSTART:20250907T140000Z
-DTEND:20250907T163000Z
+SUMMARY:GG Vasara 2025: LASED vs GALAXY
+DTSTART:20250907T141500Z
+DTEND:20250907T164500Z
 UID:csgo_mc_2385136@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385136\n赛事: GG Vasara 2025\n阶段: 淘
  汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状态: 未开
@@ -49,27 +15,14 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2385136
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fragadelphia Fragville 2025: NRG vs ODDIK
-DTSTART:20250907T140000Z
-DTEND:20250907T163000Z
+DTSTART:20250907T143000Z
+DTEND:20250907T170000Z
 UID:csgo_mc_2385286@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385286\n赛事: Fragadelphia Fragville 2025
  \n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385286
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6 封闭预选赛: NIP Impact vs AR
- CRED
-DTSTART:20250907T140000Z
-DTEND:20250907T163000Z
-UID:csgo_mc_2385098@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385098\n赛事: CCT 第3赛季 欧洲系列
- 赛 6 封闭预选赛\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\
- n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385098
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLAST 伦敦公开赛 2025 决赛: Vitality vs G2
@@ -424,5 +377,41 @@ DESCRIPTION:比赛ID: csgo_mc_2385204\n赛事: ESL 挑战者联赛 S50 亚
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385204
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第2季: The Huns vs UR
+DTSTART:20250908T130000Z
+DTEND:20250908T153000Z
+UID:csgo_mc_2385205@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385205\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第2季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385205
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第2季: TBO vs ScarX
+DTSTART:20250908T130000Z
+DTEND:20250908T153000Z
+UID:csgo_mc_2385206@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385206\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第2季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385206
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛4: TBD vs TBD
+DTSTART:20250908T130000Z
+DTEND:20250908T153000Z
+UID:csgo_mc_2385243@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385243\n赛事:  CCT 第3赛季 南美系
+ 列赛4\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385243
 END:VEVENT
 END:VCALENDAR
