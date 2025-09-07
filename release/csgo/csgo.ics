@@ -3,64 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第37赛季: Bushido Wildcats vs Wildcard Academy
-DTSTART:20250907T103000Z
-DTEND:20250907T130000Z
-UID:csgo_mc_2385150@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385150\n赛事: United21 联赛 第37赛季
- \n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
-  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385150
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2: Metizport vs HAWAII
-DTSTART:20250907T103000Z
-DTEND:20250907T130000Z
-UID:csgo_mc_2385174@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385174\n赛事: 欧洲职业联赛 系列
- 赛2\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385174
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GG Vasara 2025: GALAXY vs AntiW
-DTSTART:20250907T110000Z
-DTEND:20250907T133000Z
-UID:csgo_mc_2385135@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385135\n赛事: GG Vasara 2025\n阶段: 淘
- 汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n状态: 
- 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385135
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6 封闭预选赛: AMKAL vs CPH Wol
- ves
-DTSTART:20250907T110000Z
-DTEND:20250907T133000Z
-UID:csgo_mc_2385097@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385097\n赛事: CCT 第3赛季 欧洲系列
- 赛 6 封闭预选赛\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\
- n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385097
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Betclic Clash 夏季 2025 入围赛: FUT vs Phantom
-DTSTART:20250907T120000Z
-DTEND:20250907T143000Z
-UID:csgo_mc_2385082@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385082\n赛事: Betclic Clash 夏季 2025 
- 入围赛\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制: BO3\n等级
- : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385082
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:United21 联赛 第37赛季: Y.NIP vs Ence.A
 DTSTART:20250907T130000Z
 DTEND:20250907T153000Z
@@ -72,7 +14,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385149
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:奥瑞斯 社区杯 2025: Phantom vs HAWAII
+SUMMARY:奥瑞斯 社区杯 2025: Souls Heart vs HAWAII
 DTSTART:20250907T130000Z
 DTEND:20250907T170000Z
 UID:csgo_mc_2385275@5eplay.com
@@ -95,7 +37,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385072
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GG Vasara 2025: TBD vs TBD
+SUMMARY:GG Vasara 2025: LASED vs TBD
 DTSTART:20250907T140000Z
 DTEND:20250907T163000Z
 UID:csgo_mc_2385136@5eplay.com
@@ -267,7 +209,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385289
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 2: KZG vs TBD
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: KZG vs Animus Victoria
 DTSTART:20250908T070000Z
 DTEND:20250908T093000Z
 UID:csgo_mc_2385019@5eplay.com
@@ -446,5 +388,41 @@ DESCRIPTION:比赛ID: csgo_mc_2385201\n赛事: ESL 挑战者联赛 S50 亚
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第2季: NomadS vs Legion
+DTSTART:20250908T130000Z
+DTEND:20250908T153000Z
+UID:csgo_mc_2385202@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385202\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第2季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385202
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第2季: CW vs MAXXPOWER 
+DTSTART:20250908T130000Z
+DTEND:20250908T153000Z
+UID:csgo_mc_2385203@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385203\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第2季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第2季: IHC vs Just Swing
+DTSTART:20250908T130000Z
+DTEND:20250908T153000Z
+UID:csgo_mc_2385204@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385204\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第2季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385204
 END:VEVENT
 END:VCALENDAR
