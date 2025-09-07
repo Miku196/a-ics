@@ -165,13 +165,13 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385136
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Fragville 2025: TBD vs TBD
+SUMMARY:Fragadelphia Fragville 2025: NRG vs ODDIK
 DTSTART:20250907T140000Z
 DTEND:20250907T163000Z
 UID:csgo_mc_2385286@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385286\n赛事: Fragadelphia Fragville 2025
- \n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\
- n数据来源: 5EPlay
+ \n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385286
 END:VEVENT
@@ -235,13 +235,13 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385073
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Fragville 2025: TBD vs TBD
+SUMMARY:Fragadelphia Fragville 2025: NIP vs Wildcard
 DTSTART:20250907T164500Z
 DTEND:20250907T191500Z
 UID:csgo_mc_2385287@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385287\n赛事: Fragadelphia Fragville 2025
- \n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\
- n数据来源: 5EPlay
+ \n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385287
 END:VEVENT
@@ -297,8 +297,8 @@ DTSTART:20250907T193000Z
 DTEND:20250907T220000Z
 UID:csgo_mc_2385288@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385288\n赛事: Fragadelphia Fragville 2025
- \n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\
- n数据来源: 5EPlay
+ \n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385288
 END:VEVENT
@@ -320,8 +320,8 @@ DTSTART:20250907T221500Z
 DTEND:20250908T004500Z
 UID:csgo_mc_2385289@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385289\n赛事: Fragadelphia Fragville 2025
- \n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\
- n数据来源: 5EPlay
+ \n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385289
 END:VEVENT
@@ -420,5 +420,53 @@ DESCRIPTION:比赛ID: csgo_mc_2385198\n赛事: ESL 挑战者联赛 S50 大
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385198
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 2: Fury vs TBD
+DTSTART:20250908T100000Z
+DTEND:20250908T123000Z
+UID:csgo_mc_2385020@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385020\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 2\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385020
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第37赛季: WOPA vs AM
+DTSTART:20250908T103000Z
+DTEND:20250908T130000Z
+UID:csgo_mc_2385152@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385152\n赛事: United21 联赛 第37赛季
+ \n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385152
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2: SINNERS vs FORZE Reload
+DTSTART:20250908T103000Z
+DTEND:20250908T130000Z
+UID:csgo_mc_2385176@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385176\n赛事: 欧洲职业联赛 系列
+ 赛2\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385176
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 6 封闭预选赛: TBD vs TBD
+DTSTART:20250908T110000Z
+DTEND:20250908T133000Z
+UID:csgo_mc_2385101@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385101\n赛事: CCT 第3赛季 欧洲系列
+ 赛 6 封闭预选赛\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385101
 END:VEVENT
 END:VCALENDAR
