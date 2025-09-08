@@ -117,7 +117,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902164806inblv
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: Pacific vs HunterZ
+SUMMARY:ACS 系列赛 2: Flame vs HunterZ
 DTSTART:20250911T180000Z
 DTEND:20250911T210000Z
 UID:dt_mc_20250902000254q8vj5@5eplay.com
@@ -282,7 +282,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250901235953oodn7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: Pacific vs OG.LATAM
+SUMMARY:ACS 系列赛 2: Flame vs OG.LATAM
 DTSTART:20250916T210000Z
 DTEND:20250917T000000Z
 UID:dt_mc_20250902000252622t5@5eplay.com
@@ -326,7 +326,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000256milxz
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: Allstars vs Pacific
+SUMMARY:ACS 系列赛 2: Allstars vs Flame
 DTSTART:20250918T210000Z
 DTEND:20250919T000000Z
 UID:dt_mc_20250902000257o5hn6@5eplay.com
@@ -370,7 +370,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000258nsa32
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: TW vs Pacific
+SUMMARY:ACS 系列赛 2: TW vs Flame
 DTSTART:20250920T210000Z
 DTEND:20250921T000000Z
 UID:dt_mc_20250902000300axx2v@5eplay.com
@@ -414,7 +414,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000302lp84m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: Pacific vs Fantasy
+SUMMARY:ACS 系列赛 2: Flame vs Fantasy
 DTSTART:20250922T210000Z
 DTEND:20250923T000000Z
 UID:dt_mc_20250902000303fnal8@5eplay.com
