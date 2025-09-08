@@ -474,4 +474,16 @@ DESCRIPTION:比赛ID: csgo_mc_2385209\n赛事: ESL 挑战者联赛 S50 南
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385209
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: GameHunters vs Dusty Roots
+DTSTART:20250908T210000Z
+DTEND:20250908T233000Z
+UID:csgo_mc_2385212@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385212\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385212
+END:VEVENT
 END:VCALENDAR
