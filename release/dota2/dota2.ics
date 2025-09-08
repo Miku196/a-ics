@@ -36,8 +36,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250907214752xb97n
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: TBD vs T
- BD
+SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: CARST vs
+  TBD
 DTSTART:20250909T030000Z
 DTEND:20250909T060000Z
 UID:dt_mc_202508262038559m25h@5eplay.com
@@ -423,5 +423,16 @@ DESCRIPTION:比赛ID: dt_mc_20250902000302lp84m\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000302lp84m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: Pacific vs Fantasy
+DTSTART:20250922T210000Z
+DTEND:20250923T000000Z
+UID:dt_mc_20250902000303fnal8@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000303fnal8\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000303fnal8
 END:VEVENT
 END:VCALENDAR
