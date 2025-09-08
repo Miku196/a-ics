@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: Tortu Ninjas vs Fantasy
-DTSTART:20250908T210000Z
-DTEND:20250909T000000Z
-UID:dt_mc_20250907214752xb97n@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250907214752xb97n\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250907214752xb97n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: CARST vs
   MongolZ
 DTSTART:20250909T030000Z
@@ -434,5 +423,16 @@ DESCRIPTION:比赛ID: dt_mc_20250902000305ry1ne\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000305ry1ne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: EB vs Lava
+DTSTART:20250924T180000Z
+DTEND:20250924T210000Z
+UID:dt_mc_20250902000306uxnia@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000306uxnia\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000306uxnia
 END:VEVENT
 END:VCALENDAR
