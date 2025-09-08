@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Fragville 2025: NRG vs NIP
-DTSTART:20250907T231500Z
-DTEND:20250908T031500Z
-UID:csgo_mc_2385289@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385289\n赛事: Fragadelphia Fragville 2025
- \n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 其他\n
- 状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385289
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 大洋洲系列赛 2: KZG vs Animus Victoria
 DTSTART:20250908T070000Z
 DTEND:20250908T093000Z
@@ -447,5 +436,42 @@ DESCRIPTION:比赛ID: csgo_mc_2385281\n赛事: ESEA发展联赛 第54赛
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385281
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛4: TBD vs TBD
+DTSTART:20250908T190000Z
+DTEND:20250908T213000Z
+UID:csgo_mc_2385245@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385245\n赛事:  CCT 第3赛季 南美系
+ 列赛4\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385245
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: ex-Keyd Stars vs ex-Galory
+ s
+DTSTART:20250908T210000Z
+DTEND:20250908T233000Z
+UID:csgo_mc_2385208@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385208\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385208
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: JERSA vs Galorys
+DTSTART:20250908T210000Z
+DTEND:20250908T233000Z
+UID:csgo_mc_2385209@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385209\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385209
 END:VEVENT
 END:VCALENDAR
