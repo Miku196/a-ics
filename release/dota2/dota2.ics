@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: Ivory vs
-  REKONIX
-DTSTART:20250909T060000Z
-DTEND:20250909T090000Z
-UID:dt_mc_20250826203856w4ejn@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250826203856w4ejn\n赛制: BO3\n轮次: 决
- 赛\n阶段: 淘汰赛 胜者组 决赛\n赛事等级: 其他\n状态: 未
- 开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250826203856w4ejn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Epl S30: Team lynx vs LVLUP
 DTSTART:20250909T090000Z
 DTEND:20250909T120000Z
@@ -55,8 +43,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909073552akfd1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: TBD vs T
- BD
+SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: TBD vs M
+ ongolZ
 DTSTART:20250910T030000Z
 DTEND:20250910T060000Z
 UID:dt_mc_20250826203857we6al@5eplay.com
@@ -417,5 +405,15 @@ DESCRIPTION:比赛ID: dt_mc_20250902000252622t5\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000252622t5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Epl S30: UB vs Kalmychata
+DTSTART:20250917T090000Z
+DTEND:20250917T120000Z
+UID:dt_mc_20250909075954beebl@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250909075954beebl\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250909075954beebl
 END:VEVENT
 END:VCALENDAR
