@@ -442,4 +442,40 @@ DESCRIPTION:比赛ID: csgo_mc_2385191\n赛事: ESL 挑战者联赛 S50 欧
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385191
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: BC.Game vs Sashi
+DTSTART:20250909T170000Z
+DTEND:20250909T193000Z
+UID:csgo_mc_2385192@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385192\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385192
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Algo vs Nemiga
+DTSTART:20250909T170000Z
+DTEND:20250909T193000Z
+UID:csgo_mc_2385194@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385194\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385194
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Nexus vs ESC
+DTSTART:20250909T170000Z
+DTEND:20250909T193000Z
+UID:csgo_mc_2385193@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385193\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385193
+END:VEVENT
 END:VCALENDAR
