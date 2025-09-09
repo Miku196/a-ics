@@ -43,8 +43,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909073552akfd1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: TBD vs M
- ongolZ
+SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: Ivory vs
+  MongolZ
 DTSTART:20250910T030000Z
 DTEND:20250910T060000Z
 UID:dt_mc_20250826203857we6al@5eplay.com
@@ -55,8 +55,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250826203857we6al
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: TBD vs T
- BD
+SUMMARY:欧洲职业联赛 世界系列赛：东南亚 第八季: REKONIX 
+ vs TBD
 DTSTART:20250910T063000Z
 DTEND:20250910T093000Z
 UID:dt_mc_20250826203858eaxb7@5eplay.com
@@ -415,5 +415,15 @@ DESCRIPTION:比赛ID: dt_mc_20250909075954beebl\n赛制: BO3\n赛事等级
  : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909075954beebl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Epl S30: pipsqueak+4 vs VP.P
+DTSTART:20250917T120000Z
+DTEND:20250917T150000Z
+UID:dt_mc_20250909075956dwcgd@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250909075956dwcgd\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250909075956dwcgd
 END:VEVENT
 END:VCALENDAR
