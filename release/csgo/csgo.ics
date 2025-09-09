@@ -3,114 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第2季: MIBR vs UnderDogs
-DTSTART:20250909T210000Z
-DTEND:20250909T233000Z
-UID:csgo_mc_2385215@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385215\n赛事: ESL 挑战者联赛 S50 南
- 美 第2季\n阶段: 淘汰赛 胜者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385215
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第2季: Sharks vs ShindeN
-DTSTART:20250909T210000Z
-DTEND:20250909T233000Z
-UID:csgo_mc_2385219@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385219\n赛事: ESL 挑战者联赛 S50 南
- 美 第2季\n阶段: 淘汰赛 胜者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385219
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第2季: 2GAME vs GameHunters
-DTSTART:20250909T210000Z
-DTEND:20250909T233000Z
-UID:csgo_mc_2385220@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385220\n赛事: ESL 挑战者联赛 S50 南
- 美 第2季\n阶段: 淘汰赛 胜者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385220
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第2季: BESTIA vs Yawara
-DTSTART:20250909T210000Z
-DTEND:20250909T233000Z
-UID:csgo_mc_2385221@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385221\n赛事: ESL 挑战者联赛 S50 南
- 美 第2季\n阶段: 淘汰赛 胜者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第2季: Fluxo vs ex-W7M
-DTSTART:20250909T210000Z
-DTEND:20250909T233000Z
-UID:csgo_mc_2385222@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385222\n赛事: ESL 挑战者联赛 S50 南
- 美 第2季\n阶段: 淘汰赛 胜者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385222
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第2季: Keyd vs ex-Galorys
-DTSTART:20250909T210000Z
-DTEND:20250909T233000Z
-UID:csgo_mc_2385216@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385216\n赛事: ESL 挑战者联赛 S50 南
- 美 第2季\n阶段: 淘汰赛 胜者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385216
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第2季: RED Canids vs Galorys
-DTSTART:20250909T210000Z
-DTEND:20250909T233000Z
-UID:csgo_mc_2385217@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385217\n赛事: ESL 挑战者联赛 S50 南
- 美 第2季\n阶段: 淘汰赛 胜者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385217
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第2季: ODDIK vs Bounty Hunters
-DTSTART:20250909T210000Z
-DTEND:20250909T233000Z
-UID:csgo_mc_2385218@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385218\n赛事: ESL 挑战者联赛 S50 南
- 美 第2季\n阶段: 淘汰赛 胜者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385218
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: Galorys vs LP
-DTSTART:20250909T220000Z
-DTEND:20250910T003000Z
-UID:csgo_mc_2385250@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385250\n赛事:  CCT 第3赛季 南美系
- 列赛4\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385250
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Wildcard vs Nocturnal
 DTSTART:20250910T010000Z
 DTEND:20250910T033000Z
@@ -439,5 +331,63 @@ DESCRIPTION:比赛ID: csgo_mc_2385430\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385430
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TP 世界锦标赛 2025 封闭预选: TNL vs Imperial
+DTSTART:20250910T170000Z
+DTEND:20250910T193000Z
+UID:csgo_mc_2385166@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385166\n赛事: TP 世界锦标赛 2025 封
+ 闭预选\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制: BO3\n等级
+ : \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385166
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第4阶段 公开预选: EF vs 3DMAX Academy
+DTSTART:20250910T170000Z
+DTEND:20250910T193000Z
+UID:csgo_mc_2385447@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385447\n赛事: 银河之战 2025 第4阶
+ 段 公开预选\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估
+ 时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385447
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Metizport vs Betclic
+DTSTART:20250910T170000Z
+DTEND:20250910T193000Z
+UID:csgo_mc_2385351@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385351\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385351
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: HOTU vs Insilio
+DTSTART:20250910T170000Z
+DTEND:20250910T193000Z
+UID:csgo_mc_2385346@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385346\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385346
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Partizan vs Betera
+DTSTART:20250910T170000Z
+DTEND:20250910T193000Z
+UID:csgo_mc_2385349@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385349\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385349
 END:VEVENT
 END:VCALENDAR

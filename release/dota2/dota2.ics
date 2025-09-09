@@ -433,4 +433,15 @@ DESCRIPTION:比赛ID: dt_mc_20250909080252xoqx5\n赛制: BO3\n阶段: 小
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909080252xoqx5
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: TW vs Fantasy
+DTSTART:20250917T210000Z
+DTEND:20250918T000000Z
+UID:dt_mc_202509020002552ghh7@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509020002552ghh7\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509020002552ghh7
+END:VEVENT
 END:VCALENDAR
