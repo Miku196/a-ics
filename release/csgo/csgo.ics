@@ -3,57 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 大洋洲 第2季: ex-TALON vs Mindfreak
-DTSTART:20250909T090000Z
-DTEND:20250909T113000Z
-UID:csgo_mc_2385337@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385337\n赛事: ESL 挑战者联赛 S50 大
- 洋洲 第2季\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制
- : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385337
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 大洋洲 第2季: DanCompany vs KZG
-DTSTART:20250909T090000Z
-DTEND:20250909T113000Z
-UID:csgo_mc_2385336@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385336\n赛事: ESL 挑战者联赛 S50 大
- 洋洲 第2季\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制
- : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385336
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 大洋洲 第2季: SemperFi vs Gz
-DTSTART:20250909T090000Z
-DTEND:20250909T113000Z
-UID:csgo_mc_2385334@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385334\n赛事: ESL 挑战者联赛 S50 大
- 洋洲 第2季\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385334
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 大洋洲 第2季: Fury vs Rooster
-DTSTART:20250909T090000Z
-DTEND:20250909T113000Z
-UID:csgo_mc_2385335@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385335\n赛事: ESL 挑战者联赛 S50 大
- 洋洲 第2季\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385335
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 大洋洲系列赛 2: Rooster vs Underground
-DTSTART:20250909T100000Z
-DTEND:20250909T123000Z
+DTSTART:20250909T101500Z
+DTEND:20250909T124500Z
 UID:csgo_mc_2385022@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385022\n赛事: CCT 第3赛季 大洋洲系
  列赛 2\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制
@@ -419,5 +371,52 @@ DESCRIPTION:比赛ID: csgo_mc_2385193\n赛事: ESL 挑战者联赛 S50 欧
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385193
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: Partizan vs EF
+DTSTART:20250909T170000Z
+DTEND:20250909T193000Z
+UID:csgo_mc_2385107@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385107\n赛事: CCT 第3赛季 欧洲系列
+ 赛 6\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第54赛季 欧洲: K27 vs 1win
+DTSTART:20250909T173000Z
+DTEND:20250909T200000Z
+UID:csgo_mc_2385280@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385280\n赛事: ESEA发展联赛 第54赛
+ 季 欧洲\n阶段: 淘汰赛 胜者组 第4轮\n轮次: 第4轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385280
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛4: Keyd vs ex-W7M
+DTSTART:20250909T190000Z
+DTEND:20250909T213000Z
+UID:csgo_mc_2385249@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385249\n赛事:  CCT 第3赛季 南美系
+ 列赛4\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385249
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: MIBR vs UnderDogs
+DTSTART:20250909T210000Z
+DTEND:20250909T233000Z
+UID:csgo_mc_2385215@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385215\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 胜者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385215
 END:VEVENT
 END:VCALENDAR

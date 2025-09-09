@@ -3,42 +3,32 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Epl S30: Team lynx vs LVLUP
-DTSTART:20250909T090000Z
-DTEND:20250909T120000Z
-UID:dt_mc_20250909071452zzyik@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250909071452zzyik\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250909071452zzyik
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Epl S30: Passion vs eSpoiled
+SUMMARY:欧洲职业联赛 第三十赛季: Passion vs eSpoiled
 DTSTART:20250909T120000Z
 DTEND:20250909T150000Z
 UID:dt_mc_20250909073252j67f0@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250909073252j67f0\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909073252j67f0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epl S30: Nemiga vs pipsqueak+4
+SUMMARY:欧洲职业联赛 第三十赛季: Nemiga vs pipsqueak+4
 DTSTART:20250909T150000Z
 DTEND:20250909T180000Z
 UID:dt_mc_202509090740036jyh1@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_202509090740036jyh1\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509090740036jyh1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epl S30: TNL vs VP.P
+SUMMARY:欧洲职业联赛 第三十赛季: TNL vs VP.P
 DTSTART:20250909T180000Z
 DTEND:20250909T210000Z
 UID:dt_mc_20250909073552akfd1@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250909073552akfd1\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909073552akfd1
 END:VEVENT
@@ -67,42 +57,42 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250826203858eaxb7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epl S30: UB vs Nemiga
+SUMMARY:欧洲职业联赛 第三十赛季: UB vs Nemiga
 DTSTART:20250910T090000Z
 DTEND:20250910T120000Z
 UID:dt_mc_20250909073553tntu1@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250909073553tntu1\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909073553tntu1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epl S30: L1ga vs LVLUP
+SUMMARY:欧洲职业联赛 第三十赛季: L1ga vs LVLUP
 DTSTART:20250910T120000Z
 DTEND:20250910T150000Z
 UID:dt_mc_20250909073554ycarf@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250909073554ycarf\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909073554ycarf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epl S30: Winter Bear vs Passion
+SUMMARY:欧洲职业联赛 第三十赛季: Winter Bear vs Passion
 DTSTART:20250910T150000Z
 DTEND:20250910T180000Z
 UID:dt_mc_20250909073553aoy9h@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250909073553aoy9h\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909073553aoy9h
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epl S30: Team lynx vs eSpoiled
+SUMMARY:欧洲职业联赛 第三十赛季: Team lynx vs eSpoiled
 DTSTART:20250910T180000Z
 DTEND:20250910T210000Z
 UID:dt_mc_2025090907355539clt@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_2025090907355539clt\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025090907355539clt
 END:VEVENT
@@ -283,32 +273,32 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902170255bstla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epl S30: UB vs VP.P
+SUMMARY:欧洲职业联赛 第三十赛季: UB vs VP.P
 DTSTART:20250915T090000Z
 DTEND:20250915T120000Z
 UID:dt_mc_202509090735550ctnv@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_202509090735550ctnv\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509090735550ctnv
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epl S30: L1ga vs eSpoiled
+SUMMARY:欧洲职业联赛 第三十赛季: L1ga vs eSpoiled
 DTSTART:20250915T120000Z
 DTEND:20250915T150000Z
 UID:dt_mc_2025090907595246xh3@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_2025090907595246xh3\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025090907595246xh3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epl S30: Team lynx vs Passion
+SUMMARY:欧洲职业联赛 第三十赛季: Team lynx vs Passion
 DTSTART:20250915T150000Z
 DTEND:20250915T180000Z
 UID:dt_mc_20250909075952598tw@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250909075952598tw\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909075952598tw
 END:VEVENT
@@ -324,12 +314,12 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250901235952enr6s
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epl S30: TNL vs Kalmychata
+SUMMARY:欧洲职业联赛 第三十赛季: TNL vs Kalmychata
 DTSTART:20250915T180000Z
 DTEND:20250915T210000Z
 UID:dt_mc_20250909073556hejrb@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250909073556hejrb\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909073556hejrb
 END:VEVENT
@@ -345,32 +335,32 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509012359529r8uq
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epl S30: L1ga vs Team lynx
+SUMMARY:欧洲职业联赛 第三十赛季: L1ga vs Team lynx
 DTSTART:20250916T090000Z
 DTEND:20250916T120000Z
 UID:dt_mc_20250909075953tv5i5@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250909075953tv5i5\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909075953tv5i5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epl S30: VP.P vs Nemiga
+SUMMARY:欧洲职业联赛 第三十赛季: VP.P vs Nemiga
 DTSTART:20250916T120000Z
 DTEND:20250916T150000Z
 UID:dt_mc_20250909075953uixqk@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250909075953uixqk\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909075953uixqk
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epl S30: pipsqueak+4 vs TNL
+SUMMARY:欧洲职业联赛 第三十赛季: pipsqueak+4 vs TNL
 DTSTART:20250916T150000Z
 DTEND:20250916T180000Z
 UID:dt_mc_20250909080254k4rq1@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250909080254k4rq1\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909080254k4rq1
 END:VEVENT
@@ -386,12 +376,12 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250901235953oodn7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epl S30: LVLUP vs Winter Bear
+SUMMARY:欧洲职业联赛 第三十赛季: LVLUP vs Winter Bear
 DTSTART:20250916T180000Z
 DTEND:20250916T210000Z
 UID:dt_mc_20250909080255cbj4z@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250909080255cbj4z\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909080255cbj4z
 END:VEVENT
@@ -407,22 +397,22 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000252622t5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epl S30: UB vs Kalmychata
+SUMMARY:欧洲职业联赛 第三十赛季: UB vs Kalmychata
 DTSTART:20250917T090000Z
 DTEND:20250917T120000Z
 UID:dt_mc_20250909075954beebl@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250909075954beebl\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909075954beebl
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epl S30: pipsqueak+4 vs VP.P
+SUMMARY:欧洲职业联赛 第三十赛季: pipsqueak+4 vs VP.P
 DTSTART:20250917T120000Z
 DTEND:20250917T150000Z
 UID:dt_mc_20250909075956dwcgd@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250909075956dwcgd\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909075956dwcgd
 END:VEVENT
