@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 第三十赛季: Winter Bear vs Passion
-DTSTART:20250910T150000Z
-DTEND:20250910T180000Z
-UID:dt_mc_20250909073553aoy9h@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250909073553aoy9h\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250909073553aoy9h
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 第三十赛季: Team lynx vs eSpoiled
 DTSTART:20250910T180000Z
 DTEND:20250910T210000Z
@@ -430,5 +419,16 @@ DESCRIPTION:比赛ID: dt_mc_20250909080253qpamo\n赛制: BO3\n阶段: 小
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909080253qpamo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: TW vs TC
+DTSTART:20250918T180000Z
+DTEND:20250918T210000Z
+UID:dt_mc_20250902000256milxz@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000256milxz\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000256milxz
 END:VEVENT
 END:VCALENDAR
