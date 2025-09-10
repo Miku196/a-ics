@@ -403,4 +403,74 @@ DESCRIPTION:比赛ID: csgo_mc_2385330\n赛事: ESEA发展联赛 第54赛
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385330
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第54赛季 欧洲: Nuclear TigeRES vs Venom
+DTSTART:20250910T173000Z
+DTEND:20250910T200000Z
+UID:csgo_mc_2385331@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385331\n赛事: ESEA发展联赛 第54赛
+ 季 欧洲\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385331
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛4: Tropa do KinGui vs MAGICOS
+DTSTART:20250910T180000Z
+DTEND:20250910T203000Z
+UID:csgo_mc_2385431@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385431\n赛事:  CCT 第3赛季 南美系
+ 列赛4\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385431
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 欧洲: NIP Impact vs 888aura
+DTSTART:20250910T183000Z
+DTEND:20250910T210000Z
+UID:csgo_mc_2385137@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385137\n赛事: ESL Impact 联赛 第8赛
+ 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
+ 始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385137
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Nemesis Impact vs BIG.E
+DTSTART:20250910T183000Z
+DTEND:20250910T210000Z
+UID:csgo_mc_2385138@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385138\n赛事: ESL Impact 联赛 第8赛
+ 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
+ 始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385138
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: Players vs Fluxo
+DTSTART:20250910T210000Z
+DTEND:20250910T233000Z
+UID:csgo_mc_2385362@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385362\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385362
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: KRÜ vs ex-Galorys
+DTSTART:20250910T210000Z
+DTEND:20250910T233000Z
+UID:csgo_mc_2385368@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385368\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385368
+END:VEVENT
 END:VCALENDAR
