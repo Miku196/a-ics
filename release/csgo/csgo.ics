@@ -390,4 +390,76 @@ DESCRIPTION:比赛ID: csgo_mc_2385349\n赛事: ESL 挑战者联赛 S50 欧
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385349
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Spirit.A vs Tricked
+DTSTART:20250910T170000Z
+DTEND:20250910T193000Z
+UID:csgo_mc_2385347@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385347\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385347
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: ex-Passion UA vs Johnny Sp
+ eeds
+DTSTART:20250910T170000Z
+DTEND:20250910T193000Z
+UID:csgo_mc_2385350@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385350\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385350
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Algo vs Nexus
+DTSTART:20250910T170000Z
+DTEND:20250910T193000Z
+UID:csgo_mc_2385353@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385353\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Aab vs Sashi
+DTSTART:20250910T170000Z
+DTEND:20250910T193000Z
+UID:csgo_mc_2385352@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385352\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385352
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Monte vs FT
+DTSTART:20250910T170000Z
+DTEND:20250910T193000Z
+UID:csgo_mc_2385348@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385348\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385348
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: Johnny Speeds vs RUBY
+DTSTART:20250910T170000Z
+DTEND:20250910T193000Z
+UID:csgo_mc_2385111@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385111\n赛事: CCT 第3赛季 欧洲系列
+ 赛 6\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385111
+END:VEVENT
 END:VCALENDAR
