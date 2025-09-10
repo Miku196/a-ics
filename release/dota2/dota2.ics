@@ -4,8 +4,8 @@ PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 第三十赛季: L1ga vs LVLUP
-DTSTART:20250910T120000Z
-DTEND:20250910T150000Z
+DTSTART:20250910T123000Z
+DTEND:20250910T153000Z
 UID:dt_mc_20250909073554ycarf@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250909073554ycarf\n赛制: BO3\n阶段: 小
  组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
@@ -419,5 +419,27 @@ DESCRIPTION:比赛ID: dt_mc_20250909080253pbnqs\n赛制: BO3\n阶段: 小
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909080253pbnqs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: Winter Bear vs Team lynx
+DTSTART:20250918T120000Z
+DTEND:20250918T150000Z
+UID:dt_mc_202509090859526ygql@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509090859526ygql\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509090859526ygql
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: Kalmychata vs VP.P
+DTSTART:20250918T150000Z
+DTEND:20250918T180000Z
+UID:dt_mc_20250909080253qpamo@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250909080253qpamo\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250909080253qpamo
 END:VEVENT
 END:VCALENDAR
