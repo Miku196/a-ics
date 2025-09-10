@@ -431,4 +431,15 @@ DESCRIPTION:比赛ID: dt_mc_202509110059554tw5n\n赛制: BO3\n阶段: 小
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509110059554tw5n
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cringe Station 月蛇杯 3: Ivory vs Veroja
+DTSTART:20250917T070000Z
+DTEND:20250917T100000Z
+UID:dt_mc_20250911005955eqpya@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250911005955eqpya\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250911005955eqpya
+END:VEVENT
 END:VCALENDAR
