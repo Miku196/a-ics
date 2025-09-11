@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 2: SemperFi vs Underground
-DTSTART:20250911T040000Z
-DTEND:20250911T063000Z
-UID:csgo_mc_2385025@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385025\n赛事: CCT 第3赛季 大洋洲系
- 列赛 2\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\
- n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385025
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 大洋洲系列赛 2: Rooster vs Gz
 DTSTART:20250911T070000Z
 DTEND:20250911T093000Z
@@ -435,5 +423,39 @@ DESCRIPTION:比赛ID: csgo_mc_2385374\n赛事: ESL 挑战者联赛 S50 南
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: KRÜ vs Tropa do KinGui
+DTSTART:20250911T210000Z
+DTEND:20250911T233000Z
+UID:csgo_mc_2385377@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385377\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385377
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 南美: FURIA fe vs CAPIVARAS
+DTSTART:20250911T210000Z
+DTEND:20250911T233000Z
+UID:csgo_mc_2385144@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385144\n赛事: ESL Impact 联赛 第8赛
+ 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385144
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 南美: Curralzinho vs thekillaz fe
+DTSTART:20250911T210000Z
+DTEND:20250911T233000Z
+UID:csgo_mc_2385143@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385143\n赛事: ESL Impact 联赛 第8赛
+ 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385143
 END:VEVENT
 END:VCALENDAR
