@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 2: Underground vs TBD
-DTSTART:20250911T100000Z
-DTEND:20250911T123000Z
-UID:csgo_mc_2385027@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385027\n赛事: CCT 第3赛季 大洋洲系
- 列赛 2\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\
- n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385027
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:United21 联赛 第37赛季: MANA vs WOPA
 DTSTART:20250911T103000Z
 DTEND:20250911T130000Z
@@ -423,5 +411,53 @@ DESCRIPTION:比赛ID: csgo_mc_2385375\n赛事: ESL 挑战者联赛 S50 南
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385375
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: ex-W7M vs Yawara
+DTSTART:20250911T210000Z
+DTEND:20250911T233000Z
+UID:csgo_mc_2385373@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385373\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 胜者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385373
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: Keyd vs MIBR
+DTSTART:20250911T210000Z
+DTEND:20250911T233000Z
+UID:csgo_mc_2385370@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385370\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 胜者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385370
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: RED Canids vs ODDIK
+DTSTART:20250911T210000Z
+DTEND:20250911T233000Z
+UID:csgo_mc_2385371@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385371\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 胜者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385371
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: ShindeN vs 2GAME
+DTSTART:20250911T210000Z
+DTEND:20250911T233000Z
+UID:csgo_mc_2385372@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385372\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 胜者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385372
 END:VEVENT
 END:VCALENDAR
