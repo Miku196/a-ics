@@ -3,31 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: BB vs NGX
-DTSTART:20250911T170000Z
-DTEND:20250911T200000Z
-UID:dt_mc_20250902164806inblv@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902164806inblv\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 淘汰赛 胜者组 1/4决赛\n赛事等级: S级\n状态:
-  未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902164806inblv
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: Flame vs HunterZ
-DTSTART:20250911T180000Z
-DTEND:20250911T210000Z
-UID:dt_mc_20250902000254q8vj5@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902000254q8vj5\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902000254q8vj5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ACS 系列赛 2: OG.LATAM vs Tortu Ninjas
-DTSTART:20250911T180000Z
-DTEND:20250911T210000Z
+DTSTART:20250911T210000Z
+DTEND:20250912T000000Z
 UID:dt_mc_20250902000254z3luj@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250902000254z3luj\n赛制: BO3\n阶段: 小
  组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
@@ -58,7 +36,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509021603043itay
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs TBD
+SUMMARY:TI14国际邀请赛: Tidebd vs TBD
 DTSTART:20250912T110000Z
 DTEND:20250912T140000Z
 UID:dt_mc_2025090216480719dmy@5eplay.com
@@ -80,7 +58,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509021603051xoad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs TBD
+SUMMARY:TI14国际邀请赛:  Falcons vs TBD
 DTSTART:20250912T170000Z
 DTEND:20250912T200000Z
 UID:dt_mc_20250902160305ktyvh@5eplay.com
@@ -430,5 +408,16 @@ DESCRIPTION:比赛ID: dt_mc_20250909075956dwcgd\n赛制: BO3\n阶段: 小
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909075956dwcgd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: eSpoiled vs LVLUP
+DTSTART:20250917T150000Z
+DTEND:20250917T180000Z
+UID:dt_mc_20250909080255gu4j9@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250909080255gu4j9\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250909080255gu4j9
 END:VEVENT
 END:VCALENDAR
