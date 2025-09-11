@@ -3,41 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Let Her Cook vs Flame Sharks 
- fe
-DTSTART:20250911T183000Z
-DTEND:20250911T210000Z
-UID:csgo_mc_2385139@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385139\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385139
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Imperial fe vs Overpeek
-DTSTART:20250911T183000Z
-DTEND:20250911T210000Z
-UID:csgo_mc_2385140@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385140\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: Bounty Hunters vs ShindeN
-DTSTART:20250911T190000Z
-DTEND:20250911T213000Z
-UID:csgo_mc_2385435@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385435\n赛事:  CCT 第3赛季 南美系
- 列赛4\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385435
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 南美 第2季: BESTIA vs Fluxo
 DTSTART:20250911T210000Z
 DTEND:20250911T233000Z
@@ -327,5 +292,85 @@ DESCRIPTION:比赛ID: csgo_mc_2385290\n赛事: FISSURE 裂变天地 2\n阶
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385290
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2: Betera vs FORZE Reload
+DTSTART:20250912T103000Z
+DTEND:20250912T130000Z
+UID:csgo_mc_2385256@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385256\n赛事: 欧洲职业联赛 系列
+ 赛2\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385256
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: CYBERSHOKE vs RUBY
+DTSTART:20250912T110000Z
+DTEND:20250912T133000Z
+UID:csgo_mc_2385444@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385444\n赛事: CCT 第3赛季 欧洲系列
+ 赛 6\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第四季: Johnny Speeds vs Sangal
+DTSTART:20250912T110000Z
+DTEND:20250912T133000Z
+UID:csgo_mc_2385450@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385450\n赛事: Exort试验场 第四季\n
+ 阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385450
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: Mongolz vs  3DMAX
+DTSTART:20250912T113000Z
+DTEND:20250912T140000Z
+UID:csgo_mc_2385291@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385291\n赛事: FISSURE 裂变天地 2\n阶
+ 段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: A级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第2季: Eruption vs The Huns
+DTSTART:20250912T130000Z
+DTEND:20250912T153000Z
+UID:csgo_mc_2385482@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385482\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第2季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385482
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第2季: Last Bullet vs UR
+DTSTART:20250912T130000Z
+DTEND:20250912T153000Z
+UID:csgo_mc_2385483@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385483\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第2季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385483
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: HOTU vs EF
+DTSTART:20250912T140000Z
+DTEND:20250912T163000Z
+UID:csgo_mc_2385445@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385445\n赛事: CCT 第3赛季 欧洲系列
+ 赛 6\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385445
 END:VEVENT
 END:VCALENDAR
