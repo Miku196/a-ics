@@ -3,102 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Ghost vs Wanted Goons
-DTSTART:20250911T010000Z
-DTEND:20250911T033000Z
-UID:csgo_mc_2385378@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385378\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385378
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Arrival Seven vs FLYRED
-DTSTART:20250911T010000Z
-DTEND:20250911T033000Z
-UID:csgo_mc_2385379@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385379\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385379
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: NYX vs Chicken Coop
-DTSTART:20250911T010000Z
-DTEND:20250911T033000Z
-UID:csgo_mc_2385380@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385380\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385380
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: anything else vs ASPYRE
-DTSTART:20250911T010000Z
-DTEND:20250911T033000Z
-UID:csgo_mc_2385381@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385381\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385381
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: MIGHT vs Mythic
-DTSTART:20250911T010000Z
-DTEND:20250911T033000Z
-UID:csgo_mc_2385382@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385382\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385382
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Take Flyte vs BOSS
-DTSTART:20250911T010000Z
-DTEND:20250911T033000Z
-UID:csgo_mc_2385384@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385384\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385384
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: InControl vs Nocturnal
-DTSTART:20250911T010000Z
-DTEND:20250911T033000Z
-UID:csgo_mc_2385385@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385385\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385385
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Aether vs FULL SEND
-DTSTART:20250911T010000Z
-DTEND:20250911T033000Z
-UID:csgo_mc_2385383@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385383\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385383
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 大洋洲系列赛 2: SemperFi vs Underground
 DTSTART:20250911T040000Z
 DTEND:20250911T063000Z
@@ -325,8 +229,9 @@ DTSTART:20250911T140000Z
 DTEND:20250911T163000Z
 UID:csgo_mc_2385521@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385521\n赛事: 银河之战 2025 第4阶
- 段 公开预选\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估
- 时长: 2.5小时\n数据来源: 5EPlay
+ 段 公开预选\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385521
 END:VEVENT
@@ -382,8 +287,9 @@ DTSTART:20250911T170000Z
 DTEND:20250911T193000Z
 UID:csgo_mc_2385522@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385522\n赛事: 银河之战 2025 第4阶
- 段 公开预选\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估
- 时长: 2.5小时\n数据来源: 5EPlay
+ 段 公开预选\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385522
 END:VEVENT
@@ -470,5 +376,64 @@ DESCRIPTION:比赛ID: csgo_mc_2385360\n赛事: ESL 挑战者联赛 S50 欧
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385360
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Nemiga vs ESC
+DTSTART:20250911T170000Z
+DTEND:20250911T193000Z
+UID:csgo_mc_2385361@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385361\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 胜者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385361
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Let Her Cook vs Flame Sharks 
+ fe
+DTSTART:20250911T183000Z
+DTEND:20250911T210000Z
+UID:csgo_mc_2385139@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385139\n赛事: ESL Impact 联赛 第8赛
+ 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
+ 始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385139
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Imperial fe vs Overpeek
+DTSTART:20250911T183000Z
+DTEND:20250911T210000Z
+UID:csgo_mc_2385140@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385140\n赛事: ESL Impact 联赛 第8赛
+ 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
+ 始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛4: Bounty Hunters vs ShindeN
+DTSTART:20250911T190000Z
+DTEND:20250911T213000Z
+UID:csgo_mc_2385435@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385435\n赛事:  CCT 第3赛季 南美系
+ 列赛4\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385435
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: BESTIA vs Fluxo
+DTSTART:20250911T210000Z
+DTEND:20250911T233000Z
+UID:csgo_mc_2385374@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385374\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385374
 END:VEVENT
 END:VCALENDAR
