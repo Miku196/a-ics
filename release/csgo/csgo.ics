@@ -3,66 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: Players vs Vasco
-DTSTART:20250912T210000Z
-DTEND:20250912T233000Z
-UID:csgo_mc_2385438@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385438\n赛事:  CCT 第3赛季 南美系
- 列赛4\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385438
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第2季: Keyd vs BESTIA
-DTSTART:20250912T210000Z
-DTEND:20250912T233000Z
-UID:csgo_mc_2385504@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385504\n赛事: ESL 挑战者联赛 S50 南
- 美 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385504
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第2季: Sharks vs ODDIK
-DTSTART:20250912T210000Z
-DTEND:20250912T233000Z
-UID:csgo_mc_2385505@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385505\n赛事: ESL 挑战者联赛 S50 南
- 美 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385505
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第2季: KRÜ vs ex-W7M
-DTSTART:20250912T210000Z
-DTEND:20250912T233000Z
-UID:csgo_mc_2385507@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385507\n赛事: ESL 挑战者联赛 S50 南
- 美 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385507
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第2季: ShindeN vs Galorys
-DTSTART:20250912T210000Z
-DTEND:20250912T233000Z
-UID:csgo_mc_2385506@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385506\n赛事: ESL 挑战者联赛 S50 南
- 美 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385506
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Akimbo vs Wanted Goons
 DTSTART:20250913T010000Z
 DTEND:20250913T033000Z
@@ -437,5 +377,40 @@ DESCRIPTION:比赛ID: csgo_mc_2384975\n赛事: Tipsport 夏季杯 2025 决
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: FaZe vs paiN
+DTSTART:20250913T150000Z
+DTEND:20250913T173000Z
+UID:csgo_mc_2385296@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385296\n赛事: FISSURE 裂变天地 2\n阶
+ 段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: A级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385296
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA 发展联赛 第54赛季 欧洲精英杯 2: Leo vs K27
+DTSTART:20250913T160000Z
+DTEND:20250913T183000Z
+UID:csgo_mc_2385478@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385478\n赛事: ESEA 发展联赛 第54赛
+ 季 欧洲精英杯 2\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385478
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛4: TBD vs TBD
+DTSTART:20250913T160000Z
+DTEND:20250913T183000Z
+UID:csgo_mc_2385589@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385589\n赛事:  CCT 第3赛季 南美系
+ 列赛4\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385589
 END:VEVENT
 END:VCALENDAR
