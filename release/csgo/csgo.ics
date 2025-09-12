@@ -421,4 +421,52 @@ DESCRIPTION:比赛ID: csgo_mc_2385504\n赛事: ESL 挑战者联赛 S50 南
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385504
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: Sharks vs ODDIK
+DTSTART:20250912T210000Z
+DTEND:20250912T233000Z
+UID:csgo_mc_2385505@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385505\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385505
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: KRÜ vs ex-W7M
+DTSTART:20250912T210000Z
+DTEND:20250912T233000Z
+UID:csgo_mc_2385507@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385507\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385507
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: ShindeN vs Galorys
+DTSTART:20250912T210000Z
+DTEND:20250912T233000Z
+UID:csgo_mc_2385506@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385506\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385506
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Akimbo vs Wanted Goons
+DTSTART:20250913T010000Z
+DTEND:20250913T033000Z
+UID:csgo_mc_2385512@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385512\n赛事: ESL 挑战者联赛 S50 北
+ 美 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385512
+END:VEVENT
 END:VCALENDAR
