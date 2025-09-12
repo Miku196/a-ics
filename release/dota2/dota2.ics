@@ -25,7 +25,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902160306vq4hg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs Heroic
+SUMMARY:TI14国际邀请赛: BB vs Heroic
 DTSTART:20250913T110000Z
 DTEND:20250913T140000Z
 UID:dt_mc_20250902160306vqndg@5eplay.com
@@ -36,7 +36,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902160306vqndg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: PARI vs TBD
+SUMMARY:TI14国际邀请赛: PARI vs  Falcons
 DTSTART:20250913T140000Z
 DTEND:20250913T170000Z
 UID:dt_mc_2025090216030791ae0@5eplay.com
@@ -430,5 +430,16 @@ DESCRIPTION:比赛ID: dt_mc_202509110059576k7rt\n赛制: BO3\n阶段: 小
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509110059576k7rt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: WB vs Team lynx
+DTSTART:20250918T120000Z
+DTEND:20250918T150000Z
+UID:dt_mc_202509090859526ygql@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509090859526ygql\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509090859526ygql
 END:VEVENT
 END:VCALENDAR
