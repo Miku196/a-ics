@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 北美: wwaves vs Legacy Lotus
-DTSTART:20250911T233000Z
-DTEND:20250912T020000Z
-UID:csgo_mc_2385147@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385147\n赛事: ESL Impact 联赛 第8赛
- 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385147
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 北美: Nocturnal vs The Little Bocks
-DTSTART:20250911T233000Z
-DTEND:20250912T020000Z
-UID:csgo_mc_2385148@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385148\n赛事: ESL Impact 联赛 第8赛
- 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385148
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Wildcard vs Akimbo
 DTSTART:20250912T010000Z
 DTEND:20250912T033000Z
@@ -327,6 +305,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385292
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第54赛季 欧洲: Phantom vs Nuclear TigeRES
+DTSTART:20250912T151500Z
+DTEND:20250912T174500Z
+UID:csgo_mc_2385531@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385531\n赛事: ESEA发展联赛 第54赛
+ 季 欧洲\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385531
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 6: Reason vs ZT
 DTSTART:20250912T170000Z
 DTEND:20250912T193000Z
@@ -347,5 +337,89 @@ DESCRIPTION:比赛ID: csgo_mc_2385452\n赛事: Exort试验场 第四季\n
  n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385452
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: HOTU vs Nemiga
+DTSTART:20250912T170000Z
+DTEND:20250912T193000Z
+UID:csgo_mc_2385488@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385488\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385488
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Tricked vs OG
+DTSTART:20250912T170000Z
+DTEND:20250912T193000Z
+UID:csgo_mc_2385489@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385489\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385489
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Monte vs Venom
+DTSTART:20250912T170000Z
+DTEND:20250912T193000Z
+UID:csgo_mc_2385490@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385490\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385490
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Betera vs TPuDCATb_TPu
+DTSTART:20250912T170000Z
+DTEND:20250912T193000Z
+UID:csgo_mc_2385491@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385491\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385491
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Johnny Speeds vs FUT
+DTSTART:20250912T170000Z
+DTEND:20250912T193000Z
+UID:csgo_mc_2385492@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385492\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385492
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Betclic vs ENCE
+DTSTART:20250912T170000Z
+DTEND:20250912T193000Z
+UID:csgo_mc_2385493@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385493\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385493
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Nexus vs ZT
+DTSTART:20250912T170000Z
+DTEND:20250912T193000Z
+UID:csgo_mc_2385495@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385495\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385495
 END:VEVENT
 END:VCALENDAR
