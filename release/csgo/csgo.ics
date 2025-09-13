@@ -110,7 +110,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385453
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: Aab vs CPH Wolves
 DTSTART:20250913T080000Z
 DTEND:20250913T103000Z
 UID:csgo_mc_2385523@5eplay.com
@@ -191,7 +191,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385454
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: Johnny Speeds vs ARCRED
 DTSTART:20250913T110000Z
 DTEND:20250913T133000Z
 UID:csgo_mc_2385524@5eplay.com
@@ -333,7 +333,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385257
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: Alliance vs EF
 DTSTART:20250913T140000Z
 DTEND:20250913T163000Z
 UID:csgo_mc_2385525@5eplay.com
@@ -367,7 +367,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385551
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tipsport 夏季杯 2025 决赛: Glore vs TBD
+SUMMARY:Tipsport 夏季杯 2025 决赛: Glore vs SINNERS
 DTSTART:20250913T150000Z
 DTEND:20250913T173000Z
 UID:csgo_mc_2384975@5eplay.com
@@ -412,5 +412,64 @@ DESCRIPTION:比赛ID: csgo_mc_2385589\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第4阶段 公开预选: 500 vs AMKAL
+DTSTART:20250913T170000Z
+DTEND:20250913T193000Z
+UID:csgo_mc_2385413@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385413\n赛事: 银河之战 2025 第4阶
+ 段 公开预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385413
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第四季: GUN5 vs Monte
+DTSTART:20250913T170000Z
+DTEND:20250913T193000Z
+UID:csgo_mc_2385456@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385456\n赛事: Exort试验场 第四季\n
+ 阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385456
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: BC.Game vs ESC
+DTSTART:20250913T170000Z
+DTEND:20250913T193000Z
+UID:csgo_mc_2385499@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385499\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 胜者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385499
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: FNC vs RUBY
+DTSTART:20250913T170000Z
+DTEND:20250913T193000Z
+UID:csgo_mc_2385496@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385496\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 胜者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385496
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Sangal vs 9INE
+DTSTART:20250913T170000Z
+DTEND:20250913T193000Z
+UID:csgo_mc_2385498@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385498\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 胜者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385498
 END:VEVENT
 END:VCALENDAR
