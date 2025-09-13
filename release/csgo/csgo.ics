@@ -3,91 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:UKIC 游戏联赛 秋季 2025 决赛: Dripmen vs Max
-DTSTART:20250913T130000Z
-DTEND:20250913T170000Z
-UID:csgo_mc_2385133@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385133\n赛事: UKIC 游戏联赛 秋季 20
- 25 决赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 
- 其他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385133
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Betclic Clash 夏季 2025: Nemiga vs ENCE
-DTSTART:20250913T130000Z
-DTEND:20250913T153000Z
-UID:csgo_mc_2385466@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385466\n赛事: Betclic Clash 夏季 2025\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385466
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESEA 发展联赛 第54赛季 欧洲精英杯 2: Insilio vs RUSTEC
-DTSTART:20250913T130000Z
-DTEND:20250913T153000Z
-UID:csgo_mc_2385480@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385480\n赛事: ESEA 发展联赛 第54赛
- 季 欧洲精英杯 2\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385480
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: FURIA fe vs Galorys
-DTSTART:20250913T130000Z
-DTEND:20250913T153000Z
-UID:csgo_mc_2385588@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385588\n赛事:  CCT 第3赛季 南美系
- 列赛4\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385588
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段 公开预选: SENZA vs Anonymo
-DTSTART:20250913T140000Z
-DTEND:20250913T163000Z
-UID:csgo_mc_2385412@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385412\n赛事: 银河之战 2025 第4阶
- 段 公开预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385412
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第四季: Partizan vs Betera
-DTSTART:20250913T140000Z
-DTEND:20250913T163000Z
-UID:csgo_mc_2385455@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385455\n赛事: Exort试验场 第四季\n
- 阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385455
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESEA 发展联赛 第54赛季 欧洲精英杯 2: MINLATE vs FORZE 
- Reload
-DTSTART:20250913T140000Z
-DTEND:20250913T163000Z
-UID:csgo_mc_2385481@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385481\n赛事: ESEA 发展联赛 第54赛
- 季 欧洲精英杯 2\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385481
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2: ARCRED vs Reason
-DTSTART:20250913T140000Z
-DTEND:20250913T163000Z
+DTSTART:20250913T143000Z
+DTEND:20250913T170000Z
 UID:csgo_mc_2385257@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385257\n赛事: 欧洲职业联赛 系列
  赛2\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等
@@ -98,8 +16,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2385257
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 6: Alliance vs EF
-DTSTART:20250913T140000Z
-DTEND:20250913T163000Z
+DTSTART:20250913T143000Z
+DTEND:20250913T170000Z
 UID:csgo_mc_2385525@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385525\n赛事: CCT 第3赛季 欧洲系列
  赛 6\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级
@@ -108,15 +26,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385525
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Betclic Clash 夏季 2025: ECSTATIC vs ZT
+SUMMARY:FISSURE 裂变天地 2: FaZe vs paiN
 DTSTART:20250913T143000Z
 DTEND:20250913T170000Z
-UID:csgo_mc_2385467@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385467\n赛事: Betclic Clash 夏季 2025\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_mc_2385296@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385296\n赛事: FISSURE 裂变天地 2\n阶
+ 段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: A级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385467
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385296
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 7 封闭预选赛: 1win vs THE
@@ -143,15 +61,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2384975
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: FaZe vs paiN
-DTSTART:20250913T150000Z
-DTEND:20250913T173000Z
-UID:csgo_mc_2385296@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385296\n赛事: FISSURE 裂变天地 2\n阶
- 段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: A级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+SUMMARY:Betclic Clash 夏季 2025: ECSTATIC vs ZT
+DTSTART:20250913T160000Z
+DTEND:20250913T183000Z
+UID:csgo_mc_2385467@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385467\n赛事: Betclic Clash 夏季 2025\n
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385296
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385467
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESEA 发展联赛 第54赛季 欧洲精英杯 2: Leo vs K27
@@ -297,17 +215,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385526
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Betclic Clash 夏季 2025: TNL vs BIG
-DTSTART:20250913T173000Z
-DTEND:20250913T200000Z
-UID:csgo_mc_2385468@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385468\n赛事: Betclic Clash 夏季 2025\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385468
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 7 封闭预选赛: Algo vs modeame
 DTSTART:20250913T173000Z
 DTEND:20250913T200000Z
@@ -318,6 +225,17 @@ DESCRIPTION:比赛ID: csgo_mc_2385552\n赛事: CCT 第3赛季 欧洲系列
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385552
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betclic Clash 夏季 2025: TNL vs BIG
+DTSTART:20250913T180000Z
+DTEND:20250913T203000Z
+UID:csgo_mc_2385468@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385468\n赛事: Betclic Clash 夏季 2025\n
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385468
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tipsport 夏季杯 2025 决赛: UNiTY vs ECLOT
@@ -398,5 +316,50 @@ DESCRIPTION:比赛ID: csgo_mc_2385591\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385591
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PrizePicks 北美复兴杯 S9: Marsborne vs Fisher College
+DTSTART:20250914T010000Z
+DTEND:20250914T033000Z
+UID:csgo_mc_2385584@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385584\n赛事: PrizePicks 北美复兴杯 
+ S9\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PrizePicks 北美复兴杯 S9: Getting Info vs InControl
+DTSTART:20250914T010000Z
+DTEND:20250914T033000Z
+UID:csgo_mc_2385583@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385583\n赛事: PrizePicks 北美复兴杯 
+ S9\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385583
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:极限大陆 2025 大洋洲 封闭预选: Rooster vs Gz
+DTSTART:20250914T020000Z
+DTEND:20250914T043000Z
+UID:csgo_mc_2385476@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385476\n赛事: 极限大陆 2025 大洋洲
+  封闭预选\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385476
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:极限大陆 2025 大洋洲 封闭预选: SemperFi vs TBD
+DTSTART:20250914T050000Z
+DTEND:20250914T073000Z
+UID:csgo_mc_2385477@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385477\n赛事: 极限大陆 2025 大洋洲
+  封闭预选\n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未
+ 开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385477
 END:VEVENT
 END:VCALENDAR
