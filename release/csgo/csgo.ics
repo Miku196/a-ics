@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:极限大陆 2025 大洋洲 封闭预选: TBD vs TBD
+SUMMARY:极限大陆 2025 大洋洲 封闭预选: SemperFi vs TBD
 DTSTART:20250913T050000Z
 DTEND:20250913T073000Z
 UID:csgo_mc_2385474@5eplay.com
@@ -15,7 +15,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385474
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:极限大陆 2025 大洋洲 封闭预选: TBD vs TBD
+SUMMARY:极限大陆 2025 大洋洲 封闭预选: LE-LUX vs TBD
 DTSTART:20250913T050000Z
 DTEND:20250913T073000Z
 UID:csgo_mc_2385475@5eplay.com
@@ -411,5 +411,53 @@ DESCRIPTION:比赛ID: csgo_mc_2385500\n赛事: ESL 挑战者联赛 S50 欧
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: TPuDCATb_TPu vs Monte
+DTSTART:20250913T170000Z
+DTEND:20250913T193000Z
+UID:csgo_mc_2385501@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385501\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385501
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: GUN5 vs Alliance
+DTSTART:20250913T170000Z
+DTEND:20250913T193000Z
+UID:csgo_mc_2385497@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385497\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 胜者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385497
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: ENCE vs FUT
+DTSTART:20250913T170000Z
+DTEND:20250913T193000Z
+UID:csgo_mc_2385502@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385502\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Nexus vs Sashi
+DTSTART:20250913T170000Z
+DTEND:20250913T193000Z
+UID:csgo_mc_2385503@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385503\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385503
 END:VEVENT
 END:VCALENDAR
