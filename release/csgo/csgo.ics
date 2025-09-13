@@ -3,78 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Akimbo vs Wanted Goons
-DTSTART:20250913T010000Z
-DTEND:20250913T033000Z
-UID:csgo_mc_2385512@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385512\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385512
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Aether vs Outfit 49
-DTSTART:20250913T010000Z
-DTEND:20250913T033000Z
-UID:csgo_mc_2385514@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385514\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385514
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: LAG vs anything else
-DTSTART:20250913T010000Z
-DTEND:20250913T033000Z
-UID:csgo_mc_2385513@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385513\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385513
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: BOSS vs Shimmer
-DTSTART:20250913T010000Z
-DTEND:20250913T033000Z
-UID:csgo_mc_2385515@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385515\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385515
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:极限大陆 2025 大洋洲 封闭预选: Rooster vs Gz
-DTSTART:20250913T020000Z
-DTEND:20250913T043000Z
-UID:csgo_mc_2385473@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385473\n赛事: 极限大陆 2025 大洋洲
-  封闭预选\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385473
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:极限大陆 2025 大洋洲 封闭预选: SemperFi vs LE-LUX
-DTSTART:20250913T020000Z
-DTEND:20250913T043000Z
-UID:csgo_mc_2385472@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385472\n赛事: 极限大陆 2025 大洋洲
-  封闭预选\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385472
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:极限大陆 2025 大洋洲 封闭预选: TBD vs TBD
 DTSTART:20250913T050000Z
 DTEND:20250913T073000Z
@@ -273,7 +201,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385480
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛4: FURIA fe vs Galorys
 DTSTART:20250913T130000Z
 DTEND:20250913T153000Z
 UID:csgo_mc_2385588@5eplay.com
@@ -402,7 +330,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385478
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛4: 2GAME vs ex-W7M
 DTSTART:20250913T160000Z
 DTEND:20250913T183000Z
 UID:csgo_mc_2385589@5eplay.com
@@ -471,5 +399,17 @@ DESCRIPTION:比赛ID: csgo_mc_2385498\n赛事: ESL 挑战者联赛 S50 欧
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385498
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: HOTU vs OG
+DTSTART:20250913T170000Z
+DTEND:20250913T193000Z
+UID:csgo_mc_2385500@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385500\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385500
 END:VEVENT
 END:VCALENDAR
