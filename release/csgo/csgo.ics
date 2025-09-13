@@ -3,62 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第四季: JJH vs SINNERS
-DTSTART:20250913T080000Z
-DTEND:20250913T103000Z
-UID:csgo_mc_2385453@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385453\n赛事: Exort试验场 第四季\n
- 阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385453
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: Aab vs CPH Wolves
-DTSTART:20250913T080000Z
-DTEND:20250913T103000Z
-UID:csgo_mc_2385523@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385523\n赛事: CCT 第3赛季 欧洲系列
- 赛 6\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385523
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: Heroic vs Legacy
-DTSTART:20250913T080000Z
-DTEND:20250913T103000Z
-UID:csgo_mc_2385294@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385294\n赛事: FISSURE 裂变天地 2\n阶
- 段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: A级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385294
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:夜晚邀请赛 2025 欧洲 亚太地区: Fury vs Mindfreak
-DTSTART:20250913T080000Z
-DTEND:20250913T103000Z
-UID:csgo_mc_2385603@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385603\n赛事: 夜晚邀请赛 2025 欧洲
-  亚太地区\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3
- \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
- : 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385603
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Betclic Clash 夏季 2025: FNC vs Reason
-DTSTART:20250913T083000Z
-DTEND:20250913T110000Z
-UID:csgo_mc_2385465@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385465\n赛事: Betclic Clash 夏季 2025\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385465
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 7 封闭预选赛: NIP Impact vs ex
  -8Sins
 DTSTART:20250913T083000Z
@@ -70,6 +14,17 @@ DESCRIPTION:比赛ID: csgo_mc_2385549\n赛事: CCT 第3赛季 欧洲系列
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385549
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betclic Clash 夏季 2025: FNC vs Reason
+DTSTART:20250913T090000Z
+DTEND:20250913T113000Z
+UID:csgo_mc_2385465@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385465\n赛事: Betclic Clash 夏季 2025\n
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385465
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2: FT vs EYE
@@ -106,15 +61,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385524
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:夜晚邀请赛 2025 欧洲 亚太地区: The Art of War vs Animus
-  Victoria
+SUMMARY:夜晚邀请赛 2025 亚太地区: The Art of War vs Animus Victor
+ ia
 DTSTART:20250913T110000Z
 DTEND:20250913T133000Z
 UID:csgo_mc_2385604@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385604\n赛事: 夜晚邀请赛 2025 欧洲
-  亚太地区\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3
- \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
- : 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2385604\n赛事: 夜晚邀请赛 2025 亚太
+ 地区\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385604
 END:VEVENT
@@ -446,5 +401,16 @@ DESCRIPTION:比赛ID: csgo_mc_2385526\n赛事: CCT 第3赛季 欧洲系列
  : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385526
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betclic Clash 夏季 2025: TNL vs BIG
+DTSTART:20250913T173000Z
+DTEND:20250913T200000Z
+UID:csgo_mc_2385468@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385468\n赛事: Betclic Clash 夏季 2025\n
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385468
 END:VEVENT
 END:VCALENDAR
