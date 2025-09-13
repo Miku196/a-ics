@@ -3,180 +3,15 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Betclic Clash 夏季 2025: ECSTATIC vs ZT
-DTSTART:20250913T161500Z
-DTEND:20250913T184500Z
-UID:csgo_mc_2385467@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385467\n赛事: Betclic Clash 夏季 2025\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385467
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段 公开预选: 500 vs AMKAL
-DTSTART:20250913T170000Z
-DTEND:20250913T193000Z
-UID:csgo_mc_2385413@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385413\n赛事: 银河之战 2025 第4阶
- 段 公开预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385413
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: BC.Game vs ESC
-DTSTART:20250913T170000Z
-DTEND:20250913T193000Z
-UID:csgo_mc_2385499@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385499\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第2季\n阶段: 淘汰赛 胜者组 第3轮\n轮次: 第3轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385499
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: FNC vs RUBY
-DTSTART:20250913T170000Z
-DTEND:20250913T193000Z
-UID:csgo_mc_2385496@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385496\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第2季\n阶段: 淘汰赛 胜者组 第3轮\n轮次: 第3轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385496
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Sangal vs 9INE
-DTSTART:20250913T170000Z
-DTEND:20250913T193000Z
-UID:csgo_mc_2385498@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385498\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第2季\n阶段: 淘汰赛 胜者组 第3轮\n轮次: 第3轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385498
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: HOTU vs OG
-DTSTART:20250913T170000Z
-DTEND:20250913T193000Z
-UID:csgo_mc_2385500@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385500\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385500
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: TPuDCATb_TPu vs Monte
-DTSTART:20250913T170000Z
-DTEND:20250913T193000Z
-UID:csgo_mc_2385501@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385501\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385501
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: GUN5 vs Alliance
-DTSTART:20250913T170000Z
-DTEND:20250913T193000Z
-UID:csgo_mc_2385497@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385497\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第2季\n阶段: 淘汰赛 胜者组 第3轮\n轮次: 第3轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385497
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: ENCE vs FUT
-DTSTART:20250913T170000Z
-DTEND:20250913T193000Z
-UID:csgo_mc_2385502@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385502\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385502
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Nexus vs Sashi
-DTSTART:20250913T170000Z
-DTEND:20250913T193000Z
-UID:csgo_mc_2385503@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385503\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第2季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385503
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: Partizan vs FT
-DTSTART:20250913T170000Z
-DTEND:20250913T193000Z
-UID:csgo_mc_2385526@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385526\n赛事: CCT 第3赛季 欧洲系列
- 赛 6\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385526
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7 封闭预选赛: Algo vs modeame
-DTSTART:20250913T173000Z
-DTEND:20250913T200000Z
-UID:csgo_mc_2385552@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385552\n赛事: CCT 第3赛季 欧洲系列
- 赛 7 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\
- n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385552
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Betclic Clash 夏季 2025: TNL vs BIG
-DTSTART:20250913T180000Z
-DTEND:20250913T203000Z
+DTSTART:20250913T184500Z
+DTEND:20250913T211500Z
 UID:csgo_mc_2385468@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385468\n赛事: Betclic Clash 夏季 2025\n
  阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385468
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tipsport 夏季杯 2025 决赛: UNiTY vs ECLOT
-DTSTART:20250913T180000Z
-DTEND:20250913T203000Z
-UID:csgo_mc_2384976@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2384976\n赛事: Tipsport 夏季杯 2025 决
- 赛\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2384976
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: FURIA vs Liquid
-DTSTART:20250913T183000Z
-DTEND:20250913T210000Z
-UID:csgo_mc_2385297@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385297\n赛事: FISSURE 裂变天地 2\n阶
- 段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: A级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385297
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 南美系列赛4: Sharks vs Bounty Hunters
@@ -371,5 +206,107 @@ DESCRIPTION:比赛ID: csgo_mc_2385557\n赛事: CCT 第3赛季 欧洲系列
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385557
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betclic Clash 夏季 2025: FNC vs Nemiga
+DTSTART:20250914T100000Z
+DTEND:20250914T123000Z
+UID:csgo_mc_2385469@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385469\n赛事: Betclic Clash 夏季 2025\n
+ 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385469
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2: EYE vs ARCRED
+DTSTART:20250914T103000Z
+DTEND:20250914T130000Z
+UID:csgo_mc_2385260@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385260\n赛事: 欧洲职业联赛 系列
+ 赛2\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385260
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第四季: TBD vs TBD
+DTSTART:20250914T110000Z
+DTEND:20250914T133000Z
+UID:csgo_mc_2385458@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385458\n赛事: Exort试验场 第四季\n
+ 阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385458
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: GUN5 vs RUBY
+DTSTART:20250914T110000Z
+DTEND:20250914T133000Z
+UID:csgo_mc_2385528@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385528\n赛事: CCT 第3赛季 欧洲系列
+ 赛 6\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+DTSTART:20250914T113000Z
+DTEND:20250914T140000Z
+UID:csgo_mc_2385300@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385300\n赛事: FISSURE 裂变天地 2\n阶
+ 段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: A级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385300
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+DTSTART:20250914T113000Z
+DTEND:20250914T140000Z
+UID:csgo_mc_2385301@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385301\n赛事: FISSURE 裂变天地 2\n阶
+ 段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: A级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 7 封闭预选赛: Algo vs THE
+DTSTART:20250914T113000Z
+DTEND:20250914T140000Z
+UID:csgo_mc_2385558@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385558\n赛事: CCT 第3赛季 欧洲系列
+ 赛 7 封闭预选赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\
+ n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betclic Clash 夏季 2025: TBD vs TBD
+DTSTART:20250914T130000Z
+DTEND:20250914T153000Z
+UID:csgo_mc_2385470@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385470\n赛事: Betclic Clash 夏季 2025\n
+ 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385470
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tipsport 夏季杯 2025 决赛: TBD vs TBD
+DTSTART:20250914T130000Z
+DTEND:20250914T153000Z
+UID:csgo_mc_2384977@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2384977\n赛事: Tipsport 夏季杯 2025 决
+ 赛\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2384977
 END:VEVENT
 END:VCALENDAR
