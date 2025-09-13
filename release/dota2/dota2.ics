@@ -3,18 +3,7 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: PARI vs  Falcons
-DTSTART:20250913T143000Z
-DTEND:20250913T173000Z
-UID:dt_mc_2025090216030791ae0@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_2025090216030791ae0\n赛制: BO3\n轮次: 决
- 赛\n阶段: 淘汰赛 胜者组 决赛\n赛事等级: S级\n状态: 未
- 开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_2025090216030791ae0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛: TBD vs XG
+SUMMARY:TI14国际邀请赛: BB vs XG
 DTSTART:20250913T170000Z
 DTEND:20250913T200000Z
 UID:dt_mc_20250902160308toyvv@5eplay.com
@@ -430,5 +419,16 @@ DESCRIPTION:比赛ID: dt_mc_20250902000256milxz\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000256milxz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: L1ga vs WB
+DTSTART:20250918T180000Z
+DTEND:20250918T210000Z
+UID:dt_mc_202509090802550c7b6@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509090802550c7b6\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509090802550c7b6
 END:VEVENT
 END:VCALENDAR
