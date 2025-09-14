@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:TI14国际邀请赛:  Falcons vs TBD
-DTSTART:20250914T110000Z
-DTEND:20250914T140000Z
+SUMMARY:TI14国际邀请赛:  Falcons vs XG
+DTSTART:20250914T130000Z
+DTEND:20250914T160000Z
 UID:dt_mc_20250902170255bstla@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250902170255bstla\n赛制: BO5\n轮次: 总
  决赛\n阶段: 淘汰赛  总决赛\n赛事等级: S级\n状态: 未开
@@ -430,5 +430,16 @@ DESCRIPTION:比赛ID: dt_mc_20250911005958dfy5f\n赛制: BO3\n阶段: 小
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250911005958dfy5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: Kalmychata vs Nemiga
+DTSTART:20250919T090000Z
+DTEND:20250919T120000Z
+UID:dt_mc_20250909080256lvur9@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250909080256lvur9\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250909080256lvur9
 END:VEVENT
 END:VCALENDAR
