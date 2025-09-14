@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:极限之地 2025 大洋洲 封闭预选: SemperFi vs Rooster
-DTSTART:20250914T050000Z
-DTEND:20250914T073000Z
-UID:csgo_mc_2385477@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385477\n赛事: 极限之地 2025 大洋洲
-  封闭预选\n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未
- 开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385477
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS 亚洲邀请赛 2025 东亚 公开预选赛: CW vs The Huns
 DTSTART:20250914T080000Z
 DTEND:20250914T103000Z
