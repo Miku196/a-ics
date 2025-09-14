@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:PrizePicks 北美复兴杯 S9: Wildcard vs BOSS
-DTSTART:20250914T190000Z
-DTEND:20250914T213000Z
-UID:csgo_mc_2385585@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385585\n赛事: PrizePicks 北美复兴杯 
- S9\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385585
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: Fluxo vs Players
-DTSTART:20250914T190000Z
-DTEND:20250914T213000Z
-UID:csgo_mc_2385594@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385594\n赛事:  CCT 第3赛季 南美系
- 列赛4\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385594
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PrizePicks 北美复兴杯 S9: Marsborne vs Getting Info
 DTSTART:20250914T220000Z
 DTEND:20250915T003000Z
@@ -71,7 +48,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385461
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: TYLOO vs Mongolz
 DTSTART:20250915T080000Z
 DTEND:20250915T103000Z
 UID:csgo_mc_2385306@5eplay.com
@@ -82,15 +59,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385306
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: VP vs LVG
 DTSTART:20250915T080000Z
 DTEND:20250915T103000Z
-UID:csgo_mc_2385307@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385307\n赛事: FISSURE 裂变天地 2\n阶
+UID:csgo_mc_2385311@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385311\n赛事: FISSURE 裂变天地 2\n阶
  段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: A级\n
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385307
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385311
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 7 封闭预选赛: Reason vs Leo
@@ -152,7 +129,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385554
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2:  3DMAX vs GL
 DTSTART:20250915T113000Z
 DTEND:20250915T140000Z
 UID:csgo_mc_2385308@5eplay.com
@@ -163,15 +140,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385308
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: Liquid vs Heroic
 DTSTART:20250915T113000Z
 DTEND:20250915T140000Z
-UID:csgo_mc_2385309@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385309\n赛事: FISSURE 裂变天地 2\n阶
+UID:csgo_mc_2385310@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385310\n赛事: FISSURE 裂变天地 2\n阶
  段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: A级\n
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385309
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385310
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2: EF vs SENZA
@@ -244,26 +221,26 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385555
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: Legacy vs G2
 DTSTART:20250915T150000Z
 DTEND:20250915T173000Z
-UID:csgo_mc_2385311@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385311\n赛事: FISSURE 裂变天地 2\n阶
+UID:csgo_mc_2385309@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385309\n赛事: FISSURE 裂变天地 2\n阶
  段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: A级\n
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385311
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385309
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: Falcons vs FaZe
 DTSTART:20250915T150000Z
 DTEND:20250915T173000Z
-UID:csgo_mc_2385310@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385310\n赛事: FISSURE 裂变天地 2\n阶
+UID:csgo_mc_2385312@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385312\n赛事: FISSURE 裂变天地 2\n阶
  段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: A级\n
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385310
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385312
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 南美系列赛4: TBD vs TBD
@@ -323,14 +300,93 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385556
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: Astralis vs paiN
 DTSTART:20250915T183000Z
 DTEND:20250915T210000Z
-UID:csgo_mc_2385312@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385312\n赛事: FISSURE 裂变天地 2\n阶
+UID:csgo_mc_2385307@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385307\n赛事: FISSURE 裂变天地 2\n阶
  段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: A级\n
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385312
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: Aurora vs FURIA
+DTSTART:20250915T183000Z
+DTEND:20250915T210000Z
+UID:csgo_mc_2385313@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385313\n赛事: FISSURE 裂变天地 2\n阶
+ 段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: A级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛4: TBD vs TBD
+DTSTART:20250915T190000Z
+DTEND:20250915T213000Z
+UID:csgo_mc_2385598@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385598\n赛事:  CCT 第3赛季 南美系
+ 列赛4\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛4: TBD vs TBD
+DTSTART:20250915T220000Z
+DTEND:20250916T003000Z
+UID:csgo_mc_2385599@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385599\n赛事:  CCT 第3赛季 南美系
+ 列赛4\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385599
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第54赛季 北美: SportsBetExpert vs Brazen
+DTSTART:20250916T003000Z
+DTEND:20250916T030000Z
+UID:csgo_mc_2385653@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385653\n赛事: ESEA发展联赛 第54赛
+ 季 北美\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO
+ 3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385653
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第四季: TBD vs TBD
+DTSTART:20250916T080000Z
+DTEND:20250916T103000Z
+UID:csgo_mc_2385681@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385681\n赛事: Exort试验场 第四季\n
+ 阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385681
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 7 封闭预选赛: TBD vs TBD
+DTSTART:20250916T083000Z
+DTEND:20250916T110000Z
+UID:csgo_mc_2385561@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385561\n赛事: CCT 第3赛季 欧洲系列
+ 赛 7 封闭预选赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\
+ n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385561
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+DTSTART:20250916T090000Z
+DTEND:20250916T113000Z
+UID:csgo_mc_2385315@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385315\n赛事: FISSURE 裂变天地 2\n阶
+ 段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: A级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385315
 END:VEVENT
 END:VCALENDAR
