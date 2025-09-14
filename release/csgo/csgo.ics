@@ -3,20 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:PrizePicks 北美复兴杯 S9: Marsborne vs Getting Info
-DTSTART:20250914T220000Z
-DTEND:20250915T003000Z
-UID:csgo_mc_2385586@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385586\n赛事: PrizePicks 北美复兴杯 
- S9\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385586
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 南美系列赛4: BESTIA vs LP
-DTSTART:20250914T220000Z
-DTEND:20250915T003000Z
+DTSTART:20250914T223000Z
+DTEND:20250915T010000Z
 UID:csgo_mc_2385595@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385595\n赛事:  CCT 第3赛季 南美系
  列赛4\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
@@ -26,7 +15,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385595
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PrizePicks 北美复兴杯 S9: TBD vs TBD
+SUMMARY:PrizePicks 北美复兴杯 S9: Wildcard vs TBD
 DTSTART:20250915T010000Z
 DTEND:20250915T033000Z
 UID:csgo_mc_2385587@5eplay.com
@@ -82,6 +71,19 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385553
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS 亚洲邀请赛 2025 亚洲 封闭预选赛: The Huns vs Take m
+ e away
+DTSTART:20250915T090000Z
+DTEND:20250915T113000Z
+UID:csgo_mc_2385763@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385763\n赛事: CS 亚洲邀请赛 2025 亚
+ 洲 封闭预选赛\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385763
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2: CPH Wolves vs Metizport
 DTSTART:20250915T103000Z
 DTEND:20250915T130000Z
@@ -105,7 +107,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385462
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: ZT vs RUBY
 DTSTART:20250915T110000Z
 DTEND:20250915T133000Z
 UID:csgo_mc_2385617@5eplay.com
@@ -149,6 +151,18 @@ DESCRIPTION:比赛ID: csgo_mc_2385310\n赛事: FISSURE 裂变天地 2\n阶
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS 亚洲邀请赛 2025 亚洲 封闭预选赛: SemperFi vs AE
+DTSTART:20250915T120000Z
+DTEND:20250915T143000Z
+UID:csgo_mc_2385764@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385764\n赛事: CS 亚洲邀请赛 2025 亚
+ 洲 封闭预选赛\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385764
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2: EF vs SENZA
@@ -197,7 +211,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385535
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: Partizan vs ARCRED
 DTSTART:20250915T140000Z
 DTEND:20250915T163000Z
 UID:csgo_mc_2385618@5eplay.com
@@ -277,7 +291,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385536
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: Alliance vs CPH Wolves
 DTSTART:20250915T170000Z
 DTEND:20250915T193000Z
 UID:csgo_mc_2385619@5eplay.com
@@ -379,6 +393,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385561
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CS 亚洲邀请赛 2025 亚洲 封闭预选赛: TBD vs TBD
+DTSTART:20250916T090000Z
+DTEND:20250916T113000Z
+UID:csgo_mc_2385765@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385765\n赛事: CS 亚洲邀请赛 2025 亚
+ 洲 封闭预选赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385765
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
 DTSTART:20250916T090000Z
 DTEND:20250916T113000Z
@@ -388,5 +414,27 @@ DESCRIPTION:比赛ID: csgo_mc_2385315\n赛事: FISSURE 裂变天地 2\n阶
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+DTSTART:20250916T090000Z
+DTEND:20250916T113000Z
+UID:csgo_mc_2385314@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385314\n赛事: FISSURE 裂变天地 2\n阶
+ 段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: A级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第四季: TBD vs TBD
+DTSTART:20250916T110000Z
+DTEND:20250916T133000Z
+UID:csgo_mc_2385682@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385682\n赛事: Exort试验场 第四季\n
+ 阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385682
 END:VEVENT
 END:VCALENDAR
