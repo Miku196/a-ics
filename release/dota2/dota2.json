@@ -989,7 +989,7 @@
     "datetime_utc": "2025-09-14T08:00:00+00:00",
     "tournament": "TI14国际邀请赛",
     "team1": "PARI",
-    "team2": "TBD",
+    "team2": "XG",
     "best_type": "BO3",
     "status": "未开始",
     "result": "0-0",
@@ -1004,7 +1004,7 @@
     "round_name": "决赛",
     "stage_desc": "淘汰赛 败者组 决赛",
     "team1_logo": "https://oss.5eplay.com/cloudx/p/sport/dota2/team/cs8ksbkconkotam8181g.png",
-    "team2_logo": "https://oss.5eplay.com/sport/dota2/team/merge_cgenh29ll806h1bg2rb0.png",
+    "team2_logo": "https://oss.5eplay.com/cloudx/p/sport/dota2/team/cqjmgd4conkotam7vtag.png",
     "tournament_logo": "https://oss.5eplay.com/cloudx/p/sport/dota2/tournament/cnmju9cconklgsjvgm8g.png"
   },
   {
