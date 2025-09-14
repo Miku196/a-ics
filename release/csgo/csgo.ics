@@ -3,34 +3,11 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:PrizePicks 北美复兴杯 S9: Getting Info vs InControl
-DTSTART:20250914T010000Z
-DTEND:20250914T033000Z
-UID:csgo_mc_2385583@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385583\n赛事: PrizePicks 北美复兴杯 
- S9\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385583
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:极限大陆 2025 大洋洲 封闭预选: Rooster vs Gz
-DTSTART:20250914T020000Z
-DTEND:20250914T043000Z
-UID:csgo_mc_2385476@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385476\n赛事: 极限大陆 2025 大洋洲
-  封闭预选\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385476
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:极限大陆 2025 大洋洲 封闭预选: SemperFi vs TBD
+SUMMARY:极限之地 2025 大洋洲 封闭预选: SemperFi vs TBD
 DTSTART:20250914T050000Z
 DTEND:20250914T073000Z
 UID:csgo_mc_2385477@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385477\n赛事: 极限大陆 2025 大洋洲
+DESCRIPTION:比赛ID: csgo_mc_2385477\n赛事: 极限之地 2025 大洋洲
   封闭预选\n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未
  开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
@@ -262,8 +239,9 @@ DTSTART:20250914T130000Z
 DTEND:20250914T153000Z
 UID:csgo_mc_2385680@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385680\n赛事: CS 亚洲邀请赛 2025 亚
- 洲其他地区 公开预选赛\n赛制: BO3\n等级: \n状态: 未开始\
- n预估时长: 2.5小时\n数据来源: 5EPlay
+ 洲其他地区 公开预选赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\
+ n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385680
 END:VEVENT
@@ -452,5 +430,16 @@ DESCRIPTION:比赛ID: csgo_mc_2385471\n赛事: Betclic Clash 夏季 2025\n
  态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385471
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第四季: Sangal vs GUN5
+DTSTART:20250914T170000Z
+DTEND:20250914T193000Z
+UID:csgo_mc_2385460@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385460\n赛事: Exort试验场 第四季\n
+ 阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385460
 END:VEVENT
 END:VCALENDAR
