@@ -324,7 +324,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385598
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: Fluxo vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛4: Fluxo vs BESTIA
 DTSTART:20250915T220000Z
 DTEND:20250916T003000Z
 UID:csgo_mc_2385599@5eplay.com
@@ -436,5 +436,16 @@ DESCRIPTION:比赛ID: csgo_mc_2385562\n赛事: CCT 第3赛季 欧洲系列
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385562
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+DTSTART:20250916T123000Z
+DTEND:20250916T150000Z
+UID:csgo_mc_2385316@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385316\n赛事: FISSURE 裂变天地 2\n阶
+ 段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: A级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385316
 END:VEVENT
 END:VCALENDAR
