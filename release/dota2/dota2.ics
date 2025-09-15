@@ -4,25 +4,14 @@ PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 第三十赛季: L1ga vs eSpoiled
-DTSTART:20250915T120000Z
-DTEND:20250915T150000Z
+DTSTART:20250915T150000Z
+DTEND:20250915T180000Z
 UID:dt_mc_2025090907595246xh3@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_2025090907595246xh3\n赛制: BO3\n阶段: 小
  组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025090907595246xh3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 第三十赛季: Team lynx vs Passion
-DTSTART:20250915T150000Z
-DTEND:20250915T180000Z
-UID:dt_mc_20250909075952598tw@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250909075952598tw\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250909075952598tw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ACS 系列赛 2: Lava vs Fantasy
@@ -419,5 +408,27 @@ DESCRIPTION:比赛ID: dt_mc_20250902000257z9is4\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000257z9is4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: OG.LATAM vs Lava
+DTSTART:20250919T210000Z
+DTEND:20250920T000000Z
+UID:dt_mc_20250902000258eqipz@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000258eqipz\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000258eqipz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cringe Station 月蛇杯 3: Emperor vs BuyBack Bros
+DTSTART:20250920T040000Z
+DTEND:20250920T070000Z
+UID:dt_mc_20250911010002vgtfx@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250911010002vgtfx\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250911010002vgtfx
 END:VEVENT
 END:VCALENDAR
