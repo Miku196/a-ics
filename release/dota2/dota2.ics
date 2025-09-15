@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: TW vs EB
-DTSTART:20250915T210000Z
-DTEND:20250916T000000Z
-UID:dt_mc_202509012359529r8uq@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509012359529r8uq\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509012359529r8uq
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cringe Station 月蛇杯 3: BuyBack Bros vs CARST
 DTSTART:20250916T040000Z
 DTEND:20250916T070000Z
@@ -419,5 +408,27 @@ DESCRIPTION:比赛ID: dt_mc_20250909081004r8i1v\n赛制: BO3\n阶段: 小
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909081004r8i1v
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cringe Station 月蛇杯 3: CARST vs YG
+DTSTART:20250920T100000Z
+DTEND:20250920T130000Z
+UID:dt_mc_20250911010002ulwf4@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250911010002ulwf4\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250911010002ulwf4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: TNL vs Nemiga
+DTSTART:20250920T120000Z
+DTEND:20250920T150000Z
+UID:dt_mc_20250909080258hc7aa@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250909080258hc7aa\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250909080258hc7aa
 END:VEVENT
 END:VCALENDAR

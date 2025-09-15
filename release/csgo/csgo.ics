@@ -4,8 +4,8 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 南美系列赛4: Fluxo vs BESTIA
-DTSTART:20250915T220000Z
-DTEND:20250916T003000Z
+DTSTART:20250915T223000Z
+DTEND:20250916T010000Z
 UID:csgo_mc_2385599@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385599\n赛事:  CCT 第3赛季 南美系
  列赛4\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 
@@ -62,7 +62,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385765
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2:  3DMAX vs VP
 DTSTART:20250916T090000Z
 DTEND:20250916T113000Z
 UID:csgo_mc_2385315@5eplay.com
@@ -73,7 +73,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385315
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: G2 vs GL
 DTSTART:20250916T090000Z
 DTEND:20250916T113000Z
 UID:csgo_mc_2385314@5eplay.com
@@ -119,7 +119,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385562
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: FaZe vs Mongolz
 DTSTART:20250916T123000Z
 DTEND:20250916T150000Z
 UID:csgo_mc_2385316@5eplay.com
@@ -130,7 +130,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385316
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: TYLOO vs Liquid
 DTSTART:20250916T123000Z
 DTEND:20250916T150000Z
 UID:csgo_mc_2385317@5eplay.com
@@ -200,7 +200,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385600
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: FURIA vs paiN
 DTSTART:20250916T160000Z
 DTEND:20250916T183000Z
 UID:csgo_mc_2385318@5eplay.com
@@ -211,7 +211,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385318
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: Astralis vs Legacy
 DTSTART:20250916T160000Z
 DTEND:20250916T183000Z
 UID:csgo_mc_2385319@5eplay.com
@@ -304,7 +304,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385602
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第四季: TBD vs TBD
+SUMMARY:Exort试验场 第四季: Betclic vs Monte
 DTSTART:20250917T080000Z
 DTEND:20250917T103000Z
 UID:csgo_mc_2385685@5eplay.com
@@ -373,7 +373,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385746
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第四季: TBD vs TBD
+SUMMARY:Exort试验场 第四季: RUBY vs GUN5
 DTSTART:20250917T110000Z
 DTEND:20250917T133000Z
 UID:csgo_mc_2385686@5eplay.com
@@ -428,5 +428,28 @@ DESCRIPTION:比赛ID: csgo_mc_2385484\n赛事: ESL 挑战者联赛 S50 亚
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第四季: JJH vs ESC
+DTSTART:20250917T140000Z
+DTEND:20250917T163000Z
+UID:csgo_mc_2385687@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385687\n赛事: Exort试验场 第四季\n
+ 阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385687
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第4阶段 公开预选: AMKAL vs 500
+DTSTART:20250917T140000Z
+DTEND:20250917T163000Z
+UID:csgo_mc_2385539@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385539\n赛事: 银河之战 2025 第4阶
+ 段 公开预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385539
 END:VEVENT
 END:VCALENDAR
