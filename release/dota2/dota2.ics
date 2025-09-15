@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Cringe Station 月蛇杯 3: CARST vs Emperor
-DTSTART:20250915T073000Z
-DTEND:20250915T103000Z
-UID:dt_mc_202509110059528lg9x@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509110059528lg9x\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509110059528lg9x
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 第三十赛季: UB vs VP.P
 DTSTART:20250915T090000Z
 DTEND:20250915T120000Z
@@ -430,5 +419,16 @@ DESCRIPTION:比赛ID: dt_mc_20250911005959zuten\n赛制: BO3\n阶段: 小
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250911005959zuten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: pipsqueak+4 vs UB
+DTSTART:20250919T150000Z
+DTEND:20250919T180000Z
+UID:dt_mc_20250909080256xk0az@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250909080256xk0az\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250909080256xk0az
 END:VEVENT
 END:VCALENDAR
