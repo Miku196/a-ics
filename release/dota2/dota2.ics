@@ -431,4 +431,15 @@ DESCRIPTION:比赛ID: dt_mc_20250911010002vgtfx\n赛制: BO3\n阶段: 小
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250911010002vgtfx
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cringe Station 月蛇杯 3: Emperor vs Veroja
+DTSTART:20250920T070000Z
+DTEND:20250920T100000Z
+UID:dt_mc_20250911010002u90as@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250911010002u90as\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250911010002u90as
+END:VEVENT
 END:VCALENDAR
