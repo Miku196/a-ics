@@ -409,4 +409,15 @@ DESCRIPTION:比赛ID: dt_mc_20250911010002u90as\n赛制: BO3\n阶段: 小
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250911010002u90as
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: pipsqueak+4 vs Kalmychata
+DTSTART:20250920T090000Z
+DTEND:20250920T120000Z
+UID:dt_mc_20250909081004r8i1v@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250909081004r8i1v\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250909081004r8i1v
+END:VEVENT
 END:VCALENDAR
