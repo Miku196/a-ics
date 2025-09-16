@@ -452,4 +452,15 @@ DESCRIPTION:比赛ID: csgo_mc_2385567\n赛事: CCT 第3赛季 欧洲系列
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385567
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+DTSTART:20250917T160000Z
+DTEND:20250917T183000Z
+UID:csgo_mc_2385322@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385322\n赛事: FISSURE 裂变天地 2\n阶
+ 段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: A级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385322
+END:VEVENT
 END:VCALENDAR
