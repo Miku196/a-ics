@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 第三十赛季: VP.P vs Nemiga
-DTSTART:20250916T120000Z
-DTEND:20250916T150000Z
-UID:dt_mc_20250909075953uixqk@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250909075953uixqk\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250909075953uixqk
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 第三十赛季: pipsqueak+4 vs TNL
 DTSTART:20250916T150000Z
 DTEND:20250916T180000Z
@@ -419,5 +408,16 @@ DESCRIPTION:比赛ID: dt_mc_20250911010016bujid\n赛制: BO3\n阶段: 小
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250911010016bujid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cringe Station 月蛇杯 3: BuyBack Bros vs Ivory
+DTSTART:20250921T070000Z
+DTEND:20250921T100000Z
+UID:dt_mc_20250911010016kqo8k@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250911010016kqo8k\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250911010016kqo8k
 END:VEVENT
 END:VCALENDAR
