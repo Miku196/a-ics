@@ -3,19 +3,7 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: BESTIA vs RED Canids
-DTSTART:20250916T184000Z
-DTEND:20250916T211000Z
-UID:csgo_mc_2385601@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385601\n赛事:  CCT 第3赛季 南美系
- 列赛4\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385601
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛4: Sharks vs TBD
 DTSTART:20250916T210000Z
 DTEND:20250916T233000Z
 UID:csgo_mc_2385602@5eplay.com
@@ -74,7 +62,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385418
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: FaZe vs Liquid
 DTSTART:20250917T090000Z
 DTEND:20250917T113000Z
 UID:csgo_mc_2385320@5eplay.com
@@ -118,19 +106,19 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7 封闭预选赛: THE vs modeame
+SUMMARY:CCT 第3赛季 欧洲系列赛 7 封闭预选赛: UNiTY vs Khan
 DTSTART:20250917T113000Z
 DTEND:20250917T140000Z
-UID:csgo_mc_2385566@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385566\n赛事: CCT 第3赛季 欧洲系列
+UID:csgo_mc_2385568@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385568\n赛事: CCT 第3赛季 欧洲系列
  赛 7 封闭预选赛\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\
  n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385566
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385568
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: Astralis vs GL
 DTSTART:20250917T123000Z
 DTEND:20250917T150000Z
 UID:csgo_mc_2385321@5eplay.com
@@ -199,7 +187,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385567
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: paiN vs VP
 DTSTART:20250917T160000Z
 DTEND:20250917T183000Z
 UID:csgo_mc_2385322@5eplay.com
@@ -269,7 +257,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385688
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段 公开预选: TBD vs TBD
+SUMMARY:银河之战 2025 第4阶段 公开预选: EYE vs Khan
 DTSTART:20250917T170000Z
 DTEND:20250917T193000Z
 UID:csgo_mc_2385540@5eplay.com
@@ -292,16 +280,16 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385625
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7 封闭预选赛: UNiTY vs Khan
+SUMMARY:CCT 第3赛季 欧洲系列赛 7 封闭预选赛: THE vs modeame
 DTSTART:20250917T173000Z
 DTEND:20250917T200000Z
-UID:csgo_mc_2385568@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385568\n赛事: CCT 第3赛季 欧洲系列
+UID:csgo_mc_2385566@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385566\n赛事: CCT 第3赛季 欧洲系列
  赛 7 封闭预选赛\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\
  n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385568
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385566
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESL Impact 联赛 第8赛季 欧洲: AKA HERO KAJO vs hindsight
@@ -382,5 +370,63 @@ DESCRIPTION:比赛ID: csgo_mc_2385510\n赛事: ESL 挑战者联赛 S50 南
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: Galorys vs ex-W7M
+DTSTART:20250917T210000Z
+DTEND:20250917T233000Z
+UID:csgo_mc_2385511@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385511\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385511
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 北美: wwaves vs Nocturnal
+DTSTART:20250917T233000Z
+DTEND:20250918T020000Z
+UID:csgo_mc_2385666@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385666\n赛事: ESL Impact 联赛 第8赛
+ 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385666
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 北美: black mold vs Legacy Lotus
+DTSTART:20250917T233000Z
+DTEND:20250918T020000Z
+UID:csgo_mc_2385667@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385667\n赛事: ESL Impact 联赛 第8赛
+ 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385667
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Wildcard vs Getting Info
+DTSTART:20250918T010000Z
+DTEND:20250918T033000Z
+UID:csgo_mc_2385516@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385516\n赛事: ESL 挑战者联赛 S50 北
+ 美 第2季\n阶段: 淘汰赛 胜者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385516
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Marsborne vs SkinRave
+DTSTART:20250918T010000Z
+DTEND:20250918T033000Z
+UID:csgo_mc_2385517@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385517\n赛事: ESL 挑战者联赛 S50 北
+ 美 第2季\n阶段: 淘汰赛 胜者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385517
 END:VEVENT
 END:VCALENDAR
