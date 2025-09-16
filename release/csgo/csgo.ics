@@ -3,64 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第四季: Johnny Speeds vs SENZA
-DTSTART:20250916T143000Z
-DTEND:20250916T170000Z
-UID:csgo_mc_2385683@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385683\n赛事: Exort试验场 第四季\n
- 阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385683
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7 封闭预选赛: Reason vs QMISTR
- Y
-DTSTART:20250916T143000Z
-DTEND:20250916T170000Z
-UID:csgo_mc_2385563@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385563\n赛事: CCT 第3赛季 欧洲系列
- 赛 7 封闭预选赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\
- n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385563
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: ODDIK vs Sharks
-DTSTART:20250916T150000Z
-DTEND:20250916T173000Z
-UID:csgo_mc_2385600@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385600\n赛事:  CCT 第3赛季 南美系
- 列赛4\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385600
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: FURIA vs paiN
-DTSTART:20250916T160000Z
-DTEND:20250916T183000Z
-UID:csgo_mc_2385318@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385318\n赛事: FISSURE 裂变天地 2\n阶
- 段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: A级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385318
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: Astralis vs Legacy
-DTSTART:20250916T160000Z
-DTEND:20250916T183000Z
-UID:csgo_mc_2385319@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385319\n赛事: FISSURE 裂变天地 2\n阶
- 段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: A级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385319
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Exort试验场 第四季: Partizan vs Aab
 DTSTART:20250916T170000Z
 DTEND:20250916T193000Z
@@ -82,6 +24,28 @@ DESCRIPTION:比赛ID: csgo_mc_2385538\n赛事: 银河之战 2025 第4阶
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385538
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: FURIA vs paiN
+DTSTART:20250916T170000Z
+DTEND:20250916T193000Z
+UID:csgo_mc_2385318@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385318\n赛事: FISSURE 裂变天地 2\n阶
+ 段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: A级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385318
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: Astralis vs Legacy
+DTSTART:20250916T170000Z
+DTEND:20250916T193000Z
+UID:csgo_mc_2385319@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385319\n赛事: FISSURE 裂变天地 2\n阶
+ 段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: A级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385319
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 6: Reason vs CYBERSHOKE
@@ -154,7 +118,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385685
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2: TBD vs TBD
+SUMMARY:欧洲职业联赛 系列赛2: Venom vs ARCRED
 DTSTART:20250917T080000Z
 DTEND:20250917T103000Z
 UID:csgo_mc_2385745@5eplay.com
@@ -201,7 +165,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385320
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2: TBD vs TBD
+SUMMARY:欧洲职业联赛 系列赛2: JJH vs SINNERS
 DTSTART:20250917T103000Z
 DTEND:20250917T130000Z
 UID:csgo_mc_2385746@5eplay.com
@@ -395,5 +359,39 @@ DESCRIPTION:比赛ID: csgo_mc_2385540\n赛事: 银河之战 2025 第4阶
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385540
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: TBD vs TBD
+DTSTART:20250917T170000Z
+DTEND:20250917T193000Z
+UID:csgo_mc_2385625@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385625\n赛事: CCT 第3赛季 欧洲系列
+ 赛 6\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385625
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 7 封闭预选赛: UNiTY vs TBD
+DTSTART:20250917T173000Z
+DTEND:20250917T200000Z
+UID:csgo_mc_2385568@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385568\n赛事: CCT 第3赛季 欧洲系列
+ 赛 7 封闭预选赛\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\
+ n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385568
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 欧洲: AKA HERO KAJO vs hindsight
+DTSTART:20250917T183000Z
+DTEND:20250917T210000Z
+UID:csgo_mc_2385658@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385658\n赛事: ESL Impact 联赛 第8赛
+ 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
+ 始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385658
 END:VEVENT
 END:VCALENDAR
