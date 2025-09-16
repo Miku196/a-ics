@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛4: Sharks vs TBD
-DTSTART:20250916T210000Z
-DTEND:20250916T233000Z
-UID:csgo_mc_2385602@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385602\n赛事:  CCT 第3赛季 南美系
- 列赛4\n阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385602
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Exort试验场 第四季: Betclic vs Monte
 DTSTART:20250917T080000Z
 DTEND:20250917T103000Z
@@ -95,7 +83,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385686
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: EF vs ARCRED
 DTSTART:20250917T110000Z
 DTEND:20250917T133000Z
 UID:csgo_mc_2385623@5eplay.com
@@ -164,7 +152,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385539
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: Alliance vs RUBY
 DTSTART:20250917T140000Z
 DTEND:20250917T163000Z
 UID:csgo_mc_2385624@5eplay.com
@@ -269,7 +257,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385540
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: Tricked vs Reason
 DTSTART:20250917T170000Z
 DTEND:20250917T193000Z
 UID:csgo_mc_2385625@5eplay.com
@@ -280,7 +268,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385625
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7 封闭预选赛: THE vs modeame
+SUMMARY:CCT 第3赛季 欧洲系列赛 7 封闭预选赛: THE vs Y5
 DTSTART:20250917T173000Z
 DTEND:20250917T200000Z
 UID:csgo_mc_2385566@5eplay.com
@@ -428,5 +416,40 @@ DESCRIPTION:比赛ID: csgo_mc_2385517\n赛事: ESL 挑战者联赛 S50 北
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Wanted Goons vs LAG
+DTSTART:20250918T010000Z
+DTEND:20250918T033000Z
+UID:csgo_mc_2385518@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385518\n赛事: ESL 挑战者联赛 S50 北
+ 美 第2季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385518
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Aether vs BOSS
+DTSTART:20250918T010000Z
+DTEND:20250918T033000Z
+UID:csgo_mc_2385519@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385519\n赛事: ESL 挑战者联赛 S50 北
+ 美 第2季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385519
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2: Sashi vs Metizport
+DTSTART:20250918T080000Z
+DTEND:20250918T103000Z
+UID:csgo_mc_2385747@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385747\n赛事: 欧洲职业联赛 系列
+ 赛2\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小
+ 时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385747
 END:VEVENT
 END:VCALENDAR

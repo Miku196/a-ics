@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: Flame vs OG.LATAM
-DTSTART:20250916T210000Z
-DTEND:20250917T000000Z
-UID:dt_mc_20250902000252622t5@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902000252622t5\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902000252622t5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: Flame vs OG.LATAM
-DTSTART:20250916T210000Z
-DTEND:20250917T000000Z
-UID:dt_mc_20250902000305ry1ne@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902000305ry1ne\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902000305ry1ne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cringe Station 月蛇杯 3: BuyBack Bros vs InterActive
 DTSTART:20250917T030000Z
 DTEND:20250917T060000Z
@@ -417,5 +395,25 @@ DESCRIPTION:比赛ID: dt_mc_202509072332544wlvl\n赛制: BO3\n赛事等级
  : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509072332544wlvl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250926T120000Z
+DTEND:20250926T150000Z
+UID:dt_mc_20250907233255ofunv@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233255ofunv\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233255ofunv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250926T150000Z
+DTEND:20250926T180000Z
+UID:dt_mc_20250907233256ubphk@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233256ubphk\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233256ubphk
 END:VEVENT
 END:VCALENDAR
