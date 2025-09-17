@@ -3,89 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TBD vs TBD
-DTSTART:20250917T190000Z
-DTEND:20250917T210000Z
-UID:dt_mc_20250917224453l0iz7@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250917224453l0iz7\n赛制: BO1\n赛事等级
- : C级\n状态: 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250917224453l0iz7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TBD vs TBD
-DTSTART:20250917T190000Z
-DTEND:20250917T210000Z
-UID:dt_mc_20250917224453z7zzt@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250917224453z7zzt\n赛制: BO1\n赛事等级
- : C级\n状态: 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250917224453z7zzt
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TBD vs TBD
-DTSTART:20250917T190000Z
-DTEND:20250917T210000Z
-UID:dt_mc_2025091722445412wrb@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_2025091722445412wrb\n赛制: BO1\n赛事等级
- : C级\n状态: 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_2025091722445412wrb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TBD vs TBD
-DTSTART:20250917T190000Z
-DTEND:20250917T210000Z
-UID:dt_mc_20250917224455iwgtz@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250917224455iwgtz\n赛制: BO1\n赛事等级
- : C级\n状态: 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250917224455iwgtz
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TBD vs TBD
-DTSTART:20250917T190000Z
-DTEND:20250917T210000Z
-UID:dt_mc_202509172244551iwfo@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509172244551iwfo\n赛制: BO1\n赛事等级
- : C级\n状态: 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509172244551iwfo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TBD vs TBD
-DTSTART:20250917T190000Z
-DTEND:20250917T210000Z
-UID:dt_mc_20250917224456v88l1@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250917224456v88l1\n赛制: BO1\n赛事等级
- : C级\n状态: 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250917224456v88l1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TBD vs TBD
-DTSTART:20250917T190000Z
-DTEND:20250917T210000Z
-UID:dt_mc_20250917224456hv45w@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250917224456hv45w\n赛制: BO1\n赛事等级
- : C级\n状态: 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250917224456hv45w
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TBD vs TBD
-DTSTART:20250917T190000Z
-DTEND:20250917T210000Z
-UID:dt_mc_20250917224457rmph1@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250917224457rmph1\n赛制: BO1\n赛事等级
- : C级\n状态: 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250917224457rmph1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
-DTSTART:20250917T200000Z
-DTEND:20250917T220000Z
+DTSTART:20250917T201500Z
+DTEND:20250917T221500Z
 UID:dt_mc_20250918000552nrsr7@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250918000552nrsr7\n赛制: BO1\n赛事等级
  : A级\n状态: 未开始\n预计时长: 2小时\n数据来源: 5EPlay
@@ -94,8 +14,8 @@ URL:https://event.5eplay.com/dota/session/dt_mc_20250918000552nrsr7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
-DTSTART:20250917T200000Z
-DTEND:20250917T220000Z
+DTSTART:20250917T201500Z
+DTEND:20250917T221500Z
 UID:dt_mc_202509180005534ltk2@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_202509180005534ltk2\n赛制: BO1\n赛事等级
  : A级\n状态: 未开始\n预计时长: 2小时\n数据来源: 5EPlay
@@ -104,8 +24,8 @@ URL:https://event.5eplay.com/dota/session/dt_mc_202509180005534ltk2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
-DTSTART:20250917T200000Z
-DTEND:20250917T220000Z
+DTSTART:20250917T201500Z
+DTEND:20250917T221500Z
 UID:dt_mc_20250918000553dqtwb@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250918000553dqtwb\n赛制: BO1\n赛事等级
  : A级\n状态: 未开始\n预计时长: 2小时\n数据来源: 5EPlay
@@ -114,8 +34,8 @@ URL:https://event.5eplay.com/dota/session/dt_mc_20250918000553dqtwb
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
-DTSTART:20250917T200000Z
-DTEND:20250917T220000Z
+DTSTART:20250917T201500Z
+DTEND:20250917T221500Z
 UID:dt_mc_20250918000554pfqzx@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250918000554pfqzx\n赛制: BO1\n赛事等级
  : A级\n状态: 未开始\n预计时长: 2小时\n数据来源: 5EPlay
@@ -411,5 +331,16 @@ DESCRIPTION:比赛ID: dt_mc_20250911010017hvcny\n赛制: BO3\n阶段: 小
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250911010017hvcny
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: pipsqueak+4 vs VP.P
+DTSTART:20250921T120000Z
+DTEND:20250921T150000Z
+UID:dt_mc_20250909075956dwcgd@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250909075956dwcgd\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250909075956dwcgd
 END:VEVENT
 END:VCALENDAR
