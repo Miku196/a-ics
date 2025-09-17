@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 第三十赛季: UB vs Kalmychata
-DTSTART:20250917T090000Z
-DTEND:20250917T120000Z
-UID:dt_mc_20250909075954beebl@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250909075954beebl\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250909075954beebl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cringe Station 月蛇杯 3: CARST vs Ivory
-DTSTART:20250917T100000Z
-DTEND:20250917T130000Z
-UID:dt_mc_20250911005956sjk51@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250911005956sjk51\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250911005956sjk51
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 第三十赛季: pipsqueak+4 vs VP.P
 DTSTART:20250917T120000Z
 DTEND:20250917T150000Z
@@ -433,5 +411,15 @@ DESCRIPTION:比赛ID: dt_mc_20250907233300frebg\n赛制: BO3\n赛事等级
  : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250907233300frebg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250929T120000Z
+DTEND:20250929T150000Z
+UID:dt_mc_20250907233302zibc2@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233302zibc2\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233302zibc2
 END:VEVENT
 END:VCALENDAR
