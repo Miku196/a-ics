@@ -4,8 +4,8 @@ PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
 SUMMARY:Winline 明星联赛: Vasilisa vs KBU
-DTSTART:20250918T190000Z
-DTEND:20250918T210000Z
+DTSTART:20250918T210000Z
+DTEND:20250918T230000Z
 UID:dt_mc_20250918105953xszx8@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250918105953xszx8\n赛制: BO2\n阶段: 小
  组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
@@ -414,5 +414,25 @@ DESCRIPTION:比赛ID: dt_mc_20250918085953ch34x\n赛制: BO3\n赛事等级
  : C级\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250918085953ch34x
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250926T120000Z
+DTEND:20250926T150000Z
+UID:dt_mc_20250907233255ofunv@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233255ofunv\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233255ofunv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250926T150000Z
+DTEND:20250926T180000Z
+UID:dt_mc_20250907233256ubphk@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233256ubphk\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233256ubphk
 END:VEVENT
 END:VCALENDAR
