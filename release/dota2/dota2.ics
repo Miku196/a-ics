@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Cringe Station 月蛇杯 3: Emperor vs MongolZ
-DTSTART:20250918T040000Z
-DTEND:20250918T070000Z
-UID:dt_mc_202509110059561affx@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509110059561affx\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509110059561affx
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cringe Station 月蛇杯 3: InterActive vs Veroja
 DTSTART:20250918T070000Z
 DTEND:20250918T100000Z
@@ -29,8 +18,9 @@ SUMMARY:FISSURE 裂变天地 2 中国/东南亚预选赛: TBD vs TBD
 DTSTART:20250918T080000Z
 DTEND:20250918T100000Z
 UID:dt_mc_20250917234452af7v2@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250917234452af7v2\n赛制: BO1\n赛事等级
- : C级\n状态: 未开始\n预计时长: 2小时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20250917234452af7v2\n赛制: BO1\n轮次: 十
+ 六强\n阶段: 公开预选赛#2 十六强\n赛事等级: C级\n状态: 
+ 未开始\n预计时长: 2小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250917234452af7v2
 END:VEVENT
@@ -88,7 +78,29 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025091723445319y0o
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 第三十赛季: Kalmychata vs VP.P
+SUMMARY:Wss: EZ25 vs Travoman
+DTSTART:20250918T120000Z
+DTEND:20250918T140000Z
+UID:dt_mc_20250918105652np4us@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250918105652np4us\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250918105652np4us
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wss: Stariy Bog vs EZ25
+DTSTART:20250918T143000Z
+DTEND:20250918T163000Z
+UID:dt_mc_2025091810595226dcu@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_2025091810595226dcu\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_2025091810595226dcu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: pipsqueak+4 vs VP.P
 DTSTART:20250918T150000Z
 DTEND:20250918T180000Z
 UID:dt_mc_20250909080253qpamo@5eplay.com
@@ -97,6 +109,28 @@ DESCRIPTION:比赛ID: dt_mc_20250909080253qpamo\n赛制: BO3\n阶段: 小
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909080253qpamo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wss: Vasilisa vs Rostik
+DTSTART:20250918T170000Z
+DTEND:20250918T190000Z
+UID:dt_mc_20250918105352wz99k@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250918105352wz99k\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250918105352wz99k
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wss: By_owl vs KBU
+DTSTART:20250918T170000Z
+DTEND:20250918T190000Z
+UID:dt_mc_20250918105953i490l@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250918105953i490l\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250918105953i490l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 第三十赛季: L1ga vs WB
@@ -128,6 +162,17 @@ DESCRIPTION:比赛ID: dt_mc_20250918000853s9428\n赛制: BO1\n赛事等级
  : A级\n状态: 未开始\n预计时长: 2小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250918000853s9428
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wss: Vasilisa vs KBU
+DTSTART:20250918T190000Z
+DTEND:20250918T210000Z
+UID:dt_mc_20250918105953xszx8@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250918105953xszx8\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250918105953xszx8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cringe Station 月蛇杯 3: BuyBack Bros vs MongolZ
@@ -174,6 +219,28 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250911005959zuten
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wss: Stariy Bog vs Travoman
+DTSTART:20250919T120000Z
+DTEND:20250919T140000Z
+UID:dt_mc_202509181059540rhuf@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509181059540rhuf\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509181059540rhuf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wss: Travoman vs Voodoosh
+DTSTART:20250919T143000Z
+DTEND:20250919T163000Z
+UID:dt_mc_20250918105955ou6dm@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250918105955ou6dm\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250918105955ou6dm
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 第三十赛季: pipsqueak+4 vs UB
 DTSTART:20250919T150000Z
 DTEND:20250919T180000Z
@@ -183,6 +250,17 @@ DESCRIPTION:比赛ID: dt_mc_20250909080256xk0az\n赛制: BO3\n阶段: 小
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909080256xk0az
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wss: Rostik vs KBU
+DTSTART:20250919T160000Z
+DTEND:20250919T180000Z
+UID:dt_mc_20250918110253a8bxp@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250918110253a8bxp\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250918110253a8bxp
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cringe Station 月蛇杯 3: Emperor vs BuyBack Bros
@@ -273,7 +351,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250911010017hvcny
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 第三十赛季: pipsqueak+4 vs VP.P
+SUMMARY:欧洲职业联赛 第三十赛季: Kalmychata vs VP.P
 DTSTART:20250921T120000Z
 DTEND:20250921T150000Z
 UID:dt_mc_20250909075956dwcgd@5eplay.com
@@ -348,88 +426,5 @@ DESCRIPTION:比赛ID: dt_mc_20250902000305feqkb\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000305feqkb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: EB vs Lava
-DTSTART:20250924T180000Z
-DTEND:20250924T210000Z
-UID:dt_mc_20250902000306uxnia@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902000306uxnia\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902000306uxnia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: Flame vs Tortu Ninjas
-DTSTART:20250924T210000Z
-DTEND:20250925T000000Z
-UID:dt_mc_202509020038525x35b@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509020038525x35b\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509020038525x35b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: TBD vs TBD
-DTSTART:20250925T120000Z
-DTEND:20250925T150000Z
-UID:dt_mc_20250907233252j1fr1@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250907233252j1fr1\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250907233252j1fr1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: TBD vs TBD
-DTSTART:20250925T150000Z
-DTEND:20250925T180000Z
-UID:dt_mc_20250907233254ehuuu@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250907233254ehuuu\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250907233254ehuuu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: TBD vs TBD
-DTSTART:20250925T180000Z
-DTEND:20250925T210000Z
-UID:dt_mc_202509072332544wlvl@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509072332544wlvl\n赛制: BO3\n赛事等级
- : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509072332544wlvl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST S4东南亚预选赛: TBD vs TBD
-DTSTART:20250926T030000Z
-DTEND:20250926T060000Z
-UID:dt_mc_20250918085952wa20m@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250918085952wa20m\n赛制: BO3\n赛事等级
- : C级\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250918085952wa20m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST S4东南亚预选赛: TBD vs TBD
-DTSTART:20250926T030000Z
-DTEND:20250926T060000Z
-UID:dt_mc_20250918093552nadsn@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250918093552nadsn\n赛制: BO3\n赛事等级
- : C级\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250918093552nadsn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST S4东南亚预选赛: TBD vs TBD
-DTSTART:20250926T060000Z
-DTEND:20250926T090000Z
-UID:dt_mc_20250918085952agbnc@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250918085952agbnc\n赛制: BO3\n赛事等级
- : C级\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250918085952agbnc
 END:VEVENT
 END:VCALENDAR
