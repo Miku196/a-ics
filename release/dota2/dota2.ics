@@ -327,4 +327,109 @@ DESCRIPTION:比赛ID: dt_mc_20250911010253yoag4\n赛制: BO3\n阶段: 小
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250911010253yoag4
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cringe Station 月蛇杯 3: Ivory vs YG
+DTSTART:20250922T100000Z
+DTEND:20250922T130000Z
+UID:dt_mc_20250911010253c85vb@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250911010253c85vb\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250911010253c85vb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: TW vs HunterZ
+DTSTART:20250923T180000Z
+DTEND:20250923T210000Z
+UID:dt_mc_20250902000305feqkb@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000305feqkb\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000305feqkb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: EB vs Lava
+DTSTART:20250924T180000Z
+DTEND:20250924T210000Z
+UID:dt_mc_20250902000306uxnia@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000306uxnia\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000306uxnia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: Flame vs Tortu Ninjas
+DTSTART:20250924T210000Z
+DTEND:20250925T000000Z
+UID:dt_mc_202509020038525x35b@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509020038525x35b\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509020038525x35b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250925T120000Z
+DTEND:20250925T150000Z
+UID:dt_mc_20250907233252j1fr1@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233252j1fr1\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233252j1fr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250925T150000Z
+DTEND:20250925T180000Z
+UID:dt_mc_20250907233254ehuuu@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233254ehuuu\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233254ehuuu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250925T180000Z
+DTEND:20250925T210000Z
+UID:dt_mc_202509072332544wlvl@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509072332544wlvl\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509072332544wlvl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST S4东南亚预选赛: TBD vs TBD
+DTSTART:20250926T030000Z
+DTEND:20250926T060000Z
+UID:dt_mc_20250918085952wa20m@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250918085952wa20m\n赛制: BO3\n赛事等级
+ : C级\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250918085952wa20m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST S4东南亚预选赛: TBD vs TBD
+DTSTART:20250926T030000Z
+DTEND:20250926T060000Z
+UID:dt_mc_20250918093552nadsn@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250918093552nadsn\n赛制: BO3\n赛事等级
+ : C级\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250918093552nadsn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST S4东南亚预选赛: TBD vs TBD
+DTSTART:20250926T060000Z
+DTEND:20250926T090000Z
+UID:dt_mc_20250918085952agbnc@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250918085952agbnc\n赛制: BO3\n赛事等级
+ : C级\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250918085952agbnc
+END:VEVENT
 END:VCALENDAR

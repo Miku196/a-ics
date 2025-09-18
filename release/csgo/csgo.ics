@@ -3,54 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Wildcard vs Getting Info
-DTSTART:20250918T010000Z
-DTEND:20250918T033000Z
-UID:csgo_mc_2385516@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385516\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 胜者组 第4轮\n轮次: 第4轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385516
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Marsborne vs SkinRave
-DTSTART:20250918T010000Z
-DTEND:20250918T033000Z
-UID:csgo_mc_2385517@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385517\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 胜者组 第4轮\n轮次: 第4轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385517
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Wanted Goons vs LAG
-DTSTART:20250918T010000Z
-DTEND:20250918T033000Z
-UID:csgo_mc_2385518@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385518\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385518
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Aether vs BOSS
-DTSTART:20250918T010000Z
-DTEND:20250918T033000Z
-UID:csgo_mc_2385519@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385519\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385519
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2: Sashi vs Metizport
 DTSTART:20250918T080000Z
 DTEND:20250918T103000Z
@@ -442,5 +394,29 @@ DESCRIPTION:比赛ID: csgo_mc_2385669\n赛事: ESL Impact 联赛 第8赛
  预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385669
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第2季: TBD vs TBD
+DTSTART:20250919T010000Z
+DTEND:20250919T033000Z
+UID:csgo_mc_2385651@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385651\n赛事: ESL 挑战者联赛 S50 北
+ 美 第2季\n阶段: 淘汰赛 败者组 第5轮\n轮次: 第5轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385651
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第2季: TBD vs TBD
+DTSTART:20250919T010000Z
+DTEND:20250919T033000Z
+UID:csgo_mc_2385652@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385652\n赛事: ESL 挑战者联赛 S50 北
+ 美 第2季\n阶段: 淘汰赛 败者组 第5轮\n轮次: 第5轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385652
 END:VEVENT
 END:VCALENDAR
