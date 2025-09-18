@@ -427,4 +427,15 @@ DESCRIPTION:比赛ID: dt_mc_20250902000305feqkb\n赛制: BO3\n阶段: 小
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000305feqkb
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: EB vs Lava
+DTSTART:20250924T180000Z
+DTEND:20250924T210000Z
+UID:dt_mc_20250902000306uxnia@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000306uxnia\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000306uxnia
+END:VEVENT
 END:VCALENDAR
