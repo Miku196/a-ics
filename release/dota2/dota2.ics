@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 西欧预选赛: LVLUP vs TBD
-DTSTART:20250918T122000Z
-DTEND:20250918T142000Z
-UID:dt_mc_202509181959540db97@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509181959540db97\n赛制: BO1\n轮次: 1/4
- 决赛\n阶段: 公开预选赛#2 1/4决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509181959540db97
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Winline 明星联赛: Stariy Bog vs EZ25
 DTSTART:20250918T143000Z
 DTEND:20250918T163000Z
@@ -145,6 +134,28 @@ DESCRIPTION:比赛ID: dt_mc_20250911005959zuten\n赛制: BO3\n阶段: 小
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250911005959zuten
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2 西欧预选赛: Z10 vs LVLUP
+DTSTART:20250919T110000Z
+DTEND:20250919T140000Z
+UID:dt_mc_20250918202354avn7w@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250918202354avn7w\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 公开预选赛#2 半决赛\n赛事等级: C级\n状态: 
+ 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250918202354avn7w
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2 西欧预选赛: sifr00 vs Mjolnir
+DTSTART:20250919T110000Z
+DTEND:20250919T140000Z
+UID:dt_mc_20250918203003aykpu@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250918203003aykpu\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 公开预选赛#2 半决赛\n赛事等级: C级\n状态: 
+ 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250918203003aykpu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winline 明星联赛: Stariy Bog vs Travoman
@@ -310,5 +321,93 @@ DESCRIPTION:比赛ID: dt_mc_20250909080255gu4j9\n赛制: BO3\n阶段: 小
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909080255gu4j9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: WB vs eSpoiled
+DTSTART:20250921T180000Z
+DTEND:20250921T210000Z
+UID:dt_mc_20250909080252xoqx5@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250909080252xoqx5\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250909080252xoqx5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cringe Station 月蛇杯 3: Emperor vs Ivory
+DTSTART:20250922T040000Z
+DTEND:20250922T070000Z
+UID:dt_mc_20250911010252vk4v1@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250911010252vk4v1\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250911010252vk4v1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cringe Station 月蛇杯 3: CARST vs MongolZ
+DTSTART:20250922T070000Z
+DTEND:20250922T100000Z
+UID:dt_mc_20250911010253yoag4@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250911010253yoag4\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250911010253yoag4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cringe Station 月蛇杯 3: Ivory vs YG
+DTSTART:20250922T100000Z
+DTEND:20250922T130000Z
+UID:dt_mc_20250911010253c85vb@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250911010253c85vb\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250911010253c85vb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: TW vs HunterZ
+DTSTART:20250923T180000Z
+DTEND:20250923T210000Z
+UID:dt_mc_20250902000305feqkb@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000305feqkb\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000305feqkb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: EB vs Lava
+DTSTART:20250924T180000Z
+DTEND:20250924T210000Z
+UID:dt_mc_20250902000306uxnia@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000306uxnia\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000306uxnia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: Flame vs Tortu Ninjas
+DTSTART:20250924T210000Z
+DTEND:20250925T000000Z
+UID:dt_mc_202509020038525x35b@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509020038525x35b\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509020038525x35b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250925T120000Z
+DTEND:20250925T150000Z
+UID:dt_mc_20250907233252j1fr1@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233252j1fr1\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233252j1fr1
 END:VEVENT
 END:VCALENDAR
