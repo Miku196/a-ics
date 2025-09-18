@@ -283,4 +283,48 @@ DESCRIPTION:比赛ID: dt_mc_20250909075956dwcgd\n赛制: BO3\n阶段: 小
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909075956dwcgd
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: eSpoiled vs LVLUP
+DTSTART:20250921T150000Z
+DTEND:20250921T180000Z
+UID:dt_mc_20250909080255gu4j9@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250909080255gu4j9\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250909080255gu4j9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: WB vs eSpoiled
+DTSTART:20250921T180000Z
+DTEND:20250921T210000Z
+UID:dt_mc_20250909080252xoqx5@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250909080252xoqx5\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250909080252xoqx5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cringe Station 月蛇杯 3: Emperor vs Ivory
+DTSTART:20250922T040000Z
+DTEND:20250922T070000Z
+UID:dt_mc_20250911010252vk4v1@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250911010252vk4v1\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250911010252vk4v1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cringe Station 月蛇杯 3: CARST vs MongolZ
+DTSTART:20250922T070000Z
+DTEND:20250922T100000Z
+UID:dt_mc_20250911010253yoag4@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250911010253yoag4\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250911010253yoag4
+END:VEVENT
 END:VCALENDAR
