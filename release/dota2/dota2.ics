@@ -3,70 +3,15 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 西欧预选赛: Z10 vs LVLUP
-DTSTART:20250919T110000Z
-DTEND:20250919T140000Z
-UID:dt_mc_20250918202354avn7w@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250918202354avn7w\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 公开预选赛#2 半决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250918202354avn7w
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 东欧预选赛: eSpoiled vs Kalmychata
-DTSTART:20250919T110000Z
-DTEND:20250919T140000Z
-UID:dt_mc_20250918202653qca0r@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250918202653qca0r\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 公开预选赛#2 半决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250918202653qca0r
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 西欧预选赛: sifr00 vs Mjolnir
-DTSTART:20250919T110000Z
-DTEND:20250919T140000Z
-UID:dt_mc_20250918203003aykpu@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250918203003aykpu\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 公开预选赛#2 半决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250918203003aykpu
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 东欧预选赛: AP vs Yes
-DTSTART:20250919T110000Z
-DTEND:20250919T140000Z
-UID:dt_mc_202509182032542zz3a@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509182032542zz3a\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 公开预选赛#2 半决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509182032542zz3a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winline 明星联赛: Stariy Bog vs Travoman
-DTSTART:20250919T120000Z
-DTEND:20250919T140000Z
-UID:dt_mc_202509181059540rhuf@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509181059540rhuf\n赛制: BO2\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509181059540rhuf
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winline 明星联赛: Travoman vs Voodoosh
+SUMMARY:Winline 明星联赛: Rostik vs KBU
 DTSTART:20250919T143000Z
 DTEND:20250919T163000Z
-UID:dt_mc_20250918105955ou6dm@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250918105955ou6dm\n赛制: BO2\n阶段: 小
+UID:dt_mc_20250918110253a8bxp@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250918110253a8bxp\n赛制: BO2\n阶段: 小
  组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250918105955ou6dm
+URL:https://event.5eplay.com/dota/session/dt_mc_20250918110253a8bxp
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 第三十赛季: pipsqueak+4 vs UB
@@ -80,15 +25,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909080256xk0az
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winline 明星联赛: Rostik vs KBU
-DTSTART:20250919T160000Z
-DTEND:20250919T180000Z
-UID:dt_mc_20250918110253a8bxp@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250918110253a8bxp\n赛制: BO2\n阶段: 小
+SUMMARY:Winline 明星联赛: Stariy Bog vs Travoman
+DTSTART:20250919T163000Z
+DTEND:20250919T183000Z
+UID:dt_mc_202509181059540rhuf@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509181059540rhuf\n赛制: BO2\n阶段: 小
  组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250918110253a8bxp
+URL:https://event.5eplay.com/dota/session/dt_mc_202509181059540rhuf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 第三十赛季: Kalmychata vs Nemiga
@@ -401,5 +346,25 @@ DESCRIPTION:比赛ID: dt_mc_20250907233255ofunv\n赛制: BO3\n赛事等级
  : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250907233255ofunv
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250926T150000Z
+DTEND:20250926T180000Z
+UID:dt_mc_20250907233256ubphk@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233256ubphk\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233256ubphk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250926T180000Z
+DTEND:20250926T210000Z
+UID:dt_mc_202509072332573v863@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509072332573v863\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509072332573v863
 END:VEVENT
 END:VCALENDAR

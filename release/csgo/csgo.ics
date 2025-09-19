@@ -3,71 +3,15 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2: ESC vs FORZE Reload
-DTSTART:20250919T103000Z
-DTEND:20250919T130000Z
-UID:csgo_mc_2385750@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385750\n赛事: 欧洲职业联赛 系列
- 赛2\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级:
-  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385750
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: ENCE vs GUN5
-DTSTART:20250919T110000Z
-DTEND:20250919T133000Z
-UID:csgo_mc_2385631@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385631\n赛事: CCT 第3赛季 欧洲系列
- 赛 6\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385631
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第四季: Betclic vs Partizan
-DTSTART:20250919T110000Z
-DTEND:20250919T133000Z
-UID:csgo_mc_2385769@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385769\n赛事: Exort试验场 第四季\n
- 阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385769
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: SINNERS vs Khan
-DTSTART:20250919T113000Z
-DTEND:20250919T140000Z
-UID:csgo_mc_2385574@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385574\n赛事: CCT 第3赛季 欧洲系列
- 赛 7\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385574
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2: Aurora vs Liquid
-DTSTART:20250919T113000Z
-DTEND:20250919T140000Z
+DTSTART:20250919T122000Z
+DTEND:20250919T145000Z
 UID:csgo_mc_2385324@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385324\n赛事: FISSURE 裂变天地 2\n阶
  段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: A级\n
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385324
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder系列赛 布达佩斯 2025: Gentle Mates vs 9INE
-DTSTART:20250919T120000Z
-DTEND:20250919T143000Z
-UID:csgo_mc_2385399@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385399\n赛事: StarLadder系列赛 布达
- 佩斯 2025\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: B
- O3\n等级: B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源
- : 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385399
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 亚太区 第2季: The Huns vs RA
@@ -116,6 +60,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385775
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Winline 职业联赛 S3: GUN5 vs ARCRED
+DTSTART:20250919T143000Z
+DTEND:20250919T170000Z
+UID:csgo_mc_2385802@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385802\n赛事: Winline 职业联赛 S3\n
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385802
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 7: ECLOT vs SPARTA
 DTSTART:20250919T143000Z
 DTEND:20250919T170000Z
@@ -137,17 +92,6 @@ DESCRIPTION:比赛ID: csgo_mc_2385400\n赛事: StarLadder系列赛 布达
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385400
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winline 职业联赛 S3: Sangal vs yngods
-DTSTART:20250919T150000Z
-DTEND:20250919T173000Z
-UID:csgo_mc_2385801@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385801\n赛事: Winline 职业联赛 S3\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385801
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2: FURIA vs Astralis
@@ -254,17 +198,6 @@ DESCRIPTION:比赛ID: csgo_mc_2385798\n赛事: ESL 挑战者联赛 S50 欧
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385798
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winline 职业联赛 S3: GUN5 vs ARCRED
-DTSTART:20250919T173000Z
-DTEND:20250919T200000Z
-UID:csgo_mc_2385802@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385802\n赛事: Winline 职业联赛 S3\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385802
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 7: ARCRED vs EF
@@ -392,5 +325,84 @@ DESCRIPTION:比赛ID: csgo_mc_2385577\n赛事: CCT 第3赛季 欧洲系列
  : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385577
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder系列赛 布达佩斯 2025: TBD vs TBD
+DTSTART:20250920T090000Z
+DTEND:20250920T113000Z
+UID:csgo_mc_2385402@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385402\n赛事: StarLadder系列赛 布达
+ 佩斯 2025\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: B级\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385402
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 大洋洲 第2季: Rooster vs SemperFi
+DTSTART:20250920T090000Z
+DTEND:20250920T113000Z
+UID:csgo_mc_2385421@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385421\n赛事: ESL 挑战者联赛 S50 大
+ 洋洲 第2季\n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 
+ 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385421
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2: RUBY vs 500
+DTSTART:20250920T103000Z
+DTEND:20250920T130000Z
+UID:csgo_mc_2385752@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385752\n赛事: 欧洲职业联赛 系列
+ 赛2\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级:
+  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385752
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: TBD vs TBD
+DTSTART:20250920T110000Z
+DTEND:20250920T133000Z
+UID:csgo_mc_2385635@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385635\n赛事: CCT 第3赛季 欧洲系列
+ 赛 6\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385635
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 7: SENZA vs 1win
+DTSTART:20250920T113000Z
+DTEND:20250920T140000Z
+UID:csgo_mc_2385578@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385578\n赛事: CCT 第3赛季 欧洲系列
+ 赛 7\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385578
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder系列赛 布达佩斯 2025: B8 vs TBD
+DTSTART:20250920T120000Z
+DTEND:20250920T143000Z
+UID:csgo_mc_2385403@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385403\n赛事: StarLadder系列赛 布达
+ 佩斯 2025\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: B级\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: Mongolz vs TBD
+DTSTART:20250920T120000Z
+DTEND:20250920T143000Z
+UID:csgo_mc_2385327@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385327\n赛事: FISSURE 裂变天地 2\n阶
+ 段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: A级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385327
 END:VEVENT
 END:VCALENDAR
