@@ -136,6 +136,26 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250918110253a8bxp
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: Allstars vs Flame
+DTSTART:20250919T200000Z
+DTEND:20250919T230000Z
+UID:dt_mc_202509190747522cw55@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509190747522cw55\n赛制: BO3\n赛事等级
+ : A级\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509190747522cw55
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: x5  vs SentinE
+DTSTART:20250919T200000Z
+DTEND:20250919T230000Z
+UID:dt_mc_202509190814521yhzn@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509190814521yhzn\n赛制: BO3\n赛事等级
+ : A级\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509190814521yhzn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cringe Station 月蛇杯 3: Emperor vs BuyBack Bros
 DTSTART:20250920T040000Z
 DTEND:20250920T070000Z
