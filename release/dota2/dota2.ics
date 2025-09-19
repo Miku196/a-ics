@@ -393,4 +393,34 @@ DESCRIPTION:比赛ID: dt_mc_20250907233258zunuf\n赛制: BO3\n赛事等级
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250907233258zunuf
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250927T150000Z
+DTEND:20250927T180000Z
+UID:dt_mc_20250907233300i78hd@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233300i78hd\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233300i78hd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250927T180000Z
+DTEND:20250927T210000Z
+UID:dt_mc_20250907233300frebg@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233300frebg\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233300frebg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250929T120000Z
+DTEND:20250929T150000Z
+UID:dt_mc_20250907233302zibc2@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233302zibc2\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233302zibc2
+END:VEVENT
 END:VCALENDAR

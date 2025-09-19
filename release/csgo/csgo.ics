@@ -3,43 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第2季: RED Canids vs BESTIA
-DTSTART:20250919T210000Z
-DTEND:20250919T233000Z
-UID:csgo_mc_2385807@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385807\n赛事: ESL 挑战者联赛 S50 南
- 美 第2季\n阶段: 淘汰赛 败者组 第6轮\n轮次: 第6轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385807
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESEA 发展联赛 第54赛季 北美精英杯 2: SportsBetExpert v
- s TakeMeAway
-DTSTART:20250919T230000Z
-DTEND:20250920T013000Z
-UID:csgo_mc_2385795@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385795\n赛事: ESEA 发展联赛 第54赛
- 季 北美精英杯 2\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385795
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESEA 发展联赛 第54赛季 北美精英杯 2: NuTorious vs LAG
-DTSTART:20250919T230000Z
-DTEND:20250920T013000Z
-UID:csgo_mc_2385794@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385794\n赛事: ESEA 发展联赛 第54赛
- 季 北美精英杯 2\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385794
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESEA发展联赛 第54赛季 北美: Brazen vs LAG
 DTSTART:20250920T003000Z
 DTEND:20250920T030000Z
@@ -50,6 +13,31 @@ DESCRIPTION:比赛ID: csgo_mc_2385861\n赛事: ESEA发展联赛 第54赛
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385861
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA 发展联赛 第54赛季 北美精英杯 2: SportsBetExpert v
+ s TakeMeAway
+DTSTART:20250920T010000Z
+DTEND:20250920T033000Z
+UID:csgo_mc_2385795@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385795\n赛事: ESEA 发展联赛 第54赛
+ 季 北美精英杯 2\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385795
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA 发展联赛 第54赛季 北美精英杯 2: NuTorious vs LAG
+DTSTART:20250920T010000Z
+DTEND:20250920T033000Z
+UID:csgo_mc_2385794@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385794\n赛事: ESEA 发展联赛 第54赛
+ 季 北美精英杯 2\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385794
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 北美 第2季: SkinRave vs Wildcard
@@ -154,6 +142,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385635
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exort试验场 第四季: CYBERSHOKE vs JJH
+DTSTART:20250920T110000Z
+DTEND:20250920T133000Z
+UID:csgo_mc_2385772@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385772\n赛事: Exort试验场 第四季\n
+ 阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385772
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 7: SENZA vs 1win
 DTSTART:20250920T113000Z
 DTEND:20250920T140000Z
@@ -233,6 +232,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385636
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exort试验场 第四季: CPH Wolves vs Partizan
+DTSTART:20250920T140000Z
+DTEND:20250920T163000Z
+UID:csgo_mc_2385773@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385773\n赛事: Exort试验场 第四季\n
+ 阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385773
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Winline 职业联赛 S3: Flame Sharks vs yngods
 DTSTART:20250920T143000Z
 DTEND:20250920T170000Z
@@ -267,7 +277,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385404
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: FURIA vs TBD
+SUMMARY:奥德赛冠军杯 2025 : Sharks vs 9z
+DTSTART:20250920T160000Z
+DTEND:20250920T200000Z
+UID:csgo_mc_2385836@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385836\n赛事: 奥德赛冠军杯 2025 \n
+ 阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 其他\n状
+ 态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385836
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: FURIA vs Falcons
 DTSTART:20250920T160000Z
 DTEND:20250920T183000Z
 UID:csgo_mc_2385328@5eplay.com
@@ -287,6 +308,29 @@ DESCRIPTION:比赛ID: csgo_mc_2385637\n赛事: CCT 第3赛季 欧洲系列
  \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385637
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第四季: Betera vs RUBY
+DTSTART:20250920T170000Z
+DTEND:20250920T193000Z
+UID:csgo_mc_2385774@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385774\n赛事: Exort试验场 第四季\n
+ 阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385774
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: ESC vs 9INE
+DTSTART:20250920T170000Z
+DTEND:20250920T193000Z
+UID:csgo_mc_2385815@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385815\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第7轮\n轮次: 第7轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385815
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 7: CPH Wolves vs AMKAL
@@ -400,28 +444,5 @@ DESCRIPTION:比赛ID: csgo_mc_2385542\n赛事: 银河之战 2025 第4阶
  C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385542
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: TBD vs TBD
-DTSTART:20250921T130000Z
-DTEND:20250921T153000Z
-UID:csgo_mc_2385639@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385639\n赛事: CCT 第3赛季 欧洲系列
- 赛 6\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385639
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder系列赛 布达佩斯 2025: TBD vs TBD
-DTSTART:20250921T130000Z
-DTEND:20250921T153000Z
-UID:csgo_mc_2385406@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385406\n赛事: StarLadder系列赛 布达
- 佩斯 2025\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: B
- O3\n等级: B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源
- : 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385406
 END:VEVENT
 END:VCALENDAR
