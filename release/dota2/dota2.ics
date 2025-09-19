@@ -3,37 +3,26 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Winline 明星联赛: Rostik vs KBU
+SUMMARY:Winline 明星联赛: Travoman vs Voodoosh
 DTSTART:20250919T143000Z
 DTEND:20250919T163000Z
+UID:dt_mc_20250918105955ou6dm@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250918105955ou6dm\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250918105955ou6dm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline 明星联赛: Rostik vs KBU
+DTSTART:20250919T170000Z
+DTEND:20250919T190000Z
 UID:dt_mc_20250918110253a8bxp@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250918110253a8bxp\n赛制: BO2\n阶段: 小
  组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250918110253a8bxp
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 第三十赛季: pipsqueak+4 vs UB
-DTSTART:20250919T150000Z
-DTEND:20250919T180000Z
-UID:dt_mc_20250909080256xk0az@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250909080256xk0az\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250909080256xk0az
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winline 明星联赛: Stariy Bog vs Travoman
-DTSTART:20250919T163000Z
-DTEND:20250919T183000Z
-UID:dt_mc_202509181059540rhuf@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509181059540rhuf\n赛制: BO2\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509181059540rhuf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 第三十赛季: Kalmychata vs Nemiga
@@ -45,6 +34,17 @@ DESCRIPTION:比赛ID: dt_mc_20250909080256lvur9\n赛制: BO3\n阶段: 小
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909080256lvur9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline 明星联赛: Stariy Bog vs Travoman
+DTSTART:20250919T190000Z
+DTEND:20250919T210000Z
+UID:dt_mc_202509181059540rhuf@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509181059540rhuf\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509181059540rhuf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2 美洲预选赛: Allstars vs Flame
@@ -124,6 +124,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250918144004hk7cn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Winline 明星联赛: TBD vs TBD
+DTSTART:20250920T120000Z
+DTEND:20250920T150000Z
+UID:dt_mc_202509192114520hq9w@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509192114520hq9w\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 淘汰赛 胜者组 半决赛\n赛事等级: \n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509192114520hq9w
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 第三十赛季: TNL vs Nemiga
 DTSTART:20250920T120000Z
 DTEND:20250920T150000Z
@@ -133,6 +144,17 @@ DESCRIPTION:比赛ID: dt_mc_20250909080258hc7aa\n赛制: BO3\n阶段: 小
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909080258hc7aa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline 明星联赛: TBD vs TBD
+DTSTART:20250920T143000Z
+DTEND:20250920T173000Z
+UID:dt_mc_20250919211752cppyw@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250919211752cppyw\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 淘汰赛 胜者组 半决赛\n赛事等级: \n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250919211752cppyw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cringe Station 月蛇杯 3: BuyBack Bros vs Veroja
@@ -366,5 +388,45 @@ DESCRIPTION:比赛ID: dt_mc_202509072332573v863\n赛制: BO3\n赛事等级
  : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509072332573v863
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250927T120000Z
+DTEND:20250927T150000Z
+UID:dt_mc_20250907233258zunuf@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233258zunuf\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233258zunuf
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250927T150000Z
+DTEND:20250927T180000Z
+UID:dt_mc_20250907233300i78hd@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233300i78hd\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233300i78hd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250927T180000Z
+DTEND:20250927T210000Z
+UID:dt_mc_20250907233300frebg@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233300frebg\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233300frebg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250929T120000Z
+DTEND:20250929T150000Z
+UID:dt_mc_20250907233302zibc2@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233302zibc2\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233302zibc2
 END:VEVENT
 END:VCALENDAR
