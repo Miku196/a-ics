@@ -3,39 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: Venom vs CYBERSHOKE
-DTSTART:20250919T080000Z
-DTEND:20250919T103000Z
-UID:csgo_mc_2385630@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385630\n赛事: CCT 第3赛季 欧洲系列
- 赛 6\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385630
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2: HOTU vs FT
-DTSTART:20250919T080000Z
-DTEND:20250919T103000Z
-UID:csgo_mc_2385749@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385749\n赛事: 欧洲职业联赛 系列
- 赛2\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级:
-  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385749
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: G2 vs Mongolz
-DTSTART:20250919T080000Z
-DTEND:20250919T103000Z
-UID:csgo_mc_2385323@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385323\n赛事: FISSURE 裂变天地 2\n阶
- 段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: A级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385323
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 7: RUBY vs m1x
 DTSTART:20250919T083000Z
 DTEND:20250919T110000Z
