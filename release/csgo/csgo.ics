@@ -450,4 +450,15 @@ DESCRIPTION:比赛ID: csgo_mc_2385751\n赛事: 欧洲职业联赛 系列
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385751
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 7: FT vs Reason
+DTSTART:20250920T083000Z
+DTEND:20250920T110000Z
+UID:csgo_mc_2385577@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385577\n赛事: CCT 第3赛季 欧洲系列
+ 赛 7\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385577
+END:VEVENT
 END:VCALENDAR
