@@ -3,51 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Elisa 芬兰公开赛 第10赛季: HAVU vs Ence.A
-DTSTART:20250920T124500Z
-DTEND:20250920T151500Z
-UID:csgo_mc_2385778@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385778\n赛事: Elisa 芬兰公开赛 第10
- 赛季\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385778
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 亚太区 第2季: CW vs RA
-DTSTART:20250920T130000Z
-DTEND:20250920T153000Z
-UID:csgo_mc_2385487@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385487\n赛事: ESL 挑战者联赛 S50 亚
- 太区 第2季\n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 
- 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385487
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: FUT vs GUN5
-DTSTART:20250920T140000Z
-DTEND:20250920T163000Z
-UID:csgo_mc_2385636@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385636\n赛事: CCT 第3赛季 欧洲系列
- 赛 6\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级
- \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385636
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第四季: CPH Wolves vs Partizan
-DTSTART:20250920T140000Z
-DTEND:20250920T163000Z
-UID:csgo_mc_2385773@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385773\n赛事: Exort试验场 第四季\n
- 阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385773
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Winline 职业联赛 S3: Flame Sharks vs yngods
 DTSTART:20250920T143000Z
 DTEND:20250920T170000Z
@@ -364,5 +319,60 @@ DESCRIPTION:比赛ID: csgo_mc_2385816\n赛事: ESL 挑战者联赛 S50 欧
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385816
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第4阶段: Nexus vs SPARTA
+DTSTART:20250921T170000Z
+DTEND:20250921T193000Z
+UID:csgo_mc_2385544@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385544\n赛事: 银河之战 2025 第4阶
+ 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385544
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2: HOTU vs ESC
+DTSTART:20250922T080000Z
+DTEND:20250922T103000Z
+UID:csgo_mc_2385755@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385755\n赛事: 欧洲职业联赛 系列
+ 赛2\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385755
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第4阶段: Alliance vs Anonymo
+DTSTART:20250922T080000Z
+DTEND:20250922T103000Z
+UID:csgo_mc_2385545@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385545\n赛事: 银河之战 2025 第4阶
+ 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385545
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2: BC.Game vs RUBY
+DTSTART:20250922T103000Z
+DTEND:20250922T130000Z
+UID:csgo_mc_2385756@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385756\n赛事: 欧洲职业联赛 系列
+ 赛2\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385756
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第8赛季: Alliance vs EF
+DTSTART:20250922T110000Z
+DTEND:20250922T133000Z
+UID:csgo_mc_2385853@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385853\n赛事: Winline Insight 第8赛季\
+ n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385853
 END:VEVENT
 END:VCALENDAR

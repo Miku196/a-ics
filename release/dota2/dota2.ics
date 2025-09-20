@@ -3,20 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 东欧预选赛: TBD vs TBD
-DTSTART:20250920T130000Z
-DTEND:20250920T150000Z
-UID:dt_mc_202509191850521n2xo@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509191850521n2xo\n赛制: BO1\n轮次: 16
- 强\n阶段: 公开预选赛#1 16强\n赛事等级: C级\n状态: 未开
- 始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509191850521n2xo
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:梦幻联赛S27 西欧预选赛: TBD vs TBD
-DTSTART:20250920T140000Z
-DTEND:20250920T160000Z
+DTSTART:20250920T142000Z
+DTEND:20250920T162000Z
 UID:dt_mc_20250919185952srga6@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250919185952srga6\n赛制: BO1\n轮次: 1/4
  决赛\n阶段: 公开预选赛#1 1/4决赛\n赛事等级: C级\n状态: 
@@ -34,6 +23,17 @@ DESCRIPTION:比赛ID: dt_mc_20250919211752cppyw\n赛制: BO3\n轮次: 半
  开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250919211752cppyw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:梦幻联赛S27 东欧预选赛: TBD vs TBD
+DTSTART:20250920T150000Z
+DTEND:20250920T170000Z
+UID:dt_mc_202509191850521n2xo@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509191850521n2xo\n赛制: BO1\n轮次: 16
+ 强\n阶段: 公开预选赛#1 16强\n赛事等级: C级\n状态: 未开
+ 始\n预计时长: 2小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509191850521n2xo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:梦幻联赛S27 北美预选赛: TBD vs TBD
@@ -103,22 +103,24 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250911010016kqo8k
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:梦幻联赛S27: REKONIX vs MongolZ
+SUMMARY:梦幻联赛S27 东南亚预选赛: REKONIX vs MongolZ
 DTSTART:20250921T080000Z
 DTEND:20250921T110000Z
 UID:dt_mc_202509201620538213i@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509201620538213i\n赛制: BO3\n赛事等级
- : A级\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_202509201620538213i\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 公开预选赛#1 半决赛\n赛事等级: C级\n状态: 
+ 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509201620538213i
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:梦幻联赛S27: Aureus vs Kopite
+SUMMARY:梦幻联赛S27 东南亚预选赛: Aureus vs Kopite
 DTSTART:20250921T080000Z
 DTEND:20250921T110000Z
 UID:dt_mc_20250920162053i6ipq@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250920162053i6ipq\n赛制: BO3\n赛事等级
- : A级\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20250920162053i6ipq\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 公开预选赛#1 半决赛\n赛事等级: C级\n状态: 
+ 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250920162053i6ipq
 END:VEVENT
@@ -308,6 +310,17 @@ DESCRIPTION:比赛ID: dt_mc_20250902000305feqkb\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000305feqkb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: TNL vs Nemiga
+DTSTART:20250923T180000Z
+DTEND:20250923T210000Z
+UID:dt_mc_20250909080258hc7aa@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250909080258hc7aa\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250909080258hc7aa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ACS 系列赛 2: EB vs Lava
