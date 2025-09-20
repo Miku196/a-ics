@@ -3,85 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:奥德赛冠军杯 2025 : Sharks vs 9z
-DTSTART:20250920T163000Z
-DTEND:20250920T203000Z
-UID:csgo_mc_2385836@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385836\n赛事: 奥德赛冠军杯 2025 \n
- 阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 其他\n状
- 态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385836
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: BIG vs Venom
-DTSTART:20250920T170000Z
-DTEND:20250920T193000Z
-UID:csgo_mc_2385637@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385637\n赛事: CCT 第3赛季 欧洲系列
- 赛 6\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级
- \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385637
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第四季: Betera vs RUBY
-DTSTART:20250920T170000Z
-DTEND:20250920T193000Z
-UID:csgo_mc_2385774@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385774\n赛事: Exort试验场 第四季\n
- 阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385774
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: ESC vs 9INE
-DTSTART:20250920T170000Z
-DTEND:20250920T193000Z
-UID:csgo_mc_2385815@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385815\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第2季\n阶段: 淘汰赛 败者组 第7轮\n轮次: 第7轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385815
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: CPH Wolves vs AMKAL
-DTSTART:20250920T173000Z
-DTEND:20250920T200000Z
-UID:csgo_mc_2385580@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385580\n赛事: CCT 第3赛季 欧洲系列
- 赛 7\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385580
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第54赛季 欧洲: Inner Circle vs K27
-DTSTART:20250920T173000Z
-DTEND:20250920T200000Z
-UID:csgo_mc_2385616@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385616\n赛事: ESEA发展联赛 第54赛
- 季 欧洲\n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385616
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder系列赛 布达佩斯 2025: Gentle Mates vs B8
-DTSTART:20250920T180000Z
-DTEND:20250920T203000Z
-UID:csgo_mc_2385405@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385405\n赛事: StarLadder系列赛 布达
- 佩斯 2025\n阶段: 淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛
- 制: BO3\n等级: B级\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385405
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 南美 第2季: MIBR vs 2GAME
 DTSTART:20250920T210000Z
 DTEND:20250920T233000Z
@@ -207,7 +128,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385639
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:StarLadder系列赛 布达佩斯 2025: TBD vs TBD
+SUMMARY:StarLadder系列赛 布达佩斯 2025: NIP vs TBD
 DTSTART:20250921T130000Z
 DTEND:20250921T153000Z
 UID:csgo_mc_2385406@5eplay.com
@@ -265,7 +186,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385640
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:StarLadder系列赛 布达佩斯 2025: TBD vs TBD
+SUMMARY:StarLadder系列赛 布达佩斯 2025: NAVI vs TBD
 DTSTART:20250921T170000Z
 DTEND:20250921T193000Z
 UID:csgo_mc_2385407@5eplay.com
@@ -396,5 +317,38 @@ DESCRIPTION:比赛ID: csgo_mc_2385757\n赛事: 欧洲职业联赛 系列
   其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2: TBD vs TBD
+DTSTART:20250923T103000Z
+DTEND:20250923T130000Z
+UID:csgo_mc_2385758@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385758\n赛事: 欧洲职业联赛 系列
+ 赛2\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级:
+  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385758
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第8赛季: Sashi vs FORZE Reload
+DTSTART:20250923T110000Z
+DTEND:20250923T133000Z
+UID:csgo_mc_2385855@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385855\n赛事: Winline Insight 第8赛季\
+ n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385855
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第8赛季: RUBY vs CPH Wolves
+DTSTART:20250923T140000Z
+DTEND:20250923T163000Z
+UID:csgo_mc_2385856@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385856\n赛事: Winline Insight 第8赛季\
+ n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385856
 END:VEVENT
 END:VCALENDAR
