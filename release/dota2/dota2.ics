@@ -3,31 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Cringe Station 月蛇杯 3: Emperor vs Veroja
-DTSTART:20250920T070000Z
-DTEND:20250920T100000Z
-UID:dt_mc_20250911010002u90as@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250911010002u90as\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250911010002u90as
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 中国预选赛: TL vs Thriving
-DTSTART:20250920T070000Z
-DTEND:20250920T100000Z
-UID:dt_mc_20250920012953multx@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250920012953multx\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 公开预选赛#1  1/4决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250920012953multx
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:梦幻联赛S27 东南亚预选赛: TBD vs TBD
-DTSTART:20250920T080000Z
-DTEND:20250920T100000Z
+DTSTART:20250920T083000Z
+DTEND:20250920T103000Z
 UID:dt_mc_202509191847532j1j1@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_202509191847532j1j1\n赛制: BO1\n轮次: 16
  强\n阶段: 公开预选赛#1 16强\n赛事等级: C级\n状态: 未开
@@ -202,7 +180,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250911010017hvcny
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 中国预选赛: TT vs TBD
+SUMMARY:梦幻联赛S27 中国预选赛: TT vs Zhaoyang
 DTSTART:20250921T100000Z
 DTEND:20250921T130000Z
 UID:dt_mc_20250920013255zwdlm@5eplay.com
@@ -419,5 +397,25 @@ DESCRIPTION:比赛ID: dt_mc_20250907233254ehuuu\n赛制: BO3\n赛事等级
  : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250907233254ehuuu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250925T180000Z
+DTEND:20250925T210000Z
+UID:dt_mc_202509072332544wlvl@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509072332544wlvl\n赛制: BO3\n赛事等级
+ : \n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509072332544wlvl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST S4东南亚预选赛: TBD vs TBD
+DTSTART:20250926T030000Z
+DTEND:20250926T060000Z
+UID:dt_mc_20250918085952wa20m@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250918085952wa20m\n赛制: BO3\n赛事等级
+ : C级\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250918085952wa20m
 END:VEVENT
 END:VCALENDAR
