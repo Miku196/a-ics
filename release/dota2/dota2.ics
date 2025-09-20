@@ -3,20 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 北美预选赛: TBD vs TBD
-DTSTART:20250920T210000Z
-DTEND:20250920T230000Z
-UID:dt_mc_20250919184752dsvrg@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250919184752dsvrg\n赛制: BO1\n轮次: 1/4
- 决赛\n阶段: 公开预选赛#1 1/4决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250919184752dsvrg
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:梦幻联赛S27 南美预选赛: TBD vs TBD
-DTSTART:20250920T210000Z
-DTEND:20250920T230000Z
+DTSTART:20250920T223000Z
+DTEND:20250921T003000Z
 UID:dt_mc_20250919184752qykco@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250919184752qykco\n赛制: BO1\n轮次: 1/4
  决赛\n阶段: 公开预选赛#1  1/4决赛\n赛事等级: C级\n状态: 
@@ -166,16 +155,6 @@ DESCRIPTION:比赛ID: dt_mc_20250921003254o2eyo\n赛制: BO3\n赛事等级
  : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250921003254o2eyo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IESF世界电竞锦标赛 2025: 哥伦比亚 vs 巴拿马
-DTSTART:20250921T200000Z
-DTEND:20250921T230000Z
-UID:dt_mc_20250921003254q3hpv@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250921003254q3hpv\n赛制: BO3\n赛事等级
- : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250921003254q3hpv
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IESF世界电竞锦标赛 2025: 危地马拉 vs Canada
