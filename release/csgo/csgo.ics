@@ -84,7 +84,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385779
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: BB vs GUN5
 DTSTART:20250921T100000Z
 DTEND:20250921T123000Z
 UID:csgo_mc_2385638@5eplay.com
@@ -117,7 +117,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385542
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 6: ESC vs BIG
 DTSTART:20250921T130000Z
 DTEND:20250921T153000Z
 UID:csgo_mc_2385639@5eplay.com
@@ -128,7 +128,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385639
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:StarLadder系列赛 布达佩斯 2025: NIP vs TBD
+SUMMARY:StarLadder系列赛 布达佩斯 2025: NIP vs B8
 DTSTART:20250921T130000Z
 DTEND:20250921T153000Z
 UID:csgo_mc_2385406@5eplay.com
@@ -140,7 +140,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385406
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: Mongolz vs TBD
+SUMMARY:FISSURE 裂变天地 2: Mongolz vs FURIA
 DTSTART:20250921T130000Z
 DTEND:20250921T170000Z
 UID:csgo_mc_2385329@5eplay.com
@@ -173,6 +173,17 @@ DESCRIPTION:比赛ID: csgo_mc_2385543\n赛事: 银河之战 2025 第4阶
  C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385543
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline 职业联赛 S3: SPARTA vs Flame Sharks
+DTSTART:20250921T143000Z
+DTEND:20250921T170000Z
+UID:csgo_mc_2385806@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385806\n赛事: Winline 职业联赛 S3\n
+ 阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385806
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 6: TBD vs TBD
@@ -350,5 +361,71 @@ DESCRIPTION:比赛ID: csgo_mc_2385856\n赛事: Winline Insight 第8赛季\
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385856
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Showmatch CS: NAVI vs FC Dynamo Kyiv
+DTSTART:20250923T150000Z
+DTEND:20250923T160000Z
+UID:csgo_mc_2385864@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385864\n赛事: Showmatch CS\n赛制: BO1\n
+ 等级: 其他\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385864
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2: TBD vs TBD
+DTSTART:20250924T080000Z
+DTEND:20250924T103000Z
+UID:csgo_mc_2385759@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385759\n赛事: 欧洲职业联赛 系列
+ 赛2\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385759
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Aorus联赛 2025: 9z vs LaChampionsLiga
+DTSTART:20250924T170000Z
+DTEND:20250924T180000Z
+UID:csgo_mc_2385606@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385606\n赛事:  Aorus联赛 2025\n阶段: 
+ 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
+ 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385606
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Aorus联赛 2025: BESTIA vs Dusty Roots
+DTSTART:20250924T183000Z
+DTEND:20250924T193000Z
+UID:csgo_mc_2385607@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385607\n赛事:  Aorus联赛 2025\n阶段: 
+ 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
+ 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385607
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Aorus联赛 2025: TBD vs TBD
+DTSTART:20250924T200000Z
+DTEND:20250924T223000Z
+UID:csgo_mc_2385608@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385608\n赛事:  Aorus联赛 2025\n阶段: 
+ 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385608
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Aorus联赛 2025: TBD vs TBD
+DTSTART:20250924T233000Z
+DTEND:20250925T020000Z
+UID:csgo_mc_2385609@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385609\n赛事:  Aorus联赛 2025\n阶段: 
+ 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385609
 END:VEVENT
 END:VCALENDAR
