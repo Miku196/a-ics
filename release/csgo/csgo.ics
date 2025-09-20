@@ -330,6 +330,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385808
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第54赛季 北美: SportsBetExpert vs LAG
+DTSTART:20250921T003000Z
+DTEND:20250921T043000Z
+UID:csgo_mc_2385862@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385862\n赛事: ESEA发展联赛 第54赛
+ 季 北美\n阶段: 淘汰赛\n赛制: BO5\n等级: 其他\n状态: 未开
+ 始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385862
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESEA 发展联赛 第54赛季 北美精英杯 2: NuTorious vs LAG
 DTSTART:20250921T010000Z
 DTEND:20250921T033000Z
@@ -430,5 +441,16 @@ DESCRIPTION:比赛ID: csgo_mc_2385406\n赛事: StarLadder系列赛 布达
  : 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385406
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+DTSTART:20250921T130000Z
+DTEND:20250921T170000Z
+UID:csgo_mc_2385329@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385329\n赛事: FISSURE 裂变天地 2\n阶
+ 段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: A级\n状态: 
+ 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385329
 END:VEVENT
 END:VCALENDAR
