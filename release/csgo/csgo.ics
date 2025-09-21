@@ -295,19 +295,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385848
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESEA 发展联赛 第54赛季 北美精英杯 2: SportsBetExpert v
- s LAG
-DTSTART:20250921T210000Z
-DTEND:20250921T233000Z
-UID:csgo_mc_2385796@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385796\n赛事: ESEA 发展联赛 第54赛
- 季 北美精英杯 2\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385796
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 南美 第2季: BESTIA vs 2GAME
 DTSTART:20250921T210000Z
 DTEND:20250921T233000Z
@@ -318,6 +305,31 @@ DESCRIPTION:比赛ID: csgo_mc_2385809\n赛事: ESL 挑战者联赛 S50 南
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385809
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA 发展联赛 第54赛季 北美精英杯 2: SportsBetExpert v
+ s LAG
+DTSTART:20250922T003000Z
+DTEND:20250922T030000Z
+UID:csgo_mc_2385796@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385796\n赛事: ESEA 发展联赛 第54赛
+ 季 北美精英杯 2\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385796
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Wildcard vs Getting Info
+DTSTART:20250922T010000Z
+DTEND:20250922T033000Z
+UID:csgo_mc_2385813@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385813\n赛事: ESL 挑战者联赛 S50 北
+ 美 第2季\n阶段: 淘汰赛 败者组 第7轮\n轮次: 第7轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385813
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2: HOTU vs ESC
@@ -439,16 +451,5 @@ DESCRIPTION:比赛ID: csgo_mc_2385826\n赛事: Exort试验场 第四季\n
  n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385826
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段: EF vs Johnny Speeds
-DTSTART:20250922T170000Z
-DTEND:20250922T193000Z
-UID:csgo_mc_2385548@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385548\n赛事: 银河之战 2025 第4阶
- 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385548
 END:VEVENT
 END:VCALENDAR
