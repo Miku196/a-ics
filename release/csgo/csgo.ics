@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2 印度大师赛 26: ScarX vs OxinGame
-DTSTART:20250921T053000Z
-DTEND:20250921T080000Z
-UID:csgo_mc_2385873@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385873\n赛事: Dust2 印度大师赛 26\n
- 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385873
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2 印度大师赛 26: True Thunder vs CRIMSON
-DTSTART:20250921T053000Z
-DTEND:20250921T080000Z
-UID:csgo_mc_2385874@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385874\n赛事: Dust2 印度大师赛 26\n
- 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385874
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2: Venom vs SINNERS
 DTSTART:20250921T080000Z
 DTEND:20250921T103000Z

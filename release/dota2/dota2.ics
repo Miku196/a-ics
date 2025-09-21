@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 中国预选赛: Surge Gaming vs CFU Gaming
-DTSTART:20250921T060000Z
-DTEND:20250921T090000Z
-UID:dt_mc_202509200123539r535@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509200123539r535\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 公开预选赛#1  半决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509200123539r535
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 中国预选赛: Hong shi zhang zui vs CLOUDSTRIFE
-  ZENITH
-DTSTART:20250921T060000Z
-DTEND:20250921T090000Z
-UID:dt_mc_20250920012354u9lju@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250920012354u9lju\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 公开预选赛#1  半决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250920012354u9lju
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cringe Station 月蛇杯 3: BuyBack Bros vs Ivory
 DTSTART:20250921T070000Z
 DTEND:20250921T100000Z
@@ -428,5 +405,15 @@ DESCRIPTION:比赛ID: dt_mc_202509210032564g8ir\n赛制: BO3\n赛事等级
  : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509210032564g8ir
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IESF世界电竞锦标赛 2025: TBD vs TBD
+DTSTART:20250923T010000Z
+DTEND:20250923T040000Z
+UID:dt_mc_20250921003257o4p0m@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250921003257o4p0m\n赛制: BO3\n赛事等级
+ : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250921003257o4p0m
 END:VEVENT
 END:VCALENDAR
