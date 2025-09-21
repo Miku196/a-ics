@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第2季: BESTIA vs 2GAME
-DTSTART:20250921T210000Z
-DTEND:20250921T233000Z
-UID:csgo_mc_2385809@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385809\n赛事: ESL 挑战者联赛 S50 南
- 美 第2季\n阶段: 淘汰赛 败者组 第7轮\n轮次: 第7轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385809
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESEA 发展联赛 第54赛季 北美精英杯 2: SportsBetExpert v
  s LAG
 DTSTART:20250922T003000Z
@@ -38,17 +26,6 @@ DESCRIPTION:比赛ID: csgo_mc_2385813\n赛事: ESL 挑战者联赛 S50 北
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385813
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2: HOTU vs ESC
-DTSTART:20250922T080000Z
-DTEND:20250922T103000Z
-UID:csgo_mc_2385755@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385755\n赛事: 欧洲职业联赛 系列
- 赛2\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385755
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exort试验场 第四季: SAW vs JJH
@@ -239,7 +216,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385757
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2: TBD vs TBD
+SUMMARY:欧洲职业联赛 系列赛2: HOTU vs TBD
 DTSTART:20250923T103000Z
 DTEND:20250923T130000Z
 UID:csgo_mc_2385758@5eplay.com
@@ -435,5 +412,27 @@ DESCRIPTION:比赛ID: csgo_mc_2385859\n赛事: Winline Insight 第8赛季\
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385859
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第8赛季: GUN5 vs HubaBuba
+DTSTART:20250930T140000Z
+DTEND:20250930T163000Z
+UID:csgo_mc_2385860@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385860\n赛事: Winline Insight 第8赛季\
+ n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385860
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第8赛季: ESC vs ARCRED
+DTSTART:20250930T170000Z
+DTEND:20250930T193000Z
+UID:csgo_mc_2385858@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385858\n赛事: Winline Insight 第8赛季\
+ n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385858
 END:VEVENT
 END:VCALENDAR
