@@ -183,6 +183,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385851
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: ESC vs BC.Game
+DTSTART:20250922T170000Z
+DTEND:20250922T193000Z
+UID:csgo_mc_2385817@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385817\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第2季\n阶段: 淘汰赛 败者组 第8轮\n轮次: 第8轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385817
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Exort试验场 第四季: FNC vs GUN5
 DTSTART:20250922T170000Z
 DTEND:20250922T193000Z
@@ -368,5 +380,60 @@ DESCRIPTION:比赛ID: csgo_mc_2385786\n赛事: Majestic LanDaLan 3\n阶段
  n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385786
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Majestic LanDaLan 3: PARIVISION vs Nuclear TigeRES
+DTSTART:20250925T170000Z
+DTEND:20250925T193000Z
+UID:csgo_mc_2385787@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385787\n赛事: Majestic LanDaLan 3\n阶段
+ : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385787
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Aorus联赛 2025: TBD vs TBD
+DTSTART:20250925T170000Z
+DTEND:20250925T193000Z
+UID:csgo_mc_2385610@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385610\n赛事:  Aorus联赛 2025\n阶段: 
+ 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385610
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Aorus联赛 2025: TBD vs TBD
+DTSTART:20250925T210000Z
+DTEND:20250925T233000Z
+UID:csgo_mc_2385611@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385611\n赛事:  Aorus联赛 2025\n阶段: 
+ 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2
+ .5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385611
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第8赛季: JJH vs SPARTA
+DTSTART:20250929T110000Z
+DTEND:20250929T133000Z
+UID:csgo_mc_2385857@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385857\n赛事: Winline Insight 第8赛季\
+ n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385857
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第8赛季: Betera vs SENZA
+DTSTART:20250930T110000Z
+DTEND:20250930T133000Z
+UID:csgo_mc_2385859@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385859\n赛事: Winline Insight 第8赛季\
+ n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385859
 END:VEVENT
 END:VCALENDAR
