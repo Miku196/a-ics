@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 南美预选赛: TBD vs TBD
-DTSTART:20250920T223000Z
-DTEND:20250921T003000Z
-UID:dt_mc_20250919184752qykco@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250919184752qykco\n赛制: BO1\n轮次: 1/4
- 决赛\n阶段: 公开预选赛#1  1/4决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250919184752qykco
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cringe Station 月蛇杯 3: BuyBack Bros vs Veroja
 DTSTART:20250921T040000Z
 DTEND:20250921T070000Z
@@ -165,6 +154,26 @@ DESCRIPTION:比赛ID: dt_mc_20250921003256dnh54\n赛制: BO3\n赛事等级
  : 其他\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250921003256dnh54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:梦幻联赛S27: KaranDotes vs moneyfest
+DTSTART:20250921T200000Z
+DTEND:20250921T230000Z
+UID:dt_mc_20250921065952nab6q@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250921065952nab6q\n赛制: BO3\n赛事等级
+ : A级\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250921065952nab6q
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:梦幻联赛S27: the bug vs Team Exoteric
+DTSTART:20250921T200000Z
+DTEND:20250921T230000Z
+UID:dt_mc_20250921065953fa6qs@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250921065953fa6qs\n赛制: BO3\n赛事等级
+ : A级\n状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250921065953fa6qs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cringe Station 月蛇杯 3: Emperor vs Ivory
@@ -381,5 +390,27 @@ DESCRIPTION:比赛ID: dt_mc_20250920230306cvwn6\n赛制: BO3\n轮次: 1/4
  状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250920230306cvwn6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: EB vs Lava
+DTSTART:20250924T180000Z
+DTEND:20250924T210000Z
+UID:dt_mc_20250902000306uxnia@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000306uxnia\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000306uxnia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: Flame vs Tortu Ninjas
+DTSTART:20250924T210000Z
+DTEND:20250925T000000Z
+UID:dt_mc_202509020038525x35b@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509020038525x35b\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509020038525x35b
 END:VEVENT
 END:VCALENDAR

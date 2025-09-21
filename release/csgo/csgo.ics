@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第54赛季 北美: SportsBetExpert vs LAG
-DTSTART:20250921T003000Z
-DTEND:20250921T043000Z
-UID:csgo_mc_2385862@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385862\n赛事: ESEA发展联赛 第54赛
- 季 北美\n阶段: 淘汰赛\n赛制: BO5\n等级: 其他\n状态: 未开
- 始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385862
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESEA 发展联赛 第54赛季 北美精英杯 2: NuTorious vs LAG
 DTSTART:20250921T010000Z
 DTEND:20250921T033000Z
@@ -307,6 +296,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385848
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第2季: BESTIA vs 2GAME
+DTSTART:20250921T210000Z
+DTEND:20250921T233000Z
+UID:csgo_mc_2385809@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385809\n赛事: ESL 挑战者联赛 S50 南
+ 美 第2季\n阶段: 淘汰赛 败者组 第7轮\n轮次: 第7轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385809
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2: HOTU vs ESC
 DTSTART:20250922T080000Z
 DTEND:20250922T103000Z
@@ -437,5 +438,16 @@ DESCRIPTION:比赛ID: csgo_mc_2385548\n赛事: 银河之战 2025 第4阶
  C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385548
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2: TBD vs TBD
+DTSTART:20250923T080000Z
+DTEND:20250923T103000Z
+UID:csgo_mc_2385757@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385757\n赛事: 欧洲职业联赛 系列
+ 赛2\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级:
+  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385757
 END:VEVENT
 END:VCALENDAR
