@@ -3,64 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: BC.Game vs Alliance
-DTSTART:20250921T170000Z
-DTEND:20250921T193000Z
-UID:csgo_mc_2385816@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385816\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第2季\n阶段: 淘汰赛 胜者组 第5轮\n轮次: 第5轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385816
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第四季: Nemiga vs Monte
-DTSTART:20250921T170000Z
-DTEND:20250921T193000Z
-UID:csgo_mc_2385822@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385822\n赛事: Exort试验场 第四季\n
- 阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385822
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段: Nexus vs SPARTA
-DTSTART:20250921T170000Z
-DTEND:20250921T193000Z
-UID:csgo_mc_2385544@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385544\n赛事: 银河之战 2025 第4阶
- 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385544
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: FT vs m1x
-DTSTART:20250921T173000Z
-DTEND:20250921T200000Z
-UID:csgo_mc_2385848@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385848\n赛事: CCT 第3赛季 欧洲系列
- 赛 7\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385848
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESEA 发展联赛 第54赛季 欧洲精英杯 2: K27 vs FORZE Relo
- ad
-DTSTART:20250921T180000Z
-DTEND:20250921T203000Z
-UID:csgo_mc_2385672@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385672\n赛事: ESEA 发展联赛 第54赛
- 季 欧洲精英杯 2\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385672
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 南美 第2季: BESTIA vs 2GAME
 DTSTART:20250921T210000Z
 DTEND:20250921T233000Z
@@ -382,5 +324,49 @@ DESCRIPTION:比赛ID: csgo_mc_2385609\n赛事:  Aorus联赛 2025\n阶段:
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385609
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2: TBD vs TBD
+DTSTART:20250925T080000Z
+DTEND:20250925T120000Z
+UID:csgo_mc_2385760@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385760\n赛事: 欧洲职业联赛 系列
+ 赛2\n阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO5\n等级:
+  其他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385760
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Majestic LanDaLan 3: TPuDCATb_TPu vs Spirit.A
+DTSTART:20250925T080000Z
+DTEND:20250925T103000Z
+UID:csgo_mc_2385781@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385781\n赛事: Majestic LanDaLan 3\n阶段
+ : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385781
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Majestic LanDaLan 3: BB vs Betera
+DTSTART:20250925T110000Z
+DTEND:20250925T133000Z
+UID:csgo_mc_2385782@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385782\n赛事: Majestic LanDaLan 3\n阶段
+ : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385782
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Majestic LanDaLan 3: Nemiga vs 9BOOMPRO
+DTSTART:20250925T140000Z
+DTEND:20250925T163000Z
+UID:csgo_mc_2385786@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385786\n赛事: Majestic LanDaLan 3\n阶段
+ : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385786
 END:VEVENT
 END:VCALENDAR
