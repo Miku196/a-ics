@@ -3,20 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Winline 明星联赛: Voodoosh vs Stariy Bog
-DTSTART:20250921T110000Z
-DTEND:20250921T130000Z
-UID:dt_mc_202509202347531stkl@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509202347531stkl\n赛制: BO1\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509202347531stkl
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Winline 明星联赛: TBD vs Vasilisa
-DTSTART:20250921T120000Z
-DTEND:20250921T150000Z
+DTSTART:20250921T124000Z
+DTEND:20250921T154000Z
 UID:dt_mc_202509192114520hq9w@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_202509192114520hq9w\n赛制: BO3\n轮次: 半
  决赛\n阶段: 淘汰赛 胜者组 半决赛\n赛事等级: \n状态: 未
@@ -397,5 +386,27 @@ DESCRIPTION:比赛ID: dt_mc_20250920234757wbaiw\n赛制: BO3\n阶段: 美
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250920234757wbaiw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IESF世界电竞锦标赛 2025: TBD vs TBD
+DTSTART:20250923T200000Z
+DTEND:20250923T230000Z
+UID:dt_mc_20250920234758ihyec@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250920234758ihyec\n赛制: BO5\n阶段: 美
+ 洲区\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250920234758ihyec
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IESF世界电竞锦标赛 2025: TBD vs TBD
+DTSTART:20250923T230000Z
+DTEND:20250924T020000Z
+UID:dt_mc_20250921003258uu2ov@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250921003258uu2ov\n赛制: BO3\n阶段: 美
+ 洲区\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250921003258uu2ov
 END:VEVENT
 END:VCALENDAR
