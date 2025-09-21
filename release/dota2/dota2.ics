@@ -3,61 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Winline 明星联赛: TBD vs Vasilisa
-DTSTART:20250921T124000Z
-DTEND:20250921T154000Z
-UID:dt_mc_202509192114520hq9w@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509192114520hq9w\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 淘汰赛 胜者组 半决赛\n赛事等级: \n状态: 未
- 开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509192114520hq9w
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 东欧预选赛: Tea vs Rift
-DTSTART:20250921T130000Z
-DTEND:20250921T160000Z
-UID:dt_mc_20250920214152ewntk@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250920214152ewntk\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 公开预选赛#1 半决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250920214152ewntk
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 东欧预选赛: Kalmychata vs L1ga
-DTSTART:20250921T130000Z
-DTEND:20250921T160000Z
-UID:dt_mc_20250920214153obkxy@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250920214153obkxy\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 公开预选赛#1 半决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250920214153obkxy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 西欧预选赛: MOUZ vs Pipsqueak4
-DTSTART:20250921T140000Z
-DTEND:20250921T170000Z
-UID:dt_mc_20250920223256iybdr@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250920223256iybdr\n赛制: BO3\n轮次: 决
- 赛\n阶段: 公开预选赛#1 决赛\n赛事等级: C级\n状态: 未开
- 始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250920223256iybdr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winline 明星联赛: Rostik vs TBD
-DTSTART:20250921T143000Z
-DTEND:20250921T173000Z
-UID:dt_mc_20250919211752cppyw@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250919211752cppyw\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 淘汰赛 胜者组 半决赛\n赛事等级: \n状态: 未
- 开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250919211752cppyw
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:IESF世界电竞锦标赛 2025: 阿根廷 vs 智利
 DTSTART:20250921T150000Z
 DTEND:20250921T180000Z
@@ -89,6 +34,17 @@ DESCRIPTION:比赛ID: dt_mc_20250909080255gu4j9\n赛制: BO3\n阶段: 小
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909080255gu4j9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline 明星联赛: Rostik vs Stariy Bog
+DTSTART:20250921T160000Z
+DTEND:20250921T190000Z
+UID:dt_mc_20250919211752cppyw@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250919211752cppyw\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 淘汰赛 胜者组 半决赛\n赛事等级: \n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250919211752cppyw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:梦幻联赛S27 东欧预选赛: TBD vs TBD
@@ -190,17 +146,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250921153254l246w
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cringe Station 月蛇杯 3: Emperor vs Ivory
-DTSTART:20250922T040000Z
-DTEND:20250922T070000Z
-UID:dt_mc_20250911010252vk4v1@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250911010252vk4v1\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250911010252vk4v1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:梦幻联赛S27 中国预选赛: TBD vs TBD
 DTSTART:20250922T060000Z
 DTEND:20250922T080000Z
@@ -245,6 +190,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250911010253c85vb
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Winline 明星联赛: TBD vs Travoman
+DTSTART:20250922T100000Z
+DTEND:20250922T130000Z
+UID:dt_mc_20250921205953cig2u@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250921205953cig2u\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: \n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250921205953cig2u
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:梦幻联赛S27 东欧预选赛: TBD vs TBD
 DTSTART:20250922T130000Z
 DTEND:20250922T150000Z
@@ -254,6 +210,17 @@ DESCRIPTION:比赛ID: dt_mc_20250919185954oojeo\n赛制: BO1\n轮次: 16
  始\n预计时长: 2小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250919185954oojeo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline 明星联赛: TBD vs By_owl
+DTSTART:20250922T140000Z
+DTEND:20250922T170000Z
+UID:dt_mc_20250921205953aiklb@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250921205953aiklb\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: \n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250921205953aiklb
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:梦幻联赛S27 西欧预选赛: TBD vs TBD
@@ -355,6 +322,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250921003257o4p0m
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cringe Station 月蛇杯 3: Veroja vs Ivory
+DTSTART:20250923T040000Z
+DTEND:20250923T070000Z
+UID:dt_mc_20250911010252vk4v1@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250911010252vk4v1\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250911010252vk4v1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ACS 系列赛 2: TW vs HunterZ
 DTSTART:20250923T180000Z
 DTEND:20250923T210000Z
@@ -408,5 +386,16 @@ DESCRIPTION:比赛ID: dt_mc_20250921003258uu2ov\n赛制: BO3\n阶段: 美
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250921003258uu2ov
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IESF世界电竞锦标赛 2025: TBD vs TBD
+DTSTART:20250923T230000Z
+DTEND:20250924T020000Z
+UID:dt_mc_20250921003259yq9tw@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250921003259yq9tw\n赛制: BO5\n阶段: 美
+ 洲区\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250921003259yq9tw
 END:VEVENT
 END:VCALENDAR
