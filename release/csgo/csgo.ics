@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: SENZA vs SPARTA
-DTSTART:20250921T083000Z
-DTEND:20250921T110000Z
-UID:csgo_mc_2385845@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385845\n赛事: CCT 第3赛季 欧洲系列
- 赛 7\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385845
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elisa 芬兰公开赛 第10赛季: CSDIILIT vs Ence.A
-DTSTART:20250921T090000Z
-DTEND:20250921T113000Z
-UID:csgo_mc_2385779@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385779\n赛事: Elisa 芬兰公开赛 第10
- 赛季\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385779
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 6: BB vs GUN5
-DTSTART:20250921T100000Z
-DTEND:20250921T123000Z
-UID:csgo_mc_2385638@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385638\n赛事: CCT 第3赛季 欧洲系列
- 赛 6\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385638
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2: Sashi vs Betclic
 DTSTART:20250921T103000Z
 DTEND:20250921T130000Z
@@ -407,5 +373,38 @@ DESCRIPTION:比赛ID: csgo_mc_2385548\n赛事: 银河之战 2025 第4阶
  C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385548
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2: TBD vs TBD
+DTSTART:20250923T080000Z
+DTEND:20250923T103000Z
+UID:csgo_mc_2385757@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385757\n赛事: 欧洲职业联赛 系列
+ 赛2\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级:
+  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛2: TBD vs TBD
+DTSTART:20250923T103000Z
+DTEND:20250923T130000Z
+UID:csgo_mc_2385758@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385758\n赛事: 欧洲职业联赛 系列
+ 赛2\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级:
+  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385758
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第8赛季: Sashi vs FORZE Reload
+DTSTART:20250923T110000Z
+DTEND:20250923T133000Z
+UID:csgo_mc_2385855@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385855\n赛事: Winline Insight 第8赛季\
+ n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385855
 END:VEVENT
 END:VCALENDAR
