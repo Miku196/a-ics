@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第2季: MIBR vs 2GAME
-DTSTART:20250922T210000Z
-DTEND:20250922T233000Z
-UID:csgo_mc_2385810@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385810\n赛事: ESL 挑战者联赛 S50 南
- 美 第2季\n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未
- 开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385810
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Marsborne vs Wildcard
 DTSTART:20250923T010000Z
 DTEND:20250923T033000Z
@@ -177,6 +166,17 @@ DESCRIPTION:比赛ID: csgo_mc_2385864\n赛事: Showmatch CS\n赛制: BO1\n
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385864
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort Series 第16赛季: UNiTY vs FORZE Reload
+DTSTART:20250923T163000Z
+DTEND:20250923T190000Z
+UID:csgo_mc_2385881@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385881\n赛事: Exort Series 第16赛季\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385881
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Alliance vs BC.Game
