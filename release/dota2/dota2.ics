@@ -343,26 +343,4 @@ DESCRIPTION:比赛ID: dt_mc_20250920230254nb898\n赛制: BO3\n轮次: 1/4
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250920230254nb898
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 东南亚预选赛: XctN vs TBD
-DTSTART:20250924T040000Z
-DTEND:20250924T070000Z
-UID:dt_mc_20250920230256mdu1p@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250920230256mdu1p\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 封闭预选赛 胜者组 1/4决赛\n赛事等级: C级\n
- 状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250920230256mdu1p
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 东南亚预选赛: BOOM vs REKONIX
-DTSTART:20250924T080000Z
-DTEND:20250924T110000Z
-UID:dt_mc_20250920230301pohbj@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250920230301pohbj\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 封闭预选赛 胜者组 1/4决赛\n赛事等级: C级\n
- 状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250920230301pohbj
-END:VEVENT
 END:VCALENDAR
