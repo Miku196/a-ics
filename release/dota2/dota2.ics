@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:IESF世界电竞锦标赛 2025: 智利 vs 秘鲁
-DTSTART:20250922T200000Z
-DTEND:20250922T230000Z
-UID:dt_mc_20250920234755drrqr@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250920234755drrqr\n赛制: BO3\n阶段: 美
- 洲资格赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小
- 时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250920234755drrqr
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 北美预选赛: TBD vs TBD
-DTSTART:20250922T200000Z
-DTEND:20250922T220000Z
-UID:dt_mc_20250919190253you8a@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250919190253you8a\n赛制: BO1\n轮次: 1/4
- 决赛\n阶段: 公开预选赛#2 1/4决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250919190253you8a
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:梦幻联赛S27 南美预选赛: TBD vs TBD
 DTSTART:20250922T203000Z
 DTEND:20250922T223000Z
@@ -165,7 +143,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250922183253pq1ij
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 东欧预选赛: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2 东欧预选赛: L1ga vs Tea
 DTSTART:20250923T080000Z
 DTEND:20250923T110000Z
 UID:dt_mc_20250922005952r1vmp@5eplay.com
@@ -209,7 +187,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025092218415825uh1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 东欧预选赛: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2 东欧预选赛: 1win vs eSpoiled
 DTSTART:20250923T113000Z
 DTEND:20250923T143000Z
 UID:dt_mc_20250922005953jzkqp@5eplay.com
@@ -231,7 +209,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250922045952ovvgo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2 美洲预选赛: Wildcard vs Allstars
 DTSTART:20250923T140000Z
 DTEND:20250923T170000Z
 UID:dt_mc_20250922005953rm7e9@5eplay.com
@@ -242,7 +220,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250922005953rm7e9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 东欧预选赛: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2 东欧预选赛: Runa vs 20Twice
 DTSTART:20250923T150000Z
 DTEND:20250923T180000Z
 UID:dt_mc_20250922005954shupv@5eplay.com
@@ -263,7 +241,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250923010149dhsgx
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TaiLung Mafia vs HunterZ
 DTSTART:20250923T173000Z
 DTEND:20250923T203000Z
 UID:dt_mc_20250922005955a7lf9@5eplay.com
@@ -296,7 +274,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250909080258hc7aa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 东欧预选赛: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2 东欧预选赛: Kalmychata vs Yes
 DTSTART:20250923T183000Z
 DTEND:20250923T213000Z
 UID:dt_mc_20250922005955xnviq@5eplay.com
@@ -329,7 +307,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250920234758ihyec
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2 美洲预选赛: OG.LATAM vs Sentinel
 DTSTART:20250923T210000Z
 DTEND:20250924T000000Z
 UID:dt_mc_20250922010253dbq2u@5eplay.com
