@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Wildcard vs Getting Info
-DTSTART:20250922T010000Z
-DTEND:20250922T033000Z
-UID:csgo_mc_2385813@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385813\n赛事: ESL 挑战者联赛 S50 北
- 美 第2季\n阶段: 淘汰赛 败者组 第7轮\n轮次: 第7轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385813
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Exort试验场 第四季: SAW vs JJH
 DTSTART:20250922T080000Z
 DTEND:20250922T103000Z
@@ -53,8 +41,8 @@ DTSTART:20250922T093000Z
 DTEND:20250922T120000Z
 UID:csgo_mc_2385876@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385876\n赛事: Exort Series 第16赛季\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385876
 END:VEVENT
@@ -119,8 +107,8 @@ DTSTART:20250922T123000Z
 DTEND:20250922T150000Z
 UID:csgo_mc_2385877@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385877\n赛事: Exort Series 第16赛季\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385877
 END:VEVENT
@@ -174,8 +162,8 @@ DTSTART:20250922T153000Z
 DTEND:20250922T180000Z
 UID:csgo_mc_2385878@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385878\n赛事: Exort Series 第16赛季\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385878
 END:VEVENT
@@ -230,8 +218,8 @@ DTSTART:20250922T183000Z
 DTEND:20250922T210000Z
 UID:csgo_mc_2385879@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385879\n赛事: Exort Series 第16赛季\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385879
 END:VEVENT
@@ -319,8 +307,9 @@ DTSTART:20250924T080000Z
 DTEND:20250924T103000Z
 UID:csgo_mc_2385889@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385889\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 封闭预选赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
- 估时长: 2.5小时\n数据来源: 5EPlay
+ 赛 8 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\
+ n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385889
 END:VEVENT
@@ -330,8 +319,9 @@ DTSTART:20250924T110000Z
 DTEND:20250924T133000Z
 UID:csgo_mc_2385890@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385890\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 封闭预选赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
- 估时长: 2.5小时\n数据来源: 5EPlay
+ 赛 8 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\
+ n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385890
 END:VEVENT
@@ -342,8 +332,9 @@ DTSTART:20250924T140000Z
 DTEND:20250924T163000Z
 UID:csgo_mc_2385891@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385891\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 封闭预选赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
- 估时长: 2.5小时\n数据来源: 5EPlay
+ 赛 8 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\
+ n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385891
 END:VEVENT
@@ -353,8 +344,9 @@ DTSTART:20250924T170000Z
 DTEND:20250924T193000Z
 UID:csgo_mc_2385892@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385892\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 封闭预选赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
- 估时长: 2.5小时\n数据来源: 5EPlay
+ 赛 8 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\
+ n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385892
 END:VEVENT
