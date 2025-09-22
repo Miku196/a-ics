@@ -235,6 +235,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385810
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第2季: Marsborne vs Wildcard
+DTSTART:20250923T010000Z
+DTEND:20250923T033000Z
+UID:csgo_mc_2385814@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385814\n赛事: ESL 挑战者联赛 S50 北
+ 美 第2季\n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未
+ 开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385814
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2: TBD vs TBD
 DTSTART:20250923T080000Z
 DTEND:20250923T103000Z
