@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Exort Series 第16赛季: TPuDCATb_TPu vs Nemesis
-DTSTART:20250922T093000Z
-DTEND:20250922T120000Z
-UID:csgo_mc_2385876@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385876\n赛事: Exort Series 第16赛季\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385876
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2: BC.Game vs RUBY
 DTSTART:20250922T103000Z
 DTEND:20250922T130000Z
@@ -36,6 +25,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385824
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 7: 500 vs Khan
+DTSTART:20250922T110000Z
+DTEND:20250922T133000Z
+UID:csgo_mc_2385850@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385850\n赛事: CCT 第3赛季 欧洲系列
+ 赛 7\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385850
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Winline Insight 第8赛季: Alliance vs EF
 DTSTART:20250922T110000Z
 DTEND:20250922T133000Z
@@ -56,17 +56,6 @@ DESCRIPTION:比赛ID: csgo_mc_2385546\n赛事: 银河之战 2025 第4阶
  C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385546
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: 500 vs Khan
-DTSTART:20250922T113000Z
-DTEND:20250922T140000Z
-UID:csgo_mc_2385850@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385850\n赛事: CCT 第3赛季 欧洲系列
- 赛 7\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385850
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exort Series 第16赛季: Nexus vs MOUZ.N
@@ -415,5 +404,16 @@ DESCRIPTION:比赛ID: csgo_mc_2385786\n赛事: Majestic LanDaLan 3\n阶段
  n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385786
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Majestic LanDaLan 3: PARIVISION vs Nuclear TigeRES
+DTSTART:20250925T170000Z
+DTEND:20250925T193000Z
+UID:csgo_mc_2385787@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385787\n赛事: Majestic LanDaLan 3\n阶段
+ : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385787
 END:VEVENT
 END:VCALENDAR
