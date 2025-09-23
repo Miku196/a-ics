@@ -3,6 +3,17 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
+SUMMARY:Exort Series 第16赛季: TPuDCATb_TPu vs UNiTY
+DTSTART:20250923T203000Z
+DTEND:20250923T230000Z
+UID:csgo_mc_2385882@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385882\n赛事: Exort Series 第16赛季\n
+ 阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385882
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2: SINNERS vs RUBY
 DTSTART:20250924T080000Z
 DTEND:20250924T103000Z
@@ -403,5 +414,16 @@ DESCRIPTION:比赛ID: csgo_mc_2385974\n赛事: ESL Impact 联赛 第8赛
  始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385974
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 南美: CAPIVARAS vs Four Magic
+DTSTART:20250925T210000Z
+DTEND:20250925T233000Z
+UID:csgo_mc_2385977@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385977\n赛事: ESL Impact 联赛 第8赛
+ 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385977
 END:VEVENT
 END:VCALENDAR
