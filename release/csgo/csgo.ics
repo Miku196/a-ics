@@ -3,72 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Winline Insight 第8赛季: RUBY vs CPH Wolves
-DTSTART:20250923T142500Z
-DTEND:20250923T165500Z
-UID:csgo_mc_2385856@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385856\n赛事: Winline Insight 第8赛季\
- n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385856
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第四季: Partizan vs FUT
-DTSTART:20250923T143000Z
-DTEND:20250923T170000Z
-UID:csgo_mc_2385829@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385829\n赛事: Exort试验场 第四季\n
- 阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385829
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段: GUN5 vs FT
-DTSTART:20250923T143000Z
-DTEND:20250923T170000Z
-UID:csgo_mc_2385838@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385838\n赛事: 银河之战 2025 第4阶
- 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385838
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: SENZA vs AMKAL
-DTSTART:20250923T143000Z
-DTEND:20250923T170000Z
-UID:csgo_mc_2385867@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385867\n赛事: CCT 第3赛季 欧洲系列
- 赛 7\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385867
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Showmatch CS: NAVI vs FC Dynamo Kyiv
-DTSTART:20250923T150000Z
-DTEND:20250923T160000Z
-UID:csgo_mc_2385864@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385864\n赛事: Showmatch CS\n赛制: BO1\n
- 等级: 其他\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385864
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort Series 第16赛季: UNiTY vs FORZE Reload
-DTSTART:20250923T163000Z
-DTEND:20250923T190000Z
-UID:csgo_mc_2385881@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385881\n赛事: Exort Series 第16赛季\n
- 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385881
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 欧洲 第2季: Alliance vs BC.Game
 DTSTART:20250923T170000Z
 DTEND:20250923T193000Z
@@ -426,5 +360,38 @@ DESCRIPTION:比赛ID: csgo_mc_2385786\n赛事: Majestic LanDaLan 3\n阶段
  n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385786
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第4阶段: Khan vs Johnny Speeds
+DTSTART:20250925T140000Z
+DTEND:20250925T163000Z
+UID:csgo_mc_2385844@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385844\n赛事: 银河之战 2025 第4阶
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385844
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Majestic LanDaLan 3: PARIVISION vs Nuclear TigeRES
+DTSTART:20250925T170000Z
+DTEND:20250925T193000Z
+UID:csgo_mc_2385787@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385787\n赛事: Majestic LanDaLan 3\n阶段
+ : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385787
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第4阶段: Nexus vs Anonymo
+DTSTART:20250925T170000Z
+DTEND:20250925T193000Z
+UID:csgo_mc_2385840@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385840\n赛事: 银河之战 2025 第4阶
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385840
 END:VEVENT
 END:VCALENDAR
