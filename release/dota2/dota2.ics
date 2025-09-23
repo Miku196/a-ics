@@ -3,61 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 东欧预选赛: eSpoiled vs Tea
-DTSTART:20250923T130000Z
-DTEND:20250923T160000Z
-UID:dt_mc_2025092223325270p3f@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_2025092223325270p3f\n赛制: BO3\n轮次: 第3
- 轮\n阶段: 公开预选赛#2 第3轮\n赛事等级: C级\n状态: 未开
- 始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_2025092223325270p3f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 东欧预选赛: Nemiga vs L1ga
-DTSTART:20250923T130000Z
-DTEND:20250923T160000Z
-UID:dt_mc_20250922233253emzm7@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250922233253emzm7\n赛制: BO3\n轮次: 第3
- 轮\n阶段: 公开预选赛#2 第3轮\n赛事等级: C级\n状态: 未开
- 始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250922233253emzm7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: Wildcard vs Allstars
-DTSTART:20250923T140000Z
-DTEND:20250923T170000Z
-UID:dt_mc_20250922005953rm7e9@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250922005953rm7e9\n赛制: BO3\n阶段: 美
- 洲区\n赛事等级: C级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250922005953rm7e9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 西欧预选赛: MOUZ vs 3P2R
-DTSTART:20250923T140000Z
-DTEND:20250923T170000Z
-UID:dt_mc_202509222141453b0zp@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509222141453b0zp\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 公开预选赛#2 半决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509222141453b0zp
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 西欧预选赛: WB vs firebird
-DTSTART:20250923T140000Z
-DTEND:20250923T170000Z
-UID:dt_mc_20250922214145busbk@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250922214145busbk\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 公开预选赛#2 半决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250922214145busbk
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2 东欧预选赛: Runa vs 20Twice
 DTSTART:20250923T150000Z
 DTEND:20250923T180000Z
@@ -69,15 +14,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250922005954shupv
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winline 明星联赛: Travoman vs By_owl
-DTSTART:20250923T170000Z
-DTEND:20250923T200000Z
-UID:dt_mc_20250923010149dhsgx@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250923010149dhsgx\n赛制: BO3\n阶段: 淘
- 汰赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
+SUMMARY:Winline 明星联赛: Voodoosh vs Rostik
+DTSTART:20250923T160000Z
+DTEND:20250923T190000Z
+UID:dt_mc_20250922045952ovvgo@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250922045952ovvgo\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 淘汰赛 胜者组 决赛\n赛事等级: \n状态: 未开始
+ \n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250923010149dhsgx
+URL:https://event.5eplay.com/dota/session/dt_mc_20250922045952ovvgo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TaiLung Mafia vs HunterZ
@@ -223,7 +168,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250922010253jcpej
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 中国预选赛: YB vs TBD
+SUMMARY:梦幻联赛S27 中国预选赛: YB vs TL
 DTSTART:20250924T040000Z
 DTEND:20250924T070000Z
 UID:dt_mc_202509202302539r2e1@5eplay.com
@@ -245,7 +190,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250920230254nb898
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 东南亚预选赛: XctN vs TBD
+SUMMARY:梦幻联赛S27 东南亚预选赛: XctN vs Kukuys
 DTSTART:20250924T040000Z
 DTEND:20250924T070000Z
 UID:dt_mc_20250920230256mdu1p@5eplay.com
@@ -289,7 +234,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250920230306cvwn6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 东欧预选赛: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2 东欧预选赛: Tea vs eSpoiled
 DTSTART:20250924T080000Z
 DTEND:20250924T110000Z
 UID:dt_mc_2025092201025466mxh@5eplay.com
@@ -355,7 +300,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509220156530rbxj
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winline 明星联赛: TBD vs TBD
+SUMMARY:Winline 明星联赛: TBD vs By_owl
 DTSTART:20250924T130000Z
 DTEND:20250924T160000Z
 UID:dt_mc_20250923010149y17b6@5eplay.com
@@ -386,5 +331,49 @@ DESCRIPTION:比赛ID: dt_mc_202509202303120o6cn\n赛制: BO3\n轮次: 1/4
  状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509202303120o6cn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TBD vs TBD
+DTSTART:20250924T140000Z
+DTEND:20250924T170000Z
+UID:dt_mc_20250922010256kkjwo@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250922010256kkjwo\n赛制: BO3\n阶段: 美
+ 洲区\n赛事等级: C级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250922010256kkjwo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:梦幻联赛S27 西欧预选赛: Avulus vs Passion
+DTSTART:20250924T140000Z
+DTEND:20250924T170000Z
+UID:dt_mc_20250920223554o4l0d@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250920223554o4l0d\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 封闭预选赛 胜者组 1/4决赛\n赛事等级: C级\n
+ 状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250920223554o4l0d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:梦幻联赛S27 西欧预选赛: VP vs pipsqueak+4
+DTSTART:20250924T140000Z
+DTEND:20250924T170000Z
+UID:dt_mc_20250920223606de55y@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250920223606de55y\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 封闭预选赛 胜者组 1/4决赛\n赛事等级: C级\n
+ 状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250920223606de55y
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2 东欧预选赛: L1ga vs 1win
+DTSTART:20250924T150000Z
+DTEND:20250924T180000Z
+UID:dt_mc_20250922015653i4t95@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250922015653i4t95\n赛制: BO3\n阶段: 东
+ 欧区\n赛事等级: C级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250922015653i4t95
 END:VEVENT
 END:VCALENDAR

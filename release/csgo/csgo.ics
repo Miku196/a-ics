@@ -3,20 +3,20 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Exort Series 第16赛季: TPuDCATb_TPu vs MOUZ.N
-DTSTART:20250923T123000Z
-DTEND:20250923T150000Z
-UID:csgo_mc_2385880@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385880\n赛事: Exort Series 第16赛季\n
- 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+SUMMARY:Winline Insight 第8赛季: RUBY vs CPH Wolves
+DTSTART:20250923T142500Z
+DTEND:20250923T165500Z
+UID:csgo_mc_2385856@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385856\n赛事: Winline Insight 第8赛季\
+ n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385880
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385856
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exort试验场 第四季: Partizan vs FUT
-DTSTART:20250923T140000Z
-DTEND:20250923T163000Z
+DTSTART:20250923T143000Z
+DTEND:20250923T170000Z
 UID:csgo_mc_2385829@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385829\n赛事: Exort试验场 第四季\n
  阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n状
@@ -26,25 +26,14 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2385829
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:银河之战 2025 第4阶段: GUN5 vs FT
-DTSTART:20250923T140000Z
-DTEND:20250923T163000Z
+DTSTART:20250923T143000Z
+DTEND:20250923T170000Z
 UID:csgo_mc_2385838@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385838\n赛事: 银河之战 2025 第4阶
  段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 
  C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385838
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winline Insight 第8赛季: RUBY vs CPH Wolves
-DTSTART:20250923T140000Z
-DTEND:20250923T163000Z
-UID:csgo_mc_2385856@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385856\n赛事: Winline Insight 第8赛季\
- n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385856
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 7: SENZA vs AMKAL
@@ -125,7 +114,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385868
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2: SINNERS vs TBD
+SUMMARY:欧洲职业联赛 系列赛2: SINNERS vs RUBY
 DTSTART:20250924T080000Z
 DTEND:20250924T103000Z
 UID:csgo_mc_2385759@5eplay.com
@@ -384,7 +373,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385609
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2: Sashi vs TBD
+SUMMARY:欧洲职业联赛 系列赛2: Sashi vs HOTU
 DTSTART:20250925T080000Z
 DTEND:20250925T120000Z
 UID:csgo_mc_2385760@5eplay.com
@@ -393,5 +382,49 @@ DESCRIPTION:比赛ID: csgo_mc_2385760\n赛事: 欧洲职业联赛 系列
   其他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385760
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Majestic LanDaLan 3: TPuDCATb_TPu vs Spirit.A
+DTSTART:20250925T080000Z
+DTEND:20250925T103000Z
+UID:csgo_mc_2385781@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385781\n赛事: Majestic LanDaLan 3\n阶段
+ : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385781
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Majestic LanDaLan 3: BB vs Betera
+DTSTART:20250925T110000Z
+DTEND:20250925T133000Z
+UID:csgo_mc_2385782@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385782\n赛事: Majestic LanDaLan 3\n阶段
+ : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385782
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第8赛季: EF vs ECLOT
+DTSTART:20250925T110000Z
+DTEND:20250925T133000Z
+UID:csgo_mc_2385885@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385885\n赛事: Winline Insight 第8赛季\
+ n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385885
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Majestic LanDaLan 3: Nemiga vs 9BOOMPRO
+DTSTART:20250925T140000Z
+DTEND:20250925T163000Z
+UID:csgo_mc_2385786@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385786\n赛事: Majestic LanDaLan 3\n阶段
+ : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385786
 END:VEVENT
 END:VCALENDAR
