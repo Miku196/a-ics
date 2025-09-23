@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Exort Series 第16赛季: TPuDCATb_TPu vs UNiTY
-DTSTART:20250923T203000Z
-DTEND:20250923T230000Z
-UID:csgo_mc_2385882@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385882\n赛事: Exort Series 第16赛季\n
- 阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385882
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2: SINNERS vs RUBY
 DTSTART:20250924T080000Z
 DTEND:20250924T103000Z
@@ -163,7 +152,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385892
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Aorus联赛 2025: 9z vs LaChampionsLiga
+SUMMARY: Aorus联赛 2025: 9z vs Procyon
 DTSTART:20250924T170000Z
 DTEND:20250924T180000Z
 UID:csgo_mc_2385606@5eplay.com
@@ -425,5 +414,38 @@ DESCRIPTION:比赛ID: csgo_mc_2385977\n赛事: ESL Impact 联赛 第8赛
  预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385977
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 南美: MIBR.fe vs Curralzinho
+DTSTART:20250925T210000Z
+DTEND:20250925T233000Z
+UID:csgo_mc_2385978@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385978\n赛事: ESL Impact 联赛 第8赛
+ 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385978
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Aorus联赛 2025: TBD vs TBD
+DTSTART:20250925T210000Z
+DTEND:20250925T233000Z
+UID:csgo_mc_2385611@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385611\n赛事:  Aorus联赛 2025\n阶段: 
+ 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\n等级: 其他\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385611
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 北美: black mold vs Nocturnal
+DTSTART:20250925T233000Z
+DTEND:20250926T020000Z
+UID:csgo_mc_2385981@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385981\n赛事: ESL Impact 联赛 第8赛
+ 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385981
 END:VEVENT
 END:VCALENDAR
