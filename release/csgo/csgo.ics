@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2: SINNERS vs Sashi
-DTSTART:20250923T080000Z
-DTEND:20250923T103000Z
-UID:csgo_mc_2385757@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385757\n赛事: 欧洲职业联赛 系列
- 赛2\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级:
-  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385757
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第四季: SAW vs ENCE
-DTSTART:20250923T080000Z
-DTEND:20250923T103000Z
-UID:csgo_mc_2385827@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385827\n赛事: Exort试验场 第四季\n
- 阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385827
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 7: SPARTA vs EF
 DTSTART:20250923T083000Z
 DTEND:20250923T110000Z
@@ -63,8 +41,8 @@ DTSTART:20250923T110000Z
 DTEND:20250923T133000Z
 UID:csgo_mc_2385837@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385837\n赛事: 银河之战 2025 第4阶
- 段\n赛制: BO3\n等级: C级\n状态: 未开始\n预估时长: 2.5小时
- \n数据来源: 5EPlay
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385837
 END:VEVENT
@@ -96,8 +74,8 @@ DTSTART:20250923T123000Z
 DTEND:20250923T150000Z
 UID:csgo_mc_2385880@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385880\n赛事: Exort Series 第16赛季\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+ 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385880
 END:VEVENT
@@ -118,8 +96,8 @@ DTSTART:20250923T140000Z
 DTEND:20250923T163000Z
 UID:csgo_mc_2385838@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385838\n赛事: 银河之战 2025 第4阶
- 段\n赛制: BO3\n等级: C级\n状态: 未开始\n预估时长: 2.5小时
- \n数据来源: 5EPlay
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385838
 END:VEVENT
@@ -162,8 +140,8 @@ DTSTART:20250923T163000Z
 DTEND:20250923T190000Z
 UID:csgo_mc_2385881@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385881\n赛事: Exort Series 第16赛季\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+ 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385881
 END:VEVENT
@@ -196,8 +174,8 @@ DTSTART:20250923T170000Z
 DTEND:20250923T193000Z
 UID:csgo_mc_2385839@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385839\n赛事: 银河之战 2025 第4阶
- 段\n赛制: BO3\n等级: C级\n状态: 未开始\n预估时长: 2.5小时
- \n数据来源: 5EPlay
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385839
 END:VEVENT
@@ -253,8 +231,8 @@ DTSTART:20250924T110000Z
 DTEND:20250924T133000Z
 UID:csgo_mc_2385841@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385841\n赛事: 银河之战 2025 第4阶
- 段\n赛制: BO3\n等级: C级\n状态: 未开始\n预估时长: 2.5小时
- \n数据来源: 5EPlay
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385841
 END:VEVENT
@@ -298,8 +276,8 @@ DTSTART:20250924T140000Z
 DTEND:20250924T163000Z
 UID:csgo_mc_2385842@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385842\n赛事: 银河之战 2025 第4阶
- 段\n赛制: BO3\n等级: C级\n状态: 未开始\n预估时长: 2.5小时
- \n数据来源: 5EPlay
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385842
 END:VEVENT
@@ -333,8 +311,8 @@ DTSTART:20250924T170000Z
 DTEND:20250924T193000Z
 UID:csgo_mc_2385843@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2385843\n赛事: 银河之战 2025 第4阶
- 段\n赛制: BO3\n等级: C级\n状态: 未开始\n预估时长: 2.5小时
- \n数据来源: 5EPlay
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385843
 END:VEVENT
