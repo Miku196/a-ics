@@ -438,4 +438,15 @@ DESCRIPTION:比赛ID: csgo_mc_2385976\n赛事: ESL Impact 联赛 第8赛
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385976
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 北美: FLYRED vs wwaves
+DTSTART:20250924T233000Z
+DTEND:20250925T020000Z
+UID:csgo_mc_2385980@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385980\n赛事: ESL Impact 联赛 第8赛
+ 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385980
+END:VEVENT
 END:VCALENDAR
