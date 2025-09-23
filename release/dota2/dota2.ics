@@ -3,31 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 中国预选赛: TL vs TBD
-DTSTART:20250923T060000Z
-DTEND:20250923T090000Z
-UID:dt_mc_20250922182353wuwmn@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250922182353wuwmn\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 公开预选赛#2 半决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250922182353wuwmn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 中国预选赛: CLOUDSTRIFE ZENITH vs CFU Gaming
-DTSTART:20250923T060000Z
-DTEND:20250923T090000Z
-UID:dt_mc_20250922183253pq1ij@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250922183253pq1ij\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 公开预选赛#2 半决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250922183253pq1ij
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cringe Station 月蛇杯 3: CARST vs YG
-DTSTART:20250923T070000Z
-DTEND:20250923T100000Z
+DTSTART:20250923T080000Z
+DTEND:20250923T110000Z
 UID:dt_mc_20250911010002ulwf4@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250911010002ulwf4\n赛制: BO3\n阶段: 小
  组赛\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小时\n
@@ -300,6 +278,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250920230256mdu1p
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BLAST Slam IV: TBD vs TBD
+DTSTART:20250924T040000Z
+DTEND:20250924T070000Z
+UID:dt_mc_20250923140215wdkxy@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250923140215wdkxy\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250923140215wdkxy
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:梦幻联赛S27 东南亚预选赛: BOOM vs REKONIX
 DTSTART:20250924T080000Z
 DTEND:20250924T110000Z
@@ -408,5 +397,16 @@ DESCRIPTION:比赛ID: dt_mc_20250922010257r5sox\n赛制: BO3\n阶段: 美
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250922010257r5sox
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: EB vs Lava
+DTSTART:20250924T180000Z
+DTEND:20250924T210000Z
+UID:dt_mc_20250902000306uxnia@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000306uxnia\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000306uxnia
 END:VEVENT
 END:VCALENDAR
