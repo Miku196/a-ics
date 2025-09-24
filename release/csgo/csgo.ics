@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: CPH Wolves vs FORZE Reload
-DTSTART:20250924T083000Z
-DTEND:20250924T110000Z
-UID:csgo_mc_2385869@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385869\n赛事: CCT 第3赛季 欧洲系列
- 赛 7\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385869
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Exort试验场 第四季: ENCE vs FNC
 DTSTART:20250924T110000Z
 DTEND:20250924T133000Z
@@ -127,16 +116,16 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385871
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:斯洛伐克国际冠军赛 2025: Glore vs 1DH
+SUMMARY:斯洛伐克国际冠军赛 2025: UNiTY vs Dark Tigers
 DTSTART:20250924T150000Z
 DTEND:20250924T173000Z
-UID:csgo_mc_2386114@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386114\n赛事: 斯洛伐克国际冠军赛
+UID:csgo_mc_2386115@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386115\n赛事: 斯洛伐克国际冠军赛
   2025\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制: BO3\n
  等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
  5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386114
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386115
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exort试验场 第四季: TBD vs TBD
