@@ -151,13 +151,14 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385871
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slovak National Championship 2025: Glore vs 1DH
+SUMMARY:斯洛伐克国际冠军赛 2025: Glore vs 1DH
 DTSTART:20250924T150000Z
 DTEND:20250924T173000Z
 UID:csgo_mc_2386114@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386114\n赛事: Slovak National Championshi
- p 2025\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5
- 小时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2386114\n赛事: 斯洛伐克国际冠军赛
+  2025\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386114
 END:VEVENT
@@ -207,13 +208,14 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385872
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slovak National Championship 2025: SINNERS vs Zennox
+SUMMARY:斯洛伐克国际冠军赛 2025: SINNERS vs Zennox
 DTSTART:20250924T180000Z
 DTEND:20250924T203000Z
 UID:csgo_mc_2386113@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386113\n赛事: Slovak National Championshi
- p 2025\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5
- 小时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2386113\n赛事: 斯洛伐克国际冠军赛
+  2025\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386113
 END:VEVENT
@@ -339,6 +341,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385781
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:United21 League Season 38: MASONIC vs WOPA
+DTSTART:20250925T103000Z
+DTEND:20250925T130000Z
+UID:csgo_mc_2386124@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386124\n赛事: United21 League Season 38\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386124
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Majestic LanDaLan 3: BB vs Betera
 DTSTART:20250925T110000Z
 DTEND:20250925T133000Z
@@ -394,13 +407,14 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385886
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slovak National Championship 2025: UNiTY vs Dark Tigers
+SUMMARY:斯洛伐克国际冠军赛 2025: UNiTY vs Dark Tigers
 DTSTART:20250925T150000Z
 DTEND:20250925T173000Z
 UID:csgo_mc_2386115@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386115\n赛事: Slovak National Championshi
- p 2025\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5
- 小时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2386115\n赛事: 斯洛伐克国际冠军赛
+  2025\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386115
 END:VEVENT
@@ -436,16 +450,5 @@ DESCRIPTION:比赛ID: csgo_mc_2385610\n赛事:  Aorus联赛 2025\n阶段:
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385610
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slovak National Championship 2025: ECLOT vs Brute
-DTSTART:20250925T180000Z
-DTEND:20250925T203000Z
-UID:csgo_mc_2386116@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386116\n赛事: Slovak National Championshi
- p 2025\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5
- 小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386116
 END:VEVENT
 END:VCALENDAR

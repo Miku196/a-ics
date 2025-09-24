@@ -245,7 +245,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250920223556g64k4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2 美洲预选赛: Sentinel vs TBD
 DTSTART:20250924T173000Z
 DTEND:20250924T203000Z
 UID:dt_mc_20250922010257r5sox@5eplay.com
@@ -322,7 +322,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250922015656vngo4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2 美洲预选赛: OG.LATAM vs TBD
 DTSTART:20250925T003000Z
 DTEND:20250925T033000Z
 UID:dt_mc_20250922010300ntuls@5eplay.com
@@ -375,5 +375,49 @@ DESCRIPTION:比赛ID: dt_mc_20250922010554eydo3\n赛制: BO3\n阶段: 美
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250922010554eydo3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2 东欧预选赛: TBD vs TBD
+DTSTART:20250925T150000Z
+DTEND:20250925T180000Z
+UID:dt_mc_20250922010555kuy7l@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250922010555kuy7l\n赛制: BO3\n阶段: 东
+ 欧区\n赛事等级: C级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250922010555kuy7l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20250925T150000Z
+DTEND:20250925T180000Z
+UID:dt_mc_20250907233254ehuuu@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233254ehuuu\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233254ehuuu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:梦幻联赛S27 北美预选赛: TBD vs TBD
+DTSTART:20250925T160000Z
+DTEND:20250925T190000Z
+UID:dt_mc_202509202236008yk6e@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509202236008yk6e\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 封闭预选赛 胜者组 决赛\n赛事等级: C级\n状态:
+  未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509202236008yk6e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TBD vs TBD
+DTSTART:20250925T173000Z
+DTEND:20250925T203000Z
+UID:dt_mc_202509220105562n3b6@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509220105562n3b6\n赛制: BO3\n阶段: 美
+ 洲区\n赛事等级: C级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509220105562n3b6
 END:VEVENT
 END:VCALENDAR
