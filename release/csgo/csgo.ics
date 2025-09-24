@@ -38,6 +38,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385869
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exort试验场 第四季: ENCE vs FNC
+DTSTART:20250924T110000Z
+DTEND:20250924T133000Z
+UID:csgo_mc_2385831@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385831\n赛事: Exort试验场 第四季\n
+ 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385831
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:银河之战 2025 第4阶段: Monte vs Sangal
 DTSTART:20250924T110000Z
 DTEND:20250924T133000Z
@@ -81,6 +92,17 @@ DESCRIPTION:比赛ID: csgo_mc_2385870\n赛事: CCT 第3赛季 欧洲系列
  : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385870
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第四季: FUT vs Betera
+DTSTART:20250924T140000Z
+DTEND:20250924T163000Z
+UID:csgo_mc_2385832@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385832\n赛事: Exort试验场 第四季\n
+ 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385832
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:银河之战 2025 第4阶段: Alliance vs SPARTA
@@ -129,6 +151,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385871
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Slovak National Championship 2025: Glore vs 1DH
+DTSTART:20250924T150000Z
+DTEND:20250924T173000Z
+UID:csgo_mc_2386114@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386114\n赛事: Slovak National Championshi
+ p 2025\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5
+ 小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386114
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:银河之战 2025 第4阶段: CPH Wolves vs Betera
 DTSTART:20250924T170000Z
 DTEND:20250924T193000Z
@@ -172,6 +205,17 @@ DESCRIPTION:比赛ID: csgo_mc_2385872\n赛事: CCT 第3赛季 欧洲系列
  : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385872
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slovak National Championship 2025: SINNERS vs Zennox
+DTSTART:20250924T180000Z
+DTEND:20250924T203000Z
+UID:csgo_mc_2386113@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386113\n赛事: Slovak National Championshi
+ p 2025\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5
+ 小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386113
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESL Impact 联赛 第8赛季 欧洲: BIG.E vs shinigami
@@ -350,6 +394,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385886
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Slovak National Championship 2025: UNiTY vs Dark Tigers
+DTSTART:20250925T150000Z
+DTEND:20250925T173000Z
+UID:csgo_mc_2386115@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386115\n赛事: Slovak National Championshi
+ p 2025\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5
+ 小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386115
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Majestic LanDaLan 3: PARIVISION vs Nuclear TigeRES
 DTSTART:20250925T170000Z
 DTEND:20250925T193000Z
@@ -383,69 +438,14 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385610
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Let Her Cook vs AKA HERO KAJO
-DTSTART:20250925T183000Z
-DTEND:20250925T210000Z
-UID:csgo_mc_2385973@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385973\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
+SUMMARY:Slovak National Championship 2025: ECLOT vs Brute
+DTSTART:20250925T180000Z
+DTEND:20250925T203000Z
+UID:csgo_mc_2386116@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386116\n赛事: Slovak National Championshi
+ p 2025\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5
+ 小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385973
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Imperial fe vs Peekaboo
-DTSTART:20250925T183000Z
-DTEND:20250925T210000Z
-UID:csgo_mc_2385974@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385974\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385974
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 南美: CAPIVARAS vs Four Magic
-DTSTART:20250925T210000Z
-DTEND:20250925T233000Z
-UID:csgo_mc_2385977@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385977\n赛事: ESL Impact 联赛 第8赛
- 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385977
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 南美: MIBR.fe vs Curralzinho
-DTSTART:20250925T210000Z
-DTEND:20250925T233000Z
-UID:csgo_mc_2385978@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385978\n赛事: ESL Impact 联赛 第8赛
- 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385978
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Aorus联赛 2025: TBD vs TBD
-DTSTART:20250925T210000Z
-DTEND:20250925T233000Z
-UID:csgo_mc_2385611@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385611\n赛事:  Aorus联赛 2025\n阶段: 
- 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\n等级: 其他\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385611
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 北美: black mold vs Nocturnal
-DTSTART:20250925T233000Z
-DTEND:20250926T020000Z
-UID:csgo_mc_2385981@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385981\n赛事: ESL Impact 联赛 第8赛
- 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385981
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386116
 END:VEVENT
 END:VCALENDAR
