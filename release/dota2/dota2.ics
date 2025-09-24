@@ -3,61 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 东欧预选赛: Runa vs Yes
-DTSTART:20250924T113000Z
-DTEND:20250924T143000Z
-UID:dt_mc_202509220102589sf13@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509220102589sf13\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 封闭预选赛 胜者组 半决赛\n赛事等级: C级\n
- 状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509220102589sf13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 中国预选赛: YB vs TT
-DTSTART:20250924T120000Z
-DTEND:20250924T150000Z
-UID:dt_mc_20250920230309pok97@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250920230309pok97\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 封闭预选赛 胜者组 半决赛\n赛事等级: C级\n
- 状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250920230309pok97
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST S4欧洲预选赛: TBD vs TBD
-DTSTART:20250924T120000Z
-DTEND:20250924T150000Z
-UID:dt_mc_20250924112653y6ok4@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250924112653y6ok4\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 公开预选赛#2 1/4决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250924112653y6ok4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 东南亚预选赛: XctN vs YG
-DTSTART:20250924T120000Z
-DTEND:20250924T150000Z
-UID:dt_mc_20250924151152ax7s5@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250924151152ax7s5\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 封闭预选赛 胜者组 半决赛\n赛事等级: C级\n
- 状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250924151152ax7s5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:梦幻联赛S27: REKONIX vs TBD
-DTSTART:20250924T120000Z
-DTEND:20250924T150000Z
-UID:dt_mc_20250924151153m5c1n@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250924151153m5c1n\n赛制: BO3\n阶段: 未
- 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
- \n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250924151153m5c1n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Winline 明星联赛: Voodoosh vs By_owl
 DTSTART:20250924T130000Z
 DTEND:20250924T160000Z
@@ -91,6 +36,50 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509202303120o6cn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BLAST S4欧洲预选赛: TBD vs TBD
+DTSTART:20250924T130000Z
+DTEND:20250924T160000Z
+UID:dt_mc_20250924112653y6ok4@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250924112653y6ok4\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 公开预选赛#2 1/4决赛\n赛事等级: C级\n状态: 
+ 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250924112653y6ok4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST Slam IV: TBD vs TBD
+DTSTART:20250924T130000Z
+DTEND:20250924T160000Z
+UID:dt_mc_202509241956532uwf4@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509241956532uwf4\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509241956532uwf4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST Slam IV: TBD vs TBD
+DTSTART:20250924T130000Z
+DTEND:20250924T160000Z
+UID:dt_mc_20250924195654favrj@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250924195654favrj\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250924195654favrj
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST Slam IV: Runa vs TBD
+DTSTART:20250924T130000Z
+DTEND:20250924T160000Z
+UID:dt_mc_20250924195655k8rox@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250924195655k8rox\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250924195655k8rox
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2 美洲预选赛: Allstars vs HunterZ
 DTSTART:20250924T140000Z
 DTEND:20250924T170000Z
@@ -122,17 +111,6 @@ DESCRIPTION:比赛ID: dt_mc_20250920223606de55y\n赛制: BO3\n轮次: 1/4
  状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250920223606de55y
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 东欧预选赛: 20Twice vs Kalmychata
-DTSTART:20250924T150000Z
-DTEND:20250924T180000Z
-UID:dt_mc_202509220156530rbxj@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509220156530rbxj\n赛制: BO3\n轮次: 第1
- 轮\n阶段: 封闭预选赛 败者组 第1轮\n赛事等级: C级\n状态
- : 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509220156530rbxj
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:梦幻联赛S27 北美预选赛: Wildcard vs Team Slayers
@@ -333,7 +311,29 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250922010552zdhrw
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 东欧预选赛: TBD vs TBD
+SUMMARY:BLAST Slam IV: TBD vs TBD
+DTSTART:20250925T100000Z
+DTEND:20250925T120000Z
+UID:dt_mc_202509241959536bcxt@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509241959536bcxt\n赛制: BO1\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 2小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509241959536bcxt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST Slam IV: TBD vs TBD
+DTSTART:20250925T100000Z
+DTEND:20250925T120000Z
+UID:dt_mc_202509241959545z5c6@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509241959545z5c6\n赛制: BO1\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 2小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509241959545z5c6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2 东欧预选赛: TBD vs Kalmychata
 DTSTART:20250925T113000Z
 DTEND:20250925T143000Z
 UID:dt_mc_20250922010553l6264@5eplay.com
@@ -344,7 +344,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250922010553l6264
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: TBD vs TBD
+SUMMARY:BB主播大战 第十一季: By_owl vs Team Morphilina
 DTSTART:20250925T120000Z
 DTEND:20250925T150000Z
 UID:dt_mc_20250907233252j1fr1@5eplay.com
