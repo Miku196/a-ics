@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 南美: FURIA fe vs thekillaz fe
-DTSTART:20250924T210000Z
-DTEND:20250924T233000Z
-UID:csgo_mc_2385975@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385975\n赛事: ESL Impact 联赛 第8赛
- 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385975
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 南美: Atrix vs Dusty Roses
-DTSTART:20250924T210000Z
-DTEND:20250924T233000Z
-UID:csgo_mc_2385976@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385976\n赛事: ESL Impact 联赛 第8赛
- 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385976
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL Impact 联赛 第8赛季 北美: FLYRED vs wwaves
 DTSTART:20250924T233000Z
 DTEND:20250925T020000Z
@@ -91,7 +69,19 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386123
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第二季: Passion UA vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 封闭预选赛: NIP Impact vs 1w
+ in
+DTSTART:20250925T080000Z
+DTEND:20250925T103000Z
+UID:csgo_mc_2386137@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386137\n赛事: CCT 第3赛季 欧洲系列
+ 赛 8 封闭预选赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
+ 估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386137
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第二季: Passion UA vs MANA
 DTSTART:20250925T090000Z
 DTEND:20250925T113000Z
 UID:csgo_mc_2386009@5eplay.com
@@ -102,7 +92,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386009
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第二季: FlyQuest vs TBD
+SUMMARY:DraculaN 第二季: FlyQuest vs BASEMENT BOYS
 DTSTART:20250925T090000Z
 DTEND:20250925T113000Z
 UID:csgo_mc_2386007@5eplay.com
@@ -113,7 +103,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386007
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第二季: ZT vs TBD
+SUMMARY:DraculaN 第二季: ZT vs Genone
 DTSTART:20250925T090000Z
 DTEND:20250925T113000Z
 UID:csgo_mc_2386010@5eplay.com
@@ -124,7 +114,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386010
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第二季: Metizport vs TBD
+SUMMARY:DraculaN 第二季: Metizport vs Nexus
 DTSTART:20250925T090000Z
 DTEND:20250925T113000Z
 UID:csgo_mc_2386008@5eplay.com
@@ -157,6 +147,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385782
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 封闭预选赛: Y5 vs Troglodyte
+ s
+DTSTART:20250925T110000Z
+DTEND:20250925T133000Z
+UID:csgo_mc_2386138@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386138\n赛事: CCT 第3赛季 欧洲系列
+ 赛 8 封闭预选赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
+ 估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386138
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Winline Insight 第8赛季: EF vs ECLOT
 DTSTART:20250925T110000Z
 DTEND:20250925T133000Z
@@ -179,7 +181,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385983
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第二季: ECSTATIC vs TBD
+SUMMARY:DraculaN 第二季: ECSTATIC vs BIG.A
 DTSTART:20250925T120000Z
 DTEND:20250925T143000Z
 UID:csgo_mc_2386012@5eplay.com
@@ -190,7 +192,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386012
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第二季: Reason vs TBD
+SUMMARY:DraculaN 第二季: Reason vs HyperSpirit
 DTSTART:20250925T120000Z
 DTEND:20250925T143000Z
 UID:csgo_mc_2386011@5eplay.com
@@ -201,7 +203,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386011
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第二季: SINNERS vs TBD
+SUMMARY:DraculaN 第二季: SINNERS vs m1x
 DTSTART:20250925T120000Z
 DTEND:20250925T143000Z
 UID:csgo_mc_2386013@5eplay.com
@@ -212,7 +214,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386013
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第二季: OG vs TBD
+SUMMARY:DraculaN 第二季: OG vs AM
 DTSTART:20250925T120000Z
 DTEND:20250925T143000Z
 UID:csgo_mc_2386014@5eplay.com
@@ -243,6 +245,17 @@ DESCRIPTION:比赛ID: csgo_mc_2385844\n赛事: 银河之战 2025 第4阶
  C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385844
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 封闭预选赛: UNiTY vs Leo
+DTSTART:20250925T140000Z
+DTEND:20250925T163000Z
+UID:csgo_mc_2386139@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386139\n赛事: CCT 第3赛季 欧洲系列
+ 赛 8 封闭预选赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
+ 估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386139
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winline Insight 第8赛季: Sashi vs RUBY
@@ -345,6 +358,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385840
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 封闭预选赛: Fire Flux vs EF
+DTSTART:20250925T170000Z
+DTEND:20250925T193000Z
+UID:csgo_mc_2386140@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386140\n赛事: CCT 第3赛季 欧洲系列
+ 赛 8 封闭预选赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
+ 估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386140
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY: Aorus联赛 2025: TBD vs TBD
 DTSTART:20250925T170000Z
 DTEND:20250925T193000Z
@@ -388,38 +412,5 @@ DESCRIPTION:比赛ID: csgo_mc_2385973\n赛事: ESL Impact 联赛 第8赛
  始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385973
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Imperial fe vs Peekaboo
-DTSTART:20250925T183000Z
-DTEND:20250925T210000Z
-UID:csgo_mc_2385974@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385974\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385974
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 南美: CAPIVARAS vs Four Magic
-DTSTART:20250925T210000Z
-DTEND:20250925T233000Z
-UID:csgo_mc_2385977@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385977\n赛事: ESL Impact 联赛 第8赛
- 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385977
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 南美: MIBR.fe vs Curralzinho
-DTSTART:20250925T210000Z
-DTEND:20250925T233000Z
-UID:csgo_mc_2385978@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385978\n赛事: ESL Impact 联赛 第8赛
- 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385978
 END:VEVENT
 END:VCALENDAR
