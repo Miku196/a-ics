@@ -341,13 +341,13 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385781
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:United21 League Season 38: MASONIC vs WOPA
+SUMMARY:United21 联赛 第38赛季: MASONIC vs WOPA
 DTSTART:20250925T103000Z
 DTEND:20250925T130000Z
 UID:csgo_mc_2386124@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386124\n赛事: United21 League Season 38\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2386124\n赛事: United21 联赛 第38赛季
+ \n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
+  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386124
 END:VEVENT
