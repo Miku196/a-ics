@@ -374,6 +374,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386116
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Liga 玩家俱乐部 2025 系列赛A 九月杯: LP vs Players
+DTSTART:20250925T180000Z
+DTEND:20250925T203000Z
+UID:csgo_mc_2386169@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386169\n赛事: Liga 玩家俱乐部 2025 
+ 系列赛A 九月杯\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
+ 估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386169
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Let Her Cook vs AKA HERO KAJO
 DTSTART:20250925T183000Z
 DTEND:20250925T210000Z
@@ -429,25 +440,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385611
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 北美: black mold vs Nocturnal
-DTSTART:20250925T233000Z
-DTEND:20250926T020000Z
-UID:csgo_mc_2385981@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385981\n赛事: ESL Impact 联赛 第8赛
- 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
+SUMMARY:Liga 玩家俱乐部 2025 系列赛A 九月杯: ODDIK Academy vs T
+ ropa do KinGui
+DTSTART:20250925T213000Z
+DTEND:20250926T000000Z
+UID:csgo_mc_2386170@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386170\n赛事: Liga 玩家俱乐部 2025 
+ 系列赛A 九月杯\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
+ 估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385981
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 北美: Ghost vs The Little Bocks
-DTSTART:20250925T233000Z
-DTEND:20250926T020000Z
-UID:csgo_mc_2385982@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385982\n赛事: ESL Impact 联赛 第8赛
- 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385982
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386170
 END:VEVENT
 END:VCALENDAR

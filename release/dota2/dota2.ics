@@ -3,39 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:BLAST S4东南亚预选赛: Ivory vs Kopite
-DTSTART:20250925T040000Z
-DTEND:20250925T070000Z
-UID:dt_mc_20250924112353svi5r@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250924112353svi5r\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 公开预选赛#2 1/4决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250924112353svi5r
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST S4东南亚预选赛: BuyBack Bros vs CARST
-DTSTART:20250925T040000Z
-DTEND:20250925T070000Z
-UID:dt_mc_20250924112354wql1u@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250924112354wql1u\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 公开预选赛#2 1/4决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250924112354wql1u
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST S4东南亚预选赛: Veroja vs H1N1
-DTSTART:20250925T040000Z
-DTEND:20250925T070000Z
-UID:dt_mc_202509241126542o5a2@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509241126542o5a2\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 公开预选赛#2 1/4决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509241126542o5a2
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLAST S4东南亚预选赛: TBD vs TBD
 DTSTART:20250925T063000Z
 DTEND:20250925T093000Z
@@ -102,7 +69,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250922010553l6264
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TBD vs HunterZ
+SUMMARY:FISSURE 裂变天地 2 美洲预选赛: OG.LATAM vs HunterZ
 DTSTART:20250925T140000Z
 DTEND:20250925T170000Z
 UID:dt_mc_20250922010554eydo3@5eplay.com
@@ -190,7 +157,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250920223608jqooo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TaiLung Mafia vs TBD
+SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TaiLung Mafia vs PP
 DTSTART:20250925T210000Z
 DTEND:20250926T000000Z
 UID:dt_mc_20250922010557vvx63@5eplay.com
@@ -430,5 +397,16 @@ DESCRIPTION:比赛ID: dt_mc_2025092201085832mqz\n赛制: BO3\n阶段: 中
  : 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025092201085832mqz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2 西欧预选赛: TBD vs TBD
+DTSTART:20250927T150000Z
+DTEND:20250927T180000Z
+UID:dt_mc_20250922010859w907p@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250922010859w907p\n赛制: BO3\n阶段: 西
+ 欧区\n赛事等级: C级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250922010859w907p
 END:VEVENT
 END:VCALENDAR
