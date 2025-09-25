@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:BLAST S4东南亚预选赛: TBD vs TBD
+SUMMARY:BLAST S4东南亚预选赛: Kopite vs TBD
 DTSTART:20250925T063000Z
 DTEND:20250925T093000Z
 UID:dt_mc_20250924112652l3gx5@5eplay.com
@@ -12,17 +12,6 @@ DESCRIPTION:比赛ID: dt_mc_20250924112652l3gx5\n赛制: BO3\n轮次: 半
  未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250924112652l3gx5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST S4东南亚预选赛: InterActive vs TBD
-DTSTART:20250925T063000Z
-DTEND:20250925T093000Z
-UID:dt_mc_2025092411265400pdu@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_2025092411265400pdu\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 公开预选赛#2 半决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_2025092411265400pdu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2 东欧预选赛: Yes vs eSpoiled
@@ -408,5 +397,27 @@ DESCRIPTION:比赛ID: dt_mc_20250922010859w907p\n赛制: BO3\n阶段: 西
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250922010859w907p
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: Travoman vs Cooman
+DTSTART:20250927T150000Z
+DTEND:20250927T180000Z
+UID:dt_mc_20250907233300i78hd@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233300i78hd\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233300i78hd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: Team Morphilina vs Travoman
+DTSTART:20250927T180000Z
+DTEND:20250927T210000Z
+UID:dt_mc_20250907233300frebg@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233300frebg\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233300frebg
 END:VEVENT
 END:VCALENDAR
