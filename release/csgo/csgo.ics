@@ -42,8 +42,9 @@ DTSTART:20250925T080000Z
 DTEND:20250925T103000Z
 UID:csgo_mc_2386137@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386137\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 封闭预选赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
- 估时长: 2.5小时\n数据来源: 5EPlay
+ 赛 8 封闭预选赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\
+ n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386137
 END:VEVENT
@@ -120,8 +121,9 @@ DTSTART:20250925T110000Z
 DTEND:20250925T133000Z
 UID:csgo_mc_2386138@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386138\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 封闭预选赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
- 估时长: 2.5小时\n数据来源: 5EPlay
+ 赛 8 封闭预选赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\
+ n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386138
 END:VEVENT
@@ -219,8 +221,9 @@ DTSTART:20250925T140000Z
 DTEND:20250925T163000Z
 UID:csgo_mc_2386139@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386139\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 封闭预选赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
- 估时长: 2.5小时\n数据来源: 5EPlay
+ 赛 8 封闭预选赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\
+ n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386139
 END:VEVENT
@@ -330,13 +333,14 @@ DTSTART:20250925T170000Z
 DTEND:20250925T193000Z
 UID:csgo_mc_2386140@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386140\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 封闭预选赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
- 估时长: 2.5小时\n数据来源: 5EPlay
+ 赛 8 封闭预选赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\
+ n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386140
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Aorus联赛 2025: Dusty Roots vs TBD
+SUMMARY: Aorus联赛 2025: Dusty Roots vs 9z
 DTSTART:20250925T170000Z
 DTEND:20250925T193000Z
 UID:csgo_mc_2385610@5eplay.com
@@ -412,5 +416,38 @@ DESCRIPTION:比赛ID: csgo_mc_2385978\n赛事: ESL Impact 联赛 第8赛
  预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385978
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Aorus联赛 2025: Procyon vs TBD
+DTSTART:20250925T210000Z
+DTEND:20250925T233000Z
+UID:csgo_mc_2385611@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385611\n赛事:  Aorus联赛 2025\n阶段: 
+ 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\n等级: 其他\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385611
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 北美: black mold vs Nocturnal
+DTSTART:20250925T233000Z
+DTEND:20250926T020000Z
+UID:csgo_mc_2385981@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385981\n赛事: ESL Impact 联赛 第8赛
+ 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385981
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 北美: Ghost vs The Little Bocks
+DTSTART:20250925T233000Z
+DTEND:20250926T020000Z
+UID:csgo_mc_2385982@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385982\n赛事: ESL Impact 联赛 第8赛
+ 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385982
 END:VEVENT
 END:VCALENDAR
