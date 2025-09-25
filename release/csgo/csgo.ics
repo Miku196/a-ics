@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Let Her Cook vs AKA HERO KAJO
-DTSTART:20250925T183000Z
-DTEND:20250925T210000Z
-UID:csgo_mc_2385973@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385973\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385973
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Imperial fe vs Peekaboo
-DTSTART:20250925T183000Z
-DTEND:20250925T210000Z
-UID:csgo_mc_2385974@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385974\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385974
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL Impact 联赛 第8赛季 南美: CAPIVARAS vs Four Magic
 DTSTART:20250925T210000Z
 DTEND:20250925T233000Z
@@ -315,7 +293,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386126
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3: Nemiga vs TBD
+SUMMARY:Majestic LanDaLan 3: Nemiga vs Nuclear TigeRES
 DTSTART:20250926T110000Z
 DTEND:20250926T133000Z
 UID:csgo_mc_2385788@5eplay.com
@@ -359,5 +337,82 @@ DESCRIPTION:比赛ID: csgo_mc_2385986\n赛事: CCT 第3赛季 欧洲系列
  : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385986
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:白桦杯 2025: TBD vs TBD
+DTSTART:20250926T113000Z
+DTEND:20250926T140000Z
+UID:csgo_mc_2386049@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386049\n赛事: 白桦杯 2025\n阶段: 小
+ 组赛 败者组 第1轮\n轮次: 第1轮\n赛制: BO3\n等级: C级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386049
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:白桦杯 2025: TBD vs TBD
+DTSTART:20250926T113000Z
+DTEND:20250926T140000Z
+UID:csgo_mc_2386050@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386050\n赛事: 白桦杯 2025\n阶段: 小
+ 组赛 败者组 第1轮\n轮次: 第1轮\n赛制: BO3\n等级: C级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386050
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:白桦杯 2025: TBD vs TBD
+DTSTART:20250926T113000Z
+DTEND:20250926T140000Z
+UID:csgo_mc_2386051@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386051\n赛事: 白桦杯 2025\n阶段: 小
+ 组赛 败者组 第1轮\n轮次: 第1轮\n赛制: BO3\n等级: C级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386051
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:白桦杯 2025: TBD vs TBD
+DTSTART:20250926T113000Z
+DTEND:20250926T140000Z
+UID:csgo_mc_2386052@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386052\n赛事: 白桦杯 2025\n阶段: 小
+ 组赛 败者组 第1轮\n轮次: 第1轮\n赛制: BO3\n等级: C级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第二季: FlyQuest vs TBD
+DTSTART:20250926T120000Z
+DTEND:20250926T143000Z
+UID:csgo_mc_2386023@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386023\n赛事: DraculaN 第二季\n阶段:
+  淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制: BO3\n等级: 其他
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第二季: BIG.A vs TBD
+DTSTART:20250926T120000Z
+DTEND:20250926T143000Z
+UID:csgo_mc_2386025@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386025\n赛事: DraculaN 第二季\n阶段:
+  淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制: BO3\n等级: 其他
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第二季: Genone vs TBD
+DTSTART:20250926T120000Z
+DTEND:20250926T143000Z
+UID:csgo_mc_2386024@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386024\n赛事: DraculaN 第二季\n阶段:
+  淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制: BO3\n等级: 其他
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386024
 END:VEVENT
 END:VCALENDAR
