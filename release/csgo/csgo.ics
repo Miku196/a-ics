@@ -3,97 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:DraculaN 第二季: Metizport vs FlyQuest
-DTSTART:20250925T164500Z
-DTEND:20250925T191500Z
-UID:csgo_mc_2386015@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386015\n赛事: DraculaN 第二季\n阶段:
-  淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386015
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第二季: m1x vs AM
-DTSTART:20250925T165500Z
-DTEND:20250925T192500Z
-UID:csgo_mc_2386018@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386018\n赛事: DraculaN 第二季\n阶段:
-  淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386018
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3: PARIVISION vs Nuclear TigeRES
-DTSTART:20250925T170000Z
-DTEND:20250925T193000Z
-UID:csgo_mc_2385787@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385787\n赛事: Majestic LanDaLan 3\n阶段
- : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385787
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段: Nexus vs Anonymo
-DTSTART:20250925T170000Z
-DTEND:20250925T193000Z
-UID:csgo_mc_2385840@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385840\n赛事: 银河之战 2025 第4阶
- 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385840
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 封闭预选赛: Fire Flux vs EF
-DTSTART:20250925T170000Z
-DTEND:20250925T193000Z
-UID:csgo_mc_2386140@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386140\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 封闭预选赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\
- n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Aorus联赛 2025: Dusty Roots vs 9z
-DTSTART:20250925T170000Z
-DTEND:20250925T193000Z
-UID:csgo_mc_2385610@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385610\n赛事:  Aorus联赛 2025\n阶段: 
- 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385610
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:斯洛伐克国际冠军赛 2025: ECLOT vs Brute
-DTSTART:20250925T180000Z
-DTEND:20250925T203000Z
-UID:csgo_mc_2386116@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386116\n赛事: 斯洛伐克国际冠军赛
-  2025\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386116
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Liga 玩家俱乐部 2025 系列赛A 九月杯: LP vs Players
-DTSTART:20250925T180000Z
-DTEND:20250925T203000Z
-UID:csgo_mc_2386169@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386169\n赛事: Liga 玩家俱乐部 2025 
- 系列赛A 九月杯\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386169
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Let Her Cook vs AKA HERO KAJO
 DTSTART:20250925T183000Z
 DTEND:20250925T210000Z
@@ -382,5 +291,73 @@ DESCRIPTION:比赛ID: csgo_mc_2386048\n赛事: 白桦杯 2025\n阶段: 小
  状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386048
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:白桦杯 2025: TBD vs TBD
+DTSTART:20250926T100000Z
+DTEND:20250926T110000Z
+UID:csgo_mc_2386047@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386047\n赛事: 白桦杯 2025\n阶段: 小
+ 组赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛制: BO1\n等级: C级\n
+ 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386047
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第38赛季: Mousquetaires vs Prestige
+DTSTART:20250926T103000Z
+DTEND:20250926T130000Z
+UID:csgo_mc_2386126@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386126\n赛事: United21 联赛 第38赛季
+ \n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
+  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386126
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Majestic LanDaLan 3: Nemiga vs TBD
+DTSTART:20250926T110000Z
+DTEND:20250926T133000Z
+UID:csgo_mc_2385788@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385788\n赛事: Majestic LanDaLan 3\n阶段
+ : 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385788
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第8赛季: Alliance vs EF
+DTSTART:20250926T110000Z
+DTEND:20250926T133000Z
+UID:csgo_mc_2385887@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385887\n赛事: Winline Insight 第8赛季\
+ n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385887
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 封闭预选赛: FORZE Reload vs 
+ ex-8Sins
+DTSTART:20250926T110000Z
+DTEND:20250926T133000Z
+UID:csgo_mc_2385894@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385894\n赛事: CCT 第3赛季 欧洲系列
+ 赛 8 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\
+ n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385894
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 7: ARCRED vs 1win
+DTSTART:20250926T113000Z
+DTEND:20250926T140000Z
+UID:csgo_mc_2385986@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385986\n赛事: CCT 第3赛季 欧洲系列
+ 赛 7\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385986
 END:VEVENT
 END:VCALENDAR
