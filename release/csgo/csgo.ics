@@ -3,52 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛2: Sashi vs HOTU
-DTSTART:20250925T080000Z
-DTEND:20250925T120000Z
-UID:csgo_mc_2385760@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385760\n赛事: 欧洲职业联赛 系列
- 赛2\n阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO5\n等级:
-  其他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385760
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3: TPuDCATb_TPu vs Spirit.A
-DTSTART:20250925T080000Z
-DTEND:20250925T103000Z
-UID:csgo_mc_2385781@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385781\n赛事: Majestic LanDaLan 3\n阶段
- : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385781
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United21 联赛 第38赛季: HAVU vs Northern Lights
-DTSTART:20250925T080000Z
-DTEND:20250925T103000Z
-UID:csgo_mc_2386123@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386123\n赛事: United21 联赛 第38赛季
- \n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
-  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386123
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 封闭预选赛: NIP Impact vs 1w
- in
-DTSTART:20250925T080000Z
-DTEND:20250925T103000Z
-UID:csgo_mc_2386137@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386137\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 封闭预选赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\
- n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386137
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DraculaN 第二季: Passion UA vs MANA
 DTSTART:20250925T090000Z
 DTEND:20250925T113000Z
@@ -228,17 +182,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386139
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winline Insight 第8赛季: Sashi vs RUBY
-DTSTART:20250925T140000Z
-DTEND:20250925T163000Z
-UID:csgo_mc_2385886@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385886\n赛事: Winline Insight 第8赛季\
- n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385886
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 7: FT vs EF
 DTSTART:20250925T143000Z
 DTEND:20250925T170000Z
@@ -248,6 +191,17 @@ DESCRIPTION:比赛ID: csgo_mc_2385984\n赛事: CCT 第3赛季 欧洲系列
  : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385984
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第8赛季: Sashi vs RUBY
+DTSTART:20250925T143000Z
+DTEND:20250925T170000Z
+UID:csgo_mc_2385886@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385886\n赛事: Winline Insight 第8赛季\
+ n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385886
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DraculaN 第二季: TBD vs TBD
@@ -351,17 +305,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385610
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: SENZA vs SINNERS
-DTSTART:20250925T173000Z
-DTEND:20250925T200000Z
-UID:csgo_mc_2385985@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385985\n赛事: CCT 第3赛季 欧洲系列
- 赛 7\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385985
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:斯洛伐克国际冠军赛 2025: ECLOT vs Brute
 DTSTART:20250925T180000Z
 DTEND:20250925T203000Z
@@ -452,5 +395,16 @@ DESCRIPTION:比赛ID: csgo_mc_2386170\n赛事: Liga 玩家俱乐部 2025
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386170
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 北美: black mold vs Nocturnal
+DTSTART:20250925T233000Z
+DTEND:20250926T020000Z
+UID:csgo_mc_2385981@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385981\n赛事: ESL Impact 联赛 第8赛
+ 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385981
 END:VEVENT
 END:VCALENDAR
