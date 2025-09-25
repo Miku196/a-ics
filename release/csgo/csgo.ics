@@ -3,39 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 北美: FLYRED vs wwaves
-DTSTART:20250924T233000Z
-DTEND:20250925T020000Z
-UID:csgo_mc_2385980@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385980\n赛事: ESL Impact 联赛 第8赛
- 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385980
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 北美: Shimmer vs Lotus
-DTSTART:20250924T233000Z
-DTEND:20250925T020000Z
-UID:csgo_mc_2385979@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385979\n赛事: ESL Impact 联赛 第8赛
- 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385979
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Aorus联赛 2025: 9z vs BESTIA
-DTSTART:20250924T233000Z
-DTEND:20250925T020000Z
-UID:csgo_mc_2385609@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385609\n赛事:  Aorus联赛 2025\n阶段: 
- 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385609
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛2: Sashi vs HOTU
 DTSTART:20250925T080000Z
 DTEND:20250925T120000Z
@@ -369,7 +336,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386140
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Aorus联赛 2025: TBD vs TBD
+SUMMARY: Aorus联赛 2025: Dusty Roots vs TBD
 DTSTART:20250925T170000Z
 DTEND:20250925T193000Z
 UID:csgo_mc_2385610@5eplay.com
@@ -412,5 +379,38 @@ DESCRIPTION:比赛ID: csgo_mc_2385973\n赛事: ESL Impact 联赛 第8赛
  始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385973
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Imperial fe vs Peekaboo
+DTSTART:20250925T183000Z
+DTEND:20250925T210000Z
+UID:csgo_mc_2385974@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385974\n赛事: ESL Impact 联赛 第8赛
+ 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
+ 始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385974
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 南美: CAPIVARAS vs Four Magic
+DTSTART:20250925T210000Z
+DTEND:20250925T233000Z
+UID:csgo_mc_2385977@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385977\n赛事: ESL Impact 联赛 第8赛
+ 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385977
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 南美: MIBR.fe vs Curralzinho
+DTSTART:20250925T210000Z
+DTEND:20250925T233000Z
+UID:csgo_mc_2385978@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385978\n赛事: ESL Impact 联赛 第8赛
+ 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385978
 END:VEVENT
 END:VCALENDAR
