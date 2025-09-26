@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 南美预选赛: Chimpazini Bananini vs TBD
-DTSTART:20250926T210000Z
-DTEND:20250927T000000Z
-UID:dt_mc_202509202239026ntm4@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509202239026ntm4\n赛制: BO5\n轮次: 总
- 决赛\n阶段: 封闭预选赛  总决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509202239026ntm4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 美洲预选赛: TaiLung Mafia vs TBD
-DTSTART:20250926T210000Z
-DTEND:20250927T000000Z
-UID:dt_mc_202509220108542afoq@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509220108542afoq\n赛制: BO5\n轮次: 总
- 决赛\n阶段: 封闭预选赛  总决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509220108542afoq
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2 中国/东南亚预选赛: Nemesis vs Aureu
  s
 DTSTART:20250927T020000Z
@@ -377,5 +355,49 @@ DESCRIPTION:比赛ID: dt_mc_2025092201115364xeg\n赛制: BO3\n阶段: 西
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025092201115364xeg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: Rostik vs Goodwin
+DTSTART:20250930T150000Z
+DTEND:20250930T180000Z
+UID:dt_mc_20250907233306u1et8@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233306u1et8\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233306u1et8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: Voodoosh vs YBN
+DTSTART:20250930T180000Z
+DTEND:20250930T210000Z
+UID:dt_mc_20250907233307sv69c@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233307sv69c\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233307sv69c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+DTSTART:20250930T183000Z
+DTEND:20250930T213000Z
+UID:dt_mc_202509220111549yppr@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509220111549yppr\n赛制: BO3\n阶段: 西
+ 欧区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509220111549yppr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: Lava vs TC
+DTSTART:20250930T210000Z
+DTEND:20251001T000000Z
+UID:dt_mc_20250902000316zx3u1@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000316zx3u1\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000316zx3u1
 END:VEVENT
 END:VCALENDAR

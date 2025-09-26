@@ -51,7 +51,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386146
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:白桦杯 2025: FNC vs TBD
+SUMMARY:白桦杯 2025: FNC vs Phantom
 DTSTART:20250927T070000Z
 DTEND:20250927T080000Z
 UID:csgo_mc_2386057@5eplay.com
@@ -62,7 +62,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386057
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:白桦杯 2025: ENCE vs TBD
+SUMMARY:白桦杯 2025: ENCE vs Johnny Speeds
 DTSTART:20250927T070000Z
 DTEND:20250927T080000Z
 UID:csgo_mc_2386059@5eplay.com
@@ -73,7 +73,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386059
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:白桦杯 2025: Monte vs TBD
+SUMMARY:白桦杯 2025: Monte vs BIG
 DTSTART:20250927T070000Z
 DTEND:20250927T080000Z
 UID:csgo_mc_2386058@5eplay.com
@@ -84,7 +84,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386058
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:白桦杯 2025: FUT vs TBD
+SUMMARY:白桦杯 2025: FUT vs ESC
 DTSTART:20250927T070000Z
 DTEND:20250927T080000Z
 UID:csgo_mc_2386060@5eplay.com
@@ -131,7 +131,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386174
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:白桦杯 2025: Gentle Mates vs TBD
+SUMMARY:白桦杯 2025: Gentle Mates vs ex-Inner Circle
 DTSTART:20250927T083000Z
 DTEND:20250927T093000Z
 UID:csgo_mc_2386063@5eplay.com
@@ -142,7 +142,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386063
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:白桦杯 2025: 9INE vs TBD
+SUMMARY:白桦杯 2025: 9INE vs Betclic
 DTSTART:20250927T083000Z
 DTEND:20250927T093000Z
 UID:csgo_mc_2386062@5eplay.com
@@ -153,7 +153,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386062
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:白桦杯 2025: Liquid vs TBD
+SUMMARY:白桦杯 2025: Liquid vs 500
 DTSTART:20250927T083000Z
 DTEND:20250927T093000Z
 UID:csgo_mc_2386061@5eplay.com
@@ -164,7 +164,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386061
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:白桦杯 2025: Venom vs TBD
+SUMMARY:白桦杯 2025: Venom vs Partizan
 DTSTART:20250927T083000Z
 DTEND:20250927T093000Z
 UID:csgo_mc_2386064@5eplay.com
@@ -243,7 +243,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386173
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 7: RUBY vs Khan
 DTSTART:20250927T113000Z
 DTEND:20250927T140000Z
 UID:csgo_mc_2385989@5eplay.com
@@ -309,7 +309,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386032
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第二季: Passion UA vs TBD
+SUMMARY:DraculaN 第二季: Passion UA vs Genone
 DTSTART:20250927T120000Z
 DTEND:20250927T143000Z
 UID:csgo_mc_2386031@5eplay.com
@@ -354,7 +354,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386086
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3: TBD vs TBD
+SUMMARY:Majestic LanDaLan 3: PARIVISION vs TBD
 DTSTART:20250927T140000Z
 DTEND:20250927T163000Z
 UID:csgo_mc_2385791@5eplay.com
@@ -389,7 +389,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386184
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: TBD vs TBD
+SUMMARY:CCT 第3赛季 竞争者欧洲系列赛 1 : Y5 vs Fire Flux
+DTSTART:20250927T143000Z
+DTEND:20250927T170000Z
+UID:csgo_mc_2386230@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386230\n赛事: CCT 第3赛季 竞争者欧
+ 洲系列赛 1 \n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时
+ 长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386230
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 7: SINNERS vs Reason
 DTSTART:20250927T143000Z
 DTEND:20250927T170000Z
 UID:csgo_mc_2385990@5eplay.com
@@ -398,5 +409,38 @@ DESCRIPTION:比赛ID: csgo_mc_2385990\n赛事: CCT 第3赛季 欧洲系列
  : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385990
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:白桦杯 2025: TBD vs TBD
+DTSTART:20250927T150000Z
+DTEND:20250927T173000Z
+UID:csgo_mc_2386074@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386074\n赛事: 白桦杯 2025\n阶段: 小
+ 组赛 败者组 第2轮\n轮次: 第2轮\n赛制: BO3\n等级: C级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386074
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:白桦杯 2025: TBD vs TBD
+DTSTART:20250927T150000Z
+DTEND:20250927T173000Z
+UID:csgo_mc_2386076@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386076\n赛事: 白桦杯 2025\n阶段: 小
+ 组赛 败者组 第2轮\n轮次: 第2轮\n赛制: BO3\n等级: C级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386076
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:白桦杯 2025: TBD vs TBD
+DTSTART:20250927T150000Z
+DTEND:20250927T173000Z
+UID:csgo_mc_2386073@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386073\n赛事: 白桦杯 2025\n阶段: 小
+ 组赛 败者组 第2轮\n轮次: 第2轮\n赛制: BO3\n等级: C级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386073
 END:VEVENT
 END:VCALENDAR
