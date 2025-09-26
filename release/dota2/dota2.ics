@@ -3,53 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:BLAST S4中国预选赛: RG vs Cloud Rising
-DTSTART:20250926T050000Z
-DTEND:20250926T080000Z
-UID:dt_mc_20250923205909m38qe@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250923205909m38qe\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 封闭预选赛 胜者组 1/4决赛\n赛事等级: C级\n
- 状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250923205909m38qe
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 中国预选赛: YB vs TT
-DTSTART:20250926T050000Z
-DTEND:20250926T080000Z
-UID:dt_mc_20250920230604ldz21@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250920230604ldz21\n赛制: BO3\n轮次: 决
- 赛\n阶段: 封闭预选赛 败者组 决赛\n赛事等级: C级\n状态:
-  未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250920230604ldz21
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST S4中国预选赛: Dong vs TL
-DTSTART:20250926T050000Z
-DTEND:20250926T080000Z
-UID:dt_mc_202509232059102n7e3@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509232059102n7e3\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 封闭预选赛 胜者组 1/4决赛\n赛事等级: C级\n
- 状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509232059102n7e3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST S4东南亚预选赛: MongolZ vs REKONIX
-DTSTART:20250926T060000Z
-DTEND:20250926T090000Z
-UID:dt_mc_20250918085952agbnc@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250918085952agbnc\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 封闭预选赛 胜者组 1/4决赛\n赛事等级: C级\n
- 状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250918085952agbnc
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLAST S4东南亚预选赛: XctN vs Aureus
-DTSTART:20250926T060000Z
-DTEND:20250926T090000Z
+DTSTART:20250926T070000Z
+DTEND:20250926T100000Z
 UID:dt_mc_20250918085953ch34x@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250918085953ch34x\n赛制: BO3\n轮次: 1/4
  决赛\n阶段: 封闭预选赛 胜者组 1/4决赛\n赛事等级: C级\n
@@ -212,7 +168,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250920223856soutz
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 南美预选赛: TBD vs OG.LATAM
+SUMMARY:梦幻联赛S27 南美预选赛: HunterZ vs OG.LATAM
 DTSTART:20250926T170000Z
 DTEND:20250926T200000Z
 UID:dt_mc_2025092022385767mg6@5eplay.com
@@ -232,6 +188,17 @@ DESCRIPTION:比赛ID: dt_mc_20250922010601g0rht\n赛制: BO3\n轮次: 决
   未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250922010601g0rht
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: Passion vs TNL
+DTSTART:20250926T180000Z
+DTEND:20250926T210000Z
+UID:dt_mc_20250926130252zbkq5@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250926130252zbkq5\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 胜者组 1/4决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250926130252zbkq5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BB主播大战 第十一季: Rostik vs YBN
@@ -256,7 +223,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025092022385825ddr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:梦幻联赛S27 南美预选赛: TBD vs TBD
+SUMMARY:梦幻联赛S27 南美预选赛: Chimpazini Bananini vs TBD
 DTSTART:20250926T210000Z
 DTEND:20250927T000000Z
 UID:dt_mc_202509202239026ntm4@5eplay.com
@@ -397,5 +364,16 @@ DESCRIPTION:比赛ID: dt_mc_202509220109035upf0\n赛制: BO3\n阶段: 中
  : 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509220109035upf0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+DTSTART:20250929T053000Z
+DTEND:20250929T083000Z
+UID:dt_mc_202509220109052q5t0@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509220109052q5t0\n赛制: BO3\n阶段: 中
+ 国区和东南亚区\n赛事等级: A级\n状态: 未开始\n预计时长
+ : 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509220109052q5t0
 END:VEVENT
 END:VCALENDAR
