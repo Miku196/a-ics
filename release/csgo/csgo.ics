@@ -415,4 +415,37 @@ DESCRIPTION:比赛ID: csgo_mc_2386027\n赛事: DraculaN 第二季\n阶段:
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386027
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第二季: TBD vs TBD
+DTSTART:20250926T150000Z
+DTEND:20250926T173000Z
+UID:csgo_mc_2386028@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386028\n赛事: DraculaN 第二季\n阶段:
+  淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386028
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第二季: TBD vs TBD
+DTSTART:20250926T150000Z
+DTEND:20250926T173000Z
+UID:csgo_mc_2386029@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386029\n赛事: DraculaN 第二季\n阶段:
+  淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制: BO3\n等级: 其他
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386029
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第二季: TBD vs TBD
+DTSTART:20250926T150000Z
+DTEND:20250926T173000Z
+UID:csgo_mc_2386030@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386030\n赛事: DraculaN 第二季\n阶段:
+  淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制: BO3\n等级: 其他
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386030
+END:VEVENT
 END:VCALENDAR
