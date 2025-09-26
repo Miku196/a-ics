@@ -3,37 +3,15 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:BLAST S4欧洲预选赛: OG vs Kalmychata
-DTSTART:20250926T120000Z
-DTEND:20250926T150000Z
-UID:dt_mc_20250918084453kfhht@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250918084453kfhht\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 封闭预选赛 胜者组 1/4决赛\n赛事等级: C级\n
- 状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250918084453kfhht
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLAST S4欧洲预选赛: Avulus vs Yes
-DTSTART:20250926T120000Z
-DTEND:20250926T150000Z
+DTSTART:20250926T123000Z
+DTEND:20250926T153000Z
 UID:dt_mc_202509180844547glzw@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_202509180844547glzw\n赛制: BO3\n轮次: 1/4
  决赛\n阶段: 封闭预选赛 胜者组 1/4决赛\n赛事等级: C级\n
  状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509180844547glzw
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: By_owl vs Travoman
-DTSTART:20250926T120000Z
-DTEND:20250926T150000Z
-UID:dt_mc_20250907233255ofunv@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250907233255ofunv\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250907233255ofunv
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:梦幻联赛S27 东欧预选赛: Runa vs TBD
@@ -267,7 +245,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250922010900lwe1o
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 东欧预选赛: Runa vs TBD
+SUMMARY:FISSURE 裂变天地 2 东欧预选赛: Runa vs L1ga
 DTSTART:20250928T090000Z
 DTEND:20250928T120000Z
 UID:dt_mc_20250922010600oy9zt@5eplay.com
@@ -331,5 +309,49 @@ DESCRIPTION:比赛ID: dt_mc_20250907233302zibc2\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250907233302zibc2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+DTSTART:20250929T123000Z
+DTEND:20250929T153000Z
+UID:dt_mc_20250922010910c7gai@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250922010910c7gai\n赛制: BO3\n阶段: 中
+ 国区和东南亚区\n赛事等级: A级\n状态: 未开始\n预计时长
+ : 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250922010910c7gai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+DTSTART:20250929T150000Z
+DTEND:20250929T180000Z
+UID:dt_mc_20250922010912zf28z@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250922010912zf28z\n赛制: BO3\n阶段: 西
+ 欧区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250922010912zf28z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: Travoman vs Cooman
+DTSTART:20250929T150000Z
+DTEND:20250929T180000Z
+UID:dt_mc_20250907233303ewi1w@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233303ewi1w\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233303ewi1w
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: Team Morphilina vs Travoman
+DTSTART:20250929T180000Z
+DTEND:20250929T210000Z
+UID:dt_mc_20250907233304cg1ql@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233304cg1ql\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233304cg1ql
 END:VEVENT
 END:VCALENDAR
