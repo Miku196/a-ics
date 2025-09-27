@@ -3,50 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:BLAST S4东南亚预选赛: Nemesis vs Aureus
-DTSTART:20250927T070000Z
-DTEND:20250927T100000Z
-UID:dt_mc_202509180902575du8e@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509180902575du8e\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 封闭预选赛 败者组 1/4决赛\n赛事等级: C级\n
- 状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509180902575du8e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST S4中国预选赛: YB vs TT
-DTSTART:20250927T080000Z
-DTEND:20250927T110000Z
-UID:dt_mc_20250923205911rr37d@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250923205911rr37d\n赛制: BO3\n轮次: 决
- 赛\n阶段: 封闭预选赛 胜者组 决赛\n赛事等级: C级\n状态:
-  未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250923205911rr37d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL瓦拉几亚 S6 中国预选赛: TBD vs TBD
-DTSTART:20250927T080000Z
-DTEND:20250927T100000Z
-UID:dt_mc_20250926233256lxrpe@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250926233256lxrpe\n赛制: BO1\n轮次: 种
- 子赛\n阶段: 公开预选赛#1 种子赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250926233256lxrpe
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 西欧预选赛: MOUZ vs sifr00
-DTSTART:20250927T080000Z
-DTEND:20250927T110000Z
-UID:dt_mc_20250922010857wp5qp@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250922010857wp5qp\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 封闭预选赛 胜者组 1/4决赛\n赛事等级: C级\n
- 状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250922010857wp5qp
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 第三十赛季: Team lynx vs pipsqueak+4
 DTSTART:20250927T090000Z
 DTEND:20250927T120000Z
@@ -103,7 +59,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250907233258zunuf
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST S4中国预选赛: TBD vs TBD
+SUMMARY:BLAST S4中国预选赛: Hong shi zhang zui vs RG
 DTSTART:20250927T110000Z
 DTEND:20250927T140000Z
 UID:dt_mc_20250923205912fnqcr@5eplay.com
@@ -398,5 +354,27 @@ DESCRIPTION:比赛ID: dt_mc_20250922010912zf28z\n赛制: BO3\n阶段: 西
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250922010912zf28z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: Travoman vs Cooman
+DTSTART:20250929T150000Z
+DTEND:20250929T180000Z
+UID:dt_mc_20250907233303ewi1w@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233303ewi1w\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233303ewi1w
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: Team Morphilina vs Travoman
+DTSTART:20250929T180000Z
+DTEND:20250929T210000Z
+UID:dt_mc_20250907233304cg1ql@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233304cg1ql\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233304cg1ql
 END:VEVENT
 END:VCALENDAR
