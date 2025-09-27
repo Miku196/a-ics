@@ -3,154 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Yandex Go KOKONISTER Season 3: Novaq vs AI
-DTSTART:20250927T161500Z
-DTEND:20250927T184500Z
-UID:csgo_mc_2386244@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386244\n赛事: Yandex Go KOKONISTER Season
-  3\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386244
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FERJEE Rush 2025: MIBR vs Crashers
-DTSTART:20250927T161500Z
-DTEND:20250927T184500Z
-UID:csgo_mc_2386085@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386085\n赛事: FERJEE Rush 2025\n阶段: 
- 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: C级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386085
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FERJEE Rush 2025: RED Canids vs 2GAME
-DTSTART:20250927T161500Z
-DTEND:20250927T184500Z
-UID:csgo_mc_2386086@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386086\n赛事: FERJEE Rush 2025\n阶段: 
- 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: C级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386086
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:白桦杯 2025: Monte vs Venom
-DTSTART:20250927T163000Z
-DTEND:20250927T190000Z
-UID:csgo_mc_2386076@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386076\n赛事: 白桦杯 2025\n阶段: 小
- 组赛 败者组 第2轮\n轮次: 第2轮\n赛制: BO3\n等级: C级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386076
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:白桦杯 2025: ex-Inner Circle vs BIG
-DTSTART:20250927T163000Z
-DTEND:20250927T190000Z
-UID:csgo_mc_2386073@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386073\n赛事: 白桦杯 2025\n阶段: 小
- 组赛 败者组 第2轮\n轮次: 第2轮\n赛制: BO3\n等级: C级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386073
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:白桦杯 2025: ESC vs 500
-DTSTART:20250927T163000Z
-DTEND:20250927T190000Z
-UID:csgo_mc_2386075@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386075\n赛事: 白桦杯 2025\n阶段: 小
- 组赛 败者组 第2轮\n轮次: 第2轮\n赛制: BO3\n等级: C级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386075
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第二季: ZT vs Passion UA
-DTSTART:20250927T163500Z
-DTEND:20250927T190500Z
-UID:csgo_mc_2386034@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386034\n赛事: DraculaN 第二季\n阶段:
-  淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386034
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第二季: BASEMENT BOYS vs OG
-DTSTART:20250927T163500Z
-DTEND:20250927T190500Z
-UID:csgo_mc_2386033@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386033\n赛事: DraculaN 第二季\n阶段:
-  淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386033
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Majestic LanDaLan 3: BB vs 9BOOMPRO
-DTSTART:20250927T170000Z
-DTEND:20250927T193000Z
-UID:csgo_mc_2385792@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385792\n赛事: Majestic LanDaLan 3\n阶段
- : 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385792
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 封闭预选赛: Algo vs THE
-DTSTART:20250927T170000Z
-DTEND:20250927T193000Z
-UID:csgo_mc_2386175@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386175\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 封闭预选赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\
- n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386175
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段: Alliance vs EF
-DTSTART:20250927T170000Z
-DTEND:20250927T193000Z
-UID:csgo_mc_2386185@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386185\n赛事: 银河之战 2025 第4阶
- 段\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386185
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 竞争者欧洲系列赛 1 : QMISTRY vs Khan
-DTSTART:20250927T173000Z
-DTEND:20250927T200000Z
-UID:csgo_mc_2386231@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386231\n赛事: CCT 第3赛季 竞争者欧
- 洲系列赛 1 \n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386231
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: FT vs ARCRED
-DTSTART:20250927T173000Z
-DTEND:20250927T200000Z
-UID:csgo_mc_2385991@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385991\n赛事: CCT 第3赛季 欧洲系列
- 赛 7\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385991
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FERJEE Rush 2025: Imperial vs Dashskins
-DTSTART:20250927T180000Z
-DTEND:20250927T203000Z
+DTSTART:20250927T203000Z
+DTEND:20250927T230000Z
 UID:csgo_mc_2386087@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386087\n赛事: FERJEE Rush 2025\n阶段: 
  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: C级\n状
@@ -160,8 +15,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2386087
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FERJEE Rush 2025: Keyd vs Dusty Roots
-DTSTART:20250927T180000Z
-DTEND:20250927T203000Z
+DTSTART:20250927T203000Z
+DTEND:20250927T230000Z
 UID:csgo_mc_2386088@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386088\n赛事: FERJEE Rush 2025\n阶段: 
  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: C级\n状
@@ -171,26 +26,14 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2386088
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FERJEE Rush 2025: TBD vs TBD
-DTSTART:20250927T180000Z
-DTEND:20250927T203000Z
+DTSTART:20250927T203000Z
+DTEND:20250927T230000Z
 UID:csgo_mc_2386093@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386093\n赛事: FERJEE Rush 2025\n阶段: 
  小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: C级\n状
  态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386093
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:斯洛伐克国际冠军赛 2025: Dark Tigers vs Brute
-DTSTART:20250927T180000Z
-DTEND:20250927T203000Z
-UID:csgo_mc_2386120@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386120\n赛事: 斯洛伐克国际冠军赛
-  2025\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386120
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FERJEE Rush 2025: 9z vs Yawara
@@ -396,5 +239,62 @@ DESCRIPTION:比赛ID: csgo_mc_2386129\n赛事: United21 联赛 第38赛季
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRAG 公开 系列赛 第1季: TBD vs TBD
+DTSTART:20250928T080000Z
+DTEND:20250928T103000Z
+UID:csgo_mc_2386150@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386150\n赛事: DFRAG 公开 系列赛 第1
+ 季\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386150
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 封闭预选赛: 1win vs UNiTY
+DTSTART:20250928T080000Z
+DTEND:20250928T103000Z
+UID:csgo_mc_2386176@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386176\n赛事: CCT 第3赛季 欧洲系列
+ 赛 8 封闭预选赛\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\
+ n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386176
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 7: TBD vs TBD
+DTSTART:20250928T083000Z
+DTEND:20250928T110000Z
+UID:csgo_mc_2385992@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385992\n赛事: CCT 第3赛季 欧洲系列
+ 赛 7\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385992
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22第一阶段: G2 vs Rooster
+DTSTART:20250928T083000Z
+DTEND:20250928T110000Z
+UID:csgo_mc_2385898@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385898\n赛事: EPL S22第一阶段\n阶段
+ : 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: A级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385898
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22第一阶段: Astralis vs Fluxo
+DTSTART:20250928T083000Z
+DTEND:20250928T110000Z
+UID:csgo_mc_2385899@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385899\n赛事: EPL S22第一阶段\n阶段
+ : 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: A级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385899
 END:VEVENT
 END:VCALENDAR
