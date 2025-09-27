@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第1季: TBD vs TBD
-DTSTART:20250927T050000Z
-DTEND:20250927T073000Z
-UID:csgo_mc_2386145@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386145\n赛事: DFRAG 公开 系列赛 第1
- 季\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386145
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第1季: TBD vs TBD
-DTSTART:20250927T050000Z
-DTEND:20250927T073000Z
-UID:csgo_mc_2386146@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386146\n赛事: DFRAG 公开 系列赛 第1
- 季\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386146
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:白桦杯 2025: FNC vs Phantom
 DTSTART:20250927T070000Z
 DTEND:20250927T080000Z
@@ -430,5 +406,28 @@ DESCRIPTION:比赛ID: csgo_mc_2386075\n赛事: 白桦杯 2025\n阶段: 小
  态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386075
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:斯洛伐克国际冠军赛 2025: Zennox vs 1DH
+DTSTART:20250927T150000Z
+DTEND:20250927T173000Z
+UID:csgo_mc_2386119@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386119\n赛事: 斯洛伐克国际冠军赛
+  2025\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386119
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FERJEE Rush 2025: Imperial vs Dashskins
+DTSTART:20250927T153000Z
+DTEND:20250927T180000Z
+UID:csgo_mc_2386087@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386087\n赛事: FERJEE Rush 2025\n阶段: 
+ 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: C级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386087
 END:VEVENT
 END:VCALENDAR
