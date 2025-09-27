@@ -400,4 +400,15 @@ DESCRIPTION:比赛ID: dt_mc_20250902000316zx3u1\n赛制: BO3\n阶段: 小
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000316zx3u1
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+DTSTART:20251001T050000Z
+DTEND:20251001T080000Z
+UID:dt_mc_202509220111558a1ce@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509220111558a1ce\n赛制: BO3\n阶段: 中
+ 国区和东南亚区\n赛事等级: A级\n状态: 未开始\n预计时长
+ : 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509220111558a1ce
+END:VEVENT
 END:VCALENDAR
