@@ -3,43 +3,10 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 第三十赛季: Team lynx vs pipsqueak+4
-DTSTART:20250927T090000Z
-DTEND:20250927T120000Z
-UID:dt_mc_20250927010253091pq@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250927010253091pq\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 淘汰赛 胜者组 1/4决赛\n赛事等级: 其他\n状
- 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250927010253091pq
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST S4东南亚预选赛: BOOM vs XctN
-DTSTART:20250927T090000Z
-DTEND:20250927T120000Z
-UID:dt_mc_20250918090259ukdjw@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250918090259ukdjw\n赛制: BO3\n轮次: 决
- 赛\n阶段: 封闭预选赛 胜者组 决赛\n赛事等级: C级\n状态:
-  未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250918090259ukdjw
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST S4欧洲预选赛: Aurora vs OG
-DTSTART:20250927T090000Z
-DTEND:20250927T120000Z
-UID:dt_mc_20250918090301wfger@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250918090301wfger\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 封闭预选赛 败者组 1/4决赛\n赛事等级: C级\n
- 状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250918090301wfger
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2 中国/东南亚预选赛: Hong shi zhang z
  ui vs REKONIX
-DTSTART:20250927T090000Z
-DTEND:20250927T120000Z
+DTSTART:20250927T103000Z
+DTEND:20250927T133000Z
 UID:dt_mc_20250922010857y5ofp@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250922010857y5ofp\n赛制: BO3\n轮次: 1/4
  决赛\n阶段: 封闭预选赛 胜者组 1/4决赛\n赛事等级: C级\n
@@ -92,7 +59,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250918090258839uy
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST S4东南亚预选赛: REKONIX vs TBD
+SUMMARY:BLAST S4东南亚预选赛: REKONIX vs Aureus
 DTSTART:20250927T120000Z
 DTEND:20250927T150000Z
 UID:dt_mc_202509180959522yd3a@5eplay.com
@@ -279,7 +246,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509220109035upf0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: BOOM vs TBD
 DTSTART:20250929T053000Z
 DTEND:20250929T083000Z
 UID:dt_mc_202509220109052q5t0@5eplay.com
@@ -323,7 +290,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250907233302zibc2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: Talon vs TBD
 DTSTART:20250929T123000Z
 DTEND:20250929T153000Z
 UID:dt_mc_20250922010910c7gai@5eplay.com
@@ -345,7 +312,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250926163253mmwd7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2: MOUZ vs TBD
 DTSTART:20250929T150000Z
 DTEND:20250929T180000Z
 UID:dt_mc_20250922010912zf28z@5eplay.com
@@ -376,5 +343,49 @@ DESCRIPTION:比赛ID: dt_mc_20250907233304cg1ql\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250907233304cg1ql
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISSURE 裂变天地 2: TBD vs TBD
+DTSTART:20250929T183000Z
+DTEND:20250929T213000Z
+UID:dt_mc_20250922010913s65fw@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250922010913s65fw\n赛制: BO3\n阶段: 西
+ 欧区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250922010913s65fw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL瓦拉几亚 S6 东欧预选赛: TBD vs TBD
+DTSTART:20250929T190000Z
+DTEND:20250929T220000Z
+UID:dt_mc_202509261602529cxuw@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509261602529cxuw\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 公开预选赛#2 1/4决赛\n赛事等级: C级\n状态: 
+ 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509261602529cxuw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: By_owl vs Team Morphilina
+DTSTART:20250929T190000Z
+DTEND:20250929T220000Z
+UID:dt_mc_20250907233252j1fr1@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233252j1fr1\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233252j1fr1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL瓦拉几亚 S6 西欧预选赛: TBD vs TBD
+DTSTART:20250929T210000Z
+DTEND:20250930T000000Z
+UID:dt_mc_20250926155954bosnk@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250926155954bosnk\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 公开预选赛#2  1/4决赛\n赛事等级: C级\n状态: 
+ 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250926155954bosnk
 END:VEVENT
 END:VCALENDAR
