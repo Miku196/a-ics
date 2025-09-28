@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:PGL瓦拉几亚 S6 东欧预选赛: eSpoiled vs BBtm
-DTSTART:20250928T140000Z
-DTEND:20250928T170000Z
-UID:dt_mc_20250927193256emtdi@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250927193256emtdi\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 公开预选赛#1 半决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250927193256emtdi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL瓦拉几亚 S6 东欧预选赛: Passion vs 4P
-DTSTART:20250928T140000Z
-DTEND:20250928T170000Z
-UID:dt_mc_20250927194003l2kp9@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250927194003l2kp9\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 公开预选赛#1 半决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250927194003l2kp9
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLAST S4欧洲预选赛: Yes vs Aurora
 DTSTART:20250928T150000Z
 DTEND:20250928T180000Z
@@ -47,7 +25,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509271932561s718
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL瓦拉几亚 S6 西欧预选赛: TBD vs OxinGame
+SUMMARY:PGL瓦拉几亚 S6 西欧预选赛: pipsqueak+4 vs OxinGame
 DTSTART:20250928T160000Z
 DTEND:20250928T190000Z
 UID:dt_mc_20250927193257q1efy@5eplay.com
@@ -78,17 +56,6 @@ DESCRIPTION:比赛ID: dt_mc_20250928095652co7ns\n赛制: BO3\n轮次: 半
  未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250928095652co7ns
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL 瓦拉几亚 S6: Flame vs Chicleteira Bicicleteira
-DTSTART:20250928T210000Z
-DTEND:20250929T000000Z
-UID:dt_mc_20250928100253l2jbl@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250928100253l2jbl\n赛制: BO3\n阶段: 未
- 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
- \n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250928100253l2jbl
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2 中国/东南亚预选赛: Aureus vs Hong s
@@ -421,5 +388,38 @@ DESCRIPTION:比赛ID: dt_mc_2025090723595465v8t\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025090723595465v8t
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: EB vs Tortu Ninjas
+DTSTART:20251001T210000Z
+DTEND:20251002T000000Z
+UID:dt_mc_20250902000552ihsbe@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000552ihsbe\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000552ihsbe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: Team Morphilina vs Stray
+DTSTART:20251002T140000Z
+DTEND:20251002T170000Z
+UID:dt_mc_20250907233300i78hd@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907233300i78hd\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907233300i78hd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: Team Morphilina vs Cooman
+DTSTART:20251002T160000Z
+DTEND:20251002T190000Z
+UID:dt_mc_20250907235955dboi4@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907235955dboi4\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907235955dboi4
 END:VEVENT
 END:VCALENDAR
