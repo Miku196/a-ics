@@ -3,29 +3,7 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:FERJEE Rush 2025: BESTIA vs Bounty Hunters
-DTSTART:20250928T031500Z
-DTEND:20250928T054500Z
-UID:csgo_mc_2386091@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386091\n赛事: FERJEE Rush 2025\n阶段: 
- 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: C级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386091
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FERJEE Rush 2025: Imperial vs Keyd
-DTSTART:20250928T031500Z
-DTEND:20250928T054500Z
-UID:csgo_mc_2386094@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386094\n赛事: FERJEE Rush 2025\n阶段: 
- 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: C级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386094
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第1季: TBD vs TBD
+SUMMARY:DFRAG 公开 系列赛 第1季: Underground vs Bbbmbcbs
 DTSTART:20250928T050000Z
 DTEND:20250928T073000Z
 UID:csgo_mc_2386149@5eplay.com
@@ -37,7 +15,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386149
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第1季: TBD vs TBD
+SUMMARY:DFRAG 公开 系列赛 第1季: Gz vs Vantage
 DTSTART:20250928T050000Z
 DTEND:20250928T073000Z
 UID:csgo_mc_2386148@5eplay.com
@@ -398,5 +376,40 @@ DESCRIPTION:比赛ID: csgo_mc_2386083\n赛事: 白桦杯 2025\n阶段: 淘
  时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386083
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:白桦杯 2025: TBD vs TBD
+DTSTART:20250928T150000Z
+DTEND:20250928T173000Z
+UID:csgo_mc_2386084@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386084\n赛事: 白桦杯 2025\n阶段: 淘
+ 汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: C级\n状态: 未开
+ 始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386084
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:斯洛伐克国际冠军赛 2025: SINNERS vs Glore
+DTSTART:20250928T150000Z
+DTEND:20250928T173000Z
+UID:csgo_mc_2386117@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386117\n赛事: 斯洛伐克国际冠军赛
+  2025\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386117
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:斯洛伐克国际冠军赛 2025: UNiTY vs Brute
+DTSTART:20250928T150000Z
+DTEND:20250928T173000Z
+UID:csgo_mc_2386121@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386121\n赛事: 斯洛伐克国际冠军赛
+  2025\n阶段: 淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386121
 END:VEVENT
 END:VCALENDAR

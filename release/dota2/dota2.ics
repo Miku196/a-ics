@@ -3,50 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:PGL瓦拉几亚 S6 中国预选赛: Chalice fan vs TBD
-DTSTART:20250928T040000Z
-DTEND:20250928T060000Z
-UID:dt_mc_202509280005524bfoa@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509280005524bfoa\n赛制: BO1\n轮次: 1/4
- 决赛\n阶段: 公开预选赛#2 1/4决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509280005524bfoa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL瓦拉几亚 S6 中国预选赛: Dong vs Surge Gaming
-DTSTART:20250928T040000Z
-DTEND:20250928T060000Z
-UID:dt_mc_20250928004752kckyq@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250928004752kckyq\n赛制: BO1\n轮次: 1/4
- 决赛\n阶段: 公开预选赛#2 1/4决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250928004752kckyq
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL瓦拉几亚 S6 中国预选赛: RG vs Cloud Rising
-DTSTART:20250928T040000Z
-DTEND:20250928T060000Z
-UID:dt_mc_20250928004754lhucm@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250928004754lhucm\n赛制: BO1\n轮次: 1/4
- 决赛\n阶段: 公开预选赛#2 1/4决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250928004754lhucm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL瓦拉几亚 S6 中国预选赛: Thriving vs Cloud Dawning
-DTSTART:20250928T040000Z
-DTEND:20250928T060000Z
-UID:dt_mc_202509280047555eiy7@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509280047555eiy7\n赛制: BO1\n轮次: 1/4
- 决赛\n阶段: 公开预选赛#2 1/4决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 2小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509280047555eiy7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLAST S4中国预选赛: TT vs RG
 DTSTART:20250928T060000Z
 DTEND:20250928T090000Z
