@@ -3,66 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: M80 vs ENCE
-DTSTART:20250928T163000Z
-DTEND:20250928T190000Z
-UID:csgo_mc_2385901@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385901\n赛事: EPL S22第一阶段\n阶段
- : 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: A级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385901
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第二季: OG vs TBD
-DTSTART:20250928T170000Z
-DTEND:20250928T193000Z
-UID:csgo_mc_2386036@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386036\n赛事: DraculaN 第二季\n阶段:
-  淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 
- 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386036
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FERJEE Rush 2025: TBD vs TBD
-DTSTART:20250928T170000Z
-DTEND:20250928T193000Z
-UID:csgo_mc_2386102@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386102\n赛事: FERJEE Rush 2025\n阶段: 
- 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: C级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 封闭预选赛: Mousquetaires vs
-  Algo
-DTSTART:20250928T170000Z
-DTEND:20250928T193000Z
-UID:csgo_mc_2386179@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386179\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 封闭预选赛\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\
- n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386179
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: Betclic vs 1win
-DTSTART:20250928T173000Z
-DTEND:20250928T200000Z
-UID:csgo_mc_2385995@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385995\n赛事: CCT 第3赛季 欧洲系列
- 赛 7\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385995
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:斯洛伐克国际冠军赛 2025: Zennox vs TBD
-DTSTART:20250928T180000Z
-DTEND:20250928T203000Z
+SUMMARY:斯洛伐克国际冠军赛 2025: Zennox vs Glore
+DTSTART:20250928T181500Z
+DTEND:20250928T204500Z
 UID:csgo_mc_2386122@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386122\n赛事: 斯洛伐克国际冠军赛
   2025\n阶段: 淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛制: B
@@ -194,7 +137,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385906
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第38赛季: TBD vs TBD
+SUMMARY:United21 联赛 第38赛季: MASONIC vs Prestige
 DTSTART:20250929T103000Z
 DTEND:20250929T130000Z
 UID:csgo_mc_2386132@5eplay.com
@@ -305,5 +248,116 @@ DESCRIPTION:比赛ID: csgo_mc_2386131\n赛事: United21 联赛 第38赛季
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22第一阶段: TBD vs TBD
+DTSTART:20250929T133000Z
+DTEND:20250929T160000Z
+UID:csgo_mc_2385909@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385909\n赛事: EPL S22第一阶段\n阶段
+ : 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: A级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385909
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22第一阶段: TBD vs TBD
+DTSTART:20250929T133000Z
+DTEND:20250929T160000Z
+UID:csgo_mc_2385910@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385910\n赛事: EPL S22第一阶段\n阶段
+ : 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: A级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385910
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 1 公开预选: 1win vs Fire Flux
+DTSTART:20250929T140000Z
+DTEND:20250929T163000Z
+UID:csgo_mc_2386234@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386234\n赛事: NODWIN Clutch 系列 1 公
+ 开预选\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2
+ .5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386234
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 封闭预选赛: TBD vs TBD
+DTSTART:20250929T140000Z
+DTEND:20250929T163000Z
+UID:csgo_mc_2386182@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386182\n赛事: CCT 第3赛季 欧洲系列
+ 赛 8 封闭预选赛\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386182
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第4阶段: 500 vs CPH Wolves
+DTSTART:20250929T140000Z
+DTEND:20250929T163000Z
+UID:csgo_mc_2386188@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386188\n赛事: 银河之战 2025 第4阶
+ 段\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386188
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 7: BB vs Khan
+DTSTART:20250929T143000Z
+DTEND:20250929T170000Z
+UID:csgo_mc_2385998@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385998\n赛事: CCT 第3赛季 欧洲系列
+ 赛 7\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385998
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FERJEE Rush 2025: TBD vs TBD
+DTSTART:20250929T153000Z
+DTEND:20250929T180000Z
+UID:csgo_mc_2386107@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386107\n赛事: FERJEE Rush 2025\n阶段: 
+ 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: C级\n状态:
+  未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FERJEE Rush 2025: TBD vs TBD
+DTSTART:20250929T153000Z
+DTEND:20250929T180000Z
+UID:csgo_mc_2386108@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386108\n赛事: FERJEE Rush 2025\n阶段: 
+ 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: C级\n状态:
+  未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386108
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22第一阶段: TBD vs TBD
+DTSTART:20250929T160000Z
+DTEND:20250929T183000Z
+UID:csgo_mc_2385911@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385911\n赛事: EPL S22第一阶段\n阶段
+ : 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: A级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385911
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22第一阶段: TBD vs TBD
+DTSTART:20250929T160000Z
+DTEND:20250929T183000Z
+UID:csgo_mc_2385912@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385912\n赛事: EPL S22第一阶段\n阶段
+ : 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: A级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385912
 END:VEVENT
 END:VCALENDAR

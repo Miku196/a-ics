@@ -3,15 +3,15 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: By_owl vs Team Morphilina
-DTSTART:20250928T170000Z
-DTEND:20250928T200000Z
-UID:dt_mc_20250907233252j1fr1@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250907233252j1fr1\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
+SUMMARY:PGL 瓦拉几亚 S6: TBD vs BBtm
+DTSTART:20250928T184500Z
+DTEND:20250928T204500Z
+UID:dt_mc_20250929003852w3fih@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250929003852w3fih\n赛制: BO1\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 2小时
+ \n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250907233252j1fr1
+URL:https://event.5eplay.com/dota/session/dt_mc_20250929003852w3fih
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PGL瓦拉几亚 S6 美洲预选赛: TaiLung Mafia vs Sentinel
@@ -35,6 +35,17 @@ DESCRIPTION:比赛ID: dt_mc_20250928100253l2jbl\n赛制: BO3\n轮次: 半
  未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250928100253l2jbl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL 瓦拉几亚 S6: TBD vs TBD
+DTSTART:20250929T000000Z
+DTEND:20250929T020000Z
+UID:dt_mc_202509290038545i2z7@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509290038545i2z7\n赛制: BO1\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 2小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509290038545i2z7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2 中国/东南亚预选赛: Aureus vs Hong s
@@ -389,5 +400,16 @@ DESCRIPTION:比赛ID: dt_mc_20250907233300i78hd\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250907233300i78hd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: Team Morphilina vs Cooman
+DTSTART:20251002T160000Z
+DTEND:20251002T190000Z
+UID:dt_mc_20250907235955dboi4@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907235955dboi4\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907235955dboi4
 END:VEVENT
 END:VCALENDAR
