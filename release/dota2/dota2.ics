@@ -378,4 +378,48 @@ DESCRIPTION:比赛ID: dt_mc_20250902000316zx3u1\n赛制: BO3\n阶段: 小
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000316zx3u1
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: Rostik vs Team Solo
+DTSTART:20251001T120000Z
+DTEND:20251001T150000Z
+UID:dt_mc_20250907235952jpu5n@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907235952jpu5n\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907235952jpu5n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: Voodoosh vs Team Solo
+DTSTART:20251001T150000Z
+DTEND:20251001T180000Z
+UID:dt_mc_20250907235953qoug2@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250907235953qoug2\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250907235953qoug2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: Allstars vs Lava
+DTSTART:20251001T180000Z
+DTEND:20251001T210000Z
+UID:dt_mc_20250902000317xtpqw@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000317xtpqw\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000317xtpqw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: Voodoosh vs Goodwin
+DTSTART:20251001T180000Z
+DTEND:20251001T210000Z
+UID:dt_mc_2025090723595465v8t@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_2025090723595465v8t\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_2025090723595465v8t
+END:VEVENT
 END:VCALENDAR
