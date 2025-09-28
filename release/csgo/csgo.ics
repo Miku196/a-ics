@@ -4,8 +4,8 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY:FERJEE Rush 2025: Yawara vs Gaimin Gladiators
-DTSTART:20250928T202000Z
-DTEND:20250928T225000Z
+DTSTART:20250928T221500Z
+DTEND:20250929T004500Z
 UID:csgo_mc_2386099@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386099\n赛事: FERJEE Rush 2025\n阶段: 
  小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: C级\n状
@@ -14,18 +14,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386099
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FERJEE Rush 2025: GameHunters vs Bounty Hunters
-DTSTART:20250928T203000Z
-DTEND:20250928T230000Z
-UID:csgo_mc_2386100@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386100\n赛事: FERJEE Rush 2025\n阶段: 
- 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: C级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386100
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FERJEE Rush 2025: TBD vs TBD
+SUMMARY:FERJEE Rush 2025: 9z vs TBD
 DTSTART:20250928T223000Z
 DTEND:20250929T010000Z
 UID:csgo_mc_2386103@5eplay.com
@@ -160,7 +149,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385907
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: TBD vs TBD
+SUMMARY:EPL S22第一阶段: GL vs Inner Circle
 DTSTART:20250929T110000Z
 DTEND:20250929T133000Z
 UID:csgo_mc_2385908@5eplay.com
@@ -229,7 +218,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386131
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: TBD vs TBD
+SUMMARY:EPL S22第一阶段: M80 vs Heroic
 DTSTART:20250929T133000Z
 DTEND:20250929T160000Z
 UID:csgo_mc_2385909@5eplay.com
@@ -240,7 +229,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385909
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: TBD vs TBD
+SUMMARY:EPL S22第一阶段: Legacy vs NRG
 DTSTART:20250929T133000Z
 DTEND:20250929T160000Z
 UID:csgo_mc_2385910@5eplay.com
@@ -330,7 +319,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386108
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: TBD vs TBD
+SUMMARY:EPL S22第一阶段: G2 vs Gentle Mates
 DTSTART:20250929T160000Z
 DTEND:20250929T183000Z
 UID:csgo_mc_2385911@5eplay.com
@@ -341,7 +330,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385911
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: TBD vs TBD
+SUMMARY:EPL S22第一阶段: FURIA vs Fluxo
 DTSTART:20250929T160000Z
 DTEND:20250929T183000Z
 UID:csgo_mc_2385912@5eplay.com
@@ -407,5 +396,38 @@ DESCRIPTION:比赛ID: csgo_mc_2386277\n赛事: CCT 第3赛季 竞争者欧
  长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386277
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FERJEE Rush 2025: TBD vs TBD
+DTSTART:20250929T200000Z
+DTEND:20250929T223000Z
+UID:csgo_mc_2386109@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386109\n赛事: FERJEE Rush 2025\n阶段: 
+ 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\n状态:
+  未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FERJEE Rush 2025: TBD vs TBD
+DTSTART:20250929T223000Z
+DTEND:20250930T010000Z
+UID:csgo_mc_2386110@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386110\n赛事: FERJEE Rush 2025\n阶段: 
+ 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\n状态:
+  未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riga城市公开赛 S1: OG vs TBD
+DTSTART:20250930T070000Z
+DTEND:20250930T093000Z
+UID:csgo_mc_2386245@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386245\n赛事: Riga城市公开赛 S1\n阶
+ 段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386245
 END:VEVENT
 END:VCALENDAR
