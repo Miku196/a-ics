@@ -3,88 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第38赛季: MASONIC vs Prestige
-DTSTART:20250929T103000Z
-DTEND:20250929T130000Z
-UID:csgo_mc_2386132@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386132\n赛事: United21 联赛 第38赛季
- \n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386132
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 1 公开预选: The Glecs vs Leo
-DTSTART:20250929T110000Z
-DTEND:20250929T133000Z
-UID:csgo_mc_2386233@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386233\n赛事: NODWIN Clutch 系列 1 公
- 开预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3
- \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
- : 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386233
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winline Insight 第8赛季: JJH vs SPARTA
-DTSTART:20250929T110000Z
-DTEND:20250929T133000Z
-UID:csgo_mc_2385857@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385857\n赛事: Winline Insight 第8赛季\
- n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385857
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: Astralis vs ENCE
-DTSTART:20250929T110000Z
-DTEND:20250929T133000Z
-UID:csgo_mc_2385907@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385907\n赛事: EPL S22第一阶段\n阶段
- : 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: A级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385907
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: GL vs Inner Circle
-DTSTART:20250929T110000Z
-DTEND:20250929T133000Z
-UID:csgo_mc_2385908@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385908\n赛事: EPL S22第一阶段\n阶段
- : 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: A级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385908
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 封闭预选赛: FORZE Reload vs 
- Y5
-DTSTART:20250929T110000Z
-DTEND:20250929T133000Z
-UID:csgo_mc_2386181@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386181\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 封闭预选赛\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386181
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United21 联赛 第38赛季: Mousquetaires vs TBD
-DTSTART:20250929T130000Z
-DTEND:20250929T153000Z
-UID:csgo_mc_2386131@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386131\n赛事: United21 联赛 第38赛季
- \n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386131
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EPL S22第一阶段: M80 vs Heroic
 DTSTART:20250929T133000Z
 DTEND:20250929T160000Z
@@ -411,5 +329,62 @@ DESCRIPTION:比赛ID: csgo_mc_2386249\n赛事: Riga城市公开赛 S1\n阶
  : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386249
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riga城市公开赛 S1: TBD vs TBD
+DTSTART:20250930T093000Z
+DTEND:20250930T103000Z
+UID:csgo_mc_2386251@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386251\n赛事: Riga城市公开赛 S1\n阶
+ 段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其
+ 他\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386251
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riga城市公开赛 S1: TBD vs TBD
+DTSTART:20250930T093000Z
+DTEND:20250930T120000Z
+UID:csgo_mc_2386250@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386250\n赛事: Riga城市公开赛 S1\n阶
+ 段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
+ : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riga城市公开赛 S1: TBD vs TBD
+DTSTART:20250930T093000Z
+DTEND:20250930T103000Z
+UID:csgo_mc_2386252@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386252\n赛事: Riga城市公开赛 S1\n阶
+ 段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其
+ 他\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386252
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第38赛季: Mousquetaires vs WOPA
+DTSTART:20250930T103000Z
+DTEND:20250930T130000Z
+UID:csgo_mc_2386131@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386131\n赛事: United21 联赛 第38赛季
+ \n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : TBD vs TBD
+DTSTART:20250930T110000Z
+DTEND:20250930T133000Z
+UID:csgo_mc_2386260@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386260\n赛事: CCT 第3赛季 欧洲系列
+ 赛 8 \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386260
 END:VEVENT
 END:VCALENDAR
