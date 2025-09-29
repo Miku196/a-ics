@@ -4,8 +4,8 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY:FERJEE Rush 2025: Sharks vs Imperial
-DTSTART:20250929T213000Z
-DTEND:20250930T000000Z
+DTSTART:20250929T223000Z
+DTEND:20250930T010000Z
 UID:csgo_mc_2386107@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386107\n赛事: FERJEE Rush 2025\n阶段: 
  淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: C级\n状态:
@@ -15,8 +15,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2386107
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FERJEE Rush 2025: Keyd vs Gaimin Gladiators
-DTSTART:20250929T213000Z
-DTEND:20250930T000000Z
+DTSTART:20250929T223000Z
+DTEND:20250930T010000Z
 UID:csgo_mc_2386108@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386108\n赛事: FERJEE Rush 2025\n阶段: 
  淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: C级\n状态:
@@ -58,7 +58,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386245
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Riga城市公开赛 S1: Alliance vs TBD
+SUMMARY:Riga城市公开赛 S1: Alliance vs EYE
 DTSTART:20250930T070000Z
 DTEND:20250930T093000Z
 UID:csgo_mc_2386246@5eplay.com
@@ -69,7 +69,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386246
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Riga城市公开赛 S1: BIG vs TBD
+SUMMARY:Riga城市公开赛 S1: BIG vs Aab
 DTSTART:20250930T070000Z
 DTEND:20250930T093000Z
 UID:csgo_mc_2386248@5eplay.com
@@ -80,7 +80,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386248
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Riga城市公开赛 S1: Passion UA vs TBD
+SUMMARY:Riga城市公开赛 S1: Passion UA vs Fingers Crossed
 DTSTART:20250930T070000Z
 DTEND:20250930T093000Z
 UID:csgo_mc_2386247@5eplay.com
@@ -91,7 +91,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386247
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : Johnny Speeds vs 1win
 DTSTART:20250930T080000Z
 DTEND:20250930T103000Z
 UID:csgo_mc_2386259@5eplay.com
@@ -126,7 +126,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386133
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 7: FT vs CPH Wolves
 DTSTART:20250930T083000Z
 DTEND:20250930T110000Z
 UID:csgo_mc_2386000@5eplay.com
@@ -215,7 +215,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386131
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : ex-Inner Circle vs ex-SENZA
 DTSTART:20250930T110000Z
 DTEND:20250930T133000Z
 UID:csgo_mc_2386260@5eplay.com
@@ -272,7 +272,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386187
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 7: Sashi vs ESC
 DTSTART:20250930T113000Z
 DTEND:20250930T140000Z
 UID:csgo_mc_2386001@5eplay.com
@@ -361,7 +361,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385918
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : CYBERSHOKE vs Y5
 DTSTART:20250930T140000Z
 DTEND:20250930T163000Z
 UID:csgo_mc_2386261@5eplay.com
@@ -407,7 +407,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386190
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 7: BB vs ECLOT
 DTSTART:20250930T143000Z
 DTEND:20250930T170000Z
 UID:csgo_mc_2386002@5eplay.com
@@ -428,5 +428,27 @@ DESCRIPTION:比赛ID: csgo_mc_2386278\n赛事: CCT 第3赛季 竞争者欧
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386278
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riga城市公开赛 S1: TBD vs TBD
+DTSTART:20250930T150000Z
+DTEND:20250930T173000Z
+UID:csgo_mc_2386257@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386257\n赛事: Riga城市公开赛 S1\n阶
+ 段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386257
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22第一阶段: Heroic vs  3DMAX
+DTSTART:20250930T160000Z
+DTEND:20250930T183000Z
+UID:csgo_mc_2385919@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385919\n赛事: EPL S22第一阶段\n阶段
+ : 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: A级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385919
 END:VEVENT
 END:VCALENDAR
