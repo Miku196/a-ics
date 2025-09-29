@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 西欧预选赛: VP vs pipsqueak+4
-DTSTART:20250929T183000Z
-DTEND:20250929T213000Z
-UID:dt_mc_20250922010913s65fw@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250922010913s65fw\n赛制: BO3\n轮次: 决
- 赛\n阶段: 封闭预选赛 胜者组 决赛\n赛事等级: C级\n状态:
-  未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250922010913s65fw
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PGL瓦拉几亚 S6 美洲预选赛: TBD vs TBD
 DTSTART:20250929T210000Z
 DTEND:20250930T000000Z
@@ -135,7 +124,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509072333050uij9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL 瓦拉几亚 S6: TBD vs TBD
+SUMMARY:PGL 瓦拉几亚 S6: Runa vs 4P
 DTSTART:20250930T140000Z
 DTEND:20250930T170000Z
 UID:dt_mc_20250929235954cgjla@5eplay.com
@@ -146,7 +135,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250929235954cgjla
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL 瓦拉几亚 S6: TBD vs TBD
+SUMMARY:PGL 瓦拉几亚 S6: eSpoiled vs Tea
 DTSTART:20250930T140000Z
 DTEND:20250930T170000Z
 UID:dt_mc_20250929235954a8kaj@5eplay.com
@@ -166,6 +155,28 @@ DESCRIPTION:比赛ID: dt_mc_2025092201115364xeg\n赛制: BO3\n轮次: 决
   未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025092201115364xeg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL 瓦拉几亚 S6: TBD vs DOGSENT
+DTSTART:20250930T160000Z
+DTEND:20250930T190000Z
+UID:dt_mc_20250930033852iv1u7@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250930033852iv1u7\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250930033852iv1u7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL 瓦拉几亚 S6: Z10 vs Rog Star
+DTSTART:20250930T160000Z
+DTEND:20250930T190000Z
+UID:dt_mc_20250930033853pgxv0@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250930033853pgxv0\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250930033853pgxv0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BB主播大战 第十一季: Rostik vs Goodwin
@@ -375,5 +386,38 @@ DESCRIPTION:比赛ID: dt_mc_20250924233853e6xa5\n赛制: BO3\n轮次: 半
  开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250924233853e6xa5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251003T110000Z
+DTEND:20251003T140000Z
+UID:dt_mc_202507112104317csr4@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202507112104317csr4\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 小组赛 胜者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202507112104317csr4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20251003T130000Z
+DTEND:20251003T160000Z
+UID:dt_mc_202509242338543qz0q@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509242338543qz0q\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 淘汰赛 胜者组 半决赛\n赛事等级: \n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509242338543qz0q
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251003T140000Z
+DTEND:20251003T170000Z
+UID:dt_mc_202507112104321s8wh@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202507112104321s8wh\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 小组赛 胜者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202507112104321s8wh
 END:VEVENT
 END:VCALENDAR
