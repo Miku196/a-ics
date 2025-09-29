@@ -153,28 +153,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385997
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FERJEE Rush 2025: TBD vs TBD
-DTSTART:20250929T130000Z
-DTEND:20250929T153000Z
-UID:csgo_mc_2386105@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386105\n赛事: FERJEE Rush 2025\n阶段: 
- 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: C级\n状态:
-  未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FERJEE Rush 2025: TBD vs TBD
-DTSTART:20250929T130000Z
-DTEND:20250929T153000Z
-UID:csgo_mc_2386106@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386106\n赛事: FERJEE Rush 2025\n阶段: 
- 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: C级\n状态:
-  未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386106
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:United21 联赛 第38赛季: Mousquetaires vs TBD
 DTSTART:20250929T130000Z
 DTEND:20250929T153000Z
@@ -268,28 +246,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386276
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FERJEE Rush 2025: TBD vs TBD
-DTSTART:20250929T153000Z
-DTEND:20250929T180000Z
-UID:csgo_mc_2386107@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386107\n赛事: FERJEE Rush 2025\n阶段: 
- 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: C级\n状态:
-  未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FERJEE Rush 2025: TBD vs TBD
-DTSTART:20250929T153000Z
-DTEND:20250929T180000Z
-UID:csgo_mc_2386108@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386108\n赛事: FERJEE Rush 2025\n阶段: 
- 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: C级\n状态:
-  未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386108
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EPL S22第一阶段: G2 vs Gentle Mates
 DTSTART:20250929T160000Z
 DTEND:20250929T183000Z
@@ -371,9 +327,53 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386277
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FERJEE Rush 2025: RED Canids vs ODDIK
+DTSTART:20250929T180000Z
+DTEND:20250929T203000Z
+UID:csgo_mc_2386105@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386105\n赛事: FERJEE Rush 2025\n阶段: 
+ 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: C级\n状态:
+  未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FERJEE Rush 2025: BESTIA vs MIBR
+DTSTART:20250929T180000Z
+DTEND:20250929T203000Z
+UID:csgo_mc_2386106@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386106\n赛事: FERJEE Rush 2025\n阶段: 
+ 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: C级\n状态:
+  未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386106
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FERJEE Rush 2025: Sharks vs Imperial
+DTSTART:20250929T213000Z
+DTEND:20250930T000000Z
+UID:csgo_mc_2386107@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386107\n赛事: FERJEE Rush 2025\n阶段: 
+ 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: C级\n状态:
+  未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FERJEE Rush 2025: Keyd vs Gaimin Gladiators
+DTSTART:20250929T213000Z
+DTEND:20250930T000000Z
+UID:csgo_mc_2386108@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386108\n赛事: FERJEE Rush 2025\n阶段: 
+ 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: C级\n状态:
+  未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386108
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FERJEE Rush 2025: TBD vs TBD
-DTSTART:20250929T200000Z
-DTEND:20250929T223000Z
+DTSTART:20250930T010000Z
+DTEND:20250930T033000Z
 UID:csgo_mc_2386109@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386109\n赛事: FERJEE Rush 2025\n阶段: 
  淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\n状态:
@@ -383,8 +383,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2386109
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FERJEE Rush 2025: TBD vs TBD
-DTSTART:20250929T223000Z
-DTEND:20250930T010000Z
+DTSTART:20250930T010000Z
+DTEND:20250930T033000Z
 UID:csgo_mc_2386110@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386110\n赛事: FERJEE Rush 2025\n阶段: 
  淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\n状态:
@@ -447,5 +447,16 @@ DESCRIPTION:比赛ID: csgo_mc_2386259\n赛事: CCT 第3赛季 欧洲系列
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386259
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第38赛季: Northern Lights vs fish123
+DTSTART:20250930T080000Z
+DTEND:20250930T103000Z
+UID:csgo_mc_2386133@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386133\n赛事: United21 联赛 第38赛季
+ \n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级:
+  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386133
 END:VEVENT
 END:VCALENDAR
