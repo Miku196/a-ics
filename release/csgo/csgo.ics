@@ -3,39 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: Monte vs CPH Wolves
-DTSTART:20250929T083000Z
-DTEND:20250929T110000Z
-UID:csgo_mc_2385996@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385996\n赛事: CCT 第3赛季 欧洲系列
- 赛 7\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385996
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: B8 vs HOTU
-DTSTART:20250929T083000Z
-DTEND:20250929T110000Z
-UID:csgo_mc_2385905@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385905\n赛事: EPL S22第一阶段\n阶段
- : 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: A级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385905
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段:  3DMAX vs Rooster
-DTSTART:20250929T083000Z
-DTEND:20250929T110000Z
-UID:csgo_mc_2385906@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385906\n赛事: EPL S22第一阶段\n阶段
- : 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: A级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385906
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:United21 联赛 第38赛季: MASONIC vs Prestige
 DTSTART:20250929T103000Z
 DTEND:20250929T130000Z
@@ -106,17 +73,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386181
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: ex-Inner Circle vs ECLOT
-DTSTART:20250929T113000Z
-DTEND:20250929T140000Z
-UID:csgo_mc_2385997@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385997\n赛事: CCT 第3赛季 欧洲系列
- 赛 7\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385997
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:United21 联赛 第38赛季: Mousquetaires vs TBD
 DTSTART:20250929T130000Z
 DTEND:20250929T153000Z
@@ -174,17 +130,6 @@ DESCRIPTION:比赛ID: csgo_mc_2386182\n赛事: CCT 第3赛季 欧洲系列
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386182
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段: 500 vs CPH Wolves
-DTSTART:20250929T140000Z
-DTEND:20250929T163000Z
-UID:csgo_mc_2386188@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386188\n赛事: 银河之战 2025 第4阶
- 段\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386188
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 7: BB vs Khan
@@ -422,5 +367,49 @@ DESCRIPTION:比赛ID: csgo_mc_2386133\n赛事: United21 联赛 第38赛季
   其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 7: TBD vs TBD
+DTSTART:20250930T083000Z
+DTEND:20250930T110000Z
+UID:csgo_mc_2386000@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386000\n赛事: CCT 第3赛季 欧洲系列
+ 赛 7\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22第一阶段: TBD vs TBD
+DTSTART:20250930T083000Z
+DTEND:20250930T110000Z
+UID:csgo_mc_2385914@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385914\n赛事: EPL S22第一阶段\n阶段
+ : 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: A级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385914
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22第一阶段: TBD vs TBD
+DTSTART:20250930T083000Z
+DTEND:20250930T110000Z
+UID:csgo_mc_2385913@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385913\n赛事: EPL S22第一阶段\n阶段
+ : 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: A级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385913
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riga城市公开赛 S1: TBD vs TBD
+DTSTART:20250930T093000Z
+DTEND:20250930T120000Z
+UID:csgo_mc_2386249@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386249\n赛事: Riga城市公开赛 S1\n阶
+ 段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
+ : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386249
 END:VEVENT
 END:VCALENDAR
