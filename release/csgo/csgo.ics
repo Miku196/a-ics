@@ -3,44 +3,10 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: M80 vs Heroic
-DTSTART:20250929T133000Z
-DTEND:20250929T160000Z
-UID:csgo_mc_2385909@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385909\n赛事: EPL S22第一阶段\n阶段
- : 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: A级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385909
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: Legacy vs NRG
-DTSTART:20250929T133000Z
-DTEND:20250929T160000Z
-UID:csgo_mc_2385910@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385910\n赛事: EPL S22第一阶段\n阶段
- : 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: A级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385910
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 1 公开预选: 1win vs Fire Flux
-DTSTART:20250929T140000Z
-DTEND:20250929T163000Z
-UID:csgo_mc_2386234@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386234\n赛事: NODWIN Clutch 系列 1 公
- 开预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3
- \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
- : 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386234
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 8 封闭预选赛: Leo vs Mousqueta
  ires
-DTSTART:20250929T140000Z
-DTEND:20250929T163000Z
+DTSTART:20250929T141500Z
+DTEND:20250929T164500Z
 UID:csgo_mc_2386182@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386182\n赛事: CCT 第3赛季 欧洲系列
  赛 8 封闭预选赛\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制:
@@ -71,6 +37,17 @@ DESCRIPTION:比赛ID: csgo_mc_2386276\n赛事: CCT 第3赛季 竞争者欧
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386276
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22第一阶段: Legacy vs NRG
+DTSTART:20250929T143000Z
+DTEND:20250929T170000Z
+UID:csgo_mc_2385910@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385910\n赛事: EPL S22第一阶段\n阶段
+ : 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: A级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385910
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EPL S22第一阶段: G2 vs Gentle Mates
@@ -276,6 +253,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386259
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 1 公开预选: RUBY vs TBD
+DTSTART:20250930T080000Z
+DTEND:20250930T103000Z
+UID:csgo_mc_2386282@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386282\n赛事: NODWIN Clutch 系列 1 公
+ 开预选\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386282
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:United21 联赛 第38赛季: Northern Lights vs fish123
 DTSTART:20250930T080000Z
 DTEND:20250930T103000Z
@@ -386,5 +375,50 @@ DESCRIPTION:比赛ID: csgo_mc_2386260\n赛事: CCT 第3赛季 欧洲系列
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386260
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 1 公开预选: K27 vs TBD
+DTSTART:20250930T110000Z
+DTEND:20250930T133000Z
+UID:csgo_mc_2386283@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386283\n赛事: NODWIN Clutch 系列 1 公
+ 开预选\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22第一阶段: TBD vs TBD
+DTSTART:20250930T110000Z
+DTEND:20250930T133000Z
+UID:csgo_mc_2385915@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385915\n赛事: EPL S22第一阶段\n阶段
+ : 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: A级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385915
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22第一阶段: TBD vs TBD
+DTSTART:20250930T110000Z
+DTEND:20250930T133000Z
+UID:csgo_mc_2385916@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385916\n赛事: EPL S22第一阶段\n阶段
+ : 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: A级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385916
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第4阶段: Monte vs FT
+DTSTART:20250930T110000Z
+DTEND:20250930T133000Z
+UID:csgo_mc_2386187@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386187\n赛事: 银河之战 2025 第4阶
+ 段\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386187
 END:VEVENT
 END:VCALENDAR
