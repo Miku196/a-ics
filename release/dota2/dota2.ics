@@ -3,72 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:PGL瓦拉几亚 S6 东欧预选赛: TBD vs TBD
-DTSTART:20250929T163000Z
-DTEND:20250929T193000Z
-UID:dt_mc_202509261602529cxuw@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509261602529cxuw\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 公开预选赛#2 1/4决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509261602529cxuw
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL 瓦拉几亚 S6: 4P vs TBD
-DTSTART:20250929T163000Z
-DTEND:20250929T193000Z
-UID:dt_mc_20250929235652fukel@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250929235652fukel\n赛制: BO3\n阶段: 未
- 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
- \n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250929235652fukel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL 瓦拉几亚 S6: TBD vs Kalmychata
-DTSTART:20250929T163000Z
-DTEND:20250929T193000Z
-UID:dt_mc_20250929235952gjc3m@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250929235952gjc3m\n赛制: BO3\n阶段: 未
- 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
- \n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250929235952gjc3m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL 瓦拉几亚 S6: Tea vs TBD
-DTSTART:20250929T163000Z
-DTEND:20250929T193000Z
-UID:dt_mc_20250929235953sgdl4@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250929235953sgdl4\n赛制: BO3\n阶段: 未
- 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
- \n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250929235953sgdl4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL瓦拉几亚 S6 西欧预选赛: TBD vs TBD
-DTSTART:20250929T170000Z
-DTEND:20250929T200000Z
-UID:dt_mc_20250926155954bosnk@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250926155954bosnk\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 公开预选赛#2  1/4决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250926155954bosnk
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: Team Morphilina vs Travoman
-DTSTART:20250929T170000Z
-DTEND:20250929T200000Z
-UID:dt_mc_20250907233304cg1ql@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250907233304cg1ql\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250907233304cg1ql
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2 西欧预选赛: VP vs pipsqueak+4
 DTSTART:20250929T183000Z
 DTEND:20250929T213000Z
@@ -81,8 +15,8 @@ URL:https://event.5eplay.com/dota/session/dt_mc_20250922010913s65fw
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PGL瓦拉几亚 S6 美洲预选赛: TBD vs TBD
-DTSTART:20250930T020000Z
-DTEND:20250930T050000Z
+DTSTART:20250929T210000Z
+DTEND:20250930T000000Z
 UID:dt_mc_202509261559556nbu0@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_202509261559556nbu0\n赛制: BO3\n轮次: 1/4
  决赛\n阶段: 公开预选赛#2 1/4决赛\n赛事等级: C级\n状态: 
@@ -157,7 +91,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250929193853ujx2c
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 西欧预选赛: TBD vs Z10
+SUMMARY:FISSURE 裂变天地 2 西欧预选赛: MOUZ vs Z10
 DTSTART:20250930T113000Z
 DTEND:20250930T143000Z
 UID:dt_mc_202509220109173nqcj@5eplay.com
@@ -223,7 +157,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250929235954a8kaj
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 西欧预选赛: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2 西欧预选赛: Avulus vs TBD
 DTSTART:20250930T150000Z
 DTEND:20250930T180000Z
 UID:dt_mc_2025092201115364xeg@5eplay.com
@@ -276,6 +210,50 @@ DESCRIPTION:比赛ID: dt_mc_20250902000316zx3u1\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000316zx3u1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL 瓦拉几亚 S6: TBD vs TBD
+DTSTART:20250930T210000Z
+DTEND:20251001T000000Z
+UID:dt_mc_20250930005952rmex3@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250930005952rmex3\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250930005952rmex3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL 瓦拉几亚 S6: TBD vs TBD
+DTSTART:20250930T210000Z
+DTEND:20251001T000000Z
+UID:dt_mc_202509300059538z0w5@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509300059538z0w5\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509300059538z0w5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL 瓦拉几亚 S6: TBD vs TBD
+DTSTART:20251001T010000Z
+DTEND:20251001T040000Z
+UID:dt_mc_20250930005954r7fb8@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250930005954r7fb8\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250930005954r7fb8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL 瓦拉几亚 S6: TBD vs TBD
+DTSTART:20251001T010000Z
+DTEND:20251001T040000Z
+UID:dt_mc_20250930005954byh7u@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250930005954byh7u\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250930005954byh7u
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BB主播大战 第十一季: Rostik vs Team Solo
@@ -397,27 +375,5 @@ DESCRIPTION:比赛ID: dt_mc_20250924233853e6xa5\n赛制: BO3\n轮次: 半
  开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250924233853e6xa5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
-DTSTART:20251003T110000Z
-DTEND:20251003T140000Z
-UID:dt_mc_202507112104317csr4@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202507112104317csr4\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 小组赛 胜者组 半决赛\n赛事等级: 其他\n状
- 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202507112104317csr4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: TBD vs TBD
-DTSTART:20251003T130000Z
-DTEND:20251003T160000Z
-UID:dt_mc_202509242338543qz0q@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509242338543qz0q\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 淘汰赛 胜者组 半决赛\n赛事等级: \n状态: 未
- 开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509242338543qz0q
 END:VEVENT
 END:VCALENDAR
