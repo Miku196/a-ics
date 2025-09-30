@@ -430,4 +430,16 @@ DESCRIPTION:比赛ID: csgo_mc_2386262\n赛事: CCT 第3赛季 欧洲系列
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386262
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 1 公开预选: Fire Flux vs Square Sausages
+DTSTART:20250930T170000Z
+DTEND:20250930T193000Z
+UID:csgo_mc_2386285@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386285\n赛事: NODWIN Clutch 系列 1 公
+ 开预选\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386285
+END:VEVENT
 END:VCALENDAR
