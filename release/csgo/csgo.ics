@@ -3,20 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Riga城市公开赛 S1: Passion UA vs TBD
-DTSTART:20250930T200000Z
-DTEND:20250930T223000Z
-UID:csgo_mc_2386258@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386258\n赛事: Riga城市公开赛 S1\n阶
- 段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\n等级: 其他\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386258
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FERJEE Rush 2025: Gaimin Gladiators vs ODDIK
-DTSTART:20250930T200000Z
-DTEND:20250930T223000Z
+DTSTART:20250930T201500Z
+DTEND:20250930T224500Z
 UID:csgo_mc_2386111@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386111\n赛事: FERJEE Rush 2025\n阶段: 
  季军赛\n赛制: BO3\n等级: C级\n状态: 未开始\n预估时长: 2.5
@@ -26,14 +15,25 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2386111
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FERJEE Rush 2025: MIBR vs Imperial
-DTSTART:20250930T200000Z
-DTEND:20251001T000000Z
+DTSTART:20250930T201500Z
+DTEND:20251001T001500Z
 UID:csgo_mc_2386112@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386112\n赛事: FERJEE Rush 2025\n阶段: 
  淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: C级\n状态: 未
  开始\n预估时长: 4.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riga城市公开赛 S1: Passion UA vs EYE
+DTSTART:20250930T202000Z
+DTEND:20250930T225000Z
+UID:csgo_mc_2386258@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386258\n赛事: Riga城市公开赛 S1\n阶
+ 段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\n等级: 其他\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386258
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 北美系列赛2: InControl vs Zomblers
@@ -83,6 +83,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386347
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 1 公开预选: FORZE Reload vs Fire Flux
+DTSTART:20251001T080000Z
+DTEND:20251001T103000Z
+UID:csgo_mc_2386363@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386363\n赛事: NODWIN Clutch 系列 1 公
+ 开预选\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2
+ .5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386363
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:United21 联赛 第38赛季: Northern Lights vs WOPA
 DTSTART:20251001T080000Z
 DTEND:20251001T103000Z
@@ -128,6 +139,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386348
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 1 公开预选: Leo vs K27
+DTSTART:20251001T110000Z
+DTEND:20251001T133000Z
+UID:csgo_mc_2386364@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386364\n赛事: NODWIN Clutch 系列 1 公
+ 开预选\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2
+ .5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386364
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:银河之战 2025 第4阶段: TBD vs TBD
 DTSTART:20251001T110000Z
 DTEND:20251001T133000Z
@@ -139,7 +161,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386192
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: TBD vs TBD
+SUMMARY:EPL S22第一阶段: GL vs B8
 DTSTART:20251001T113000Z
 DTEND:20251001T140000Z
 UID:csgo_mc_2385921@5eplay.com
@@ -150,7 +172,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385921
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: TBD vs TBD
+SUMMARY:EPL S22第一阶段: G2 vs Fluxo
 DTSTART:20251001T113000Z
 DTEND:20251001T140000Z
 UID:csgo_mc_2385922@5eplay.com
@@ -172,7 +194,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386005
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winline Insight 第8赛季: HubaBuba vs TBD
+SUMMARY:Winline Insight 第8赛季: HubaBuba vs ARCRED
 DTSTART:20251001T140000Z
 DTEND:20251001T163000Z
 UID:csgo_mc_2386217@5eplay.com
@@ -206,7 +228,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386349
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: TBD vs TBD
+SUMMARY:EPL S22第一阶段: Astralis vs Heroic
 DTSTART:20251001T140000Z
 DTEND:20251001T163000Z
 UID:csgo_mc_2385923@5eplay.com
@@ -217,7 +239,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385923
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: TBD vs TBD
+SUMMARY:EPL S22第一阶段:  3DMAX vs ENCE
 DTSTART:20251001T140000Z
 DTEND:20251001T163000Z
 UID:csgo_mc_2385924@5eplay.com
@@ -262,7 +284,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386006
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: TBD vs TBD
+SUMMARY:EPL S22第一阶段: Legacy vs Gentle Mates
 DTSTART:20251001T163000Z
 DTEND:20251001T190000Z
 UID:csgo_mc_2385926@5eplay.com
@@ -273,7 +295,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385926
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: TBD vs TBD
+SUMMARY:EPL S22第一阶段: FURIA vs M80
 DTSTART:20251001T163000Z
 DTEND:20251001T190000Z
 UID:csgo_mc_2385925@5eplay.com
@@ -372,5 +394,28 @@ DESCRIPTION:比赛ID: csgo_mc_2386162\n赛事: ESL Impact 联赛 第8赛
  预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386162
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 北美系列赛2: regain vs Money Crew
+DTSTART:20251001T213000Z
+DTEND:20251002T000000Z
+UID:csgo_mc_2386288@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386288\n赛事:  CCT 第3赛季 北美系
+ 列赛2\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386288
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 北美: Shimmer vs The Little Bocks
+DTSTART:20251001T233000Z
+DTEND:20251002T020000Z
+UID:csgo_mc_2386165@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386165\n赛事: ESL Impact 联赛 第8赛
+ 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386165
 END:VEVENT
 END:VCALENDAR
