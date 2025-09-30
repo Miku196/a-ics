@@ -4,8 +4,8 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY:FERJEE Rush 2025: MIBR vs ODDIK
-DTSTART:20250930T010000Z
-DTEND:20250930T033000Z
+DTSTART:20250930T031500Z
+DTEND:20250930T054500Z
 UID:csgo_mc_2386109@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386109\n赛事: FERJEE Rush 2025\n阶段: 
  淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\n状态:
@@ -14,9 +14,9 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FERJEE Rush 2025: TBD vs TBD
-DTSTART:20250930T020000Z
-DTEND:20250930T043000Z
+SUMMARY:FERJEE Rush 2025: Imperial vs Gaimin Gladiators
+DTSTART:20250930T034500Z
+DTEND:20250930T061500Z
 UID:csgo_mc_2386110@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386110\n赛事: FERJEE Rush 2025\n阶段: 
  淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\n状态:
@@ -428,5 +428,28 @@ DESCRIPTION:比赛ID: csgo_mc_2385919\n赛事: EPL S22第一阶段\n阶段
  态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22第一阶段: FURIA vs Legacy
+DTSTART:20250930T160000Z
+DTEND:20250930T183000Z
+UID:csgo_mc_2385920@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385920\n赛事: EPL S22第一阶段\n阶段
+ : 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: A级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385920
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : RUBY vs FT
+DTSTART:20250930T170000Z
+DTEND:20250930T193000Z
+UID:csgo_mc_2386262@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386262\n赛事: CCT 第3赛季 欧洲系列
+ 赛 8 \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386262
 END:VEVENT
 END:VCALENDAR
