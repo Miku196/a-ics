@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 第三十赛季: Team lynx vs Kalmychata
-DTSTART:20250930T110000Z
-DTEND:20250930T140000Z
-UID:dt_mc_20250930135353rzzco@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250930135353rzzco\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 淘汰赛 胜者组 半决赛\n赛事等级: 其他\n状
- 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250930135353rzzco
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 西欧预选赛: MOUZ vs Z10
-DTSTART:20250930T113000Z
-DTEND:20250930T143000Z
-UID:dt_mc_202509220109173nqcj@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509220109173nqcj\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 封闭预选赛 败者组 1/4决赛\n赛事等级: C级\n
- 状态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509220109173nqcj
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FISSURE 裂变天地 2 中国/东南亚预选赛: Talon vs XctN
 DTSTART:20250930T123000Z
 DTEND:20250930T153000Z
@@ -36,7 +14,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250922011153k469y
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL瓦拉几亚 S6 东南亚预选赛: TBD vs TBD
+SUMMARY:PGL瓦拉几亚 S6 东南亚预选赛: InterActive vs TBD
 DTSTART:20250930T130000Z
 DTEND:20250930T150000Z
 UID:dt_mc_20250929193854dx6b3@5eplay.com
@@ -387,5 +365,38 @@ DESCRIPTION:比赛ID: dt_mc_20250924233858ziolw\n赛制: BO3\n轮次: 1/4
  开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250924233858ziolw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251004T110000Z
+DTEND:20251004T140000Z
+UID:dt_mc_20250711210434rbvu3@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210434rbvu3\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 小组赛 败者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210434rbvu3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20251004T130000Z
+DTEND:20251004T160000Z
+UID:dt_mc_20250924233859gig9k@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250924233859gig9k\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: \n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250924233859gig9k
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251004T140000Z
+DTEND:20251004T170000Z
+UID:dt_mc_20250711210434vu382@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210434vu382\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 小组赛 胜者组 决赛\n赛事等级: 其他\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210434vu382
 END:VEVENT
 END:VCALENDAR
