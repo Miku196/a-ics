@@ -3,20 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 西欧预选赛: Avulus vs VP
-DTSTART:20250930T150000Z
-DTEND:20250930T180000Z
-UID:dt_mc_2025092201115364xeg@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_2025092201115364xeg\n赛制: BO3\n轮次: 决
- 赛\n阶段: 封闭预选赛 胜者组 决赛\n赛事等级: C级\n状态:
-  未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_2025092201115364xeg
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PGL瓦拉几亚 S6 西欧预选赛: VP vs DOGSENT
-DTSTART:20250930T160000Z
-DTEND:20250930T190000Z
+DTSTART:20250930T162000Z
+DTEND:20250930T192000Z
 UID:dt_mc_20250930033852iv1u7@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250930033852iv1u7\n赛制: BO3\n轮次: 半
  决赛\n阶段: 公开预选赛#2  半决赛\n赛事等级: C级\n状态: 
@@ -25,20 +14,9 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250930033852iv1u7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL瓦拉几亚 S6 西欧预选赛: Z10 vs Rog Star
-DTSTART:20250930T160000Z
-DTEND:20250930T190000Z
-UID:dt_mc_20250930033853pgxv0@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250930033853pgxv0\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 公开预选赛#2  半决赛\n赛事等级: C级\n状态: 
- 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250930033853pgxv0
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BB主播大战 第十一季: Rostik vs Goodwin
-DTSTART:20250930T160000Z
-DTEND:20250930T190000Z
+DTSTART:20250930T163000Z
+DTEND:20250930T193000Z
 UID:dt_mc_20250907233306u1et8@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250907233306u1et8\n赛制: BO3\n阶段: 小
  组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
@@ -47,7 +25,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250907233306u1et8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL瓦拉几亚 S6 东欧预选赛: TBD vs TBD
+SUMMARY:PGL瓦拉几亚 S6 东欧预选赛: TBD vs Tea
 DTSTART:20250930T170000Z
 DTEND:20250930T200000Z
 UID:dt_mc_20250929235955tp3ds@5eplay.com
@@ -387,5 +365,49 @@ DESCRIPTION:比赛ID: dt_mc_20250711210435h2eg8\n赛制: BO3\n轮次: 决
  开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250711210435h2eg8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251005T110000Z
+DTEND:20251005T140000Z
+UID:dt_mc_2025071121043646tfq@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_2025071121043646tfq\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 小组赛 败者组 决赛\n赛事等级: 其他\n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_2025071121043646tfq
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20251005T120000Z
+DTEND:20251005T150000Z
+UID:dt_mc_20250924233902zwj0b@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250924233902zwj0b\n赛制: BO3\n轮次: 决
+ 赛\n阶段: 淘汰赛 败者组 决赛\n赛事等级: \n状态: 未开始
+ \n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250924233902zwj0b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20251005T150000Z
+DTEND:20251005T180000Z
+UID:dt_mc_202509242339056pv1c@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509242339056pv1c\n赛制: BO5\n轮次: 总
+ 决赛\n阶段: 淘汰赛  总决赛\n赛事等级: \n状态: 未开始\n
+ 预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509242339056pv1c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: HunterZ vs Tortu Ninjas
+DTSTART:20251006T180000Z
+DTEND:20251006T210000Z
+UID:dt_mc_20250902000253d4e3n@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000253d4e3n\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000253d4e3n
 END:VEVENT
 END:VCALENDAR
