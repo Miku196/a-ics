@@ -69,7 +69,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509220109173nqcj
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FISSURE 裂变天地 2 中国/东南亚预选赛: TBD vs TBD
+SUMMARY:FISSURE 裂变天地 2 中国/东南亚预选赛: Talon vs TBD
 DTSTART:20250930T123000Z
 DTEND:20250930T153000Z
 UID:dt_mc_20250922011153k469y@5eplay.com
@@ -201,7 +201,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000316zx3u1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL瓦拉几亚 S6 美洲预选赛: Allstars vs TBD
+SUMMARY:PGL瓦拉几亚 S6 美洲预选赛: Allstars vs Perros angryy
 DTSTART:20250930T210000Z
 DTEND:20251001T000000Z
 UID:dt_mc_20250930005952rmex3@5eplay.com
@@ -420,5 +420,27 @@ DESCRIPTION:比赛ID: dt_mc_202507112104347zip8\n赛制: BO3\n轮次: 半
  态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202507112104347zip8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: TBD vs TBD
+DTSTART:20251004T100000Z
+DTEND:20251004T130000Z
+UID:dt_mc_20250924233858ziolw@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250924233858ziolw\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: \n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250924233858ziolw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251004T110000Z
+DTEND:20251004T140000Z
+UID:dt_mc_20250711210434rbvu3@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210434rbvu3\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 小组赛 败者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210434rbvu3
 END:VEVENT
 END:VCALENDAR
