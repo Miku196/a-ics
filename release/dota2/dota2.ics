@@ -3,15 +3,26 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: EB vs Tortu Ninjas
-DTSTART:20251001T210000Z
-DTEND:20251002T000000Z
-UID:dt_mc_20250902000552ihsbe@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902000552ihsbe\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
+SUMMARY:欧洲职业联赛 第三十赛季: eSpoiled vs L1ga
+DTSTART:20251002T090000Z
+DTEND:20251002T120000Z
+UID:dt_mc_20251002043853soho4@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20251002043853soho4\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小
+ 时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902000552ihsbe
+URL:https://event.5eplay.com/dota/session/dt_mc_20251002043853soho4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: Team lynx vs Nemiga
+DTSTART:20251002T120000Z
+DTEND:20251002T150000Z
+UID:dt_mc_20251002043552n5kbr@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20251002043552n5kbr\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小
+ 时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20251002043552n5kbr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BB主播大战 第十一季: Team Morphilina vs Stray
@@ -23,6 +34,17 @@ DESCRIPTION:比赛ID: dt_mc_20250907233300i78hd\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250907233300i78hd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 第三十赛季: TBD vs TBD
+DTSTART:20251002T150000Z
+DTEND:20251002T180000Z
+UID:dt_mc_202510020435522bzhn@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202510020435522bzhn\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小
+ 时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202510020435522bzhn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BB主播大战 第十一季: Team Morphilina vs Cooman
@@ -397,27 +419,5 @@ DESCRIPTION:比赛ID: dt_mc_202507112104414wz0o\n赛制: BO3\n轮次: 半
  态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202507112104414wz0o
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
-DTSTART:20251008T170000Z
-DTEND:20251008T200000Z
-UID:dt_mc_20250711210441vyvpa@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250711210441vyvpa\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 淘汰赛 胜者组 半决赛\n赛事等级: 其他\n状
- 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250711210441vyvpa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACS 系列赛 2: EB vs HunterZ
-DTSTART:20251008T180000Z
-DTEND:20251008T210000Z
-UID:dt_mc_20250902000257z9is4@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250902000257z9is4\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250902000257z9is4
 END:VEVENT
 END:VCALENDAR

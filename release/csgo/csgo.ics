@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 南美: Atrix vs Curralzinho
-DTSTART:20251001T210000Z
-DTEND:20251001T233000Z
-UID:csgo_mc_2386161@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386161\n赛事: ESL Impact 联赛 第8赛
- 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386161
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 南美: thekillaz fe vs Four Magic
-DTSTART:20251001T210000Z
-DTEND:20251001T233000Z
-UID:csgo_mc_2386162@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386162\n赛事: ESL Impact 联赛 第8赛
- 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386162
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 北美系列赛2: regain vs Money Crew
-DTSTART:20251001T213000Z
-DTEND:20251002T000000Z
-UID:csgo_mc_2386288@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386288\n赛事:  CCT 第3赛季 北美系
- 列赛2\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386288
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL Impact 联赛 第8赛季 北美: Shimmer vs The Little Bocks
 DTSTART:20251001T233000Z
 DTEND:20251002T020000Z
@@ -105,7 +71,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386236
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : Tricked vs Dziuseppe
 DTSTART:20251002T080000Z
 DTEND:20251002T103000Z
 UID:csgo_mc_2386267@5eplay.com
@@ -185,7 +151,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386237
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : ex-SENZA vs Mousquetaires
 DTSTART:20251002T110000Z
 DTEND:20251002T133000Z
 UID:csgo_mc_2386268@5eplay.com
@@ -298,7 +264,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386238
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : EYE vs 1win
 DTSTART:20251002T140000Z
 DTEND:20251002T163000Z
 UID:csgo_mc_2386269@5eplay.com
@@ -399,7 +365,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386239
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : RUBY vs Y5
 DTSTART:20251002T170000Z
 DTEND:20251002T193000Z
 UID:csgo_mc_2386270@5eplay.com
@@ -420,5 +386,39 @@ DESCRIPTION:比赛ID: csgo_mc_2386354\n赛事: Exort试验场 第五季\n
  n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 南美 S1: TBD vs TBD
+DTSTART:20251002T173000Z
+DTEND:20251002T200000Z
+UID:csgo_mc_2386385@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386385\n赛事: Circuit X 南美 S1\n阶段
+ : 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386385
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Nemesis Impact vs shinigami
+DTSTART:20251002T183000Z
+DTEND:20251002T210000Z
+UID:csgo_mc_2386160@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386160\n赛事: ESL Impact 联赛 第8赛
+ 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
+ 始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386160
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Flame Sharks fe vs AKA HERO K
+ AJO
+DTSTART:20251002T183000Z
+DTEND:20251002T210000Z
+UID:csgo_mc_2386159@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386159\n赛事: ESL Impact 联赛 第8赛
+ 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
+ 始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386159
 END:VEVENT
 END:VCALENDAR
