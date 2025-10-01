@@ -31,8 +31,9 @@ DTSTART:20251001T080000Z
 DTEND:20251001T103000Z
 UID:csgo_mc_2386363@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386363\n赛事: NODWIN Clutch 系列 1 公
- 开预选\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2
- .5小时\n数据来源: 5EPlay
+ 开预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386363
 END:VEVENT
@@ -87,8 +88,9 @@ DTSTART:20251001T110000Z
 DTEND:20251001T133000Z
 UID:csgo_mc_2386364@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386364\n赛事: NODWIN Clutch 系列 1 公
- 开预选\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2
- .5小时\n数据来源: 5EPlay
+ 开预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386364
 END:VEVENT
