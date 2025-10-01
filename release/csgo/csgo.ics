@@ -432,4 +432,15 @@ DESCRIPTION:比赛ID: csgo_mc_2386136\n赛事: United21 联赛 第38赛季
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386136
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第8赛季: Betera vs SPARTA
+DTSTART:20251002T110000Z
+DTEND:20251002T133000Z
+UID:csgo_mc_2386218@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386218\n赛事: Winline Insight 第8赛季\
+ n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386218
+END:VEVENT
 END:VCALENDAR
