@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: Voodoosh vs Team Solo
-DTSTART:20251001T150000Z
-DTEND:20251001T180000Z
-UID:dt_mc_20250907235953qoug2@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250907235953qoug2\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250907235953qoug2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 第三十赛季: Passion vs Kalmychata
-DTSTART:20251001T150000Z
-DTEND:20251001T180000Z
-UID:dt_mc_202510011320532lim7@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202510011320532lim7\n赛制: BO3\n阶段: 未
- 分组阶段\n赛事等级: 其他\n状态: 未开始\n预计时长: 3小
- 时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202510011320532lim7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ACS 系列赛 2: Allstars vs Lava
 DTSTART:20251001T180000Z
 DTEND:20251001T210000Z
@@ -419,5 +397,27 @@ DESCRIPTION:比赛ID: dt_mc_20250902000257o5hn6\n赛制: BO3\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250902000257o5hn6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251008T080000Z
+DTEND:20251008T110000Z
+UID:dt_mc_20250711210440jcs8o@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210440jcs8o\n赛制: BO3\n轮次: 第1
+ 轮\n阶段: 淘汰赛 败者组 第1轮\n赛事等级: 其他\n状态: 
+ 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210440jcs8o
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251008T110000Z
+DTEND:20251008T140000Z
+UID:dt_mc_20250711210440ui2zy@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210440ui2zy\n赛制: BO3\n轮次: 第1
+ 轮\n阶段: 淘汰赛 败者组 第1轮\n赛事等级: 其他\n状态: 
+ 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210440ui2zy
 END:VEVENT
 END:VCALENDAR
