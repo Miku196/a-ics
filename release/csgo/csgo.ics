@@ -3,63 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : ESC vs Mousquetaires
-DTSTART:20251001T110000Z
-DTEND:20251001T133000Z
-UID:csgo_mc_2386264@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386264\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386264
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: JJH vs TPuDCATb_TPu
-DTSTART:20251001T110000Z
-DTEND:20251001T133000Z
-UID:csgo_mc_2386348@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386348\n赛事: Exort试验场 第五季\n
- 阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386348
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 1 公开预选: Leo vs K27
-DTSTART:20251001T110000Z
-DTEND:20251001T133000Z
-UID:csgo_mc_2386364@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386364\n赛事: NODWIN Clutch 系列 1 公
- 开预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3
- \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
- : 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386364
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: GL vs B8
-DTSTART:20251001T113000Z
-DTEND:20251001T140000Z
-UID:csgo_mc_2385921@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385921\n赛事: EPL S22第一阶段\n阶段
- : 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: A级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385921
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPL S22第一阶段: G2 vs Fluxo
-DTSTART:20251001T113000Z
-DTEND:20251001T140000Z
-UID:csgo_mc_2385922@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385922\n赛事: EPL S22第一阶段\n阶段
- : 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: A级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385922
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 7: FT vs ESC
 DTSTART:20251001T130000Z
 DTEND:20251001T153000Z
@@ -398,6 +341,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386367
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:XSE 亚洲职业邀请赛 上海 2025: RA vs CTG
+DTSTART:20251002T090000Z
+DTEND:20251002T113000Z
+UID:csgo_mc_2386377@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386377\n赛事: XSE 亚洲职业邀请赛 
+ 上海 2025\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386377
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Winline Insight 第8赛季: Betera vs SPARTA
 DTSTART:20251002T110000Z
 DTEND:20251002T133000Z
@@ -419,5 +374,17 @@ DESCRIPTION:比赛ID: csgo_mc_2386237\n赛事: NODWIN Clutch 系列 1 公
  : 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386237
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : TBD vs TBD
+DTSTART:20251002T110000Z
+DTEND:20251002T133000Z
+UID:csgo_mc_2386268@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386268\n赛事: CCT 第3赛季 欧洲系列
+ 赛 8 \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386268
 END:VEVENT
 END:VCALENDAR
