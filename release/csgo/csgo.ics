@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 7: BB vs CYBERSHOKE
-DTSTART:20251001T100000Z
-DTEND:20251001T123000Z
-UID:csgo_mc_2386004@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386004\n赛事: CCT 第3赛季 欧洲系列
- 赛 7\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386004
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 8 : ESC vs Mousquetaires
 DTSTART:20251001T110000Z
 DTEND:20251001T133000Z
@@ -47,17 +36,6 @@ DESCRIPTION:比赛ID: csgo_mc_2386364\n赛事: NODWIN Clutch 系列 1 公
  : 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386364
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段: Partizan vs CPH Wolves
-DTSTART:20251001T110000Z
-DTEND:20251001T133000Z
-UID:csgo_mc_2386192@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386192\n赛事: 银河之战 2025 第4阶
- 段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386192
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EPL S22第一阶段: GL vs B8
@@ -341,6 +319,28 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386289
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESN Fall Showdown 2025: The QUBE vs CW
+DTSTART:20251002T030000Z
+DTEND:20251002T053000Z
+UID:csgo_mc_2386365@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386365\n赛事: ESN Fall Showdown 2025\n阶
+ 段: 淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
+ : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESN Fall Showdown 2025: The Huns vs NomadS
+DTSTART:20251002T060000Z
+DTEND:20251002T083000Z
+UID:csgo_mc_2386366@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386366\n赛事: ESN Fall Showdown 2025\n阶
+ 段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386366
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NODWIN Clutch 系列 1 公开预选: Khan vs UNiTY
 DTSTART:20251002T080000Z
 DTEND:20251002T103000Z
@@ -376,7 +376,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386351
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第38赛季: fish123 vs TBD
+SUMMARY:United21 联赛 第38赛季: fish123 vs WOPA
 DTSTART:20251002T080000Z
 DTEND:20251002T103000Z
 UID:csgo_mc_2386136@5eplay.com
@@ -385,6 +385,17 @@ DESCRIPTION:比赛ID: csgo_mc_2386136\n赛事: United21 联赛 第38赛季
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386136
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESN Fall Showdown 2025: TBD vs TBD
+DTSTART:20251002T090000Z
+DTEND:20251002T113000Z
+UID:csgo_mc_2386367@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386367\n赛事: ESN Fall Showdown 2025\n阶
+ 段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386367
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winline Insight 第8赛季: Betera vs SPARTA
