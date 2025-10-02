@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: Rostik vs Voodoosh
-DTSTART:20251002T190000Z
-DTEND:20251002T220000Z
-UID:dt_mc_202509072359567ctpu@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202509072359567ctpu\n赛制: BO3\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202509072359567ctpu
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第2赛季 系列赛 5: Z10 vs Runa
 DTSTART:20251003T080000Z
 DTEND:20251003T110000Z
@@ -36,7 +25,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510020435522bzhn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: TBD vs TBD
+SUMMARY:BB主播大战 第十一季: Rostik vs Stray
 DTSTART:20251003T100000Z
 DTEND:20251003T130000Z
 UID:dt_mc_20250924233853e6xa5@5eplay.com
@@ -69,7 +58,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025100300415236glh
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: By_owl vs TBD
+SUMMARY:BB主播大战 第十一季: By_owl vs YBN
 DTSTART:20251003T130000Z
 DTEND:20251003T160000Z
 UID:dt_mc_202509242338543qz0q@5eplay.com
@@ -91,7 +80,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202507112104321s8wh
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: TBD vs TBD
+SUMMARY:BB主播大战 第十一季: Travoman vs Team Solo
 DTSTART:20251003T160000Z
 DTEND:20251003T190000Z
 UID:dt_mc_20250924233855pffac@5eplay.com
@@ -113,7 +102,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250711210433hb0k1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: TBD vs TBD
+SUMMARY:BB主播大战 第十一季: Goodwin vs Cooman
 DTSTART:20251003T190000Z
 DTEND:20251003T220000Z
 UID:dt_mc_20250924233856w5nrg@5eplay.com
@@ -419,5 +408,27 @@ DESCRIPTION:比赛ID: dt_mc_20250929230252n9bq9\n赛制: BO3\n阶段: 未
  \n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250929230252n9bq9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST Slam V: TBD vs TBD
+DTSTART:20251010T060000Z
+DTEND:20251010T090000Z
+UID:dt_mc_202509292302537vyy7@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509292302537vyy7\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509292302537vyy7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST Slam V: TBD vs TBD
+DTSTART:20251010T090000Z
+DTEND:20251010T120000Z
+UID:dt_mc_2025092922385264235@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_2025092922385264235\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_2025092922385264235
 END:VEVENT
 END:VCALENDAR
