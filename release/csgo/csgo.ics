@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESN Fall Showdown 2025: CW vs TBD
-DTSTART:20251002T090000Z
-DTEND:20251002T113000Z
-UID:csgo_mc_2386367@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386367\n赛事: ESN Fall Showdown 2025\n阶
- 段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386367
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:XSE 亚洲职业邀请赛 上海 2025: RA vs CTG
-DTSTART:20251002T090000Z
-DTEND:20251002T113000Z
-UID:csgo_mc_2386377@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386377\n赛事: XSE 亚洲职业邀请赛 
- 上海 2025\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386377
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Winline Insight 第8赛季: Betera vs SPARTA
 DTSTART:20251002T110000Z
 DTEND:20251002T133000Z
@@ -94,7 +71,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385927
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESN Fall Showdown 2025: TBD vs TBD
+SUMMARY:ESN Fall Showdown 2025: The Huns vs TBD
 DTSTART:20251002T120000Z
 DTEND:20251002T143000Z
 UID:csgo_mc_2386368@5eplay.com
@@ -396,5 +373,39 @@ DESCRIPTION:比赛ID: csgo_mc_2386387\n赛事: Circuit X 南美 S1\n阶段
  n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 北美: black mold vs FLYRED
+DTSTART:20251002T233000Z
+DTEND:20251003T020000Z
+UID:csgo_mc_2386168@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386168\n赛事: ESL Impact 联赛 第8赛
+ 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386168
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 北美: Ghost vs wwaves
+DTSTART:20251002T233000Z
+DTEND:20251003T020000Z
+UID:csgo_mc_2386167@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386167\n赛事: ESL Impact 联赛 第8赛
+ 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386167
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 北美系列赛2: regain vs FULL SEND
+DTSTART:20251003T003000Z
+DTEND:20251003T030000Z
+UID:csgo_mc_2386303@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386303\n赛事:  CCT 第3赛季 北美系
+ 列赛2\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386303
 END:VEVENT
 END:VCALENDAR
