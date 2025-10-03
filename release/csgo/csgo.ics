@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: ODDIK vs NAOCOPULAS
-DTSTART:20251003T210000Z
-DTEND:20251003T233000Z
-UID:csgo_mc_2386375@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386375\n赛事: Circuit X 南美 S1\n阶段
- : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386375
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: Keyd vs Four Magic
-DTSTART:20251003T210000Z
-DTEND:20251003T233000Z
-UID:csgo_mc_2386376@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386376\n赛事: Circuit X 南美 S1\n阶段
- : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386376
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 北美系列赛2: Zomblers vs Arrival Seven
-DTSTART:20251003T213000Z
-DTEND:20251004T000000Z
-UID:csgo_mc_2386304@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386304\n赛事:  CCT 第3赛季 北美系
- 列赛2\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386304
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Circuit X 南美 S1: TBD vs TBD
 DTSTART:20251003T223000Z
 DTEND:20251004T010000Z
@@ -139,6 +105,17 @@ DESCRIPTION:比赛ID: csgo_mc_2386359\n赛事: Exort试验场 第五季\n
  n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386359
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 1 公开预选: m1x vs MANA
+DTSTART:20251004T080000Z
+DTEND:20251004T103000Z
+UID:csgo_mc_2386669@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386669\n赛事: NODWIN Clutch 系列 1 公
+ 开预选\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2
+ .5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386669
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EPL S22: MOUZ vs GL
