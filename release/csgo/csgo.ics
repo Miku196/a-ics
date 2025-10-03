@@ -4,8 +4,8 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY:Circuit X 南美 S1: Imperial vs ALZON
-DTSTART:20251002T233000Z
-DTEND:20251003T020000Z
+DTSTART:20251003T010000Z
+DTEND:20251003T033000Z
 UID:csgo_mc_2386371@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386371\n赛事: Circuit X 南美 S1\n阶段
  : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
@@ -15,48 +15,14 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2386371
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Circuit X 南美 S1: 2GAME vs Gaimin Gladiators
-DTSTART:20251002T233000Z
-DTEND:20251003T020000Z
+DTSTART:20251003T010000Z
+DTEND:20251003T033000Z
 UID:csgo_mc_2386372@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386372\n赛事: Circuit X 南美 S1\n阶段
  : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
  n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386372
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 北美: black mold vs FLYRED
-DTSTART:20251002T233000Z
-DTEND:20251003T020000Z
-UID:csgo_mc_2386168@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386168\n赛事: ESL Impact 联赛 第8赛
- 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386168
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 北美: Ghost vs wwaves
-DTSTART:20251002T233000Z
-DTEND:20251003T020000Z
-UID:csgo_mc_2386167@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386167\n赛事: ESL Impact 联赛 第8赛
- 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386167
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 北美系列赛2: regain vs FULL SEND
-DTSTART:20251003T003000Z
-DTEND:20251003T030000Z
-UID:csgo_mc_2386303@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386303\n赛事:  CCT 第3赛季 北美系
- 列赛2\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386303
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Circuit X 南美 S1: TBD vs TBD
@@ -284,6 +250,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386390
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:T-Esports Championship Season 4: LK vs Superior
+DTSTART:20251003T160000Z
+DTEND:20251003T183000Z
+UID:csgo_mc_2386497@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386497\n赛事: T-Esports Championship Seas
+ on 4\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小
+ 时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386497
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:银河之战 2025 第4阶段: Sangal vs 500
 DTSTART:20251003T170000Z
 DTEND:20251003T193000Z
@@ -338,6 +315,17 @@ DESCRIPTION:比赛ID: csgo_mc_2386391\n赛事: Circuit X 南美 S1\n阶段
  n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386391
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:T-Esports Championship Season 4: Dziuseppe vs MANA
+DTSTART:20251003T183000Z
+DTEND:20251003T210000Z
+UID:csgo_mc_2386495@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386495\n赛事: T-Esports Championship Seas
+ on 4\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小
+ 时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386495
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Circuit X 南美 S1: ODDIK vs NAOCOPULAS
@@ -406,5 +394,28 @@ DESCRIPTION:比赛ID: csgo_mc_2386305\n赛事:  CCT 第3赛季 北美系
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386305
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 南美 S1: TBD vs TBD
+DTSTART:20251004T010000Z
+DTEND:20251004T033000Z
+UID:csgo_mc_2386394@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386394\n赛事: Circuit X 南美 S1\n阶段
+ : 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386394
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRAG 公开 系列赛 第1季: SemperFi vs Vantage
+DTSTART:20251004T020000Z
+DTEND:20251004T043000Z
+UID:csgo_mc_2386151@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386151\n赛事: DFRAG 公开 系列赛 第1
+ 季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386151
 END:VEVENT
 END:VCALENDAR
