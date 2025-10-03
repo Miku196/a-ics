@@ -3,31 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: Imperial vs ALZON
-DTSTART:20251003T010000Z
-DTEND:20251003T033000Z
-UID:csgo_mc_2386371@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386371\n赛事: Circuit X 南美 S1\n阶段
- : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386371
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: 2GAME vs Gaimin Gladiators
-DTSTART:20251003T010000Z
-DTEND:20251003T033000Z
-UID:csgo_mc_2386372@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386372\n赛事: Circuit X 南美 S1\n阶段
- : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386372
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: TBD vs TBD
-DTSTART:20251003T023000Z
-DTEND:20251003T050000Z
+SUMMARY:Circuit X 南美 S1: Imperial vs TBD
+DTSTART:20251003T033000Z
+DTEND:20251003T060000Z
 UID:csgo_mc_2386386@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386386\n赛事: Circuit X 南美 S1\n阶段
  : 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\
@@ -36,9 +14,9 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386386
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: TBD vs TBD
-DTSTART:20251003T023000Z
-DTEND:20251003T050000Z
+SUMMARY:Circuit X 南美 S1: ALZON vs TBD
+DTSTART:20251003T033000Z
+DTEND:20251003T060000Z
 UID:csgo_mc_2386387@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386387\n赛事: Circuit X 南美 S1\n阶段
  : 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
@@ -109,8 +87,9 @@ DTSTART:20251003T110000Z
 DTEND:20251003T133000Z
 UID:csgo_mc_2386492@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386492\n赛事: NODWIN Clutch 系列 1 公
- 开预选\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2
- .5小时\n数据来源: 5EPlay
+ 开预选\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386492
 END:VEVENT
@@ -199,8 +178,9 @@ DTSTART:20251003T140000Z
 DTEND:20251003T163000Z
 UID:csgo_mc_2386493@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386493\n赛事: NODWIN Clutch 系列 1 公
- 开预选\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2
- .5小时\n数据来源: 5EPlay
+ 开预选\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386493
 END:VEVENT
@@ -250,13 +230,13 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386390
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:T-Esports Championship Season 4: LK vs Superior
+SUMMARY:T-Esports 锦标赛 第4季: LK vs Superior
 DTSTART:20251003T160000Z
 DTEND:20251003T183000Z
 UID:csgo_mc_2386497@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386497\n赛事: T-Esports Championship Seas
- on 4\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小
- 时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2386497\n赛事: T-Esports 锦标赛 第4季
+ \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386497
 END:VEVENT
@@ -277,8 +257,9 @@ DTSTART:20251003T170000Z
 DTEND:20251003T193000Z
 UID:csgo_mc_2386494@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386494\n赛事: NODWIN Clutch 系列 1 公
- 开预选\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2
- .5小时\n数据来源: 5EPlay
+ 开预选\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386494
 END:VEVENT
@@ -317,13 +298,13 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386391
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:T-Esports Championship Season 4: Dziuseppe vs MANA
+SUMMARY:T-Esports 锦标赛 第4季: Dziuseppe vs MANA
 DTSTART:20251003T183000Z
 DTEND:20251003T210000Z
 UID:csgo_mc_2386495@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386495\n赛事: T-Esports Championship Seas
- on 4\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小
- 时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2386495\n赛事: T-Esports 锦标赛 第4季
+ \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386495
 END:VEVENT
@@ -417,5 +398,41 @@ DESCRIPTION:比赛ID: csgo_mc_2386151\n赛事: DFRAG 公开 系列赛 第1
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386151
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRAG 公开 系列赛 第1季: Mindfreak vs Gz
+DTSTART:20251004T020000Z
+DTEND:20251004T043000Z
+UID:csgo_mc_2386152@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386152\n赛事: DFRAG 公开 系列赛 第1
+ 季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386152
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRAG 公开 系列赛 第1季: TBD vs TBD
+DTSTART:20251004T050000Z
+DTEND:20251004T073000Z
+UID:csgo_mc_2386153@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386153\n赛事: DFRAG 公开 系列赛 第1
+ 季\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386153
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRAG 公开 系列赛 第1季: TBD vs TBD
+DTSTART:20251004T050000Z
+DTEND:20251004T073000Z
+UID:csgo_mc_2386154@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386154\n赛事: DFRAG 公开 系列赛 第1
+ 季\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386154
 END:VEVENT
 END:VCALENDAR
