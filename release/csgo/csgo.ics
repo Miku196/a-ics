@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:XSE 亚洲职业邀请赛 上海 2025: RA vs FengDa
-DTSTART:20251003T090000Z
-DTEND:20251003T113000Z
-UID:csgo_mc_2386379@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386379\n赛事: XSE 亚洲职业邀请赛 
- 上海 2025\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386379
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Winline Insight 第8赛季: JJH vs SPARTA
 DTSTART:20251003T110000Z
 DTEND:20251003T133000Z
@@ -434,5 +422,17 @@ DESCRIPTION:比赛ID: csgo_mc_2385931\n赛事: EPL S22\n阶段: 小组赛
  预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385931
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XSE 亚洲职业邀请赛 上海 2025: TBD vs TBD
+DTSTART:20251004T090000Z
+DTEND:20251004T113000Z
+UID:csgo_mc_2386381@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386381\n赛事: XSE 亚洲职业邀请赛 
+ 上海 2025\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386381
 END:VEVENT
 END:VCALENDAR
