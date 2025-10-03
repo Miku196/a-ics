@@ -4,8 +4,8 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY:Circuit X 南美 S1: Imperial vs TBD
-DTSTART:20251003T033000Z
-DTEND:20251003T060000Z
+DTSTART:20251003T043000Z
+DTEND:20251003T070000Z
 UID:csgo_mc_2386386@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386386\n赛事: Circuit X 南美 S1\n阶段
  : 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\
@@ -15,8 +15,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2386386
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Circuit X 南美 S1: ALZON vs TBD
-DTSTART:20251003T033000Z
-DTEND:20251003T060000Z
+DTSTART:20251003T043000Z
+DTEND:20251003T070000Z
 UID:csgo_mc_2386387@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386387\n赛事: Circuit X 南美 S1\n阶段
  : 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
