@@ -4,8 +4,8 @@ PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
 SUMMARY:BB主播大战 第十一季: Rostik vs Stray
-DTSTART:20251003T193000Z
-DTEND:20251003T223000Z
+DTSTART:20251003T203000Z
+DTEND:20251003T233000Z
 UID:dt_mc_20250924233853e6xa5@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250924233853e6xa5\n赛制: BO3\n轮次: 半
  决赛\n阶段: 淘汰赛 胜者组 半决赛\n赛事等级: \n状态: 未
@@ -36,7 +36,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250924233858ziolw
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第2赛季 系列赛 5: VP.P vs TBD
+SUMMARY:CCT 第2赛季 系列赛 5: VP.P vs eSpoiled
 DTSTART:20251004T110000Z
 DTEND:20251004T140000Z
 UID:dt_mc_20250711210434rbvu3@5eplay.com
@@ -80,7 +80,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250924233900meg6s
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第2赛季 系列赛 5: Tea vs TBD
+SUMMARY:CCT 第2赛季 系列赛 5: Tea vs Yes
 DTSTART:20251004T170000Z
 DTEND:20251004T200000Z
 UID:dt_mc_202507112104351igzc@5eplay.com
@@ -106,9 +106,9 @@ SUMMARY:Fissure Universe Ep 7: Avulus vs OG
 DTSTART:20251005T080000Z
 DTEND:20251005T100000Z
 UID:dt_mc_20251003210254h3z1q@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251003210254h3z1q\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20251003210254h3z1q\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003210254h3z1q
 END:VEVENT
@@ -128,9 +128,9 @@ SUMMARY:Fissure Universe Ep 7: MOUZ vs Yes
 DTSTART:20251005T100000Z
 DTEND:20251005T120000Z
 UID:dt_mc_20251003210254czyja@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251003210254czyja\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20251003210254czyja\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003210254czyja
 END:VEVENT
@@ -150,9 +150,9 @@ SUMMARY:Fissure Universe Ep 7: Apex vs 1win
 DTSTART:20251005T120000Z
 DTEND:20251005T140000Z
 UID:dt_mc_202510032102556l39p@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202510032102556l39p\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_202510032102556l39p\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510032102556l39p
 END:VEVENT
@@ -172,9 +172,9 @@ SUMMARY:Fissure Universe Ep 7: TY vs L1ga
 DTSTART:20251005T140000Z
 DTEND:20251005T160000Z
 UID:dt_mc_20251003210256n4er2@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251003210256n4er2\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20251003210256n4er2\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003210256n4er2
 END:VEVENT
@@ -194,9 +194,9 @@ SUMMARY:Fissure Universe Ep 7: Runa vs Apex
 DTSTART:20251005T160000Z
 DTEND:20251005T180000Z
 UID:dt_mc_20251003210257n2qf5@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251003210257n2qf5\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20251003210257n2qf5\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003210257n2qf5
 END:VEVENT
@@ -227,9 +227,9 @@ SUMMARY:Fissure Universe Ep 7: MOUZ vs TY
 DTSTART:20251006T080000Z
 DTEND:20251006T100000Z
 UID:dt_mc_20251003210258n3cba@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251003210258n3cba\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20251003210258n3cba\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003210258n3cba
 END:VEVENT
@@ -238,9 +238,9 @@ SUMMARY:Fissure Universe Ep 7: Avulus vs 1win
 DTSTART:20251006T100000Z
 DTEND:20251006T120000Z
 UID:dt_mc_202510032102591t6kl@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202510032102591t6kl\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_202510032102591t6kl\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510032102591t6kl
 END:VEVENT
@@ -249,9 +249,9 @@ SUMMARY:Fissure Universe Ep 7: VP vs Yes
 DTSTART:20251006T120000Z
 DTEND:20251006T140000Z
 UID:dt_mc_202510032103009tnzj@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202510032103009tnzj\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_202510032103009tnzj\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510032103009tnzj
 END:VEVENT
@@ -260,9 +260,9 @@ SUMMARY:Fissure Universe Ep 7: Runa vs OG
 DTSTART:20251006T140000Z
 DTEND:20251006T160000Z
 UID:dt_mc_20251003210301tbx8o@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251003210301tbx8o\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20251003210301tbx8o\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003210301tbx8o
 END:VEVENT
@@ -271,20 +271,20 @@ SUMMARY:Fissure Universe Ep 7: VP vs L1ga
 DTSTART:20251006T160000Z
 DTEND:20251006T180000Z
 UID:dt_mc_20251003213853k808k@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251003213853k808k\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20251003213853k808k\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003213853k808k
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: TBD vs TBD
+SUMMARY:Fissure Universe Ep 7: 1win vs Runa
 DTSTART:20251007T080000Z
 DTEND:20251007T100000Z
 UID:dt_mc_20251003213854rcd6t@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251003213854rcd6t\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20251003213854rcd6t\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003213854rcd6t
 END:VEVENT
@@ -304,9 +304,9 @@ SUMMARY:Fissure Universe Ep 7: L1ga vs MOUZ
 DTSTART:20251007T100000Z
 DTEND:20251007T120000Z
 UID:dt_mc_20251003210305su2kq@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251003210305su2kq\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20251003210305su2kq\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003210305su2kq
 END:VEVENT
@@ -326,9 +326,9 @@ SUMMARY:Fissure Universe Ep 7: 1win vs OG
 DTSTART:20251007T120000Z
 DTEND:20251007T140000Z
 UID:dt_mc_2025100321030531vhr@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_2025100321030531vhr\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_2025100321030531vhr\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025100321030531vhr
 END:VEVENT
@@ -337,9 +337,9 @@ SUMMARY:Fissure Universe Ep 7: VP vs TY
 DTSTART:20251007T140000Z
 DTEND:20251007T160000Z
 UID:dt_mc_20251003210307w8oo7@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251003210307w8oo7\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20251003210307w8oo7\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003210307w8oo7
 END:VEVENT
@@ -359,9 +359,9 @@ SUMMARY:Fissure Universe Ep 7: Avulus vs Apex
 DTSTART:20251007T160000Z
 DTEND:20251007T180000Z
 UID:dt_mc_202510032138568lmfl@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202510032138568lmfl\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_202510032138568lmfl\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510032138568lmfl
 END:VEVENT
@@ -381,9 +381,9 @@ SUMMARY:Fissure Universe Ep 7: L1ga vs Yes
 DTSTART:20251008T080000Z
 DTEND:20251008T100000Z
 UID:dt_mc_2025100321030745i5q@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_2025100321030745i5q\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_2025100321030745i5q\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025100321030745i5q
 END:VEVENT
@@ -403,10 +403,32 @@ SUMMARY:Fissure Universe Ep 7: Avulus vs Runa
 DTSTART:20251008T100000Z
 DTEND:20251008T120000Z
 UID:dt_mc_202510032103089f46a@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202510032103089f46a\n赛制: BO2\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_202510032103089f46a\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510032103089f46a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251008T110000Z
+DTEND:20251008T140000Z
+UID:dt_mc_20250711210440ui2zy@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210440ui2zy\n赛制: BO3\n轮次: 第1
+ 轮\n阶段: 淘汰赛 败者组 第1轮\n赛事等级: 其他\n状态: 
+ 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210440ui2zy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fissure Universe Ep 7: Yes vs TY
+DTSTART:20251008T120000Z
+DTEND:20251008T140000Z
+UID:dt_mc_202510032103097xlqh@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202510032103097xlqh\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202510032103097xlqh
 END:VEVENT
 END:VCALENDAR

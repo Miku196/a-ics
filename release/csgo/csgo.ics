@@ -3,20 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:T-Esports 锦标赛 第4季: Dziuseppe vs MANA
-DTSTART:20251003T183000Z
-DTEND:20251003T210000Z
-UID:csgo_mc_2386495@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386495\n赛事: T-Esports 锦标赛 第4季
- \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386495
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Circuit X 南美 S1: ODDIK vs NAOCOPULAS
-DTSTART:20251003T200000Z
-DTEND:20251003T223000Z
+DTSTART:20251003T210000Z
+DTEND:20251003T233000Z
 UID:csgo_mc_2386375@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386375\n赛事: Circuit X 南美 S1\n阶段
  : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
@@ -26,8 +15,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2386375
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Circuit X 南美 S1: Keyd vs Four Magic
-DTSTART:20251003T200000Z
-DTEND:20251003T223000Z
+DTSTART:20251003T210000Z
+DTEND:20251003T233000Z
 UID:csgo_mc_2386376@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386376\n赛事: Circuit X 南美 S1\n阶段
  : 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
@@ -141,18 +130,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386154
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : TBD vs TBD
-DTSTART:20251004T080000Z
-DTEND:20251004T103000Z
-UID:csgo_mc_2386315@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386315\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386315
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Exort试验场 第五季: JJH vs Oramond
 DTSTART:20251004T080000Z
 DTEND:20251004T103000Z
@@ -198,7 +175,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386381
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : ex-SENZA vs Dziuseppe
 DTSTART:20251004T110000Z
 DTEND:20251004T133000Z
 UID:csgo_mc_2386316@5eplay.com
@@ -276,7 +253,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385934
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : Johnny Speeds vs FT
 DTSTART:20251004T140000Z
 DTEND:20251004T163000Z
 UID:csgo_mc_2386317@5eplay.com
@@ -321,6 +298,50 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386395
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fragadelphia Blocktober 2025: Venom vs BIG
+DTSTART:20251004T140000Z
+DTEND:20251004T163000Z
+UID:csgo_mc_2386654@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386654\n赛事: Fragadelphia Blocktober 202
+ 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386654
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragadelphia Blocktober 2025: CPH Wolves vs TBD
+DTSTART:20251004T140000Z
+DTEND:20251004T163000Z
+UID:csgo_mc_2386655@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386655\n赛事: Fragadelphia Blocktober 202
+ 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386655
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragadelphia Blocktober 2025: OG vs TBD
+DTSTART:20251004T140000Z
+DTEND:20251004T163000Z
+UID:csgo_mc_2386656@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386656\n赛事: Fragadelphia Blocktober 202
+ 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386656
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragadelphia Blocktober 2025: FNC vs TBD
+DTSTART:20251004T140000Z
+DTEND:20251004T163000Z
+UID:csgo_mc_2386653@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386653\n赛事: Fragadelphia Blocktober 202
+ 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386653
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EPL S22: G2 vs FaZe
 DTSTART:20251004T160000Z
 DTEND:20251004T183000Z
@@ -343,7 +364,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385937
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : ZT vs Mousquetaires
 DTSTART:20251004T170000Z
 DTEND:20251004T193000Z
 UID:csgo_mc_2386318@5eplay.com
@@ -388,14 +409,36 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386398
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: TBD vs TBD
-DTSTART:20251004T200000Z
-DTEND:20251004T223000Z
-UID:csgo_mc_2386399@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386399\n赛事: Circuit X 南美 S1\n阶段
- : 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+SUMMARY:Fragadelphia Blocktober 2025: SAW vs TBD
+DTSTART:20251004T171500Z
+DTEND:20251004T194500Z
+UID:csgo_mc_2386657@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386657\n赛事: Fragadelphia Blocktober 202
+ 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
+ \n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386399
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386657
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragadelphia Blocktober 2025: 9INE vs 9z
+DTSTART:20251004T171500Z
+DTEND:20251004T194500Z
+UID:csgo_mc_2386658@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386658\n赛事: Fragadelphia Blocktober 202
+ 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386658
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragadelphia Blocktober 2025: Getting Info vs TBD
+DTSTART:20251004T171500Z
+DTEND:20251004T194500Z
+UID:csgo_mc_2386659@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386659\n赛事: Fragadelphia Blocktober 202
+ 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386659
 END:VEVENT
 END:VCALENDAR
