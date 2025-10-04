@@ -58,7 +58,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510032102556l39p
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: TBD vs Team Solo
+SUMMARY:BB主播大战 第十一季: YBN vs Team Solo
 DTSTART:20251005T120000Z
 DTEND:20251005T150000Z
 UID:dt_mc_20250924233902zwj0b@5eplay.com
@@ -80,7 +80,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003210256n4er2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: TBD vs TBD
+SUMMARY:BB主播大战 第十一季: Rostik vs TBD
 DTSTART:20251005T150000Z
 DTEND:20251005T180000Z
 UID:dt_mc_202509242339056pv1c@5eplay.com
@@ -419,5 +419,16 @@ DESCRIPTION:比赛ID: dt_mc_202507112104429tguu\n赛制: BO3\n轮次: 1/4
  态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202507112104429tguu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fissure Universe Ep 7: TBD vs TBD
+DTSTART:20251009T150000Z
+DTEND:20251009T180000Z
+UID:dt_mc_20251003223854kx1rp@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20251003223854kx1rp\n赛制: BO3\n阶段: 淘
+ 汰赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20251003223854kx1rp
 END:VEVENT
 END:VCALENDAR
