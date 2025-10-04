@@ -3,41 +3,7 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: ShindeN vs RED Canids
-DTSTART:20251004T201500Z
-DTEND:20251004T224500Z
-UID:csgo_mc_2386400@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386400\n赛事: Circuit X 南美 S1\n阶段
- : 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386400
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fragadelphia Blocktober 2025: FNC vs BIG
-DTSTART:20251004T204500Z
-DTEND:20251004T231500Z
-UID:csgo_mc_2386661@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386661\n赛事: Fragadelphia Blocktober 202
- 5\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386661
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 北美系列赛2: FLYRED vs Zomblers
-DTSTART:20251004T213000Z
-DTEND:20251005T000000Z
-UID:csgo_mc_2386306@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386306\n赛事:  CCT 第3赛季 北美系
- 列赛2\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386306
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: MIBR vs TBD
+SUMMARY:Circuit X 南美 S1: MIBR vs Fluxo
 DTSTART:20251004T230000Z
 DTEND:20251005T013000Z
 UID:csgo_mc_2386399@5eplay.com
@@ -59,7 +25,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386664
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Blocktober 2025: SAW vs TBD
+SUMMARY:Fragadelphia Blocktober 2025: SAW vs 9INE
 DTSTART:20251004T234500Z
 DTEND:20251005T021500Z
 UID:csgo_mc_2386663@5eplay.com
@@ -117,7 +83,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386319
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: TBD vs TBD
+SUMMARY:Exort试验场 第五季: Nexus vs EF
 DTSTART:20251005T080000Z
 DTEND:20251005T103000Z
 UID:csgo_mc_2386403@5eplay.com
@@ -211,7 +177,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386322
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: TBD vs TBD
+SUMMARY:Exort试验场 第五季: Johnny Speeds vs Sangal
 DTSTART:20251005T110000Z
 DTEND:20251005T133000Z
 UID:csgo_mc_2386404@5eplay.com
@@ -376,7 +342,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386321
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: TBD vs TBD
+SUMMARY:Exort试验场 第五季: Oramond vs CYBERSHOKE
 DTSTART:20251005T140000Z
 DTEND:20251005T163000Z
 UID:csgo_mc_2386405@5eplay.com
@@ -429,5 +395,28 @@ DESCRIPTION:比赛ID: csgo_mc_2385944\n赛事: EPL S22\n阶段: 小组赛
  预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385944
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: RUBY vs BC.Game
+DTSTART:20251005T170000Z
+DTEND:20251005T193000Z
+UID:csgo_mc_2386454@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386454\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386454
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第五季: Betclic vs VP.P
+DTSTART:20251005T170000Z
+DTEND:20251005T193000Z
+UID:csgo_mc_2386406@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386406\n赛事: Exort试验场 第五季\n
+ 阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386406
 END:VEVENT
 END:VCALENDAR
