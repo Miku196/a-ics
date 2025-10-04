@@ -3,18 +3,7 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: NAOCOPULAS vs TBD
-DTSTART:20251004T030000Z
-DTEND:20251004T053000Z
-UID:csgo_mc_2386394@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386394\n赛事: Circuit X 南美 S1\n阶段
- : 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386394
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第1季: TBD vs TBD
+SUMMARY:DFRAG 公开 系列赛 第1季: SemperFi vs Gz
 DTSTART:20251004T050000Z
 DTEND:20251004T073000Z
 UID:csgo_mc_2386153@5eplay.com
@@ -26,7 +15,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386153
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第1季: TBD vs TBD
+SUMMARY:DFRAG 公开 系列赛 第1季: Vantage vs Mindfreak
 DTSTART:20251004T050000Z
 DTEND:20251004T073000Z
 UID:csgo_mc_2386154@5eplay.com
@@ -196,7 +185,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386361
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: TBD vs TBD
+SUMMARY:Circuit X 南美 S1: Keyd vs ShindeN
 DTSTART:20251004T140000Z
 DTEND:20251004T163000Z
 UID:csgo_mc_2386396@5eplay.com
@@ -207,7 +196,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386396
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: TBD vs TBD
+SUMMARY:Circuit X 南美 S1: RED Canids vs 2GAME
 DTSTART:20251004T140000Z
 DTEND:20251004T163000Z
 UID:csgo_mc_2386395@5eplay.com
@@ -229,7 +218,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386654
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Blocktober 2025: CPH Wolves vs TBD
+SUMMARY:Fragadelphia Blocktober 2025: CPH Wolves vs Wildcard
 DTSTART:20251004T140000Z
 DTEND:20251004T163000Z
 UID:csgo_mc_2386655@5eplay.com
@@ -240,7 +229,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386655
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Blocktober 2025: OG vs TBD
+SUMMARY:Fragadelphia Blocktober 2025: OG vs SkinRave
 DTSTART:20251004T140000Z
 DTEND:20251004T163000Z
 UID:csgo_mc_2386656@5eplay.com
@@ -251,7 +240,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386656
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Blocktober 2025: FNC vs TBD
+SUMMARY:Fragadelphia Blocktober 2025: FNC vs Metizport
 DTSTART:20251004T140000Z
 DTEND:20251004T163000Z
 UID:csgo_mc_2386653@5eplay.com
@@ -307,7 +296,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386362
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: TBD vs TBD
+SUMMARY:Circuit X 南美 S1: Imperial vs Fluxo
 DTSTART:20251004T170000Z
 DTEND:20251004T193000Z
 UID:csgo_mc_2386397@5eplay.com
@@ -318,7 +307,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386397
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: TBD vs TBD
+SUMMARY:Circuit X 南美 S1: MIBR vs TBD
 DTSTART:20251004T170000Z
 DTEND:20251004T193000Z
 UID:csgo_mc_2386398@5eplay.com
@@ -329,7 +318,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386398
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Blocktober 2025: SAW vs TBD
+SUMMARY:Fragadelphia Blocktober 2025: SAW vs Marsborne
 DTSTART:20251004T171500Z
 DTEND:20251004T194500Z
 UID:csgo_mc_2386657@5eplay.com
@@ -351,7 +340,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386658
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Blocktober 2025: Getting Info vs TBD
+SUMMARY:Fragadelphia Blocktober 2025: Getting Info vs Sharks
 DTSTART:20251004T171500Z
 DTEND:20251004T194500Z
 UID:csgo_mc_2386659@5eplay.com
@@ -362,7 +351,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386659
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Blocktober 2025: ECSTATIC vs TBD
+SUMMARY:Fragadelphia Blocktober 2025: ECSTATIC vs Bounty Hunters
 DTSTART:20251004T171500Z
 DTEND:20251004T194500Z
 UID:csgo_mc_2386660@5eplay.com
@@ -404,5 +393,50 @@ DESCRIPTION:比赛ID: csgo_mc_2386662\n赛事: Fragadelphia Blocktober 202
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386662
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 北美系列赛2: FLYRED vs Zomblers
+DTSTART:20251004T213000Z
+DTEND:20251005T000000Z
+UID:csgo_mc_2386306@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386306\n赛事:  CCT 第3赛季 北美系
+ 列赛2\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 南美 S1: TBD vs TBD
+DTSTART:20251004T230000Z
+DTEND:20251005T013000Z
+UID:csgo_mc_2386400@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386400\n赛事: Circuit X 南美 S1\n阶段
+ : 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386400
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragadelphia Blocktober 2025: TBD vs TBD
+DTSTART:20251004T234500Z
+DTEND:20251005T021500Z
+UID:csgo_mc_2386664@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386664\n赛事: Fragadelphia Blocktober 202
+ 5\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386664
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragadelphia Blocktober 2025: TBD vs TBD
+DTSTART:20251004T234500Z
+DTEND:20251005T021500Z
+UID:csgo_mc_2386663@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386663\n赛事: Fragadelphia Blocktober 202
+ 5\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386663
 END:VEVENT
 END:VCALENDAR
