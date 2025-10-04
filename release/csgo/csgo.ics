@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第1季: SemperFi vs Gz
-DTSTART:20251004T050000Z
-DTEND:20251004T073000Z
-UID:csgo_mc_2386153@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386153\n赛事: DFRAG 公开 系列赛 第1
- 季\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386153
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第1季: Vantage vs Mindfreak
-DTSTART:20251004T050000Z
-DTEND:20251004T073000Z
-UID:csgo_mc_2386154@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386154\n赛事: DFRAG 公开 系列赛 第1
- 季\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386154
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Exort试验场 第五季: JJH vs Oramond
 DTSTART:20251004T080000Z
 DTEND:20251004T103000Z
@@ -307,7 +283,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386397
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: MIBR vs TBD
+SUMMARY:Circuit X 南美 S1: MIBR vs ODDIK
 DTSTART:20251004T170000Z
 DTEND:20251004T193000Z
 UID:csgo_mc_2386398@5eplay.com
@@ -438,5 +414,17 @@ DESCRIPTION:比赛ID: csgo_mc_2386663\n赛事: Fragadelphia Blocktober 202
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386663
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 北美系列赛2: FULL SEND vs Shimmer
+DTSTART:20251005T003000Z
+DTEND:20251005T030000Z
+UID:csgo_mc_2386307@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386307\n赛事:  CCT 第3赛季 北美系
+ 列赛2\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386307
 END:VEVENT
 END:VCALENDAR

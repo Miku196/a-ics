@@ -15,14 +15,25 @@ URL:https://event.5eplay.com/dota/session/dt_mc_202507112104347zip8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BB主播大战 第十一季: Stray vs Team Solo
-DTSTART:20251004T100000Z
-DTEND:20251004T130000Z
+DTSTART:20251004T081500Z
+DTEND:20251004T111500Z
 UID:dt_mc_20250924233858ziolw@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250924233858ziolw\n赛制: BO3\n轮次: 1/4
  决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: \n状态: 未
  开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250924233858ziolw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BB主播大战 第十一季: By_owl vs Cooman
+DTSTART:20251004T103000Z
+DTEND:20251004T133000Z
+UID:dt_mc_20250924233859gig9k@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250924233859gig9k\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: \n状态: 未
+ 开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250924233859gig9k
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第2赛季 系列赛 5: VP.P vs eSpoiled
@@ -36,26 +47,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250711210434rbvu3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: By_owl vs Cooman
-DTSTART:20251004T130000Z
-DTEND:20251004T160000Z
-UID:dt_mc_20250924233859gig9k@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250924233859gig9k\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: \n状态: 未
- 开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250924233859gig9k
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第2赛季 系列赛 5: Runa vs OxinGame
+SUMMARY:CCT 第2赛季 系列赛 5: Tea vs Yes
 DTSTART:20251004T140000Z
 DTEND:20251004T170000Z
-UID:dt_mc_20250711210434vu382@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250711210434vu382\n赛制: BO3\n轮次: 决
+UID:dt_mc_202507112104351igzc@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202507112104351igzc\n赛制: BO3\n轮次: 决
  赛\n阶段: 小组赛 胜者组 决赛\n赛事等级: 其他\n状态: 未
  开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250711210434vu382
+URL:https://event.5eplay.com/dota/session/dt_mc_202507112104351igzc
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BB主播大战 第十一季: Rostik vs YBN
@@ -69,15 +69,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250924233900meg6s
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第2赛季 系列赛 5: Tea vs Yes
+SUMMARY:CCT 第2赛季 系列赛 5: Runa vs OxinGame
 DTSTART:20251004T170000Z
 DTEND:20251004T200000Z
-UID:dt_mc_202507112104351igzc@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202507112104351igzc\n赛制: BO3\n轮次: 决
+UID:dt_mc_20250711210434vu382@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210434vu382\n赛制: BO3\n轮次: 决
  赛\n阶段: 小组赛 胜者组 决赛\n赛事等级: 其他\n状态: 未
  开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202507112104351igzc
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210434vu382
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BB主播大战 第十一季: TBD vs TBD
