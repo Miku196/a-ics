@@ -3,20 +3,20 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第2赛季 系列赛 5: Tea vs Yes
-DTSTART:20251004T140000Z
-DTEND:20251004T170000Z
-UID:dt_mc_202507112104351igzc@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202507112104351igzc\n赛制: BO3\n轮次: 决
- 赛\n阶段: 小组赛 胜者组 决赛\n赛事等级: 其他\n状态: 未
+SUMMARY:BB主播大战 第十一季: Team Solo vs By_owl
+DTSTART:20251004T142000Z
+DTEND:20251004T172000Z
+UID:dt_mc_20250924233901pfe7b@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250924233901pfe7b\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 淘汰赛 败者组 半决赛\n赛事等级: \n状态: 未
  开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202507112104351igzc
+URL:https://event.5eplay.com/dota/session/dt_mc_20250924233901pfe7b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BB主播大战 第十一季: Rostik vs YBN
-DTSTART:20251004T160000Z
-DTEND:20251004T190000Z
+DTSTART:20251004T170000Z
+DTEND:20251004T200000Z
 UID:dt_mc_20250924233900meg6s@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250924233900meg6s\n赛制: BO3\n轮次: 决
  赛\n阶段: 淘汰赛 胜者组 决赛\n赛事等级: \n状态: 未开始
@@ -34,17 +34,6 @@ DESCRIPTION:比赛ID: dt_mc_20250711210434vu382\n赛制: BO3\n轮次: 决
  开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250711210434vu382
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: Team Solo vs TBD
-DTSTART:20251004T190000Z
-DTEND:20251004T220000Z
-UID:dt_mc_20250924233901pfe7b@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250924233901pfe7b\n赛制: BO3\n轮次: 半
- 决赛\n阶段: 淘汰赛 败者组 半决赛\n赛事等级: \n状态: 未
- 开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250924233901pfe7b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fissure Universe Ep 7: Avulus vs OG
@@ -80,7 +69,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003210254czyja
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs eSpoiled
 DTSTART:20251005T110000Z
 DTEND:20251005T140000Z
 UID:dt_mc_2025071121043646tfq@5eplay.com
@@ -419,5 +408,27 @@ DESCRIPTION:比赛ID: dt_mc_20250711210441vyvpa\n赛制: BO3\n轮次: 半
  态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250711210441vyvpa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fissure Universe Ep 7: TBD vs TBD
+DTSTART:20251009T080000Z
+DTEND:20251009T110000Z
+UID:dt_mc_202510032235532woih@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202510032235532woih\n赛制: BO3\n阶段: 淘
+ 汰赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202510032235532woih
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251009T110000Z
+DTEND:20251009T140000Z
+UID:dt_mc_20250711210441dk7zm@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210441dk7zm\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210441dk7zm
 END:VEVENT
 END:VCALENDAR
