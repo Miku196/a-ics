@@ -3,20 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: Stray vs Team Solo
-DTSTART:20251004T081500Z
-DTEND:20251004T111500Z
-UID:dt_mc_20250924233858ziolw@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20250924233858ziolw\n赛制: BO3\n轮次: 1/4
- 决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: \n状态: 未
- 开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20250924233858ziolw
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BB主播大战 第十一季: By_owl vs Cooman
-DTSTART:20251004T103000Z
-DTEND:20251004T133000Z
+DTSTART:20251004T110000Z
+DTEND:20251004T140000Z
 UID:dt_mc_20250924233859gig9k@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20250924233859gig9k\n赛制: BO3\n轮次: 1/4
  决赛\n阶段: 淘汰赛 败者组 1/4决赛\n赛事等级: \n状态: 未
@@ -91,7 +80,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003210254h3z1q
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs Z10
 DTSTART:20251005T080000Z
 DTEND:20251005T110000Z
 UID:dt_mc_20250711210435h2eg8@5eplay.com
@@ -430,5 +419,16 @@ DESCRIPTION:比赛ID: dt_mc_202507112104414wz0o\n赛制: BO3\n轮次: 半
  态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202507112104414wz0o
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fissure Universe Ep 7: VP vs MOUZ
+DTSTART:20251008T160000Z
+DTEND:20251008T180000Z
+UID:dt_mc_20251003210310qyvzk@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20251003210310qyvzk\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20251003210310qyvzk
 END:VEVENT
 END:VCALENDAR
