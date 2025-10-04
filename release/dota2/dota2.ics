@@ -14,7 +14,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202507112104347zip8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: TBD vs Team Solo
+SUMMARY:BB主播大战 第十一季: Stray vs Team Solo
 DTSTART:20251004T100000Z
 DTEND:20251004T130000Z
 UID:dt_mc_20250924233858ziolw@5eplay.com
@@ -58,7 +58,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250711210434vu382
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BB主播大战 第十一季: TBD vs YBN
+SUMMARY:BB主播大战 第十一季: Rostik vs YBN
 DTSTART:20251004T160000Z
 DTEND:20251004T190000Z
 UID:dt_mc_20250924233900meg6s@5eplay.com
@@ -430,5 +430,16 @@ DESCRIPTION:比赛ID: dt_mc_202510032103107l9nm\n赛制: BO2\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510032103107l9nm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251008T140000Z
+DTEND:20251008T170000Z
+UID:dt_mc_202507112104414wz0o@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202507112104414wz0o\n赛制: BO3\n轮次: 半
+ 决赛\n阶段: 淘汰赛 胜者组 半决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202507112104414wz0o
 END:VEVENT
 END:VCALENDAR

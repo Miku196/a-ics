@@ -4,42 +4,8 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY:Circuit X 南美 S1: TBD vs TBD
-DTSTART:20251003T223000Z
-DTEND:20251004T010000Z
-UID:csgo_mc_2386392@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386392\n赛事: Circuit X 南美 S1\n阶段
- : 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386392
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: TBD vs TBD
-DTSTART:20251003T223000Z
-DTEND:20251004T010000Z
-UID:csgo_mc_2386393@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386393\n赛事: Circuit X 南美 S1\n阶段
- : 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386393
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 北美系列赛2: Money Crew vs Shimmer
-DTSTART:20251004T003000Z
-DTEND:20251004T030000Z
-UID:csgo_mc_2386305@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386305\n赛事:  CCT 第3赛季 北美系
- 列赛2\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386305
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: TBD vs TBD
-DTSTART:20251004T010000Z
-DTEND:20251004T033000Z
+DTSTART:20251004T013000Z
+DTEND:20251004T040000Z
 UID:csgo_mc_2386394@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386394\n赛事: Circuit X 南美 S1\n阶段
  : 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\
@@ -417,5 +383,38 @@ DESCRIPTION:比赛ID: csgo_mc_2386659\n赛事: Fragadelphia Blocktober 202
  \n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386659
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragadelphia Blocktober 2025: ECSTATIC vs TBD
+DTSTART:20251004T171500Z
+DTEND:20251004T194500Z
+UID:csgo_mc_2386660@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386660\n赛事: Fragadelphia Blocktober 202
+ 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386660
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 南美 S1: TBD vs TBD
+DTSTART:20251004T200000Z
+DTEND:20251004T223000Z
+UID:csgo_mc_2386399@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386399\n赛事: Circuit X 南美 S1\n阶段
+ : 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386399
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragadelphia Blocktober 2025: TBD vs TBD
+DTSTART:20251004T203000Z
+DTEND:20251004T230000Z
+UID:csgo_mc_2386661@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386661\n赛事: Fragadelphia Blocktober 202
+ 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386661
 END:VEVENT
 END:VCALENDAR
