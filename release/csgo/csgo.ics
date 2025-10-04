@@ -3,39 +3,15 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: TBD vs TBD
-DTSTART:20251004T013000Z
-DTEND:20251004T040000Z
+SUMMARY:Circuit X 南美 S1: NAOCOPULAS vs TBD
+DTSTART:20251004T030000Z
+DTEND:20251004T053000Z
 UID:csgo_mc_2386394@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386394\n赛事: Circuit X 南美 S1\n阶段
  : 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\
  n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386394
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第1季: SemperFi vs Vantage
-DTSTART:20251004T020000Z
-DTEND:20251004T043000Z
-UID:csgo_mc_2386151@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386151\n赛事: DFRAG 公开 系列赛 第1
- 季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386151
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第1季: Mindfreak vs Gz
-DTSTART:20251004T020000Z
-DTEND:20251004T043000Z
-UID:csgo_mc_2386152@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386152\n赛事: DFRAG 公开 系列赛 第1
- 季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386152
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DFRAG 公开 系列赛 第1季: TBD vs TBD
@@ -78,8 +54,9 @@ DTSTART:20251004T080000Z
 DTEND:20251004T103000Z
 UID:csgo_mc_2386669@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386669\n赛事: NODWIN Clutch 系列 1 公
- 开预选\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2
- .5小时\n数据来源: 5EPlay
+ 开预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386669
 END:VEVENT
@@ -246,8 +223,8 @@ DTSTART:20251004T140000Z
 DTEND:20251004T163000Z
 UID:csgo_mc_2386654@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386654\n赛事: Fragadelphia Blocktober 202
- 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
- \n数据来源: 5EPlay
+ 5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386654
 END:VEVENT
@@ -257,8 +234,8 @@ DTSTART:20251004T140000Z
 DTEND:20251004T163000Z
 UID:csgo_mc_2386655@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386655\n赛事: Fragadelphia Blocktober 202
- 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
- \n数据来源: 5EPlay
+ 5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386655
 END:VEVENT
@@ -268,8 +245,8 @@ DTSTART:20251004T140000Z
 DTEND:20251004T163000Z
 UID:csgo_mc_2386656@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386656\n赛事: Fragadelphia Blocktober 202
- 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
- \n数据来源: 5EPlay
+ 5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386656
 END:VEVENT
@@ -279,8 +256,8 @@ DTSTART:20251004T140000Z
 DTEND:20251004T163000Z
 UID:csgo_mc_2386653@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386653\n赛事: Fragadelphia Blocktober 202
- 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
- \n数据来源: 5EPlay
+ 5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386653
 END:VEVENT
@@ -357,8 +334,8 @@ DTSTART:20251004T171500Z
 DTEND:20251004T194500Z
 UID:csgo_mc_2386657@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386657\n赛事: Fragadelphia Blocktober 202
- 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
- \n数据来源: 5EPlay
+ 5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386657
 END:VEVENT
@@ -368,8 +345,8 @@ DTSTART:20251004T171500Z
 DTEND:20251004T194500Z
 UID:csgo_mc_2386658@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386658\n赛事: Fragadelphia Blocktober 202
- 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
- \n数据来源: 5EPlay
+ 5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386658
 END:VEVENT
@@ -379,8 +356,8 @@ DTSTART:20251004T171500Z
 DTEND:20251004T194500Z
 UID:csgo_mc_2386659@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386659\n赛事: Fragadelphia Blocktober 202
- 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
- \n数据来源: 5EPlay
+ 5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386659
 END:VEVENT
@@ -390,8 +367,8 @@ DTSTART:20251004T171500Z
 DTEND:20251004T194500Z
 UID:csgo_mc_2386660@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386660\n赛事: Fragadelphia Blocktober 202
- 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
- \n数据来源: 5EPlay
+ 5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386660
 END:VEVENT
@@ -412,9 +389,20 @@ DTSTART:20251004T203000Z
 DTEND:20251004T230000Z
 UID:csgo_mc_2386661@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386661\n赛事: Fragadelphia Blocktober 202
- 5\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时
- \n数据来源: 5EPlay
+ 5\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragadelphia Blocktober 2025: TBD vs TBD
+DTSTART:20251004T203000Z
+DTEND:20251004T230000Z
+UID:csgo_mc_2386662@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386662\n赛事: Fragadelphia Blocktober 202
+ 5\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386662
 END:VEVENT
 END:VCALENDAR
