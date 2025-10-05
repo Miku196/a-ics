@@ -446,4 +446,15 @@ DESCRIPTION:比赛ID: csgo_mc_2386451\n赛事: ESL 挑战者联赛 S50 欧
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386451
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragadelphia Blocktober 2025: 9INE vs ECSTATIC
+DTSTART:20251005T171500Z
+DTEND:20251005T194500Z
+UID:csgo_mc_2386666@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386666\n赛事: Fragadelphia Blocktober 202
+ 5\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386666
+END:VEVENT
 END:VCALENDAR
