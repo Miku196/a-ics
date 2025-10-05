@@ -1525,179 +1525,182 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 新加坡大奖赛即将开始 - 新加坡大奖赛 第1次练
- 习赛
+SUMMARY:F1 新加坡大奖赛 - 新加坡大奖赛 第1次练习赛
 DTSTART:20251003T103000
 DTEND:20251003T123000
-UID:新加坡大奖赛即将开始_新加坡大奖赛_第1次练习赛_202
- 51003@f1calendar.com
+UID:新加坡大奖赛_新加坡大奖赛_第1次练习赛_20251003@f1cale
+ ndar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 新加坡大奖赛即将开始 - 新加坡大奖赛 第1次
- 练习赛\n时间: 10:30 (东八区)
-LOCATION:新加坡大奖赛即将开始
+DESCRIPTION:F1 新加坡大奖赛 - 新加坡大奖赛 第1次练习赛\n
+ 时间: 10:30 (东八区)
+LOCATION:新加坡大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 新加坡大奖赛即将开始 - 新加坡大奖赛 第1次
- 练习赛 即将开始
+DESCRIPTION:F1 新加坡大奖赛 - 新加坡大奖赛 第1次练习赛 
+ 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 新加坡大奖赛即将开始 - 新加坡大奖赛 第2次练
- 习赛
+SUMMARY:F1 新加坡大奖赛 - 新加坡大奖赛 第2次练习赛
 DTSTART:20251003T140000
 DTEND:20251003T160000
-UID:新加坡大奖赛即将开始_新加坡大奖赛_第2次练习赛_202
- 51003@f1calendar.com
+UID:新加坡大奖赛_新加坡大奖赛_第2次练习赛_20251003@f1cale
+ ndar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 新加坡大奖赛即将开始 - 新加坡大奖赛 第2次
- 练习赛\n时间: 14:00 (东八区)
-LOCATION:新加坡大奖赛即将开始
+DESCRIPTION:F1 新加坡大奖赛 - 新加坡大奖赛 第2次练习赛\n
+ 时间: 14:00 (东八区)
+LOCATION:新加坡大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 新加坡大奖赛即将开始 - 新加坡大奖赛 第2次
- 练习赛 即将开始
+DESCRIPTION:F1 新加坡大奖赛 - 新加坡大奖赛 第2次练习赛 
+ 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 新加坡大奖赛即将开始 - 新加坡大奖赛 第3次练
- 习赛
+SUMMARY:F1 新加坡大奖赛 - 新加坡大奖赛 第3次练习赛
 DTSTART:20251004T103000
 DTEND:20251004T123000
-UID:新加坡大奖赛即将开始_新加坡大奖赛_第3次练习赛_202
- 51004@f1calendar.com
+UID:新加坡大奖赛_新加坡大奖赛_第3次练习赛_20251004@f1cale
+ ndar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 新加坡大奖赛即将开始 - 新加坡大奖赛 第3次
- 练习赛\n时间: 10:30 (东八区)
-LOCATION:新加坡大奖赛即将开始
+DESCRIPTION:F1 新加坡大奖赛 - 新加坡大奖赛 第3次练习赛\n
+ 时间: 10:30 (东八区)
+LOCATION:新加坡大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 新加坡大奖赛即将开始 - 新加坡大奖赛 第3次
- 练习赛 即将开始
+DESCRIPTION:F1 新加坡大奖赛 - 新加坡大奖赛 第3次练习赛 
+ 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 新加坡大奖赛即将开始 - 新加坡大奖赛 排位赛
+SUMMARY:F1 新加坡大奖赛 - 新加坡大奖赛 排位赛
 DTSTART:20251004T140000
 DTEND:20251004T160000
-UID:新加坡大奖赛即将开始_新加坡大奖赛_排位赛_20251004@f
- 1calendar.com
-CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 新加坡大奖赛即将开始 - 新加坡大奖赛 排位
- 赛\n时间: 14:00 (东八区)
-LOCATION:新加坡大奖赛即将开始
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:F1 新加坡大奖赛即将开始 - 新加坡大奖赛 排位
- 赛 即将开始
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F1 新加坡大奖赛即将开始 - 新加坡大奖赛 大奖赛
-DTSTART:20251005T130000
-DTEND:20251005T150000
-UID:新加坡大奖赛即将开始_新加坡大奖赛_大奖赛_20251005@f
- 1calendar.com
-CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 新加坡大奖赛即将开始 - 新加坡大奖赛 大奖
- 赛\n时间: 13:00 (东八区)
-LOCATION:新加坡大奖赛即将开始
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:F1 新加坡大奖赛即将开始 - 新加坡大奖赛 大奖
- 赛 即将开始
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F1 美国大奖赛 - 美国大奖赛 第1次练习赛
-DTSTART:20251017T183000
-DTEND:20251017T203000
-UID:美国大奖赛_美国大奖赛_第1次练习赛_20251017@f1calendar.c
- om
-CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 美国大奖赛 - 美国大奖赛 第1次练习赛\n时间:
-  18:30 (东八区)
-LOCATION:美国大奖赛
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:F1 美国大奖赛 - 美国大奖赛 第1次练习赛 即将
- 开始
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F1 美国大奖赛 - 美国大奖赛 冲刺排位赛
-DTSTART:20251017T223000
-DTEND:20251018T003000
-UID:美国大奖赛_美国大奖赛_冲刺排位赛_20251017@f1calendar.co
+UID:新加坡大奖赛_新加坡大奖赛_排位赛_20251004@f1calendar.co
  m
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 美国大奖赛 - 美国大奖赛 冲刺排位赛\n时间: 
- 22:30 (东八区)
-LOCATION:美国大奖赛
+DESCRIPTION:F1 新加坡大奖赛 - 新加坡大奖赛 排位赛\n时间: 
+ 14:00 (东八区)
+LOCATION:新加坡大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 美国大奖赛 - 美国大奖赛 冲刺排位赛 即将开
+DESCRIPTION:F1 新加坡大奖赛 - 新加坡大奖赛 排位赛 即将开
  始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 美国大奖赛 - 美国大奖赛 冲刺赛
+SUMMARY:F1 新加坡大奖赛 - 新加坡大奖赛 大奖赛
+DTSTART:20251005T130000
+DTEND:20251005T150000
+UID:新加坡大奖赛_新加坡大奖赛_大奖赛_20251005@f1calendar.co
+ m
+CATEGORIES:SPORTS\,MOTORSPORTS\,F1
+DESCRIPTION:F1 新加坡大奖赛 - 新加坡大奖赛 大奖赛\n时间: 
+ 13:00 (东八区)
+LOCATION:新加坡大奖赛
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 新加坡大奖赛 - 新加坡大奖赛 大奖赛 即将开
+ 始
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1 美国大奖赛即将开始 - 美国大奖赛 第1次练习赛
+DTSTART:20251017T183000
+DTEND:20251017T203000
+UID:美国大奖赛即将开始_美国大奖赛_第1次练习赛_20251017@
+ f1calendar.com
+CATEGORIES:SPORTS\,MOTORSPORTS\,F1
+DESCRIPTION:F1 美国大奖赛即将开始 - 美国大奖赛 第1次练习
+ 赛\n时间: 18:30 (东八区)
+LOCATION:美国大奖赛即将开始
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 美国大奖赛即将开始 - 美国大奖赛 第1次练习
+ 赛 即将开始
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1 美国大奖赛即将开始 - 美国大奖赛 冲刺排位赛
+DTSTART:20251017T223000
+DTEND:20251018T003000
+UID:美国大奖赛即将开始_美国大奖赛_冲刺排位赛_20251017@f
+ 1calendar.com
+CATEGORIES:SPORTS\,MOTORSPORTS\,F1
+DESCRIPTION:F1 美国大奖赛即将开始 - 美国大奖赛 冲刺排位
+ 赛\n时间: 22:30 (东八区)
+LOCATION:美国大奖赛即将开始
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 美国大奖赛即将开始 - 美国大奖赛 冲刺排位
+ 赛 即将开始
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F1 美国大奖赛即将开始 - 美国大奖赛 冲刺赛
 DTSTART:20251018T180000
 DTEND:20251018T200000
-UID:美国大奖赛_美国大奖赛_冲刺赛_20251018@f1calendar.com
+UID:美国大奖赛即将开始_美国大奖赛_冲刺赛_20251018@f1calen
+ dar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 美国大奖赛 - 美国大奖赛 冲刺赛\n时间: 18:00 
- (东八区)
-LOCATION:美国大奖赛
+DESCRIPTION:F1 美国大奖赛即将开始 - 美国大奖赛 冲刺赛\n
+ 时间: 18:00 (东八区)
+LOCATION:美国大奖赛即将开始
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 美国大奖赛 - 美国大奖赛 冲刺赛 即将开始
+DESCRIPTION:F1 美国大奖赛即将开始 - 美国大奖赛 冲刺赛 即
+ 将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 美国大奖赛 - 美国大奖赛 排位赛
+SUMMARY:F1 美国大奖赛即将开始 - 美国大奖赛 排位赛
 DTSTART:20251018T220000
 DTEND:20251019T000000
-UID:美国大奖赛_美国大奖赛_排位赛_20251018@f1calendar.com
+UID:美国大奖赛即将开始_美国大奖赛_排位赛_20251018@f1calen
+ dar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 美国大奖赛 - 美国大奖赛 排位赛\n时间: 22:00 
- (东八区)
-LOCATION:美国大奖赛
+DESCRIPTION:F1 美国大奖赛即将开始 - 美国大奖赛 排位赛\n
+ 时间: 22:00 (东八区)
+LOCATION:美国大奖赛即将开始
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 美国大奖赛 - 美国大奖赛 排位赛 即将开始
+DESCRIPTION:F1 美国大奖赛即将开始 - 美国大奖赛 排位赛 即
+ 将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 美国大奖赛 - 美国大奖赛 大奖赛
+SUMMARY:F1 美国大奖赛即将开始 - 美国大奖赛 大奖赛
 DTSTART:20251019T200000
 DTEND:20251019T220000
-UID:美国大奖赛_美国大奖赛_大奖赛_20251019@f1calendar.com
+UID:美国大奖赛即将开始_美国大奖赛_大奖赛_20251019@f1calen
+ dar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 美国大奖赛 - 美国大奖赛 大奖赛\n时间: 20:00 
- (东八区)
-LOCATION:美国大奖赛
+DESCRIPTION:F1 美国大奖赛即将开始 - 美国大奖赛 大奖赛\n
+ 时间: 20:00 (东八区)
+LOCATION:美国大奖赛即将开始
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 美国大奖赛 - 美国大奖赛 大奖赛 即将开始
+DESCRIPTION:F1 美国大奖赛即将开始 - 美国大奖赛 大奖赛 即
+ 将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
