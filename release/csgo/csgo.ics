@@ -3,146 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: RUBY vs BC.Game
-DTSTART:20251005T170000Z
-DTEND:20251005T193000Z
-UID:csgo_mc_2386454@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386454\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386454
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPL S22: FaZe vs  3DMAX
-DTSTART:20251005T170000Z
-DTEND:20251005T193000Z
-UID:csgo_mc_2385944@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385944\n赛事: EPL S22\n阶段: 小组赛 
- 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385944
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: Betclic vs VP.P
-DTSTART:20251005T170000Z
-DTEND:20251005T193000Z
-UID:csgo_mc_2386406@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386406\n赛事: Exort试验场 第五季\n
- 阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386406
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: SINNERS vs CYBERSHOKE
-DTSTART:20251005T170000Z
-DTEND:20251005T193000Z
-UID:csgo_mc_2386448@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386448\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386448
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: ZT vs FT
-DTSTART:20251005T170000Z
-DTEND:20251005T193000Z
-UID:csgo_mc_2386449@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386449\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386449
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: Nemiga vs Insilio
-DTSTART:20251005T170000Z
-DTEND:20251005T193000Z
-UID:csgo_mc_2386447@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386447\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386447
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: EF vs JJH
-DTSTART:20251005T170000Z
-DTEND:20251005T193000Z
-UID:csgo_mc_2386450@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386450\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386450
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: TPuDCATb_TPu vs Oramond
-DTSTART:20251005T170000Z
-DTEND:20251005T193000Z
-UID:csgo_mc_2386452@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386452\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386452
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: ESC vs Nexus
-DTSTART:20251005T170000Z
-DTEND:20251005T193000Z
-UID:csgo_mc_2386453@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386453\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386453
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: Sashi vs Novaq
-DTSTART:20251005T170000Z
-DTEND:20251005T193000Z
-UID:csgo_mc_2386451@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386451\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386451
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fragadelphia Blocktober 2025: 9INE vs ECSTATIC
-DTSTART:20251005T171500Z
-DTEND:20251005T194500Z
-UID:csgo_mc_2386666@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386666\n赛事: Fragadelphia Blocktober 202
- 5\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386666
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Circuit X 南美 S1: RED Canids vs MIBR
-DTSTART:20251005T180000Z
-DTEND:20251005T220000Z
-UID:csgo_mc_2386402@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386402\n赛事: Circuit X 南美 S1\n阶段
- : 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 其他\n状态: 
- 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386402
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fragadelphia Blocktober 2025: OG vs TBD
 DTSTART:20251005T203000Z
 DTEND:20251005T230000Z
@@ -426,5 +286,39 @@ DESCRIPTION:比赛ID: csgo_mc_2386502\n赛事: ESL 挑战者联赛 S50 大
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 大洋洲 第3季: LE-LUX vs Fury
+DTSTART:20251006T090000Z
+DTEND:20251006T113000Z
+UID:csgo_mc_2386501@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386501\n赛事: ESL 挑战者联赛 S50 大
+ 洋洲 第3季\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386501
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22: TBD vs TBD
+DTSTART:20251006T110000Z
+DTEND:20251006T133000Z
+UID:csgo_mc_2385948@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385948\n赛事: EPL S22\n阶段: 小组赛 
+ 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385948
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22: TBD vs TBD
+DTSTART:20251006T110000Z
+DTEND:20251006T133000Z
+UID:csgo_mc_2385949@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385949\n赛事: EPL S22\n阶段: 小组赛 
+ 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385949
 END:VEVENT
 END:VCALENDAR
