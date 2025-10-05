@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : Tricked vs 1win
-DTSTART:20251005T080000Z
-DTEND:20251005T103000Z
-UID:csgo_mc_2386319@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386319\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386319
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: Nexus vs EF
-DTSTART:20251005T080000Z
-DTEND:20251005T103000Z
-UID:csgo_mc_2386403@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386403\n赛事: Exort试验场 第五季\n
- 阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386403
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EPL S22: Mongolz vs Inner Circle
 DTSTART:20251005T083000Z
 DTEND:20251005T110000Z
@@ -109,15 +86,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386322
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: Johnny Speeds vs Sangal
+SUMMARY:Exort试验场 第五季: Nexus vs EF
 DTSTART:20251005T110000Z
 DTEND:20251005T133000Z
-UID:csgo_mc_2386404@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386404\n赛事: Exort试验场 第五季\n
+UID:csgo_mc_2386403@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386403\n赛事: Exort试验场 第五季\n
  阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: C级\
  n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386404
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386403
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EPL S22: Aurora vs Astralis
@@ -274,15 +251,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386321
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: Oramond vs CYBERSHOKE
+SUMMARY:Exort试验场 第五季: Johnny Speeds vs Sangal
 DTSTART:20251005T140000Z
 DTEND:20251005T163000Z
-UID:csgo_mc_2386405@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386405\n赛事: Exort试验场 第五季\n
+UID:csgo_mc_2386404@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386404\n赛事: Exort试验场 第五季\n
  阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: C级\
  n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386405
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386404
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fragadelphia Blocktober 2025: OG vs FNC
@@ -456,5 +433,16 @@ DESCRIPTION:比赛ID: csgo_mc_2386402\n赛事: Circuit X 南美 S1\n阶段
  未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386402
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragadelphia Blocktober 2025: TBD vs TBD
+DTSTART:20251005T203000Z
+DTEND:20251005T230000Z
+UID:csgo_mc_2386667@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386667\n赛事: Fragadelphia Blocktober 202
+ 5\n阶段: 季军赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
+ 估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386667
 END:VEVENT
 END:VCALENDAR
