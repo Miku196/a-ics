@@ -4,25 +4,14 @@ PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
 SUMMARY:Fissure Universe Ep 7: MOUZ vs Yes
-DTSTART:20251005T100000Z
-DTEND:20251005T120000Z
+DTSTART:20251005T102000Z
+DTEND:20251005T122000Z
 UID:dt_mc_20251003210254czyja@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20251003210254czyja\n赛制: BO2\n阶段: 小
  组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003210254czyja
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第2赛季 系列赛 5: Yes vs eSpoiled
-DTSTART:20251005T110000Z
-DTEND:20251005T140000Z
-UID:dt_mc_2025071121043646tfq@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_2025071121043646tfq\n赛制: BO3\n轮次: 决
- 赛\n阶段: 小组赛 败者组 决赛\n赛事等级: 其他\n状态: 未
- 开始\n预计时长: 3小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_2025071121043646tfq
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fissure Universe Ep 7: Apex vs 1win
@@ -419,5 +408,16 @@ DESCRIPTION:比赛ID: dt_mc_202507112104429lbex\n赛制: BO3\n轮次: 决
  开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202507112104429lbex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fissure Universe Ep 7: TBD vs TBD
+DTSTART:20251009T183000Z
+DTEND:20251009T213000Z
+UID:dt_mc_20251003223855qmrmu@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20251003223855qmrmu\n赛制: BO3\n阶段: 淘
+ 汰赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20251003223855qmrmu
 END:VEVENT
 END:VCALENDAR
