@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Blocktober 2025: FNC vs 9INE
-DTSTART:20251005T234500Z
-DTEND:20251006T034500Z
-UID:csgo_mc_2386668@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386668\n赛事: Fragadelphia Blocktober 202
- 5\n阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO5\n等级: 
- 其他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386668
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 北美系列赛2: BOSS vs regain
-DTSTART:20251006T003000Z
-DTEND:20251006T030000Z
-UID:csgo_mc_2386309@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386309\n赛事:  CCT 第3赛季 北美系
- 列赛2\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386309
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 北美 第3季: TSG vs FULL SEND
 DTSTART:20251006T010000Z
 DTEND:20251006T033000Z
@@ -389,5 +366,85 @@ DESCRIPTION:比赛ID: csgo_mc_2386223\n赛事: Winline Insight 第8赛季\
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : FT vs EYE
+DTSTART:20251006T140000Z
+DTEND:20251006T163000Z
+UID:csgo_mc_2386324@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386324\n赛事: CCT 第3赛季 欧洲系列
+ 赛 8 \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386324
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第1赛季: 500 vs kONO
+DTSTART:20251006T140000Z
+DTEND:20251006T163000Z
+UID:csgo_mc_2386647@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386647\n赛事: NODWIN Clutch 系列 第1
+ 赛季\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386647
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第五季: TPuDCATb_TPu vs Tricked
+DTSTART:20251006T140000Z
+DTEND:20251006T163000Z
+UID:csgo_mc_2386409@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386409\n赛事: Exort试验场 第五季\n
+ 阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22: MOUZ vs Falcons
+DTSTART:20251006T160000Z
+DTEND:20251006T183000Z
+UID:csgo_mc_2385952@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385952\n赛事: EPL S22\n阶段: 小组赛 
+ 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385952
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22: Spirit vs G2
+DTSTART:20251006T160000Z
+DTEND:20251006T183000Z
+UID:csgo_mc_2385953@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385953\n赛事: EPL S22\n阶段: 小组赛 
+ 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:T-Esports 锦标赛 第4季: Phantom vs Sangrija
+DTSTART:20251006T160000Z
+DTEND:20251006T183000Z
+UID:csgo_mc_2386496@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386496\n赛事: T-Esports 锦标赛 第4季
+ \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386496
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛5: Yawara vs Procyon
+DTSTART:20251006T160000Z
+DTEND:20251006T183000Z
+UID:csgo_mc_2386638@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386638\n赛事:  CCT 第3赛季 南美系
+ 列赛5\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386638
 END:VEVENT
 END:VCALENDAR

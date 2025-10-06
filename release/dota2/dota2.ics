@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:PGL 瓦拉几亚 S6: PR vs TBD
-DTSTART:20251005T230000Z
-DTEND:20251006T020000Z
-UID:dt_mc_20251004012406164qn@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251004012406164qn\n赛制: BO5\n阶段: 美
- 洲区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20251004012406164qn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fissure Universe Ep 7: MOUZ vs TY
 DTSTART:20251006T080000Z
 DTEND:20251006T100000Z
@@ -419,5 +408,27 @@ DESCRIPTION:比赛ID: dt_mc_2025092922385264235\n赛制: BO3\n阶段: 未
  \n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_2025092922385264235
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST Slam V: TBD vs TBD
+DTSTART:20251010T090000Z
+DTEND:20251010T120000Z
+UID:dt_mc_20250929230254qf6f4@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250929230254qf6f4\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250929230254qf6f4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST Slam V: TBD vs TBD
+DTSTART:20251010T090000Z
+DTEND:20251010T120000Z
+UID:dt_mc_20250929230254svuii@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250929230254svuii\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250929230254svuii
 END:VEVENT
 END:VCALENDAR
