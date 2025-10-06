@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:T-Esports 锦标赛 第4季: WildLotus vs Oramond
-DTSTART:20251006T183000Z
-DTEND:20251006T210000Z
-UID:csgo_mc_2386498@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386498\n赛事: T-Esports 锦标赛 第4季
- \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386498
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: Players vs R2
-DTSTART:20251006T190000Z
-DTEND:20251006T213000Z
-UID:csgo_mc_2386639@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386639\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386639
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 南美 第3季: 2GAME vs KRÜ
 DTSTART:20251006T210000Z
 DTEND:20251006T233000Z
@@ -96,19 +73,6 @@ DESCRIPTION:比赛ID: csgo_mc_2386471\n赛事: ESL 挑战者联赛 S50 南
  : 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386471
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Galorys vs Gaimin Gladiato
- rs
-DTSTART:20251006T210000Z
-DTEND:20251006T233000Z
-UID:csgo_mc_2386472@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386472\n赛事: ESL 挑战者联赛 S50 南
- 美 第3季\n阶段: 淘汰赛 胜者组 16强\n轮次: 16强\n赛制: BO3
- \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
- : 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386472
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Sharks vs Crashers
@@ -278,6 +242,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386649
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exort试验场 第五季: Nexus vs Betera
+DTSTART:20251007T080000Z
+DTEND:20251007T103000Z
+UID:csgo_mc_2386411@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386411\n赛事: Exort试验场 第五季\n
+ 阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386411
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 大洋洲 第3季: Animus Victoria vs Fury
 DTSTART:20251007T090000Z
 DTEND:20251007T113000Z
@@ -348,15 +323,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386650
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: TBD vs TBD
+SUMMARY:Exort试验场 第五季: TPuDCATb_TPu vs EYE
 DTSTART:20251007T110000Z
 DTEND:20251007T133000Z
-UID:csgo_mc_2386411@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386411\n赛事: Exort试验场 第五季\n
+UID:csgo_mc_2386412@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386412\n赛事: Exort试验场 第五季\n
  阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: C级\
  n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386411
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386412
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EPL S22: TBD vs TBD
@@ -368,5 +343,109 @@ DESCRIPTION:比赛ID: csgo_mc_2385954\n赛事: EPL S22\n阶段: 小组赛
  预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385954
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22: TBD vs TBD
+DTSTART:20251007T113000Z
+DTEND:20251007T140000Z
+UID:csgo_mc_2385955@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385955\n赛事: EPL S22\n阶段: 小组赛 
+ 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385955
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第3季: NSN vs CW
+DTSTART:20251007T130000Z
+DTEND:20251007T153000Z
+UID:csgo_mc_2386517@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386517\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第3季: Just Swing vs Legion
+DTSTART:20251007T130000Z
+DTEND:20251007T153000Z
+UID:csgo_mc_2386518@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386518\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386518
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第3季: Last Bullet vs NomadS
+DTSTART:20251007T130000Z
+DTEND:20251007T153000Z
+UID:csgo_mc_2386519@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386519\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386519
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第3季: Eruption vs FengDa
+DTSTART:20251007T130000Z
+DTEND:20251007T153000Z
+UID:csgo_mc_2386520@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386520\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386520
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛5: Crashers vs Mibr.A
+DTSTART:20251007T130000Z
+DTEND:20251007T153000Z
+UID:csgo_mc_2386641@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386641\n赛事:  CCT 第3赛季 南美系
+ 列赛5\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386641
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第4阶段: Sashi vs Monte
+DTSTART:20251007T140000Z
+DTEND:20251007T163000Z
+UID:csgo_mc_2386203@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386203\n赛事: 银河之战 2025 第4阶
+ 段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22: TBD vs TBD
+DTSTART:20251007T140000Z
+DTEND:20251007T163000Z
+UID:csgo_mc_2385956@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385956\n赛事: EPL S22\n阶段: 小组赛 
+ 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385956
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22: TBD vs TBD
+DTSTART:20251007T140000Z
+DTEND:20251007T163000Z
+UID:csgo_mc_2385957@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385957\n赛事: EPL S22\n阶段: 小组赛 
+ 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385957
 END:VEVENT
 END:VCALENDAR

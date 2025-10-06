@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: Avulus vs 1win
-DTSTART:20251006T190000Z
-DTEND:20251006T210000Z
-UID:dt_mc_202510032102591t6kl@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202510032102591t6kl\n赛制: BO2\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202510032102591t6kl
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLAST Slam V: InterActive vs Ivory
 DTSTART:20251007T040000Z
 DTEND:20251007T070000Z
@@ -430,5 +419,16 @@ DESCRIPTION:比赛ID: dt_mc_202510061535554zxyg\n赛制: BO3\n阶段: 未
  \n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510061535554zxyg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST Slam V: TBD vs TBD
+DTSTART:20251009T100000Z
+DTEND:20251009T130000Z
+UID:dt_mc_20251006153556hpyb5@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20251006153556hpyb5\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20251006153556hpyb5
 END:VEVENT
 END:VCALENDAR
