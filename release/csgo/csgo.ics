@@ -435,4 +435,28 @@ DESCRIPTION:比赛ID: csgo_mc_2386457\n赛事: ESL 挑战者联赛 S50 欧
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386457
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: The Glecs vs Monte
+DTSTART:20251006T170000Z
+DTEND:20251006T193000Z
+UID:csgo_mc_2386462@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386462\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386462
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: ARCRED vs Johnny Speeds
+DTSTART:20251006T170000Z
+DTEND:20251006T193000Z
+UID:csgo_mc_2386456@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386456\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386456
+END:VEVENT
 END:VCALENDAR
