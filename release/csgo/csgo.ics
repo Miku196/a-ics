@@ -3,66 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: TSG vs FULL SEND
-DTSTART:20251006T010000Z
-DTEND:20251006T033000Z
-UID:csgo_mc_2386480@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386480\n赛事: ESL 挑战者联赛 S50 北
- 美 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386480
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: Take Flyte vs Wanted Goons
-DTSTART:20251006T010000Z
-DTEND:20251006T033000Z
-UID:csgo_mc_2386479@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386479\n赛事: ESL 挑战者联赛 S50 北
- 美 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386479
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: Zomblers vs GTP
-DTSTART:20251006T010000Z
-DTEND:20251006T033000Z
-UID:csgo_mc_2386481@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386481\n赛事: ESL 挑战者联赛 S50 北
- 美 第3季\n阶段: 淘汰赛 胜者组 16强\n轮次: 16强\n赛制: BO3
- \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
- : 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386481
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: NuTorious vs Nocturnal
-DTSTART:20251006T010000Z
-DTEND:20251006T033000Z
-UID:csgo_mc_2386482@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386482\n赛事: ESL 挑战者联赛 S50 北
- 美 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386482
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: anything else vs Mythic
-DTSTART:20251006T010000Z
-DTEND:20251006T033000Z
-UID:csgo_mc_2386483@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386483\n赛事: ESL 挑战者联赛 S50 北
- 美 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386483
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NODWIN Clutch 系列 第1赛季: Betera vs UNiTY
 DTSTART:20251006T080000Z
 DTEND:20251006T103000Z
@@ -446,5 +386,53 @@ DESCRIPTION:比赛ID: csgo_mc_2386638\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386638
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: 500 vs VP.P
+DTSTART:20251006T170000Z
+DTEND:20251006T193000Z
+UID:csgo_mc_2386460@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386460\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386460
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: HOTU vs Sangal
+DTSTART:20251006T170000Z
+DTEND:20251006T193000Z
+UID:csgo_mc_2386461@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386461\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386461
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: Partizan vs HubaBuba
+DTSTART:20251006T170000Z
+DTEND:20251006T193000Z
+UID:csgo_mc_2386455@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386455\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386455
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: Betera vs SPARTA
+DTSTART:20251006T170000Z
+DTEND:20251006T193000Z
+UID:csgo_mc_2386457@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386457\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第3季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386457
 END:VEVENT
 END:VCALENDAR
