@@ -3,31 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: Avulus vs 1win
-DTSTART:20251006T102000Z
-DTEND:20251006T122000Z
-UID:dt_mc_202510032102591t6kl@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202510032102591t6kl\n赛制: BO2\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202510032102591t6kl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: VP vs Yes
-DTSTART:20251006T122000Z
-DTEND:20251006T142000Z
-UID:dt_mc_202510032103009tnzj@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202510032103009tnzj\n赛制: BO2\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202510032103009tnzj
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fissure Universe Ep 7: Runa vs OG
-DTSTART:20251006T142000Z
-DTEND:20251006T162000Z
+DTSTART:20251006T140000Z
+DTEND:20251006T160000Z
 UID:dt_mc_20251003210301tbx8o@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20251003210301tbx8o\n赛制: BO2\n阶段: 小
  组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
@@ -37,14 +15,25 @@ URL:https://event.5eplay.com/dota/session/dt_mc_20251003210301tbx8o
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fissure Universe Ep 7: VP vs L1ga
-DTSTART:20251006T162000Z
-DTEND:20251006T182000Z
+DTSTART:20251006T160000Z
+DTEND:20251006T180000Z
 UID:dt_mc_20251003213853k808k@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20251003213853k808k\n赛制: BO2\n阶段: 小
  组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003213853k808k
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fissure Universe Ep 7: Avulus vs 1win
+DTSTART:20251006T180000Z
+DTEND:20251006T200000Z
+UID:dt_mc_202510032102591t6kl@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202510032102591t6kl\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202510032102591t6kl
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLAST Slam V: InterActive vs Ivory
