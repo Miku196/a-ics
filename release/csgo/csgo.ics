@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: KRÜ vs JERSA
-DTSTART:20251006T223000Z
-DTEND:20251007T010000Z
-UID:csgo_mc_2386640@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386640\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386640
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 北美系列赛2: ex-Chicken Coop vs InControl
-DTSTART:20251007T003000Z
-DTEND:20251007T030000Z
-UID:csgo_mc_2386311@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386311\n赛事:  CCT 第3赛季 北美系
- 列赛2\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386311
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 北美 第3季: BOSS vs FULL SEND
 DTSTART:20251007T010000Z
 DTEND:20251007T033000Z
@@ -386,5 +362,98 @@ DESCRIPTION:比赛ID: csgo_mc_2386651\n赛事: NODWIN Clutch 系列 第1
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386651
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第五季: Sangal vs SINNERS
+DTSTART:20251007T140000Z
+DTEND:20251007T163000Z
+UID:csgo_mc_2386413@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386413\n赛事: Exort试验场 第五季\n
+ 阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386413
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛5: GameHunters vs VEXA
+DTSTART:20251007T160000Z
+DTEND:20251007T183000Z
+UID:csgo_mc_2386642@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386642\n赛事:  CCT 第3赛季 南美系
+ 列赛5\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386642
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22: FaZe vs Inner Circle
+DTSTART:20251007T163000Z
+DTEND:20251007T190000Z
+UID:csgo_mc_2385959@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385959\n赛事: EPL S22\n阶段: 小组赛 
+ 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22: Vitality vs G2
+DTSTART:20251007T163000Z
+DTEND:20251007T190000Z
+UID:csgo_mc_2385958@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385958\n赛事: EPL S22\n阶段: 小组赛 
+ 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385958
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: CYBERSHOKE vs Nemiga
+DTSTART:20251007T170000Z
+DTEND:20251007T193000Z
+UID:csgo_mc_2386531@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386531\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386531
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: EF vs FT
+DTSTART:20251007T170000Z
+DTEND:20251007T193000Z
+UID:csgo_mc_2386532@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386532\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386532
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: Oramond vs Sashi
+DTSTART:20251007T170000Z
+DTEND:20251007T193000Z
+UID:csgo_mc_2386533@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386533\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386533
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: Nexus vs BC.Game
+DTSTART:20251007T170000Z
+DTEND:20251007T193000Z
+UID:csgo_mc_2386534@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386534\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386534
 END:VEVENT
 END:VCALENDAR
