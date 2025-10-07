@@ -124,15 +124,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510061532538vajj
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: VP vs TY
+SUMMARY:Fissure Universe Ep 7: VP vs MOUZ
 DTSTART:20251007T140000Z
 DTEND:20251007T160000Z
-UID:dt_mc_20251003210307w8oo7@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251003210307w8oo7\n赛制: BO2\n阶段: 小
+UID:dt_mc_20251003210310qyvzk@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20251003210310qyvzk\n赛制: BO2\n阶段: 小
  组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20251003210307w8oo7
+URL:https://event.5eplay.com/dota/session/dt_mc_20251003210310qyvzk
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fissure Universe Ep 7: Avulus vs Apex
@@ -144,6 +144,17 @@ DESCRIPTION:比赛ID: dt_mc_202510032138568lmfl\n赛制: BO2\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510032138568lmfl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fissure Universe Ep 7: VP vs TY
+DTSTART:20251007T180000Z
+DTEND:20251007T200000Z
+UID:dt_mc_20251003210307w8oo7@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20251003210307w8oo7\n赛制: BO2\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20251003210307w8oo7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fissure Universe Ep 7: L1ga vs Yes
@@ -188,17 +199,6 @@ DESCRIPTION:比赛ID: dt_mc_202510032103107l9nm\n赛制: BO2\n阶段: 小
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510032103107l9nm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: VP vs MOUZ
-DTSTART:20251008T160000Z
-DTEND:20251008T180000Z
-UID:dt_mc_20251003210310qyvzk@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251003210310qyvzk\n赛制: BO2\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20251003210310qyvzk
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLAST Slam V: TBD vs TBD
