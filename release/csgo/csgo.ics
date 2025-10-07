@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段: Betclic vs Alliance
-DTSTART:20251007T080000Z
-DTEND:20251007T103000Z
-UID:csgo_mc_2386201@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386201\n赛事: 银河之战 2025 第4阶
- 段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386201
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: FT vs 1win
-DTSTART:20251007T080000Z
-DTEND:20251007T103000Z
-UID:csgo_mc_2386649@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386649\n赛事: NODWIN Clutch 系列 第1
- 赛季\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386649
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: Nexus vs Betera
-DTSTART:20251007T080000Z
-DTEND:20251007T103000Z
-UID:csgo_mc_2386411@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386411\n赛事: Exort试验场 第五季\n
- 阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386411
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 大洋洲 第3季: Animus Victoria vs Fury
 DTSTART:20251007T090000Z
 DTEND:20251007T113000Z

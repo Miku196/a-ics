@@ -3,37 +3,15 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:BLAST Slam V: TBD vs TBD
-DTSTART:20251007T070000Z
-DTEND:20251007T090000Z
+SUMMARY:BLAST Slam V: YG vs TBD
+DTSTART:20251007T084500Z
+DTEND:20251007T114500Z
 UID:dt_mc_202510061459533f3vq@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202510061459533f3vq\n赛制: BO1\n阶段: 东
- 南亚区\n赛事等级: A级\n状态: 未开始\n预计时长: 2小时\n
+DESCRIPTION:比赛ID: dt_mc_202510061459533f3vq\n赛制: BO3\n阶段: 东
+ 南亚区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510061459533f3vq
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST Slam V: TBD vs TBD
-DTSTART:20251007T070000Z
-DTEND:20251007T090000Z
-UID:dt_mc_20251006145954qdbng@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251006145954qdbng\n赛制: BO1\n阶段: 东
- 南亚区\n赛事等级: A级\n状态: 未开始\n预计时长: 2小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20251006145954qdbng
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: 1win vs Runa
-DTSTART:20251007T080000Z
-DTEND:20251007T100000Z
-UID:dt_mc_20251003213854rcd6t@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251003213854rcd6t\n赛制: BO2\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20251003213854rcd6t
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fissure Universe Ep 7: L1ga vs MOUZ
@@ -104,10 +82,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLAST Slam V: TBD vs TBD
 DTSTART:20251007T130000Z
-DTEND:20251007T150000Z
+DTEND:20251007T160000Z
 UID:dt_mc_20251006153252iizxr@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251006153252iizxr\n赛制: BO1\n阶段: 欧
- 洲区\n赛事等级: A级\n状态: 未开始\n预计时长: 2小时\n数
+DESCRIPTION:比赛ID: dt_mc_20251006153252iizxr\n赛制: BO3\n阶段: 欧
+ 洲区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n数
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251006153252iizxr
@@ -115,10 +93,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLAST Slam V: TBD vs TBD
 DTSTART:20251007T130000Z
-DTEND:20251007T150000Z
+DTEND:20251007T160000Z
 UID:dt_mc_202510061532538vajj@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202510061532538vajj\n赛制: BO1\n阶段: 欧
- 洲区\n赛事等级: A级\n状态: 未开始\n预计时长: 2小时\n数
+DESCRIPTION:比赛ID: dt_mc_202510061532538vajj\n赛制: BO3\n阶段: 欧
+ 洲区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n数
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510061532538vajj
@@ -247,10 +225,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLAST Slam V: TBD vs TBD
 DTSTART:20251009T070000Z
-DTEND:20251009T090000Z
+DTEND:20251009T100000Z
 UID:dt_mc_202510061535542cp4c@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202510061535542cp4c\n赛制: BO1\n阶段: 东
- 南亚区\n赛事等级: A级\n状态: 未开始\n预计时长: 2小时\n
+DESCRIPTION:比赛ID: dt_mc_202510061535542cp4c\n赛制: BO3\n阶段: 东
+ 南亚区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510061535542cp4c
@@ -397,5 +375,38 @@ DESCRIPTION:比赛ID: dt_mc_202509292259520725q\n赛制: BO3\n阶段: 未
  \n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509292259520725q
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST Slam V: TBD vs TBD
+DTSTART:20251010T030000Z
+DTEND:20251010T060000Z
+UID:dt_mc_20250929225953g2mb6@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250929225953g2mb6\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250929225953g2mb6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST Slam V: TBD vs TBD
+DTSTART:20251010T060000Z
+DTEND:20251010T090000Z
+UID:dt_mc_20250929230252n9bq9@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250929230252n9bq9\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250929230252n9bq9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST Slam V: TBD vs TBD
+DTSTART:20251010T060000Z
+DTEND:20251010T090000Z
+UID:dt_mc_202509292302537vyy7@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202509292302537vyy7\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202509292302537vyy7
 END:VEVENT
 END:VCALENDAR
