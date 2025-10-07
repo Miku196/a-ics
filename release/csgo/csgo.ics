@@ -3,85 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段: JJH vs Partizan
-DTSTART:20251007T110000Z
-DTEND:20251007T133000Z
-UID:csgo_mc_2386202@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386202\n赛事: 银河之战 2025 第4阶
- 段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386202
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winline Insight 第8赛季: Betera vs ARCRED
-DTSTART:20251007T110000Z
-DTEND:20251007T133000Z
-UID:csgo_mc_2386222@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386222\n赛事: Winline Insight 第8赛季\
- n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386222
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : Johnny Speeds vs SINNERS
-DTSTART:20251007T110000Z
-DTEND:20251007T133000Z
-UID:csgo_mc_2386326@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386326\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386326
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: SPARTA vs RUBY
-DTSTART:20251007T110000Z
-DTEND:20251007T133000Z
-UID:csgo_mc_2386650@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386650\n赛事: NODWIN Clutch 系列 第1
- 赛季\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386650
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: TPuDCATb_TPu vs EYE
-DTSTART:20251007T110000Z
-DTEND:20251007T133000Z
-UID:csgo_mc_2386412@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386412\n赛事: Exort试验场 第五季\n
- 阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386412
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPL S22: FURIA vs Aurora
-DTSTART:20251007T113000Z
-DTEND:20251007T140000Z
-UID:csgo_mc_2385954@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385954\n赛事: EPL S22\n阶段: 小组赛 
- 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385954
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPL S22: NAVI vs HOTU
-DTSTART:20251007T113000Z
-DTEND:20251007T140000Z
-UID:csgo_mc_2385955@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385955\n赛事: EPL S22\n阶段: 小组赛 
- 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385955
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 亚太区 第3季: NSN vs CW
 DTSTART:20251007T130000Z
 DTEND:20251007T153000Z
@@ -434,5 +355,29 @@ DESCRIPTION:比赛ID: csgo_mc_2386582\n赛事: ESL 挑战者联赛 S50 南
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386582
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Procyon vs Galorys
+DTSTART:20251007T210000Z
+DTEND:20251007T233000Z
+UID:csgo_mc_2386583@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386583\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386583
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Players vs UnderDogs
+DTSTART:20251007T210000Z
+DTEND:20251007T233000Z
+UID:csgo_mc_2386584@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386584\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386584
 END:VEVENT
 END:VCALENDAR
