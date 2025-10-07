@@ -3,50 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:BLAST Slam V: InterActive vs Ivory
-DTSTART:20251007T040000Z
-DTEND:20251007T070000Z
-UID:dt_mc_20251006145952lvbk4@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251006145952lvbk4\n赛制: BO3\n阶段: 东
- 南亚区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20251006145952lvbk4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST Slam V: Kukuys vs Esse
-DTSTART:20251007T040000Z
-DTEND:20251007T070000Z
-UID:dt_mc_20251006145952apy5p@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251006145952apy5p\n赛制: BO3\n阶段: 东
- 南亚区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20251006145952apy5p
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST Slam V: Manila Zoo vs Veroja
-DTSTART:20251007T040000Z
-DTEND:20251007T070000Z
-UID:dt_mc_20251006145953ect2a@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251006145953ect2a\n赛制: BO3\n阶段: 东
- 南亚区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20251006145953ect2a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST Slam V: YG vs Malaysia Reject 2.0
-DTSTART:20251007T040000Z
-DTEND:20251007T070000Z
-UID:dt_mc_20251006151003msbkm@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251006151003msbkm\n赛制: BO3\n阶段: 东
- 南亚区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20251006151003msbkm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLAST Slam V: TBD vs TBD
 DTSTART:20251007T070000Z
 DTEND:20251007T090000Z
