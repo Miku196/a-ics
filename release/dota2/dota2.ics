@@ -3,75 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:BLAST Slam V: YG vs TBD
-DTSTART:20251007T084500Z
-DTEND:20251007T114500Z
-UID:dt_mc_202510061459533f3vq@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202510061459533f3vq\n赛制: BO3\n阶段: 东
- 南亚区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_202510061459533f3vq
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: L1ga vs MOUZ
-DTSTART:20251007T100000Z
-DTEND:20251007T120000Z
-UID:dt_mc_20251003210305su2kq@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251003210305su2kq\n赛制: BO2\n阶段: 小
- 组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20251003210305su2kq
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST Slam V: TY vs Tea
-DTSTART:20251007T100000Z
-DTEND:20251007T130000Z
-UID:dt_mc_20251006151152p3ldo@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251006151152p3ldo\n赛制: BO3\n阶段: 欧
- 洲区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20251006151152p3ldo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST Slam V: Runa vs pipsqueak+4
-DTSTART:20251007T100000Z
-DTEND:20251007T130000Z
-UID:dt_mc_2025100615115351b34@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_2025100615115351b34\n赛制: BO3\n阶段: 欧
- 洲区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_2025100615115351b34
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST Slam V: NGX vs Kalmychata
-DTSTART:20251007T100000Z
-DTEND:20251007T130000Z
-UID:dt_mc_20251006151154yw94g@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251006151154yw94g\n赛制: BO3\n阶段: 欧
- 洲区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20251006151154yw94g
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLAST Slam V: 4P vs WB
-DTSTART:20251007T100000Z
-DTEND:20251007T130000Z
-UID:dt_mc_20251006152004j1i8b@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251006152004j1i8b\n赛制: BO3\n阶段: 欧
- 洲区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20251006152004j1i8b
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fissure Universe Ep 7: 1win vs OG
-DTSTART:20251007T120000Z
-DTEND:20251007T140000Z
+DTSTART:20251007T122000Z
+DTEND:20251007T142000Z
 UID:dt_mc_2025100321030531vhr@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_2025100321030531vhr\n赛制: BO2\n阶段: 小
  组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
@@ -103,8 +37,8 @@ URL:https://event.5eplay.com/dota/session/dt_mc_202510061532538vajj
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fissure Universe Ep 7: VP vs MOUZ
-DTSTART:20251007T140000Z
-DTEND:20251007T160000Z
+DTSTART:20251007T142000Z
+DTEND:20251007T162000Z
 UID:dt_mc_20251003210310qyvzk@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20251003210310qyvzk\n赛制: BO2\n阶段: 小
  组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
@@ -114,8 +48,8 @@ URL:https://event.5eplay.com/dota/session/dt_mc_20251003210310qyvzk
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fissure Universe Ep 7: Avulus vs Apex
-DTSTART:20251007T160000Z
-DTEND:20251007T180000Z
+DTSTART:20251007T162000Z
+DTEND:20251007T182000Z
 UID:dt_mc_202510032138568lmfl@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_202510032138568lmfl\n赛制: BO2\n阶段: 小
  组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
@@ -125,8 +59,8 @@ URL:https://event.5eplay.com/dota/session/dt_mc_202510032138568lmfl
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fissure Universe Ep 7: VP vs TY
-DTSTART:20251007T180000Z
-DTEND:20251007T200000Z
+DTSTART:20251007T182000Z
+DTEND:20251007T202000Z
 UID:dt_mc_20251003210307w8oo7@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_20251003210307w8oo7\n赛制: BO2\n阶段: 小
  组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
@@ -236,10 +170,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLAST Slam V: TBD vs TBD
 DTSTART:20251009T070000Z
-DTEND:20251009T090000Z
+DTEND:20251009T100000Z
 UID:dt_mc_20251006153555x5jex@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251006153555x5jex\n赛制: BO1\n阶段: 东
- 南亚区\n赛事等级: A级\n状态: 未开始\n预计时长: 2小时\n
+DESCRIPTION:比赛ID: dt_mc_20251006153555x5jex\n赛制: BO3\n阶段: 东
+ 南亚区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251006153555x5jex
@@ -313,22 +247,22 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLAST Slam V: TBD vs TBD
 DTSTART:20251009T130000Z
-DTEND:20251009T150000Z
+DTEND:20251009T160000Z
 UID:dt_mc_202510061535571b251@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_202510061535571b251\n赛制: BO1\n阶段: 未
- 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 2小时
- \n数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_202510061535571b251\n赛制: BO3\n阶段: 欧
+ 洲区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510061535571b251
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLAST Slam V: TBD vs TBD
 DTSTART:20251009T130000Z
-DTEND:20251009T150000Z
+DTEND:20251009T160000Z
 UID:dt_mc_20251006153558dp0nx@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251006153558dp0nx\n赛制: BO1\n阶段: 未
- 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 2小时
- \n数据来源: 5EPlay
+DESCRIPTION:比赛ID: dt_mc_20251006153558dp0nx\n赛制: BO3\n阶段: 欧
+ 洲区\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时\n数
+ 据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251006153558dp0nx
 END:VEVENT
@@ -408,5 +342,38 @@ DESCRIPTION:比赛ID: dt_mc_202509292302537vyy7\n赛制: BO3\n阶段: 未
  \n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202509292302537vyy7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fissure Universe Ep 7: TBD vs TBD
+DTSTART:20251010T080000Z
+DTEND:20251010T110000Z
+UID:dt_mc_20251003223856vr0jw@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20251003223856vr0jw\n赛制: BO3\n阶段: 淘
+ 汰赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20251003223856vr0jw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第2赛季 系列赛 5: TBD vs TBD
+DTSTART:20251010T080000Z
+DTEND:20251010T110000Z
+UID:dt_mc_20250711210436tgiso@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250711210436tgiso\n赛制: BO3\n轮次: 1/4
+ 决赛\n阶段: 淘汰赛 胜者组 1/4决赛\n赛事等级: 其他\n状
+ 态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250711210436tgiso
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST Slam V: TBD vs TBD
+DTSTART:20251010T090000Z
+DTEND:20251010T120000Z
+UID:dt_mc_2025092922385264235@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_2025092922385264235\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_2025092922385264235
 END:VEVENT
 END:VCALENDAR

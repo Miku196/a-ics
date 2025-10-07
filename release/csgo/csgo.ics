@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 大洋洲 第3季: Animus Victoria vs Fury
-DTSTART:20251007T090000Z
-DTEND:20251007T113000Z
-UID:csgo_mc_2386503@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386503\n赛事: ESL 挑战者联赛 S50 大
- 洋洲 第3季\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386503
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 大洋洲 第3季: Rooster vs Gz
-DTSTART:20251007T090000Z
-DTEND:20251007T113000Z
-UID:csgo_mc_2386504@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386504\n赛事: ESL 挑战者联赛 S50 大
- 洋洲 第3季\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386504
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:银河之战 2025 第4阶段: JJH vs Partizan
 DTSTART:20251007T110000Z
 DTEND:20251007T133000Z
@@ -387,18 +363,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386328
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: ARCRED vs m1x
-DTSTART:20251007T170000Z
-DTEND:20251007T193000Z
-UID:csgo_mc_2386652@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386652\n赛事: NODWIN Clutch 系列 第1
- 赛季\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386652
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 南美系列赛5: UnderDogs vs MAGICOS
 DTSTART:20251007T190000Z
 DTEND:20251007T213000Z
@@ -434,5 +398,41 @@ DESCRIPTION:比赛ID: csgo_mc_2386578\n赛事: ESL 挑战者联赛 S50 南
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386578
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Four Magic vs Yawara
+DTSTART:20251007T210000Z
+DTEND:20251007T233000Z
+UID:csgo_mc_2386581@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386581\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386581
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Mibr.A vs LP
+DTSTART:20251007T210000Z
+DTEND:20251007T233000Z
+UID:csgo_mc_2386580@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386580\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386580
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Bounty Hunters vs KRÜ
+DTSTART:20251007T210000Z
+DTEND:20251007T233000Z
+UID:csgo_mc_2386582@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386582\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386582
 END:VEVENT
 END:VCALENDAR
