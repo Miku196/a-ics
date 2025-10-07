@@ -3,69 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 亚太区 第3季: NSN vs CW
-DTSTART:20251007T130000Z
-DTEND:20251007T153000Z
-UID:csgo_mc_2386517@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386517\n赛事: ESL 挑战者联赛 S50 亚
- 太区 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386517
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 亚太区 第3季: Just Swing vs Legion
-DTSTART:20251007T130000Z
-DTEND:20251007T153000Z
-UID:csgo_mc_2386518@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386518\n赛事: ESL 挑战者联赛 S50 亚
- 太区 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386518
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 亚太区 第3季: Last Bullet vs NomadS
-DTSTART:20251007T130000Z
-DTEND:20251007T153000Z
-UID:csgo_mc_2386519@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386519\n赛事: ESL 挑战者联赛 S50 亚
- 太区 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386519
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 亚太区 第3季: Eruption vs FengDa
-DTSTART:20251007T130000Z
-DTEND:20251007T153000Z
-UID:csgo_mc_2386520@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386520\n赛事: ESL 挑战者联赛 S50 亚
- 太区 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386520
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: Crashers vs Mibr.A
-DTSTART:20251007T130000Z
-DTEND:20251007T153000Z
-UID:csgo_mc_2386641@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386641\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386641
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:银河之战 2025 第4阶段: Sashi vs Monte
-DTSTART:20251007T140000Z
-DTEND:20251007T163000Z
+DTSTART:20251007T142000Z
+DTEND:20251007T165000Z
 UID:csgo_mc_2386203@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386203\n赛事: 银河之战 2025 第4阶
  段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
@@ -74,31 +14,9 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386203
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EPL S22:  3DMAX vs MOUZ
-DTSTART:20251007T140000Z
-DTEND:20251007T163000Z
-UID:csgo_mc_2385956@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385956\n赛事: EPL S22\n阶段: 小组赛 
- 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385956
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPL S22: Mongolz vs Gentle Mates
-DTSTART:20251007T140000Z
-DTEND:20251007T163000Z
-UID:csgo_mc_2385957@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385957\n赛事: EPL S22\n阶段: 小组赛 
- 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385957
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Winline Insight 第8赛季: JJH vs ESC
-DTSTART:20251007T140000Z
-DTEND:20251007T163000Z
+DTSTART:20251007T142500Z
+DTEND:20251007T165500Z
 UID:csgo_mc_2386225@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386225\n赛事: Winline Insight 第8赛季\
  n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
@@ -107,39 +25,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : CYBERSHOKE vs RUBY
-DTSTART:20251007T140000Z
-DTEND:20251007T163000Z
-UID:csgo_mc_2386327@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386327\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
+SUMMARY:EPL S22:  3DMAX vs MOUZ
+DTSTART:20251007T144000Z
+DTEND:20251007T171000Z
+UID:csgo_mc_2385956@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385956\n赛事: EPL S22\n阶段: 小组赛 
+ 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386327
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: Nexus vs Nuclear TigeRES
-DTSTART:20251007T140000Z
-DTEND:20251007T163000Z
-UID:csgo_mc_2386651@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386651\n赛事: NODWIN Clutch 系列 第1
- 赛季\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386651
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: Sangal vs SINNERS
-DTSTART:20251007T140000Z
-DTEND:20251007T163000Z
-UID:csgo_mc_2386413@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386413\n赛事: Exort试验场 第五季\n
- 阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386413
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385956
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 南美系列赛5: GameHunters vs VEXA
@@ -379,5 +273,77 @@ DESCRIPTION:比赛ID: csgo_mc_2386584\n赛事: ESL 挑战者联赛 S50 南
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: MAGICOS vs Vasco
+DTSTART:20251007T210000Z
+DTEND:20251007T233000Z
+UID:csgo_mc_2386579@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386579\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386579
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 北美系列赛2: Zomblers vs ex-Chicken Coop
+DTSTART:20251007T213000Z
+DTEND:20251008T000000Z
+UID:csgo_mc_2386312@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386312\n赛事:  CCT 第3赛季 北美系
+ 列赛2\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386312
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛5: Bounty Hunters vs FOLHA AMARELA
+DTSTART:20251007T220000Z
+DTEND:20251008T003000Z
+UID:csgo_mc_2386644@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386644\n赛事:  CCT 第3赛季 南美系
+ 列赛5\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386644
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 北美系列赛2: Getting Info vs regain
+DTSTART:20251008T003000Z
+DTEND:20251008T030000Z
+UID:csgo_mc_2386313@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386313\n赛事:  CCT 第3赛季 北美系
+ 列赛2\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: TBD vs TBD
+DTSTART:20251008T010000Z
+DTEND:20251008T033000Z
+UID:csgo_mc_2386608@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386608\n赛事: ESL 挑战者联赛 S50 北
+ 美 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386608
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: Mythic vs Wanted Goons
+DTSTART:20251008T010000Z
+DTEND:20251008T033000Z
+UID:csgo_mc_2386607@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386607\n赛事: ESL 挑战者联赛 S50 北
+ 美 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386607
 END:VEVENT
 END:VCALENDAR
