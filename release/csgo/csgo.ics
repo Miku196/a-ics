@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: BIG.E vs Imperial fe
-DTSTART:20251008T183000Z
-DTEND:20251008T210000Z
-UID:csgo_mc_2386291@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386291\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386291
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: 888aura vs Let Her Cook
-DTSTART:20251008T183000Z
-DTEND:20251008T210000Z
-UID:csgo_mc_2386290@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386290\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386290
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: MAGICOS vs R2
-DTSTART:20251008T190000Z
-DTEND:20251008T213000Z
-UID:csgo_mc_2386678@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386678\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386678
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL Impact 联赛 第8赛季 南美: thekillaz fe vs MIBR.fe
 DTSTART:20251008T210000Z
 DTEND:20251008T233000Z
@@ -310,7 +276,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386721
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : JJH vs Johnny Speeds
 DTSTART:20251009T080000Z
 DTEND:20251009T103000Z
 UID:csgo_mc_2386332@5eplay.com
@@ -320,5 +286,157 @@ DESCRIPTION:比赛ID: csgo_mc_2386332\n赛事: CCT 第3赛季 欧洲系列
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第1赛季: kONO vs FORZE Reload
+DTSTART:20251009T110000Z
+DTEND:20251009T133000Z
+UID:csgo_mc_2386722@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386722\n赛事: NODWIN Clutch 系列 第1
+ 赛季\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386722
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第8赛季: RUBY vs Betera
+DTSTART:20251009T110000Z
+DTEND:20251009T133000Z
+UID:csgo_mc_2386228@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386228\n赛事: Winline Insight 第8赛季\
+ n阶段: 季军赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : Spirit.A vs 1win
+DTSTART:20251009T110000Z
+DTEND:20251009T133000Z
+UID:csgo_mc_2386333@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386333\n赛事: CCT 第3赛季 欧洲系列
+ 赛 8 \n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386333
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:斯洛伐克国际冠军赛 2025 决赛: SINNERS vs Brute
+DTSTART:20251009T110000Z
+DTEND:20251009T133000Z
+UID:csgo_mc_2386670@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386670\n赛事: 斯洛伐克国际冠军赛
+  2025 决赛\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386670
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第五季: Sangal vs JJH
+DTSTART:20251009T110000Z
+DTEND:20251009T133000Z
+UID:csgo_mc_2386417@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386417\n赛事: Exort试验场 第五季\n
+ 阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第3季: Just Swing vs Kaleido
+DTSTART:20251009T130000Z
+DTEND:20251009T153000Z
+UID:csgo_mc_2386525@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386525\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第3季\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386525
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第3季: DEPO vs FengDa
+DTSTART:20251009T130000Z
+DTEND:20251009T153000Z
+UID:csgo_mc_2386526@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386526\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第3季\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386526
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛5: Players vs UnderDogs
+DTSTART:20251009T130000Z
+DTEND:20251009T153000Z
+UID:csgo_mc_2386680@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386680\n赛事:  CCT 第3赛季 南美系
+ 列赛5\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386680
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第4阶段: Nemiga vs JJH
+DTSTART:20251009T140000Z
+DTEND:20251009T163000Z
+UID:csgo_mc_2386209@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386209\n赛事: 银河之战 2025 第4阶
+ 段\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386209
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第1赛季: Tricked vs UNiTY
+DTSTART:20251009T140000Z
+DTEND:20251009T163000Z
+UID:csgo_mc_2386723@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386723\n赛事: NODWIN Clutch 系列 第1
+ 赛季\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386723
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第8赛季: ESC vs ECLOT
+DTSTART:20251009T140000Z
+DTEND:20251009T163000Z
+UID:csgo_mc_2386229@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386229\n赛事: Winline Insight 第8赛季\
+ n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : ECSTATIC vs EYE
+DTSTART:20251009T140000Z
+DTEND:20251009T163000Z
+UID:csgo_mc_2386334@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386334\n赛事: CCT 第3赛季 欧洲系列
+ 赛 8 \n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:斯洛伐克国际冠军赛 2025 决赛: ECLOT vs Glore
+DTSTART:20251009T140000Z
+DTEND:20251009T163000Z
+UID:csgo_mc_2386671@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386671\n赛事: 斯洛伐克国际冠军赛
+  2025 决赛\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386671
 END:VEVENT
 END:VCALENDAR
