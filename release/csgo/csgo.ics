@@ -453,4 +453,17 @@ DESCRIPTION:比赛ID: csgo_mc_2386295\n赛事: ESL Impact 联赛 第8赛
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386295
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Tropa do KinGui vs GameHun
+ ters
+DTSTART:20251008T210000Z
+DTEND:20251008T233000Z
+UID:csgo_mc_2386585@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386585\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386585
+END:VEVENT
 END:VCALENDAR
