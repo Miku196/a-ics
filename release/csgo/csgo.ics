@@ -3,74 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段: Gentle Mates vs Anonymo
-DTSTART:20251008T110000Z
-DTEND:20251008T133000Z
-UID:csgo_mc_2386206@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386206\n赛事: 银河之战 2025 第4阶
- 段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386206
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: SPARTA vs FT
-DTSTART:20251008T110000Z
-DTEND:20251008T133000Z
-UID:csgo_mc_2386718@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386718\n赛事: NODWIN Clutch 系列 第1
- 赛季\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386718
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winline Insight 第8赛季: RUBY vs ESC
-DTSTART:20251008T110000Z
-DTEND:20251008T133000Z
-UID:csgo_mc_2386226@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386226\n赛事: Winline Insight 第8赛季\
- n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386226
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : Tricked vs EYE
-DTSTART:20251008T110000Z
-DTEND:20251008T133000Z
-UID:csgo_mc_2386330@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386330\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 \n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386330
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: ARCRED vs Betclic
-DTSTART:20251008T110000Z
-DTEND:20251008T133000Z
-UID:csgo_mc_2386415@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386415\n赛事: Exort试验场 第五季\n
- 阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386415
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPL S22: Mongolz vs NAVI
-DTSTART:20251008T113000Z
-DTEND:20251008T140000Z
-UID:csgo_mc_2385960@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385960\n赛事: EPL S22\n阶段: 小组赛 
- 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385960
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 亚太区 第3季: RA vs Kaleido
 DTSTART:20251008T130000Z
 DTEND:20251008T153000Z
@@ -443,5 +375,29 @@ DESCRIPTION:比赛ID: csgo_mc_2386589\n赛事: ESL 挑战者联赛 S50 南
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Yawara vs KRÜ
+DTSTART:20251008T210000Z
+DTEND:20251008T233000Z
+UID:csgo_mc_2386587@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386587\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386587
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Procyon vs UnderDogs
+DTSTART:20251008T210000Z
+DTEND:20251008T233000Z
+UID:csgo_mc_2386588@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386588\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386588
 END:VEVENT
 END:VCALENDAR
