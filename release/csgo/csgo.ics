@@ -420,4 +420,28 @@ DESCRIPTION:比赛ID: csgo_mc_2386585\n赛事: ESL 挑战者联赛 S50 南
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386585
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Dusty Roots vs Sharks
+DTSTART:20251008T210000Z
+DTEND:20251008T233000Z
+UID:csgo_mc_2386592@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386592\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386592
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Gaimin Gladiators vs ODDIK
+DTSTART:20251008T210000Z
+DTEND:20251008T233000Z
+UID:csgo_mc_2386589@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386589\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386589
+END:VEVENT
 END:VCALENDAR

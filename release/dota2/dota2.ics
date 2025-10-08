@@ -4,8 +4,8 @@ PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
 SUMMARY:Fissure Universe Ep 7: Yes vs TY
-DTSTART:20251008T100000Z
-DTEND:20251008T120000Z
+DTSTART:20251008T104000Z
+DTEND:20251008T124000Z
 UID:dt_mc_202510032103097xlqh@5eplay.com
 DESCRIPTION:比赛ID: dt_mc_202510032103097xlqh\n赛制: BO2\n阶段: 小
  组赛\n赛事等级: \n状态: 未开始\n预计时长: 2小时\n数据
@@ -430,5 +430,16 @@ DESCRIPTION:比赛ID: dt_mc_20250711210440v2zd0\n赛制: BO3\n轮次: 1/4
  态: 未开始\n预计时长: 3小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250711210440v2zd0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: Allstars vs Flame
+DTSTART:20251010T180000Z
+DTEND:20251010T210000Z
+UID:dt_mc_20250902000257o5hn6@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000257o5hn6\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000257o5hn6
 END:VEVENT
 END:VCALENDAR
