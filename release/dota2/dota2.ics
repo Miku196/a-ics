@@ -58,7 +58,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251006153555x5jex
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: NGX vs TBD
+SUMMARY:Fissure Universe Ep 7: NGX vs TY
 DTSTART:20251009T080000Z
 DTEND:20251009T110000Z
 UID:dt_mc_202510032235532woih@5eplay.com
@@ -102,7 +102,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251006163852wk58d
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: Liquid vs TBD
+SUMMARY:Fissure Universe Ep 7: Liquid vs MOUZ
 DTSTART:20251009T113000Z
 DTEND:20251009T143000Z
 UID:dt_mc_202510032238530rzft@5eplay.com
@@ -135,7 +135,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251006153558dp0nx
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: Heroic vs TBD
+SUMMARY:Fissure Universe Ep 7: Heroic vs 1win
 DTSTART:20251009T150000Z
 DTEND:20251009T180000Z
 UID:dt_mc_20251003223854kx1rp@5eplay.com
@@ -146,7 +146,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003223854kx1rp
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: Aurora vs TBD
+SUMMARY:Fissure Universe Ep 7: Aurora vs Avulus
 DTSTART:20251009T183000Z
 DTEND:20251009T213000Z
 UID:dt_mc_20251003223855qmrmu@5eplay.com
@@ -430,5 +430,16 @@ DESCRIPTION:比赛ID: dt_mc_202510032259522p00z\n赛制: BO3\n阶段: 淘
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510032259522p00z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACS 系列赛 2: EB vs HunterZ
+DTSTART:20251010T210000Z
+DTEND:20251011T000000Z
+UID:dt_mc_20250902000257z9is4@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250902000257z9is4\n赛制: BO3\n阶段: 小
+ 组赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250902000257z9is4
 END:VEVENT
 END:VCALENDAR

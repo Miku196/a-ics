@@ -3,137 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 南美: thekillaz fe vs MIBR.fe
-DTSTART:20251008T210000Z
-DTEND:20251008T233000Z
-UID:csgo_mc_2386294@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386294\n赛事: ESL Impact 联赛 第8赛
- 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386294
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 南美: Dusty Roses vs Curralzinho
-DTSTART:20251008T210000Z
-DTEND:20251008T233000Z
-UID:csgo_mc_2386295@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386295\n赛事: ESL Impact 联赛 第8赛
- 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386295
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Tropa do KinGui vs GameHun
- ters
-DTSTART:20251008T210000Z
-DTEND:20251008T233000Z
-UID:csgo_mc_2386585@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386585\n赛事: ESL 挑战者联赛 S50 南
- 美 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386585
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Dusty Roots vs Sharks
-DTSTART:20251008T210000Z
-DTEND:20251008T233000Z
-UID:csgo_mc_2386592@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386592\n赛事: ESL 挑战者联赛 S50 南
- 美 第3季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386592
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Gaimin Gladiators vs ODDIK
-DTSTART:20251008T210000Z
-DTEND:20251008T233000Z
-UID:csgo_mc_2386589@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386589\n赛事: ESL 挑战者联赛 S50 南
- 美 第3季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386589
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Yawara vs KRÜ
-DTSTART:20251008T210000Z
-DTEND:20251008T233000Z
-UID:csgo_mc_2386587@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386587\n赛事: ESL 挑战者联赛 S50 南
- 美 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386587
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Procyon vs UnderDogs
-DTSTART:20251008T210000Z
-DTEND:20251008T233000Z
-UID:csgo_mc_2386588@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386588\n赛事: ESL 挑战者联赛 S50 南
- 美 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386588
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第3季: 2GAME vs RED Canids
-DTSTART:20251008T210000Z
-DTEND:20251008T233000Z
-UID:csgo_mc_2386590@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386590\n赛事: ESL 挑战者联赛 S50 南
- 美 第3季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386590
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Vasco vs LP
-DTSTART:20251008T210000Z
-DTEND:20251008T233000Z
-UID:csgo_mc_2386586@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386586\n赛事: ESL 挑战者联赛 S50 南
- 美 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386586
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第3季: ShindeN vs Keyd
-DTSTART:20251008T210000Z
-DTEND:20251008T233000Z
-UID:csgo_mc_2386591@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386591\n赛事: ESL 挑战者联赛 S50 南
- 美 第3季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386591
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: Bounty Hunters vs VEXA
-DTSTART:20251008T220000Z
-DTEND:20251009T003000Z
-UID:csgo_mc_2386679@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386679\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386679
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 北美系列赛2: ex-Chicken Coop vs Getting Info
 DTSTART:20251008T223000Z
 DTEND:20251009T010000Z
@@ -438,5 +307,39 @@ DESCRIPTION:比赛ID: csgo_mc_2386671\n赛事: 斯洛伐克国际冠军赛
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386671
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第五季: TPuDCATb_TPu vs Betclic
+DTSTART:20251009T140000Z
+DTEND:20251009T163000Z
+UID:csgo_mc_2386418@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386418\n赛事: Exort试验场 第五季\n
+ 阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386418
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:T-Esports 锦标赛 第4季: MANA vs Phantom
+DTSTART:20251009T160000Z
+DTEND:20251009T200000Z
+UID:csgo_mc_2386766@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386766\n赛事: T-Esports 锦标赛 第4季
+ \n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO5\n等级: 其
+ 他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386766
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛5: GameHunters vs Vasco
+DTSTART:20251009T160000Z
+DTEND:20251009T183000Z
+UID:csgo_mc_2386681@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386681\n赛事:  CCT 第3赛季 南美系
+ 列赛5\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386681
 END:VEVENT
 END:VCALENDAR
