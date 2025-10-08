@@ -420,4 +420,15 @@ DESCRIPTION:比赛ID: dt_mc_20251003223858abpud\n赛制: BO3\n阶段: 淘
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003223858abpud
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST Slam V: TBD vs TBD
+DTSTART:20251010T150000Z
+DTEND:20251010T180000Z
+UID:dt_mc_20250929223854pv6nl@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250929223854pv6nl\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250929223854pv6nl
+END:VEVENT
 END:VCALENDAR
