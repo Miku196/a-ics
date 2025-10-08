@@ -3,103 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: TBD vs TBD
-DTSTART:20251008T010000Z
-DTEND:20251008T033000Z
-UID:csgo_mc_2386608@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386608\n赛事: ESL 挑战者联赛 S50 北
- 美 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386608
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: Mythic vs Wanted Goons
-DTSTART:20251008T010000Z
-DTEND:20251008T033000Z
-UID:csgo_mc_2386607@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386607\n赛事: ESL 挑战者联赛 S50 北
- 美 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386607
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: FLYRED vs TSG
-DTSTART:20251008T010000Z
-DTEND:20251008T033000Z
-UID:csgo_mc_2386609@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386609\n赛事: ESL 挑战者联赛 S50 北
- 美 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386609
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: NuTorious vs GTP
-DTSTART:20251008T010000Z
-DTEND:20251008T033000Z
-UID:csgo_mc_2386610@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386610\n赛事: ESL 挑战者联赛 S50 北
- 美 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386610
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: Zomblers vs Nocturnal
-DTSTART:20251008T010000Z
-DTEND:20251008T033000Z
-UID:csgo_mc_2386611@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386611\n赛事: ESL 挑战者联赛 S50 北
- 美 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386611
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: TBD vs TBD
-DTSTART:20251008T010000Z
-DTEND:20251008T033000Z
-UID:csgo_mc_2386613@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386613\n赛事: ESL 挑战者联赛 S50 北
- 美 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386613
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: TBD vs TBD
-DTSTART:20251008T010000Z
-DTEND:20251008T033000Z
-UID:csgo_mc_2386612@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386612\n赛事: ESL 挑战者联赛 S50 北
- 美 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386612
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: anything else vs Take Flyt
- e
-DTSTART:20251008T010000Z
-DTEND:20251008T033000Z
-UID:csgo_mc_2386614@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386614\n赛事: ESL 挑战者联赛 S50 北
- 美 第3季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386614
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:银河之战 2025 第4阶段: Nemiga vs 500
 DTSTART:20251008T080000Z
 DTEND:20251008T103000Z
@@ -457,5 +360,97 @@ DESCRIPTION:比赛ID: csgo_mc_2386543\n赛事: ESL 挑战者联赛 S50 欧
  : 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386543
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: ESC vs RUBY
+DTSTART:20251008T170000Z
+DTEND:20251008T193000Z
+UID:csgo_mc_2386542@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386542\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第3季\n阶段: 淘汰赛 胜者组 16强\n轮次: 16强\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: 500 vs EYE
+DTSTART:20251008T170000Z
+DTEND:20251008T193000Z
+UID:csgo_mc_2386545@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386545\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第3季\n阶段: 淘汰赛 胜者组 16强\n轮次: 16强\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386545
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: Alliance vs SPARTA
+DTSTART:20251008T170000Z
+DTEND:20251008T193000Z
+UID:csgo_mc_2386544@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386544\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第3季\n阶段: 淘汰赛 胜者组 16强\n轮次: 16强\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386544
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 欧洲: BIG.E vs Imperial fe
+DTSTART:20251008T183000Z
+DTEND:20251008T210000Z
+UID:csgo_mc_2386291@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386291\n赛事: ESL Impact 联赛 第8赛
+ 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
+ 始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 欧洲: 888aura vs Let Her Cook
+DTSTART:20251008T183000Z
+DTEND:20251008T210000Z
+UID:csgo_mc_2386290@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386290\n赛事: ESL Impact 联赛 第8赛
+ 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
+ 始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386290
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛5: MAGICOS vs R2
+DTSTART:20251008T190000Z
+DTEND:20251008T213000Z
+UID:csgo_mc_2386678@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386678\n赛事:  CCT 第3赛季 南美系
+ 列赛5\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386678
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 南美: thekillaz fe vs MIBR.fe
+DTSTART:20251008T210000Z
+DTEND:20251008T233000Z
+UID:csgo_mc_2386294@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386294\n赛事: ESL Impact 联赛 第8赛
+ 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386294
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 南美: Dusty Roses vs Curralzinho
+DTSTART:20251008T210000Z
+DTEND:20251008T233000Z
+UID:csgo_mc_2386295@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386295\n赛事: ESL Impact 联赛 第8赛
+ 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386295
 END:VEVENT
 END:VCALENDAR
