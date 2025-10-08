@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:T-Esports 锦标赛 第4季: Superior vs WildLotus
-DTSTART:20251008T160000Z
-DTEND:20251008T200000Z
-UID:csgo_mc_2386767@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386767\n赛事: T-Esports 锦标赛 第4季
- \n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO5\n等级: 其
- 他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386767
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: Crashers vs Procyon
-DTSTART:20251008T160000Z
-DTEND:20251008T183000Z
-UID:csgo_mc_2386677@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386677\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386677
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EPL S22: Aurora vs FaZe
 DTSTART:20251008T163000Z
 DTEND:20251008T190000Z
@@ -321,6 +298,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386679
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 北美系列赛2: ex-Chicken Coop vs Getting Info
+DTSTART:20251008T223000Z
+DTEND:20251009T010000Z
+UID:csgo_mc_2386314@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386314\n赛事:  CCT 第3赛季 北美系
+ 列赛2\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386314
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESL Impact 联赛 第8赛季 北美: Ghost vs black mold
 DTSTART:20251008T233000Z
 DTEND:20251009T020000Z
@@ -341,5 +329,114 @@ DESCRIPTION:比赛ID: csgo_mc_2386299\n赛事: ESL Impact 联赛 第8赛
  预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386299
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: Shimmer vs Mythic
+DTSTART:20251009T010000Z
+DTEND:20251009T033000Z
+UID:csgo_mc_2386615@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386615\n赛事: ESL 挑战者联赛 S50 北
+ 美 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386615
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: TSG vs NuTorious
+DTSTART:20251009T010000Z
+DTEND:20251009T033000Z
+UID:csgo_mc_2386616@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386616\n赛事: ESL 挑战者联赛 S50 北
+ 美 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386616
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: BOSS vs Zomblers
+DTSTART:20251009T010000Z
+DTEND:20251009T033000Z
+UID:csgo_mc_2386617@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386617\n赛事: ESL 挑战者联赛 S50 北
+ 美 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386617
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: InControl vs Take Flyte
+DTSTART:20251009T010000Z
+DTEND:20251009T033000Z
+UID:csgo_mc_2386618@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386618\n赛事: ESL 挑战者联赛 S50 北
+ 美 第3季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386618
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: SkinRave vs regain
+DTSTART:20251009T010000Z
+DTEND:20251009T033000Z
+UID:csgo_mc_2386619@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386619\n赛事: ESL 挑战者联赛 S50 北
+ 美 第3季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386619
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: FULL SEND vs Getting Info
+DTSTART:20251009T010000Z
+DTEND:20251009T033000Z
+UID:csgo_mc_2386620@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386620\n赛事: ESL 挑战者联赛 S50 北
+ 美 第3季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: Marsborne vs LAG
+DTSTART:20251009T010000Z
+DTEND:20251009T033000Z
+UID:csgo_mc_2386621@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386621\n赛事: ESL 挑战者联赛 S50 北
+ 美 第3季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: ex-Chicken Coop vs Wildcar
+ d
+DTSTART:20251009T010000Z
+DTEND:20251009T033000Z
+UID:csgo_mc_2386622@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386622\n赛事: ESL 挑战者联赛 S50 北
+ 美 第3季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第1赛季: RUBY vs Nuclear TigeRES
+DTSTART:20251009T080000Z
+DTEND:20251009T103000Z
+UID:csgo_mc_2386721@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386721\n赛事: NODWIN Clutch 系列 第1
+ 赛季\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386721
 END:VEVENT
 END:VCALENDAR
