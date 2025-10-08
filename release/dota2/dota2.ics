@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay Dota 2 赛事日历//
 X-WR-CALNAME:Dota 2 赛事日程
 BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: MOUZ vs VP
-DTSTART:20251008T174500Z
-DTEND:20251008T204500Z
-UID:dt_mc_20251008203252uadt3@5eplay.com
-DESCRIPTION:比赛ID: dt_mc_20251008203252uadt3\n赛制: BO3\n阶段: 未
- 分组阶段\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/dota/session/dt_mc_20251008203252uadt3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLAST Slam V: BuyBack Bros vs NEXT.kz
 DTSTART:20251009T040000Z
 DTEND:20251009T070000Z
@@ -69,7 +58,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251006153555x5jex
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: TBD vs TBD
+SUMMARY:Fissure Universe Ep 7: NGX vs TBD
 DTSTART:20251009T080000Z
 DTEND:20251009T110000Z
 UID:dt_mc_202510032235532woih@5eplay.com
@@ -113,7 +102,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251006163852wk58d
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: TBD vs TBD
+SUMMARY:Fissure Universe Ep 7: Liquid vs TBD
 DTSTART:20251009T113000Z
 DTEND:20251009T143000Z
 UID:dt_mc_202510032238530rzft@5eplay.com
@@ -124,7 +113,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_202510032238530rzft
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST Slam V: TBD vs TBD
+SUMMARY:BLAST Slam V: 1win vs TBD
 DTSTART:20251009T130000Z
 DTEND:20251009T160000Z
 UID:dt_mc_202510061535571b251@5eplay.com
@@ -146,7 +135,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251006153558dp0nx
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: TBD vs TBD
+SUMMARY:Fissure Universe Ep 7: Heroic vs TBD
 DTSTART:20251009T150000Z
 DTEND:20251009T180000Z
 UID:dt_mc_20251003223854kx1rp@5eplay.com
@@ -157,7 +146,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20251003223854kx1rp
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fissure Universe Ep 7: TBD vs TBD
+SUMMARY:Fissure Universe Ep 7: Aurora vs TBD
 DTSTART:20251009T183000Z
 DTEND:20251009T213000Z
 UID:dt_mc_20251003223855qmrmu@5eplay.com
@@ -419,5 +408,27 @@ DESCRIPTION:比赛ID: dt_mc_20250929230300q8gfd\n赛制: BO3\n阶段: 未
  \n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/dota/session/dt_mc_20250929230300q8gfd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST Slam V: TBD vs TBD
+DTSTART:20251010T180000Z
+DTEND:20251010T210000Z
+UID:dt_mc_20250929230301nsbhz@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_20250929230301nsbhz\n赛制: BO3\n阶段: 未
+ 分组阶段\n赛事等级: A级\n状态: 未开始\n预计时长: 3小时
+ \n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_20250929230301nsbhz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fissure Universe Ep 7: TBD vs TBD
+DTSTART:20251010T183000Z
+DTEND:20251010T213000Z
+UID:dt_mc_202510032259522p00z@5eplay.com
+DESCRIPTION:比赛ID: dt_mc_202510032259522p00z\n赛制: BO3\n阶段: 淘
+ 汰赛\n赛事等级: \n状态: 未开始\n预计时长: 3小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/dota/session/dt_mc_202510032259522p00z
 END:VEVENT
 END:VCALENDAR
