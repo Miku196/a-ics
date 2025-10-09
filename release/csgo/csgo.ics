@@ -3,41 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: RUBY vs Nuclear TigeRES
-DTSTART:20251009T080000Z
-DTEND:20251009T103000Z
-UID:csgo_mc_2386721@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386721\n赛事: NODWIN Clutch 系列 第1
- 赛季\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386721
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛杯 1: fish123 vs Ence.A
-DTSTART:20251009T080000Z
-DTEND:20251009T103000Z
-UID:csgo_mc_2386782@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386782\n赛事: 欧洲职业联赛杯 1\n
- 阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386782
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : JJH vs Johnny Speeds
-DTSTART:20251009T080000Z
-DTEND:20251009T103000Z
-UID:csgo_mc_2386332@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386332\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 \n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386332
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Winline Insight 第8赛季: ESC vs ECLOT
 DTSTART:20251009T103000Z
 DTEND:20251009T130000Z
