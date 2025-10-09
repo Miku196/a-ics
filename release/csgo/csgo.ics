@@ -3,86 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Winline Insight 第8赛季: ESC vs ECLOT
-DTSTART:20251009T103000Z
-DTEND:20251009T130000Z
-UID:csgo_mc_2386229@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386229\n赛事: Winline Insight 第8赛季\
- n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386229
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛杯 1: G2 Ares vs Aurora YB
-DTSTART:20251009T103000Z
-DTEND:20251009T130000Z
-UID:csgo_mc_2386783@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386783\n赛事: 欧洲职业联赛杯 1\n
- 阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386783
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: kONO vs FORZE Reload
-DTSTART:20251009T110000Z
-DTEND:20251009T133000Z
-UID:csgo_mc_2386722@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386722\n赛事: NODWIN Clutch 系列 第1
- 赛季\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386722
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winline Insight 第8赛季: RUBY vs Betera
-DTSTART:20251009T110000Z
-DTEND:20251009T133000Z
-UID:csgo_mc_2386228@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386228\n赛事: Winline Insight 第8赛季\
- n阶段: 季军赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386228
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : Spirit.A vs 1win
-DTSTART:20251009T110000Z
-DTEND:20251009T133000Z
-UID:csgo_mc_2386333@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386333\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 \n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386333
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:斯洛伐克国际冠军赛 2025 决赛: SINNERS vs Brute
-DTSTART:20251009T110000Z
-DTEND:20251009T133000Z
-UID:csgo_mc_2386670@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386670\n赛事: 斯洛伐克国际冠军赛
-  2025 决赛\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: 
- BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386670
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: Sangal vs JJH
-DTSTART:20251009T110000Z
-DTEND:20251009T133000Z
-UID:csgo_mc_2386417@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386417\n赛事: Exort试验场 第五季\n
- 阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386417
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 亚太区 第3季: Just Swing vs Kaleido
 DTSTART:20251009T130000Z
 DTEND:20251009T153000Z
@@ -457,5 +377,27 @@ DESCRIPTION:比赛ID: csgo_mc_2386683\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386683
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 北美: Lotus vs FLYRED
+DTSTART:20251009T233000Z
+DTEND:20251010T020000Z
+UID:csgo_mc_2386300@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386300\n赛事: ESL Impact 联赛 第8赛
+ 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386300
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 北美: Shimmer vs Nocturnal
+DTSTART:20251009T233000Z
+DTEND:20251010T020000Z
+UID:csgo_mc_2386301@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386301\n赛事: ESL Impact 联赛 第8赛
+ 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386301
 END:VEVENT
 END:VCALENDAR
