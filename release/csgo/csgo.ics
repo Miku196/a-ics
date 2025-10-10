@@ -3,66 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:葡萄牙大师赛 S17: Leça vs Rhyno YNG
-DTSTART:20251010T123000Z
-DTEND:20251010T150000Z
-UID:csgo_mc_2386768@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386768\n赛事: 葡萄牙大师赛 S17\n阶
- 段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386768
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: R2 vs VEXA
-DTSTART:20251010T130000Z
-DTEND:20251010T153000Z
-UID:csgo_mc_2386684@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386684\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386684
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPL S22: Spirit vs FaZe
-DTSTART:20251010T133000Z
-DTEND:20251010T160000Z
-UID:csgo_mc_2385965@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385965\n赛事: EPL S22\n阶段: 淘汰赛 
- 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385965
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段: Monte vs Inner Circle
-DTSTART:20251010T140000Z
-DTEND:20251010T163000Z
-UID:csgo_mc_2386211@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386211\n赛事: 银河之战 2025 第4阶
- 段\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386211
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: kONO vs Leo
-DTSTART:20251010T140000Z
-DTEND:20251010T163000Z
-UID:csgo_mc_2386727@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386727\n赛事: NODWIN Clutch 系列 第1
- 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386727
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 8 : Sashi vs CYBERSHOKE
-DTSTART:20251010T140000Z
-DTEND:20251010T163000Z
+DTSTART:20251010T141500Z
+DTEND:20251010T164500Z
 UID:csgo_mc_2386338@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386338\n赛事: CCT 第3赛季 欧洲系列
  赛 8 \n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
@@ -72,27 +15,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386338
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:斯洛伐克国际冠军赛 2025 决赛: Brute vs Glore
-DTSTART:20251010T140000Z
-DTEND:20251010T163000Z
-UID:csgo_mc_2386672@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386672\n赛事: 斯洛伐克国际冠军赛
-  2025 决赛\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: 
- BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
+SUMMARY:EPL S22: Spirit vs FaZe
+DTSTART:20251010T150000Z
+DTEND:20251010T173000Z
+UID:csgo_mc_2385965@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385965\n赛事: EPL S22\n阶段: 淘汰赛 
+ 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386672
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: BB vs Sangal
-DTSTART:20251010T140000Z
-DTEND:20251010T163000Z
-UID:csgo_mc_2386422@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386422\n赛事: Exort试验场 第五季\n
- 阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386422
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385965
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EPL S22: FURIA vs Vitality
@@ -104,6 +35,18 @@ DESCRIPTION:比赛ID: csgo_mc_2385966\n赛事: EPL S22\n阶段: 淘汰赛
  预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385966
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:斯洛伐克国际冠军赛 2025 决赛: Brute vs Glore
+DTSTART:20251010T160000Z
+DTEND:20251010T183000Z
+UID:csgo_mc_2386672@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386672\n赛事: 斯洛伐克国际冠军赛
+  2025 决赛\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386672
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 南美系列赛5: Procyon vs JERSA
@@ -393,5 +336,38 @@ DESCRIPTION:比赛ID: csgo_mc_2386674\n赛事: 斯洛伐克国际冠军赛
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386674
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第五季: Spirit.A vs EYE
+DTSTART:20251011T080000Z
+DTEND:20251011T103000Z
+UID:csgo_mc_2386424@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386424\n赛事: Exort试验场 第五季\n
+ 阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386424
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛杯 1: Mousquetaires vs BIG.A
+DTSTART:20251011T103000Z
+DTEND:20251011T130000Z
+UID:csgo_mc_2386787@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386787\n赛事: 欧洲职业联赛杯 1\n
+ 阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386787
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : TBD vs TBD
+DTSTART:20251011T110000Z
+DTEND:20251011T133000Z
+UID:csgo_mc_2386341@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386341\n赛事: CCT 第3赛季 欧洲系列
+ 赛 8 \n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386341
 END:VEVENT
 END:VCALENDAR
