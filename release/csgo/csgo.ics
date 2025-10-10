@@ -3,21 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: LP vs Mibr.A
-DTSTART:20251010T190000Z
+SUMMARY:阿根廷游戏杯 2025: 9z vs KRÜ
+DTSTART:20251010T203000Z
 DTEND:20251010T213000Z
-UID:csgo_mc_2386686@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386686\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386686
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:阿根廷游戏杯 2025: 9z vs TBD
-DTSTART:20251010T193000Z
-DTEND:20251010T203000Z
 UID:csgo_mc_2386775@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386775\n赛事: 阿根廷游戏杯 2025\n
  阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO1\n等级: C
@@ -26,9 +14,9 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386775
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:阿根廷游戏杯 2025: BESTIA vs TBD
-DTSTART:20251010T193000Z
-DTEND:20251010T203000Z
+SUMMARY:阿根廷游戏杯 2025: BESTIA vs ShindeN
+DTSTART:20251010T203000Z
+DTEND:20251010T213000Z
 UID:csgo_mc_2386776@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386776\n赛事: 阿根廷游戏杯 2025\n
  阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO1\n等级: C
@@ -60,7 +48,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386687
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:阿根廷游戏杯 2025: TBD vs TBD
+SUMMARY:阿根廷游戏杯 2025: R2 vs TBD
 DTSTART:20251010T223000Z
 DTEND:20251010T233000Z
 UID:csgo_mc_2386778@5eplay.com
@@ -195,7 +183,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385967
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段: TBD vs TBD
+SUMMARY:银河之战 2025 第4阶段: PARIVISION vs Gentle Mates
 DTSTART:20251011T140000Z
 DTEND:20251011T163000Z
 UID:csgo_mc_2386213@5eplay.com
@@ -282,5 +270,153 @@ DESCRIPTION:比赛ID: csgo_mc_2386343\n赛事: CCT 第3赛季 欧洲系列
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386343
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第五季: Partizan vs SINNERS
+DTSTART:20251011T170000Z
+DTEND:20251011T193000Z
+UID:csgo_mc_2386427@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386427\n赛事: Exort试验场 第五季\n
+ 阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386427
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:阿根廷游戏杯 2025: TBD vs TBD
+DTSTART:20251011T180000Z
+DTEND:20251011T203000Z
+UID:csgo_mc_2386779@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386779\n赛事: 阿根廷游戏杯 2025\n
+ 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386779
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
+DTSTART:20251011T190000Z
+DTEND:20251011T213000Z
+UID:csgo_mc_2386690@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386690\n赛事:  CCT 第3赛季 南美系
+ 列赛5\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386690
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:阿根廷游戏杯 2025: TBD vs TBD
+DTSTART:20251011T220000Z
+DTEND:20251012T003000Z
+UID:csgo_mc_2386780@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386780\n赛事: 阿根廷游戏杯 2025\n
+ 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386780
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
+DTSTART:20251011T220000Z
+DTEND:20251012T003000Z
+UID:csgo_mc_2386691@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386691\n赛事:  CCT 第3赛季 南美系
+ 列赛5\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386691
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛杯 1: fish123 vs TBD
+DTSTART:20251012T080000Z
+DTEND:20251012T103000Z
+UID:csgo_mc_2386788@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386788\n赛事: 欧洲职业联赛杯 1\n
+ 阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386788
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第五季: TBD vs TBD
+DTSTART:20251012T080000Z
+DTEND:20251012T103000Z
+UID:csgo_mc_2386428@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386428\n赛事: Exort试验场 第五季\n
+ 阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386428
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 8 : TBD vs TBD
+DTSTART:20251012T100000Z
+DTEND:20251012T123000Z
+UID:csgo_mc_2386344@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386344\n赛事: CCT 第3赛季 欧洲系列
+ 赛 8 \n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386344
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛杯 1: Genone vs MASONIC
+DTSTART:20251012T103000Z
+DTEND:20251012T130000Z
+UID:csgo_mc_2386789@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386789\n赛事: 欧洲职业联赛杯 1\n
+ 阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386789
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第4阶段: TBD vs TBD
+DTSTART:20251012T110000Z
+DTEND:20251012T150000Z
+UID:csgo_mc_2386215@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386215\n赛事: 银河之战 2025 第4阶
+ 段\n阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO5\n等级: 
+ C级\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386215
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第五季: TBD vs TBD
+DTSTART:20251012T110000Z
+DTEND:20251012T133000Z
+UID:csgo_mc_2386429@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386429\n赛事: Exort试验场 第五季\n
+ 阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386429
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPL S22: TBD vs TBD
+DTSTART:20251012T113000Z
+DTEND:20251012T140000Z
+UID:csgo_mc_2385969@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2385969\n赛事: EPL S22\n阶段: 淘汰赛 
+ 季军赛\n轮次: 季军赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2385969
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:葡萄牙大师赛 S17: TBD vs TBD
+DTSTART:20251012T130000Z
+DTEND:20251012T170000Z
+UID:csgo_mc_2386772@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386772\n赛事: 葡萄牙大师赛 S17\n阶
+ 段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 其他\n状态
+ : 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386772
 END:VEVENT
 END:VCALENDAR
