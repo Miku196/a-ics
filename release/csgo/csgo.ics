@@ -452,4 +452,15 @@ DESCRIPTION:比赛ID: csgo_mc_2386775\n赛事: 阿根廷游戏杯 2025\n
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386775
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:阿根廷游戏杯 2025: BESTIA vs TBD
+DTSTART:20251010T193000Z
+DTEND:20251010T203000Z
+UID:csgo_mc_2386776@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386776\n赛事: 阿根廷游戏杯 2025\n
+ 阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO1\n等级: C
+ 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386776
+END:VEVENT
 END:VCALENDAR
