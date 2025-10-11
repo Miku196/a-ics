@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:阿根廷游戏杯 2025: BESTIA vs Dusty Roots
-DTSTART:20251011T220000Z
-DTEND:20251012T003000Z
-UID:csgo_mc_2386780@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386780\n赛事: 阿根廷游戏杯 2025\n
- 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386780
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: Yawara vs UnderDogs
-DTSTART:20251011T220000Z
-DTEND:20251012T003000Z
-UID:csgo_mc_2386691@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386691\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386691
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛杯 1: fish123 vs Aurora YB
 DTSTART:20251012T080000Z
 DTEND:20251012T103000Z
@@ -95,7 +72,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386429
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EPL S22: MOUZ vs TBD
+SUMMARY:EPL S22: MOUZ vs FaZe
 DTSTART:20251012T113000Z
 DTEND:20251012T140000Z
 UID:csgo_mc_2385969@5eplay.com
@@ -140,7 +117,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386430
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EPL S22: Falcons vs TBD
+SUMMARY:EPL S22: Falcons vs Vitality
 DTSTART:20251012T150000Z
 DTEND:20251012T190000Z
 UID:csgo_mc_2385970@5eplay.com
@@ -175,7 +152,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386346
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: 9INE vs TBD
+SUMMARY:Exort试验场 第五季: 9INE vs SINNERS
 DTSTART:20251012T170000Z
 DTEND:20251012T193000Z
 UID:csgo_mc_2386431@5eplay.com
@@ -186,7 +163,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386431
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:阿根廷游戏杯 2025: TBD vs TBD
+SUMMARY:阿根廷游戏杯 2025: 9z vs TBD
 DTSTART:20251012T180000Z
 DTEND:20251012T220000Z
 UID:csgo_mc_2386781@5eplay.com
@@ -415,5 +392,38 @@ DESCRIPTION:比赛ID: csgo_mc_2386814\n赛事: Dust2.us 猎鹰大师赛 S4
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386814
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS 2025亚洲邀请赛:  3DMAX vs The Huns
+DTSTART:20251014T030000Z
+DTEND:20251014T040000Z
+UID:csgo_mc_2386819@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386819\n赛事: CS 2025亚洲邀请赛\n阶
+ 段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: B级
+ \n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386819
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS 2025亚洲邀请赛: VP vs Legacy
+DTSTART:20251014T030000Z
+DTEND:20251014T040000Z
+UID:csgo_mc_2386820@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386820\n赛事: CS 2025亚洲邀请赛\n阶
+ 段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: B级
+ \n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386820
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS 2025亚洲邀请赛: GL vs Liquid
+DTSTART:20251014T040000Z
+DTEND:20251014T050000Z
+UID:csgo_mc_2386821@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386821\n赛事: CS 2025亚洲邀请赛\n阶
+ 段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: B级
+ \n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386821
 END:VEVENT
 END:VCALENDAR
