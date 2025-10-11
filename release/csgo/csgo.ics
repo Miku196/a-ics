@@ -3,70 +3,15 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:葡萄牙大师赛 S17: Rebels vs One For All
-DTSTART:20251011T163000Z
-DTEND:20251011T190000Z
-UID:csgo_mc_2386771@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386771\n赛事: 葡萄牙大师赛 S17\n阶
- 段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+SUMMARY:Betera Esports League 2025: Minsk House vs OLD BASTARDS
+DTSTART:20251011T183000Z
+DTEND:20251011T210000Z
+UID:csgo_mc_2386850@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386850\n赛事: Betera Esports League 2025\
+ n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386771
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段: Inner Circle vs Nemiga
-DTSTART:20251011T170000Z
-DTEND:20251011T193000Z
-UID:csgo_mc_2386214@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386214\n赛事: 银河之战 2025 第4阶
- 段\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386214
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPL S22: FaZe vs Vitality
-DTSTART:20251011T170000Z
-DTEND:20251011T193000Z
-UID:csgo_mc_2385968@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385968\n赛事: EPL S22\n阶段: 淘汰赛 
- 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385968
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : RUBY vs Sashi
-DTSTART:20251011T170000Z
-DTEND:20251011T193000Z
-UID:csgo_mc_2386343@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386343\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 \n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386343
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: Partizan vs SINNERS
-DTSTART:20251011T170000Z
-DTEND:20251011T193000Z
-UID:csgo_mc_2386427@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386427\n赛事: Exort试验场 第五季\n
- 阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386427
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:阿根廷游戏杯 2025: 9z vs R2
-DTSTART:20251011T180000Z
-DTEND:20251011T203000Z
-UID:csgo_mc_2386779@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386779\n赛事: 阿根廷游戏杯 2025\n
- 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386779
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386850
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 南美系列赛5: GameHunters vs FOLHA AMARELA
@@ -116,7 +61,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386788
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: TBD vs TBD
+SUMMARY:Exort试验场 第五季: BB vs Johnny Speeds
 DTSTART:20251012T080000Z
 DTEND:20251012T103000Z
 UID:csgo_mc_2386428@5eplay.com
@@ -162,7 +107,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386215
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: TBD vs TBD
+SUMMARY:Exort试验场 第五季: Betera vs Spirit.A
 DTSTART:20251012T110000Z
 DTEND:20251012T133000Z
 UID:csgo_mc_2386429@5eplay.com
@@ -207,7 +152,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386345
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: TBD vs TBD
+SUMMARY:Exort试验场 第五季: ECSTATIC vs EF
 DTSTART:20251012T140000Z
 DTEND:20251012T163000Z
 UID:csgo_mc_2386430@5eplay.com
@@ -253,7 +198,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386346
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: TBD vs TBD
+SUMMARY:Exort试验场 第五季: 9INE vs TBD
 DTSTART:20251012T170000Z
 DTEND:20251012T193000Z
 UID:csgo_mc_2386431@5eplay.com
