@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: Players vs Crashers
-DTSTART:20251011T160000Z
-DTEND:20251011T183000Z
-UID:csgo_mc_2386689@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386689\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386689
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:葡萄牙大师赛 S17: Rebels vs One For All
 DTSTART:20251011T163000Z
 DTEND:20251011T190000Z
@@ -163,7 +151,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386789
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段: TBD vs TBD
+SUMMARY:银河之战 2025 第4阶段: PARIVISION vs TBD
 DTSTART:20251012T110000Z
 DTEND:20251012T150000Z
 UID:csgo_mc_2386215@5eplay.com
@@ -185,7 +173,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386429
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EPL S22: TBD vs TBD
+SUMMARY:EPL S22: MOUZ vs TBD
 DTSTART:20251012T113000Z
 DTEND:20251012T140000Z
 UID:csgo_mc_2385969@5eplay.com
@@ -196,7 +184,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385969
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:葡萄牙大师赛 S17: TBD vs TBD
+SUMMARY:葡萄牙大师赛 S17: Famalicão vs TBD
 DTSTART:20251012T130000Z
 DTEND:20251012T170000Z
 UID:csgo_mc_2386772@5eplay.com
@@ -230,7 +218,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386430
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EPL S22: TBD vs TBD
+SUMMARY:EPL S22: Falcons vs TBD
 DTSTART:20251012T150000Z
 DTEND:20251012T190000Z
 UID:csgo_mc_2385970@5eplay.com
@@ -391,5 +379,52 @@ DESCRIPTION:比赛ID: csgo_mc_2386433\n赛事: Exort试验场 第五季\n
  n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
+DTSTART:20251013T150000Z
+DTEND:20251013T173000Z
+UID:csgo_mc_2386695@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386695\n赛事:  CCT 第3赛季 南美系
+ 列赛5\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386695
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第1赛季: 1win vs Nuclear TigeRES
+DTSTART:20251013T170000Z
+DTEND:20251013T193000Z
+UID:csgo_mc_2386732@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386732\n赛事: NODWIN Clutch 系列 第1
+ 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第五季: TBD vs TBD
+DTSTART:20251013T180000Z
+DTEND:20251013T203000Z
+UID:csgo_mc_2386434@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386434\n赛事: Exort试验场 第五季\n
+ 阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386434
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
+DTSTART:20251013T180000Z
+DTEND:20251013T203000Z
+UID:csgo_mc_2386696@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386696\n赛事:  CCT 第3赛季 南美系
+ 列赛5\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386696
 END:VEVENT
 END:VCALENDAR
