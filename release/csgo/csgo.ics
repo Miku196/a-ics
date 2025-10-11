@@ -3,20 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:阿根廷游戏杯 2025: Dusty Roots vs KRÜ
-DTSTART:20251010T224500Z
-DTEND:20251010T234500Z
-UID:csgo_mc_2386777@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386777\n赛事: 阿根廷游戏杯 2025\n
- 阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO1\n等级: C
- 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386777
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:阿根廷游戏杯 2025: R2 vs TBD
-DTSTART:20251011T000000Z
-DTEND:20251011T010000Z
+SUMMARY:阿根廷游戏杯 2025: R2 vs ShindeN
+DTSTART:20251011T005000Z
+DTEND:20251011T015000Z
 UID:csgo_mc_2386778@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386778\n赛事: 阿根廷游戏杯 2025\n
  阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO1\n等级: C
@@ -249,7 +238,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386427
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:阿根廷游戏杯 2025: TBD vs TBD
+SUMMARY:阿根廷游戏杯 2025: 9z vs TBD
 DTSTART:20251011T180000Z
 DTEND:20251011T203000Z
 UID:csgo_mc_2386779@5eplay.com
@@ -272,7 +261,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386690
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:阿根廷游戏杯 2025: TBD vs TBD
+SUMMARY:阿根廷游戏杯 2025: BESTIA vs TBD
 DTSTART:20251011T220000Z
 DTEND:20251012T003000Z
 UID:csgo_mc_2386780@5eplay.com
@@ -442,5 +431,27 @@ DESCRIPTION:比赛ID: csgo_mc_2386346\n赛事: CCT 第3赛季 欧洲系列
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386346
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第五季: TBD vs TBD
+DTSTART:20251012T170000Z
+DTEND:20251012T193000Z
+UID:csgo_mc_2386431@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386431\n赛事: Exort试验场 第五季\n
+ 阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386431
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:阿根廷游戏杯 2025: TBD vs TBD
+DTSTART:20251012T180000Z
+DTEND:20251012T220000Z
+UID:csgo_mc_2386781@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386781\n赛事: 阿根廷游戏杯 2025\n
+ 阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: C级\n状
+ 态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386781
 END:VEVENT
 END:VCALENDAR
