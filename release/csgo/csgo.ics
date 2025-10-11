@@ -3,73 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:葡萄牙大师赛 S17: Famalicão vs Leça
-DTSTART:20251011T123000Z
-DTEND:20251011T150000Z
-UID:csgo_mc_2386770@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386770\n赛事: 葡萄牙大师赛 S17\n阶
- 段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386770
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: KRÜ vs Vasco
-DTSTART:20251011T130000Z
-DTEND:20251011T153000Z
-UID:csgo_mc_2386688@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386688\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386688
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPL S22: MOUZ vs Falcons
-DTSTART:20251011T134500Z
-DTEND:20251011T161500Z
-UID:csgo_mc_2385967@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385967\n赛事: EPL S22\n阶段: 淘汰赛 
- 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385967
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段: PARIVISION vs Gentle Mates
-DTSTART:20251011T140000Z
-DTEND:20251011T163000Z
-UID:csgo_mc_2386213@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386213\n赛事: 银河之战 2025 第4阶
- 段\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 8 : EYE vs ESC
-DTSTART:20251011T140000Z
-DTEND:20251011T163000Z
-UID:csgo_mc_2386342@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386342\n赛事: CCT 第3赛季 欧洲系列
- 赛 8 \n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386342
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: BC.Game vs EF
-DTSTART:20251011T140000Z
-DTEND:20251011T163000Z
-UID:csgo_mc_2386426@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386426\n赛事: Exort试验场 第五季\n
- 阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386426
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 南美系列赛5: Players vs Crashers
 DTSTART:20251011T160000Z
 DTEND:20251011T183000Z
@@ -390,9 +323,21 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386729
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛杯 1: TBD vs TBD
+SUMMARY:欧洲职业联赛杯 1: Mousquetaires vs TBD
 DTSTART:20251013T080000Z
 DTEND:20251013T103000Z
+UID:csgo_mc_2386791@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386791\n赛事: 欧洲职业联赛杯 1\n
+ 阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386791
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛杯 1: TBD vs TBD
+DTSTART:20251013T103000Z
+DTEND:20251013T130000Z
 UID:csgo_mc_2386790@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386790\n赛事: 欧洲职业联赛杯 1\n
  阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
@@ -402,15 +347,49 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386790
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛杯 1: TBD vs TBD
-DTSTART:20251013T103000Z
-DTEND:20251013T130000Z
-UID:csgo_mc_2386791@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386791\n赛事: 欧洲职业联赛杯 1\n
- 阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
+SUMMARY:NODWIN Clutch 系列 第1赛季: FT vs UNiTY
+DTSTART:20251013T110000Z
+DTEND:20251013T133000Z
+UID:csgo_mc_2386730@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386730\n赛事: NODWIN Clutch 系列 第1
+ 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
  级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
  lay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386791
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386730
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第五季: TBD vs TBD
+DTSTART:20251013T110000Z
+DTEND:20251013T133000Z
+UID:csgo_mc_2386432@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386432\n赛事: Exort试验场 第五季\n
+ 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386432
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第1赛季: Oramond vs 500
+DTSTART:20251013T140000Z
+DTEND:20251013T163000Z
+UID:csgo_mc_2386731@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386731\n赛事: NODWIN Clutch 系列 第1
+ 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386731
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort试验场 第五季: TBD vs TBD
+DTSTART:20251013T140000Z
+DTEND:20251013T163000Z
+UID:csgo_mc_2386433@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386433\n赛事: Exort试验场 第五季\n
+ 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386433
 END:VEVENT
 END:VCALENDAR
