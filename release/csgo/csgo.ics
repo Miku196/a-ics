@@ -36,7 +36,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386425
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:斯洛伐克国际冠军赛 2025 决赛: SINNERS vs TBD
+SUMMARY:斯洛伐克国际冠军赛 2025 决赛: SINNERS vs ECLOT
 DTSTART:20251011T120000Z
 DTEND:20251011T160000Z
 UID:csgo_mc_2386675@5eplay.com
@@ -409,5 +409,29 @@ DESCRIPTION:比赛ID: csgo_mc_2386693\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
+DTSTART:20251012T210000Z
+DTEND:20251012T233000Z
+UID:csgo_mc_2386694@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386694\n赛事:  CCT 第3赛季 南美系
+ 列赛5\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386694
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第1赛季: RUBY vs m1x
+DTSTART:20251013T080000Z
+DTEND:20251013T103000Z
+UID:csgo_mc_2386729@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386729\n赛事: NODWIN Clutch 系列 第1
+ 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386729
 END:VEVENT
 END:VCALENDAR
