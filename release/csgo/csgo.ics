@@ -3,51 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛杯 1: Genone vs MASONIC
-DTSTART:20251012T103000Z
-DTEND:20251012T130000Z
-UID:csgo_mc_2386789@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386789\n赛事: 欧洲职业联赛杯 1\n
- 阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386789
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第4阶段: PARIVISION vs Inner Circle
-DTSTART:20251012T110000Z
-DTEND:20251012T150000Z
-UID:csgo_mc_2386215@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386215\n赛事: 银河之战 2025 第4阶
- 段\n阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO5\n等级: 
- C级\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386215
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: Betera vs Spirit.A
-DTSTART:20251012T110000Z
-DTEND:20251012T133000Z
-UID:csgo_mc_2386429@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386429\n赛事: Exort试验场 第五季\n
- 阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386429
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPL S22: MOUZ vs FaZe
-DTSTART:20251012T113000Z
-DTEND:20251012T140000Z
-UID:csgo_mc_2385969@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2385969\n赛事: EPL S22\n阶段: 淘汰赛 
- 季军赛\n轮次: 季军赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2385969
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:葡萄牙大师赛 S17: Famalicão vs Rebels
 DTSTART:20251012T130000Z
 DTEND:20251012T170000Z
@@ -434,5 +389,16 @@ DESCRIPTION:比赛ID: csgo_mc_2386825\n赛事: CS 2025亚洲邀请赛\n阶
  \n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386825
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS 2025亚洲邀请赛: FaZe vs FUT
+DTSTART:20251014T060000Z
+DTEND:20251014T070000Z
+UID:csgo_mc_2386826@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386826\n赛事: CS 2025亚洲邀请赛\n阶
+ 段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: B级
+ \n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386826
 END:VEVENT
 END:VCALENDAR
