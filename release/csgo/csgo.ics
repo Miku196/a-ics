@@ -3,38 +3,15 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: 9INE vs SINNERS
-DTSTART:20251012T170000Z
-DTEND:20251012T193000Z
-UID:csgo_mc_2386431@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386431\n赛事: Exort试验场 第五季\n
- 阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+SUMMARY:ELITE 女子杯 6: BIG.E vs TBD
+DTSTART:20251012T183000Z
+DTEND:20251012T210000Z
+UID:csgo_mc_2386854@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386854\n赛事: ELITE 女子杯 6\n阶段: 
+ 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2
+ .5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386431
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:阿根廷游戏杯 2025: 9z vs BESTIA
-DTSTART:20251012T180000Z
-DTEND:20251012T220000Z
-UID:csgo_mc_2386781@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386781\n赛事: 阿根廷游戏杯 2025\n
- 阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: C级\n状
- 态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386781
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: Mibr.A vs Procyon
-DTSTART:20251012T180000Z
-DTEND:20251012T203000Z
-UID:csgo_mc_2386693@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386693\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386693
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386854
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NODWIN Clutch 系列 第1赛季: RUBY vs m1x
@@ -85,7 +62,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386730
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: TBD vs TBD
+SUMMARY:Exort试验场 第五季: BB vs Spirit.A
 DTSTART:20251013T110000Z
 DTEND:20251013T133000Z
 UID:csgo_mc_2386432@5eplay.com
@@ -108,7 +85,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386731
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: TBD vs TBD
+SUMMARY:Exort试验场 第五季: ECSTATIC vs TBD
 DTSTART:20251013T140000Z
 DTEND:20251013T163000Z
 UID:csgo_mc_2386433@5eplay.com
