@@ -128,7 +128,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2385970
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛5: Crashers vs VEXA
 DTSTART:20251012T150000Z
 DTEND:20251012T173000Z
 UID:csgo_mc_2386692@5eplay.com
@@ -174,7 +174,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386781
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛5: Mibr.A vs Procyon
 DTSTART:20251012T180000Z
 DTEND:20251012T203000Z
 UID:csgo_mc_2386693@5eplay.com
@@ -186,7 +186,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386693
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛5: MAGICOS vs Vasco
 DTSTART:20251012T210000Z
 DTEND:20251012T233000Z
 UID:csgo_mc_2386694@5eplay.com
@@ -280,7 +280,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386433
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛5: Bounty Hunters vs Players
 DTSTART:20251013T150000Z
 DTEND:20251013T173000Z
 UID:csgo_mc_2386695@5eplay.com
@@ -315,7 +315,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386434
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛5: GameHunters vs UnderDogs
 DTSTART:20251013T180000Z
 DTEND:20251013T203000Z
 UID:csgo_mc_2386696@5eplay.com
@@ -327,7 +327,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386696
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛5: KRÜ vs LP
 DTSTART:20251013T210000Z
 DTEND:20251013T233000Z
 UID:csgo_mc_2386697@5eplay.com
@@ -425,5 +425,27 @@ DESCRIPTION:比赛ID: csgo_mc_2386821\n赛事: CS 2025亚洲邀请赛\n阶
  \n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386821
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS 2025亚洲邀请赛: LVG vs MIBR
+DTSTART:20251014T040000Z
+DTEND:20251014T050000Z
+UID:csgo_mc_2386822@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386822\n赛事: CS 2025亚洲邀请赛\n阶
+ 段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: B级
+ \n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386822
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS 2025亚洲邀请赛: paiN vs FNC
+DTSTART:20251014T050000Z
+DTEND:20251014T060000Z
+UID:csgo_mc_2386824@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386824\n赛事: CS 2025亚洲邀请赛\n阶
+ 段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: B级
+ \n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386824
 END:VEVENT
 END:VCALENDAR
