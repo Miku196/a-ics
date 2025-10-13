@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: LAG vs Outfit 49
-DTSTART:20251013T210000Z
-DTEND:20251013T233000Z
-UID:csgo_mc_2386814@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386814\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386814
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: KRÜ vs LP
-DTSTART:20251013T210000Z
-DTEND:20251013T233000Z
-UID:csgo_mc_2386697@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386697\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386697
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S4: Marsborne vs SportsBetExpert
 DTSTART:20251014T000000Z
 DTEND:20251014T023000Z
@@ -296,7 +273,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386735
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛5: Bounty Hunters vs Vasco
 DTSTART:20251014T150000Z
 DTEND:20251014T173000Z
 UID:csgo_mc_2386698@5eplay.com
@@ -356,7 +333,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386565
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛5: Crashers vs TBD
 DTSTART:20251014T180000Z
 DTEND:20251014T203000Z
 UID:csgo_mc_2386699@5eplay.com
@@ -417,18 +394,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386598
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
-DTSTART:20251014T210000Z
-DTEND:20251014T233000Z
-UID:csgo_mc_2386700@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386700\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386700
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S4: Shimmer vs Nocturnal
 DTSTART:20251015T003000Z
 DTEND:20251015T030000Z
@@ -438,5 +403,40 @@ DESCRIPTION:比赛ID: csgo_mc_2386818\n赛事: Dust2.us 猎鹰大师赛 S4
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S4: InControl vs Take Flyte
+DTSTART:20251015T010000Z
+DTEND:20251015T033000Z
+UID:csgo_mc_2386815@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386815\n赛事: Dust2.us 猎鹰大师赛 S4
+ \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: Marsborne vs Wildcard
+DTSTART:20251015T010000Z
+DTEND:20251015T033000Z
+UID:csgo_mc_2386628@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386628\n赛事: ESL 挑战者联赛 S50 北
+ 美 第3季\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386628
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: SkinRave vs Getting Info
+DTSTART:20251015T010000Z
+DTEND:20251015T033000Z
+UID:csgo_mc_2386627@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386627\n赛事: ESL 挑战者联赛 S50 北
+ 美 第3季\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386627
 END:VEVENT
 END:VCALENDAR
