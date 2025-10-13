@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: Oramond vs 500
-DTSTART:20251013T140000Z
-DTEND:20251013T163000Z
-UID:csgo_mc_2386731@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386731\n赛事: NODWIN Clutch 系列 第1
- 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386731
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: ECSTATIC vs SINNERS
-DTSTART:20251013T140000Z
-DTEND:20251013T163000Z
-UID:csgo_mc_2386433@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386433\n赛事: Exort试验场 第五季\n
- 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386433
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 南美系列赛5: Bounty Hunters vs Players
 DTSTART:20251013T150000Z
 DTEND:20251013T173000Z
@@ -50,7 +27,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386732
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort试验场 第五季: TBD vs TBD
+SUMMARY:Exort试验场 第五季: BB vs TBD
 DTSTART:20251013T180000Z
 DTEND:20251013T203000Z
 UID:csgo_mc_2386434@5eplay.com
@@ -262,7 +239,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386733
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛杯 1: Mousquetaires vs TBD
+SUMMARY:欧洲职业联赛杯 1: Mousquetaires vs G2 Ares
 DTSTART:20251014T080000Z
 DTEND:20251014T103000Z
 UID:csgo_mc_2386792@5eplay.com
@@ -425,5 +402,42 @@ DESCRIPTION:比赛ID: csgo_mc_2386699\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: ODDIK vs RED Canids
+DTSTART:20251014T210000Z
+DTEND:20251014T233000Z
+UID:csgo_mc_2386597@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386597\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386597
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: ShindeN vs Procyon
+DTSTART:20251014T210000Z
+DTEND:20251014T233000Z
+UID:csgo_mc_2386600@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386600\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: Gaimin Gladiators vs Fake 
+ do Biru
+DTSTART:20251014T210000Z
+DTEND:20251014T233000Z
+UID:csgo_mc_2386599@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386599\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386599
 END:VEVENT
 END:VCALENDAR
