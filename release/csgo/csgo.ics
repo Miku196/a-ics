@@ -3,31 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: paiN vs FNC
-DTSTART:20251014T062000Z
-DTEND:20251014T072000Z
-UID:csgo_mc_2386824@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386824\n赛事: CS 2025亚洲邀请赛\n阶
- 段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: B级
- \n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386824
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: Heroic vs B8
-DTSTART:20251014T063000Z
-DTEND:20251014T073000Z
-UID:csgo_mc_2386825@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386825\n赛事: CS 2025亚洲邀请赛\n阶
- 段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: B级
- \n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386825
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS 2025亚洲邀请赛: GL vs LVG
-DTSTART:20251014T070000Z
-DTEND:20251014T093000Z
+DTSTART:20251014T084500Z
+DTEND:20251014T111500Z
 UID:csgo_mc_2386828@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386828\n赛事: CS 2025亚洲邀请赛\n阶
  段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: B级
@@ -37,49 +15,14 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2386828
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS 2025亚洲邀请赛: The Huns vs VP
-DTSTART:20251014T070000Z
-DTEND:20251014T093000Z
+DTSTART:20251014T084500Z
+DTEND:20251014T111500Z
 UID:csgo_mc_2386827@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386827\n赛事: CS 2025亚洲邀请赛\n阶
  段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: B级
  \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386827
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: FaZe vs FUT
-DTSTART:20251014T072000Z
-DTEND:20251014T082000Z
-UID:csgo_mc_2386826@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386826\n赛事: CS 2025亚洲邀请赛\n阶
- 段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: B级
- \n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386826
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: FT vs m1x
-DTSTART:20251014T080000Z
-DTEND:20251014T103000Z
-UID:csgo_mc_2386733@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386733\n赛事: NODWIN Clutch 系列 第1
- 赛季\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386733
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛杯 1: Mousquetaires vs G2 Ares
-DTSTART:20251014T080000Z
-DTEND:20251014T103000Z
-UID:csgo_mc_2386792@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386792\n赛事: 欧洲职业联赛杯 1\n
- 阶段: 淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386792
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 大洋洲 第3季: Rooster vs Fury
@@ -92,28 +35,6 @@ DESCRIPTION:比赛ID: csgo_mc_2386505\n赛事: ESL 挑战者联赛 S50 大
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386505
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛:  3DMAX vs Legacy
-DTSTART:20251014T100000Z
-DTEND:20251014T123000Z
-UID:csgo_mc_2386829@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386829\n赛事: CS 2025亚洲邀请赛\n阶
- 段: 小组赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
- : B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386829
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: Liquid vs MIBR
-DTSTART:20251014T100000Z
-DTEND:20251014T123000Z
-UID:csgo_mc_2386830@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386830\n赛事: CS 2025亚洲邀请赛\n阶
- 段: 小组赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
- : B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386830
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛杯 1: fish123 vs Genone
@@ -137,6 +58,28 @@ DESCRIPTION:比赛ID: csgo_mc_2386734\n赛事: NODWIN Clutch 系列 第1
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386734
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS 2025亚洲邀请赛:  3DMAX vs Legacy
+DTSTART:20251014T110000Z
+DTEND:20251014T133000Z
+UID:csgo_mc_2386829@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386829\n赛事: CS 2025亚洲邀请赛\n阶
+ 段: 小组赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
+ : B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS 2025亚洲邀请赛: Liquid vs MIBR
+DTSTART:20251014T110000Z
+DTEND:20251014T133000Z
+UID:csgo_mc_2386830@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386830\n赛事: CS 2025亚洲邀请赛\n阶
+ 段: 小组赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
+ : B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386830
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 亚太区 第3季: FengDa vs Kaleido
@@ -354,7 +297,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386630
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: TBD vs TBD
+SUMMARY:CS 2025亚洲邀请赛: paiN vs Fluxo
 DTSTART:20251015T030000Z
 DTEND:20251015T053000Z
 UID:csgo_mc_2386835@5eplay.com
@@ -387,7 +330,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386838
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: TBD vs TBD
+SUMMARY:CS 2025亚洲邀请赛: FNC vs TYLOO
 DTSTART:20251015T060000Z
 DTEND:20251015T083000Z
 UID:csgo_mc_2386837@5eplay.com
@@ -454,5 +397,28 @@ DESCRIPTION:比赛ID: csgo_mc_2386831\n赛事: CS 2025亚洲邀请赛\n阶
  : B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386831
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS 2025亚洲邀请赛: TBD vs TBD
+DTSTART:20251015T090000Z
+DTEND:20251015T113000Z
+UID:csgo_mc_2386832@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386832\n赛事: CS 2025亚洲邀请赛\n阶
+ 段: 小组赛 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
+ : B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386832
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第1赛季: ARCRED vs 500
+DTSTART:20251015T110000Z
+DTEND:20251015T133000Z
+UID:csgo_mc_2386737@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386737\n赛事: NODWIN Clutch 系列 第1
+ 赛季\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386737
 END:VEVENT
 END:VCALENDAR
