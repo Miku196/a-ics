@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: GL vs LVG
-DTSTART:20251014T084500Z
-DTEND:20251014T111500Z
-UID:csgo_mc_2386828@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386828\n赛事: CS 2025亚洲邀请赛\n阶
- 段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: B级
- \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386828
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: The Huns vs VP
-DTSTART:20251014T084500Z
-DTEND:20251014T111500Z
-UID:csgo_mc_2386827@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386827\n赛事: CS 2025亚洲邀请赛\n阶
- 段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: B级
- \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386827
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 大洋洲 第3季: Rooster vs Fury
-DTSTART:20251014T090000Z
-DTEND:20251014T113000Z
-UID:csgo_mc_2386505@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386505\n赛事: ESL 挑战者联赛 S50 大
- 洋洲 第3季\n阶段: 淘汰赛 败者组 半决赛\n轮次: 半决赛\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386505
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛杯 1: fish123 vs Genone
 DTSTART:20251014T103000Z
 DTEND:20251014T130000Z
@@ -72,8 +38,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2386829
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CS 2025亚洲邀请赛: Liquid vs MIBR
-DTSTART:20251014T110000Z
-DTEND:20251014T133000Z
+DTSTART:20251014T112000Z
+DTEND:20251014T135000Z
 UID:csgo_mc_2386830@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386830\n赛事: CS 2025亚洲邀请赛\n阶
  段: 小组赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
@@ -308,7 +274,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386835
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: TBD vs TBD
+SUMMARY:CS 2025亚洲邀请赛: FaZe vs B8
 DTSTART:20251015T030000Z
 DTEND:20251015T053000Z
 UID:csgo_mc_2386836@5eplay.com
@@ -319,7 +285,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386836
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: TBD vs TBD
+SUMMARY:CS 2025亚洲邀请赛: FUT vs Heroic
 DTSTART:20251015T060000Z
 DTEND:20251015T083000Z
 UID:csgo_mc_2386838@5eplay.com
@@ -420,5 +386,41 @@ DESCRIPTION:比赛ID: csgo_mc_2386737\n赛事: NODWIN Clutch 系列 第1
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386737
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TP 世界锦标赛 2025 决赛: Mongolz vs 9z
+DTSTART:20251015T113000Z
+DTEND:20251015T140000Z
+UID:csgo_mc_2386797@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386797\n赛事: TP 世界锦标赛 2025 决
+ 赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386797
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第3季: The Huns vs RA
+DTSTART:20251015T130000Z
+DTEND:20251015T153000Z
+UID:csgo_mc_2386528@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386528\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第3季\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
+DTSTART:20251015T130000Z
+DTEND:20251015T153000Z
+UID:csgo_mc_2386701@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386701\n赛事:  CCT 第3赛季 南美系
+ 列赛5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386701
 END:VEVENT
 END:VCALENDAR
