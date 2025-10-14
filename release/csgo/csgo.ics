@@ -319,7 +319,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386702
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: Alliance vs GUN5
 DTSTART:20251015T170000Z
 DTEND:20251015T193000Z
 UID:csgo_mc_2386568@5eplay.com
@@ -411,5 +411,39 @@ DESCRIPTION:比赛ID: csgo_mc_2386703\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386703
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 南美: Four Magic vs MIBR.fe
+DTSTART:20251015T210000Z
+DTEND:20251015T233000Z
+UID:csgo_mc_2386758@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386758\n赛事: ESL Impact 联赛 第8赛
+ 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386758
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 南美: FURIA fe vs Curralzinho
+DTSTART:20251015T210000Z
+DTEND:20251015T233000Z
+UID:csgo_mc_2386757@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386757\n赛事: ESL Impact 联赛 第8赛
+ 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: TBD vs TBD
+DTSTART:20251015T210000Z
+DTEND:20251015T233000Z
+UID:csgo_mc_2386601@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386601\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386601
 END:VEVENT
 END:VCALENDAR
