@@ -3,43 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛杯 1: fish123 vs Genone
-DTSTART:20251014T103000Z
-DTEND:20251014T130000Z
-UID:csgo_mc_2386793@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386793\n赛事: 欧洲职业联赛杯 1\n
- 阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386793
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: kONO vs Nuclear TigeRES
-DTSTART:20251014T110000Z
-DTEND:20251014T133000Z
-UID:csgo_mc_2386734@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386734\n赛事: NODWIN Clutch 系列 第1
- 赛季\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386734
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛:  3DMAX vs Legacy
-DTSTART:20251014T110000Z
-DTEND:20251014T133000Z
-UID:csgo_mc_2386829@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386829\n赛事: CS 2025亚洲邀请赛\n阶
- 段: 小组赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
- : B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386829
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS 2025亚洲邀请赛: Liquid vs MIBR
-DTSTART:20251014T112000Z
-DTEND:20251014T135000Z
+DTSTART:20251014T124500Z
+DTEND:20251014T151500Z
 UID:csgo_mc_2386830@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386830\n赛事: CS 2025亚洲邀请赛\n阶
  段: 小组赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
@@ -354,7 +320,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386506
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: TBD vs TBD
+SUMMARY:CS 2025亚洲邀请赛: VP vs TBD
 DTSTART:20251015T090000Z
 DTEND:20251015T113000Z
 UID:csgo_mc_2386831@5eplay.com
@@ -422,5 +388,41 @@ DESCRIPTION:比赛ID: csgo_mc_2386701\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386701
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第1赛季: Betera vs SPARTA
+DTSTART:20251015T140000Z
+DTEND:20251015T163000Z
+UID:csgo_mc_2386738@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386738\n赛事: NODWIN Clutch 系列 第1
+ 赛季\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386738
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TP 世界锦标赛 2025 决赛: NAVI vs Imperial
+DTSTART:20251015T143000Z
+DTEND:20251015T170000Z
+UID:csgo_mc_2386798@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386798\n赛事: TP 世界锦标赛 2025 决
+ 赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386798
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
+DTSTART:20251015T160000Z
+DTEND:20251015T183000Z
+UID:csgo_mc_2386702@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386702\n赛事:  CCT 第3赛季 南美系
+ 列赛5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386702
 END:VEVENT
 END:VCALENDAR
