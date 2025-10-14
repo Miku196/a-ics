@@ -3,61 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: Marsborne vs SportsBetExpert
-DTSTART:20251014T000000Z
-DTEND:20251014T023000Z
-UID:csgo_mc_2386811@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386811\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386811
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: Getting Info vs anything else
-DTSTART:20251014T000000Z
-DTEND:20251014T023000Z
-UID:csgo_mc_2386812@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386812\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386812
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: BOSS vs FULL SEND
-DTSTART:20251014T000000Z
-DTEND:20251014T023000Z
-UID:csgo_mc_2386813@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386813\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386813
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: Phoenix vs Zomblers
-DTSTART:20251014T000000Z
-DTEND:20251014T023000Z
-UID:csgo_mc_2386816@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386816\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386816
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: Money Crew vs regain
-DTSTART:20251014T000000Z
-DTEND:20251014T023000Z
-UID:csgo_mc_2386817@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386817\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386817
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS 2025亚洲邀请赛:  3DMAX vs The Huns
 DTSTART:20251014T030000Z
 DTEND:20251014T040000Z
@@ -333,7 +278,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386565
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: Crashers vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛5: Crashers vs KRÜ
 DTSTART:20251014T180000Z
 DTEND:20251014T203000Z
 UID:csgo_mc_2386699@5eplay.com
@@ -438,5 +383,29 @@ DESCRIPTION:比赛ID: csgo_mc_2386627\n赛事: ESL 挑战者联赛 S50 北
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386627
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: regain vs TSG
+DTSTART:20251015T010000Z
+DTEND:20251015T033000Z
+UID:csgo_mc_2386629@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386629\n赛事: ESL 挑战者联赛 S50 北
+ 美 第3季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386629
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: BOSS vs ex-Chicken Coop
+DTSTART:20251015T010000Z
+DTEND:20251015T033000Z
+UID:csgo_mc_2386630@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386630\n赛事: ESL 挑战者联赛 S50 北
+ 美 第3季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386630
 END:VEVENT
 END:VCALENDAR
