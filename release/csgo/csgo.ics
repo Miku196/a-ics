@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: paiN vs Fluxo
-DTSTART:20251015T030000Z
-DTEND:20251015T053000Z
-UID:csgo_mc_2386835@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386835\n赛事: CS 2025亚洲邀请赛\n阶
- 段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: B级
- \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386835
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: FaZe vs B8
-DTSTART:20251015T030000Z
-DTEND:20251015T053000Z
-UID:csgo_mc_2386836@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386836\n赛事: CS 2025亚洲邀请赛\n阶
- 段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: B级
- \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386836
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS 2025亚洲邀请赛: FUT vs Heroic
 DTSTART:20251015T060000Z
 DTEND:20251015T083000Z
@@ -374,7 +352,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386761
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: Wildcard vs regain
 DTSTART:20251016T010000Z
 DTEND:20251016T033000Z
 UID:csgo_mc_2386631@5eplay.com
@@ -386,7 +364,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386631
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: Getting Info vs BOSS
 DTSTART:20251016T010000Z
 DTEND:20251016T033000Z
 UID:csgo_mc_2386632@5eplay.com
@@ -429,5 +407,39 @@ DESCRIPTION:比赛ID: csgo_mc_2386840\n赛事: CS 2025亚洲邀请赛\n阶
  : B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386840
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS 2025亚洲邀请赛: Liquid vs Legacy
+DTSTART:20251016T060000Z
+DTEND:20251016T083000Z
+UID:csgo_mc_2386833@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386833\n赛事: CS 2025亚洲邀请赛\n阶
+ 段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: B级
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386833
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS 2025亚洲邀请赛: TBD vs TBD
+DTSTART:20251016T060000Z
+DTEND:20251016T083000Z
+UID:csgo_mc_2386841@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386841\n赛事: CS 2025亚洲邀请赛\n阶
+ 段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: B级
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386841
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第1赛季: TBD vs TBD
+DTSTART:20251016T080000Z
+DTEND:20251016T103000Z
+UID:csgo_mc_2386739@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386739\n赛事: NODWIN Clutch 系列 第1
+ 赛季\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386739
 END:VEVENT
 END:VCALENDAR
