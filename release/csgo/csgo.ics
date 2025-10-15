@@ -3,63 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:TP 世界锦标赛 2025 决赛: FURIA vs OG
-DTSTART:20251015T083000Z
-DTEND:20251015T110000Z
-UID:csgo_mc_2386796@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386796\n赛事: TP 世界锦标赛 2025 决
- 赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
- 级: B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386796
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 大洋洲 第3季: SemperFi vs Mindfreak
-DTSTART:20251015T090000Z
-DTEND:20251015T113000Z
-UID:csgo_mc_2386506@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386506\n赛事: ESL 挑战者联赛 S50 大
- 洋洲 第3季\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制
- : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386506
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: VP vs MIBR
-DTSTART:20251015T090000Z
-DTEND:20251015T113000Z
-UID:csgo_mc_2386831@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386831\n赛事: CS 2025亚洲邀请赛\n阶
- 段: 小组赛 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
- : B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386831
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: LVG vs  3DMAX
-DTSTART:20251015T090000Z
-DTEND:20251015T113000Z
-UID:csgo_mc_2386832@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386832\n赛事: CS 2025亚洲邀请赛\n阶
- 段: 小组赛 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
- : B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386832
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort Series 第17赛季: TPuDCATb_TPu vs Preasy Mix
-DTSTART:20251015T093000Z
-DTEND:20251015T120000Z
-UID:csgo_mc_2386942@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386942\n赛事: Exort Series 第17赛季\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386942
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:United21 联赛 第39赛季: G2 Ares vs MANA
 DTSTART:20251015T103000Z
 DTEND:20251015T130000Z
@@ -95,6 +38,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386861
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Evelone Duo Cup S2: n0rb3r7 Team vs  baz Team
+DTSTART:20251015T110000Z
+DTEND:20251015T120000Z
+UID:csgo_mc_2386949@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386949\n赛事: Evelone Duo Cup S2\n赛制:
+  BO1\n等级: 其他\n状态: 未开始\n预估时长: 1.0小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386949
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TP 世界锦标赛 2025 决赛: Mongolz vs 9z
 DTSTART:20251015T113000Z
 DTEND:20251015T140000Z
@@ -105,6 +59,28 @@ DESCRIPTION:比赛ID: csgo_mc_2386797\n赛事: TP 世界锦标赛 2025 决
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386797
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evelone Duo Cup S2: m0NESY Team vs deko Team
+DTSTART:20251015T114000Z
+DTEND:20251015T124000Z
+UID:csgo_mc_2386950@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386950\n赛事: Evelone Duo Cup S2\n赛制:
+  BO1\n等级: 其他\n状态: 未开始\n预估时长: 1.0小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386950
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evelone Duo Cup S2: zweih Team vs ct0m Team
+DTSTART:20251015T122000Z
+DTEND:20251015T132000Z
+UID:csgo_mc_2386951@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386951\n赛事: Evelone Duo Cup S2\n赛制:
+  BO1\n等级: 其他\n状态: 未开始\n预估时长: 1.0小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386951
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exort Series 第17赛季: ECLOT vs AM
@@ -130,6 +106,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386528
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Evelone Duo Cup S2: kyousuke Team vs magixx Team
+DTSTART:20251015T130000Z
+DTEND:20251015T140000Z
+UID:csgo_mc_2386952@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386952\n赛事: Evelone Duo Cup S2\n赛制:
+  BO1\n等级: 其他\n状态: 未开始\n预估时长: 1.0小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386952
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 南美系列赛5: Keyd vs Crashers
 DTSTART:20251015T130000Z
 DTEND:20251015T153000Z
@@ -140,6 +127,17 @@ DESCRIPTION:比赛ID: csgo_mc_2386701\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386701
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evelone Duo Cup S2: TBD vs TBD
+DTSTART:20251015T134000Z
+DTEND:20251015T144000Z
+UID:csgo_mc_2386953@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386953\n赛事: Evelone Duo Cup S2\n赛制:
+  BO1\n等级: 其他\n状态: 未开始\n预估时长: 1.0小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386953
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NODWIN Clutch 系列 第1赛季: Betera vs SPARTA
@@ -167,6 +165,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386862
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Evelone Duo Cup S2: TBD vs TBD
+DTSTART:20251015T142000Z
+DTEND:20251015T152000Z
+UID:csgo_mc_2386954@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386954\n赛事: Evelone Duo Cup S2\n赛制:
+  BO1\n等级: 其他\n状态: 未开始\n预估时长: 1.0小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386954
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TP 世界锦标赛 2025 决赛: NAVI vs Imperial
 DTSTART:20251015T143000Z
 DTEND:20251015T170000Z
@@ -177,6 +186,17 @@ DESCRIPTION:比赛ID: csgo_mc_2386798\n赛事: TP 世界锦标赛 2025 决
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386798
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evelone Duo Cup S2: TBD vs TBD
+DTSTART:20251015T150000Z
+DTEND:20251015T173000Z
+UID:csgo_mc_2386955@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386955\n赛事: Evelone Duo Cup S2\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386955
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exort Series 第17赛季: Nuclear TigeRES vs Flame Sharks
@@ -260,6 +280,17 @@ DESCRIPTION:比赛ID: csgo_mc_2386863\n赛事: CCT 第3赛季 欧洲系列
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386863
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evelone Duo Cup S2: TBD vs TBD
+DTSTART:20251015T170000Z
+DTEND:20251015T193000Z
+UID:csgo_mc_2386956@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386956\n赛事: Evelone Duo Cup S2\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386956
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TP 世界锦标赛 2025 决赛: Aurora vs Venom
@@ -351,51 +382,5 @@ DESCRIPTION:比赛ID: csgo_mc_2386601\n赛事: ESL 挑战者联赛 S50 南
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386601
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第3季: ODDIK vs ShindeN
-DTSTART:20251015T210000Z
-DTEND:20251015T233000Z
-UID:csgo_mc_2386602@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386602\n赛事: ESL 挑战者联赛 S50 南
- 美 第3季\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386602
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: Galorys vs FOLHA AMARELA
-DTSTART:20251015T220000Z
-DTEND:20251016T003000Z
-UID:csgo_mc_2386704@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386704\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386704
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 北美: Lotus vs Ghost
-DTSTART:20251015T233000Z
-DTEND:20251016T020000Z
-UID:csgo_mc_2386762@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386762\n赛事: ESL Impact 联赛 第8赛
- 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386762
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 北美: Nocturnal vs FLYRED
-DTSTART:20251015T233000Z
-DTEND:20251016T020000Z
-UID:csgo_mc_2386761@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386761\n赛事: ESL Impact 联赛 第8赛
- 季 北美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
- 预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386761
 END:VEVENT
 END:VCALENDAR
