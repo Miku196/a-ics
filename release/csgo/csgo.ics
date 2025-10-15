@@ -3,65 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: shinigami vs Imperial fe
-DTSTART:20251015T183000Z
-DTEND:20251015T210000Z
-UID:csgo_mc_2386754@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386754\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386754
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: hindsight vs Let Her Cook
-DTSTART:20251015T183000Z
-DTEND:20251015T210000Z
-UID:csgo_mc_2386753@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386753\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386753
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort Series 第17赛季: Nexus vs Algo
-DTSTART:20251015T183000Z
-DTEND:20251015T210000Z
-UID:csgo_mc_2386945@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386945\n赛事: Exort Series 第17赛季\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386945
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evelone Duo Cup S2: zweih Team vs kyousuke Team
-DTSTART:20251015T184500Z
-DTEND:20251015T211500Z
-UID:csgo_mc_2386956@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386956\n赛事: Evelone Duo Cup S2\n阶段:
-  淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: \n状态
- : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386956
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: Fake do Biru vs UnderDogs
-DTSTART:20251015T190000Z
-DTEND:20251015T213000Z
-UID:csgo_mc_2386703@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386703\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386703
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evelone Duo Cup S2: ct0m Team vs TBD
-DTSTART:20251015T194500Z
-DTEND:20251015T221500Z
+SUMMARY:Evelone Duo Cup S2: ct0m Team vs deko Team
+DTSTART:20251015T201500Z
+DTEND:20251015T224500Z
 UID:csgo_mc_2386957@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386957\n赛事: Evelone Duo Cup S2\n阶段:
   淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: \n
@@ -229,7 +173,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386841
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: TBD vs TBD
+SUMMARY:NODWIN Clutch 系列 第1赛季: ARCRED vs kONO
 DTSTART:20251016T080000Z
 DTEND:20251016T103000Z
 UID:csgo_mc_2386739@5eplay.com
@@ -333,7 +277,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386858
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: TBD vs TBD
+SUMMARY:NODWIN Clutch 系列 第1赛季: 1win vs UNiTY
 DTSTART:20251016T110000Z
 DTEND:20251016T133000Z
 UID:csgo_mc_2386740@5eplay.com
@@ -366,5 +310,86 @@ DESCRIPTION:比赛ID: csgo_mc_2386958\n赛事: Evelone Duo Cup S2\n阶段:
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386958
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TP 世界锦标赛 2025 决赛: OG vs 9z
+DTSTART:20251016T113000Z
+DTEND:20251016T140000Z
+UID:csgo_mc_2386801@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386801\n赛事: TP 世界锦标赛 2025 决
+ 赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386801
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort Series 第17赛季: TPuDCATb_TPu vs ECLOT
+DTSTART:20251016T123000Z
+DTEND:20251016T150000Z
+UID:csgo_mc_2386946@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386946\n赛事: Exort Series 第17赛季\n
+ 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第3季: FengDa vs RA
+DTSTART:20251016T130000Z
+DTEND:20251016T153000Z
+UID:csgo_mc_2386529@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386529\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第3季\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386529
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第39赛季: WOPA vs G2 Ares
+DTSTART:20251016T130000Z
+DTEND:20251016T153000Z
+UID:csgo_mc_2386870@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386870\n赛事: United21 联赛 第39赛季
+ \n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386870
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evelone Duo Cup S2:  baz Team vs magixx Team
+DTSTART:20251016T130000Z
+DTEND:20251016T140000Z
+UID:csgo_mc_2386959@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386959\n赛事: Evelone Duo Cup S2\n阶段:
+  淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO1\n等级: \n状态
+ : 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛5: RED Canids vs Bounty Hunters
+DTSTART:20251016T130000Z
+DTEND:20251016T153000Z
+UID:csgo_mc_2386705@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386705\n赛事:  CCT 第3赛季 南美系
+ 列赛5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386705
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evelone Duo Cup S2: TBD vs TBD
+DTSTART:20251016T134000Z
+DTEND:20251016T161000Z
+UID:csgo_mc_2386960@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386960\n赛事: Evelone Duo Cup S2\n阶段:
+  淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: \n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386960
 END:VEVENT
 END:VCALENDAR
