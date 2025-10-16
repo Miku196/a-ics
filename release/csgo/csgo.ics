@@ -3,64 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第39赛季: fish123 vs Wildcard Academy
-DTSTART:20251016T103000Z
-DTEND:20251016T130000Z
-UID:csgo_mc_2386858@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386858\n赛事: United21 联赛 第39赛季
- \n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
-  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386858
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: 1win vs UNiTY
-DTSTART:20251016T110000Z
-DTEND:20251016T133000Z
-UID:csgo_mc_2386740@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386740\n赛事: NODWIN Clutch 系列 第1
- 赛季\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386740
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: VRSoholics vs AI
-DTSTART:20251016T110000Z
-DTEND:20251016T133000Z
-UID:csgo_mc_2386880@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386880\n赛事: CCT 第3赛季 欧洲系列
- 赛 9 封闭预选赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\
- n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386880
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evelone Duo Cup S2: m0NESY Team vs kyousuke Team
-DTSTART:20251016T110000Z
-DTEND:20251016T133000Z
-UID:csgo_mc_2386958@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386958\n赛事: Evelone Duo Cup S2\n阶段:
-  淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: \n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386958
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TP 世界锦标赛 2025 决赛: OG vs 9z
-DTSTART:20251016T113000Z
-DTEND:20251016T140000Z
-UID:csgo_mc_2386801@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386801\n赛事: TP 世界锦标赛 2025 决
- 赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等
- 级: B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386801
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Exort Series 第17赛季: TPuDCATb_TPu vs ECLOT
 DTSTART:20251016T123000Z
 DTEND:20251016T150000Z
@@ -383,5 +325,61 @@ DESCRIPTION:比赛ID: csgo_mc_2386992\n赛事: Dust2.us 猎鹰大师赛 S4
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386992
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S4: Zomblers vs Outfit 49
+DTSTART:20251017T000000Z
+DTEND:20251017T023000Z
+UID:csgo_mc_2386989@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386989\n赛事: Dust2.us 猎鹰大师赛 S4
+ \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386989
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S4: Getting Info vs regain
+DTSTART:20251017T000000Z
+DTEND:20251017T023000Z
+UID:csgo_mc_2386990@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386990\n赛事: Dust2.us 猎鹰大师赛 S4
+ \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386990
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S4: BOSS vs Shimmer
+DTSTART:20251017T000000Z
+DTEND:20251017T023000Z
+UID:csgo_mc_2386991@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386991\n赛事: Dust2.us 猎鹰大师赛 S4
+ \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386991
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: Wildcard vs Getting Info
+DTSTART:20251017T010000Z
+DTEND:20251017T033000Z
+UID:csgo_mc_2386633@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386633\n赛事: ESL 挑战者联赛 S50 北
+ 美 第3季\n阶段: 淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CS 2025亚洲邀请赛: FNC vs TBD
+DTSTART:20251017T050000Z
+DTEND:20251017T073000Z
+UID:csgo_mc_2386843@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386843\n赛事: CS 2025亚洲邀请赛\n阶
+ 段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: B级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386843
 END:VEVENT
 END:VCALENDAR
