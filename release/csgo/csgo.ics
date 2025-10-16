@@ -4,25 +4,14 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY:CS 2025亚洲邀请赛: Liquid vs Legacy
-DTSTART:20251016T060000Z
-DTEND:20251016T083000Z
+DTSTART:20251016T063000Z
+DTEND:20251016T090000Z
 UID:csgo_mc_2386833@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386833\n赛事: CS 2025亚洲邀请赛\n阶
  段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: B级
  \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386833
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: FNC vs Heroic
-DTSTART:20251016T060000Z
-DTEND:20251016T083000Z
-UID:csgo_mc_2386841@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386841\n赛事: CS 2025亚洲邀请赛\n阶
- 段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: B级
- \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386841
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NODWIN Clutch 系列 第1赛季: ARCRED vs kONO
@@ -107,7 +96,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386834
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: TBD vs TBD
+SUMMARY:CS 2025亚洲邀请赛: FUT vs FaZe
 DTSTART:20251016T090000Z
 DTEND:20251016T113000Z
 UID:csgo_mc_2386842@5eplay.com
@@ -429,5 +418,40 @@ DESCRIPTION:比赛ID: csgo_mc_2386759\n赛事: ESL Impact 联赛 第8赛
  预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386759
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 南美: thekillaz fe vs Atrix
+DTSTART:20251016T210000Z
+DTEND:20251016T233000Z
+UID:csgo_mc_2386760@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386760\n赛事: ESL Impact 联赛 第8赛
+ 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386760
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: ODDIK vs Gaimin Gladiators
+DTSTART:20251016T210000Z
+DTEND:20251016T233000Z
+UID:csgo_mc_2386603@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386603\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386603
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛5: Sharks vs Mibr.A
+DTSTART:20251016T220000Z
+DTEND:20251017T003000Z
+UID:csgo_mc_2386708@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386708\n赛事:  CCT 第3赛季 南美系
+ 列赛5\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386708
 END:VEVENT
 END:VCALENDAR
