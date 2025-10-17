@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:LanTrek eSM 2025: TMVG vs HAVU
-DTSTART:20251017T183000Z
-DTEND:20251017T210000Z
-UID:csgo_mc_2386968@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386968\n赛事: LanTrek eSM 2025\n阶段: 
- 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2
- .5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386968
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: Fake do Biru vs Players
-DTSTART:20251017T190000Z
-DTEND:20251017T213000Z
-UID:csgo_mc_2386711@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386711\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386711
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S4: BOSS vs Shimmer
 DTSTART:20251017T210000Z
 DTEND:20251017T233000Z
@@ -60,8 +38,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2386712
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S4: InControl vs SportsBetExpert
-DTSTART:20251018T000000Z
-DTEND:20251018T023000Z
+DTSTART:20251017T230000Z
+DTEND:20251018T013000Z
 UID:csgo_mc_2386993@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386993\n赛事: Dust2.us 猎鹰大师赛 S4
  \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 其
@@ -164,7 +142,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386747
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: Algo vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: Algo vs m1x
 DTSTART:20251018T110000Z
 DTEND:20251018T133000Z
 UID:csgo_mc_2386884@5eplay.com
@@ -176,7 +154,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386884
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LanTrek eSM 2025: TBD vs TBD
+SUMMARY:LanTrek eSM 2025: HAVU vs Skinsauna
 DTSTART:20251018T133000Z
 DTEND:20251018T160000Z
 UID:csgo_mc_2386970@5eplay.com
@@ -199,7 +177,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386748
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TP 世界锦标赛 2025 决赛: FURIA vs TBD
+SUMMARY:TP 世界锦标赛 2025 决赛: FURIA vs Aurora
 DTSTART:20251018T140000Z
 DTEND:20251018T163000Z
 UID:csgo_mc_2386806@5eplay.com
@@ -223,7 +201,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386882
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: Bounty Hunters vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛5: Bounty Hunters vs Keyd
 DTSTART:20251018T150000Z
 DTEND:20251018T173000Z
 UID:csgo_mc_2386714@5eplay.com
@@ -270,8 +248,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386574
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: Washington vs TB
- D
+SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: Washington vs FO
+ RZE Reload
 DTSTART:20251018T170000Z
 DTEND:20251018T193000Z
 UID:csgo_mc_2386885@5eplay.com
@@ -408,5 +386,76 @@ DESCRIPTION:比赛ID: csgo_mc_2386872\n赛事: United21 联赛 第39赛季
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386872
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: SPARTA vs Novaq
+DTSTART:20251019T080000Z
+DTEND:20251019T103000Z
+UID:csgo_mc_2386886@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386886\n赛事: CCT 第3赛季 欧洲系列
+ 赛 9 封闭预选赛\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\
+ n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386886
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第39赛季: G2 Ares vs AM
+DTSTART:20251019T103000Z
+DTEND:20251019T130000Z
+UID:csgo_mc_2386873@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386873\n赛事: United21 联赛 第39赛季
+ \n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386873
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第1赛季: TBD vs TBD
+DTSTART:20251019T110000Z
+DTEND:20251019T133000Z
+UID:csgo_mc_2386751@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386751\n赛事: NODWIN Clutch 系列 第1
+ 赛季\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: RUBY vs VRSoholi
+ cs
+DTSTART:20251019T110000Z
+DTEND:20251019T133000Z
+UID:csgo_mc_2386887@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386887\n赛事: CCT 第3赛季 欧洲系列
+ 赛 9 封闭预选赛\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\
+ n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386887
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TP 世界锦标赛 2025 决赛: TBD vs TBD
+DTSTART:20251019T113000Z
+DTEND:20251019T140000Z
+UID:csgo_mc_2386808@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386808\n赛事: TP 世界锦标赛 2025 决
+ 赛\n阶段: 淘汰赛 季军赛\n轮次: 季军赛\n赛制: BO3\n等级: 
+ B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386808
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第1赛季: TBD vs TBD
+DTSTART:20251019T140000Z
+DTEND:20251019T163000Z
+UID:csgo_mc_2386752@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386752\n赛事: NODWIN Clutch 系列 第1
+ 赛季\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386752
 END:VEVENT
 END:VCALENDAR
