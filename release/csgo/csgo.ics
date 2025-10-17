@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第39赛季: AM vs fish123
-DTSTART:20251017T103000Z
-DTEND:20251017T130000Z
-UID:csgo_mc_2386869@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386869\n赛事: United21 联赛 第39赛季
- \n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
-  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386869
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: RUBY vs m1x
-DTSTART:20251017T110000Z
-DTEND:20251017T133000Z
-UID:csgo_mc_2386743@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386743\n赛事: NODWIN Clutch 系列 第1
- 赛季\n阶段: 淘汰赛 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386743
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: HubaBuba vs kONO
-DTSTART:20251017T110000Z
-DTEND:20251017T133000Z
-UID:csgo_mc_2386865@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386865\n赛事: CCT 第3赛季 欧洲系列
- 赛 9 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\
- n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386865
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LanTrek eSM 2025: AKA HERO KAJO vs TMVG
 DTSTART:20251017T130000Z
 DTEND:20251017T153000Z
@@ -417,5 +383,40 @@ DESCRIPTION:比赛ID: csgo_mc_2386713\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386713
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LanTrek eSM 2025: TBD vs TBD
+DTSTART:20251018T163000Z
+DTEND:20251018T190000Z
+UID:csgo_mc_2386971@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386971\n赛事: LanTrek eSM 2025\n阶段: 
+ 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状态: 未
+ 开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386971
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第1赛季: TBD vs TBD
+DTSTART:20251018T170000Z
+DTEND:20251018T193000Z
+UID:csgo_mc_2386749@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386749\n赛事: NODWIN Clutch 系列 第1
+ 赛季\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386749
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: ESC vs Sangal
+DTSTART:20251018T170000Z
+DTEND:20251018T193000Z
+UID:csgo_mc_2386574@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386574\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第3季\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386574
 END:VEVENT
 END:VCALENDAR
