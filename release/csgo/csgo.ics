@@ -450,4 +450,15 @@ DESCRIPTION:比赛ID: csgo_mc_2386882\n赛事: CCT 第3赛季 欧洲系列
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386882
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LanTrek eSM 2025: TBD vs TBD
+DTSTART:20251018T133000Z
+DTEND:20251018T160000Z
+UID:csgo_mc_2386970@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386970\n赛事: LanTrek eSM 2025\n阶段: 
+ 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386970
+END:VEVENT
 END:VCALENDAR
