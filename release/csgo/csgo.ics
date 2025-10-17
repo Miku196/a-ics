@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛: FNC vs  3DMAX
-DTSTART:20251017T050000Z
-DTEND:20251017T073000Z
-UID:csgo_mc_2386843@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386843\n赛事: CS 2025亚洲邀请赛\n阶
- 段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: B级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386843
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NODWIN Clutch 系列 第1赛季: FT vs 1win
 DTSTART:20251017T080000Z
 DTEND:20251017T103000Z
@@ -301,6 +290,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386711
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S4: BOSS vs Shimmer
+DTSTART:20251017T210000Z
+DTEND:20251017T233000Z
+UID:csgo_mc_2386991@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386991\n赛事: Dust2.us 猎鹰大师赛 S4
+ \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386991
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 南美 第3季: RED Canids vs Dusty Roots
 DTSTART:20251017T210000Z
 DTEND:20251017T233000Z
@@ -344,17 +344,6 @@ DESCRIPTION:比赛ID: csgo_mc_2386995\n赛事: Dust2.us 猎鹰大师赛 S4
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386995
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: BOSS vs Shimmer
-DTSTART:20251018T000000Z
-DTEND:20251018T023000Z
-UID:csgo_mc_2386991@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386991\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386991
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 北美 第3季: SkinRave vs Marsborne
