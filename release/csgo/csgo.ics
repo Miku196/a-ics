@@ -3,62 +3,15 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: BIG vs 1win
-DTSTART:20251018T141500Z
-DTEND:20251018T164500Z
-UID:csgo_mc_2386748@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386748\n赛事: NODWIN Clutch 系列 第1
- 赛季\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386748
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛5: Bounty Hunters vs Keyd
-DTSTART:20251018T150000Z
-DTEND:20251018T173000Z
-UID:csgo_mc_2386714@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386714\n赛事:  CCT 第3赛季 南美系
- 列赛5\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386714
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MängudeÖÖ OlyBet杯 2025 决赛: Truck Drivers vs Raid
-DTSTART:20251018T153000Z
-DTEND:20251018T180000Z
-UID:csgo_mc_2387025@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387025\n赛事: MängudeÖÖ OlyBet杯 2025
-  决赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387025
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LanTrek eSM 2025: Ence.A vs TBD
-DTSTART:20251018T163000Z
-DTEND:20251018T190000Z
+DTSTART:20251018T170000Z
+DTEND:20251018T193000Z
 UID:csgo_mc_2386971@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2386971\n赛事: LanTrek eSM 2025\n阶段: 
  淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状态: 未
  开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386971
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第1赛季: ENCE vs kONO
-DTSTART:20251018T170000Z
-DTEND:20251018T193000Z
-UID:csgo_mc_2386749@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386749\n赛事: NODWIN Clutch 系列 第1
- 赛季\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386749
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: ESC vs Sangal
@@ -107,6 +60,18 @@ DESCRIPTION:比赛ID: csgo_mc_2386713\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386713
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第1赛季: ENCE vs kONO
+DTSTART:20251018T180000Z
+DTEND:20251018T203000Z
+UID:csgo_mc_2386749@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386749\n赛事: NODWIN Clutch 系列 第1
+ 赛季\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386749
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 南美系列赛5: TBD vs TBD
@@ -263,7 +228,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386887
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TP 世界锦标赛 2025 决赛: TBD vs TBD
+SUMMARY:TP 世界锦标赛 2025 决赛: Aurora vs TBD
 DTSTART:20251019T113000Z
 DTEND:20251019T140000Z
 UID:csgo_mc_2386808@5eplay.com
@@ -298,7 +263,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386888
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TP 世界锦标赛 2025 决赛: TBD vs TBD
+SUMMARY:TP 世界锦标赛 2025 决赛: FURIA vs TBD
 DTSTART:20251019T150000Z
 DTEND:20251019T190000Z
 UID:csgo_mc_2386809@5eplay.com
@@ -423,5 +388,29 @@ DESCRIPTION:比赛ID: csgo_mc_2386998\n赛事: Winline Insight 第9赛季\
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386998
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: TBD vs TBD
+DTSTART:20251020T140000Z
+DTEND:20251020T163000Z
+UID:csgo_mc_2386892@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386892\n赛事: CCT 第3赛季 欧洲系列
+ 赛 9 封闭预选赛\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386892
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: TBD vs TBD
+DTSTART:20251020T170000Z
+DTEND:20251020T193000Z
+UID:csgo_mc_2386576@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386576\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第3季\n阶段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386576
 END:VEVENT
 END:VCALENDAR
