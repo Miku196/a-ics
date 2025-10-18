@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: SkinRave vs Marsborne
-DTSTART:20251018T010000Z
-DTEND:20251018T033000Z
-UID:csgo_mc_2386634@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386634\n赛事: ESL 挑战者联赛 S50 北
- 美 第3季\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386634
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CS 2025亚洲邀请赛: Liquid vs  3DMAX
 DTSTART:20251018T050000Z
 DTEND:20251018T073000Z
@@ -60,6 +48,17 @@ DESCRIPTION:比赛ID: csgo_mc_2386883\n赛事: CCT 第3赛季 欧洲系列
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386883
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LanTrek eSM 2025: Ence.A vs TMVG
+DTSTART:20251018T103000Z
+DTEND:20251018T130000Z
+UID:csgo_mc_2386969@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386969\n赛事: LanTrek eSM 2025\n阶段: 
+ 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386969
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:United21 联赛 第39赛季: MASONIC vs Wildcard Academy
@@ -275,7 +274,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386990
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第3季: Wildcard vs TBD
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: Wildcard vs Marsborne
 DTSTART:20251019T010000Z
 DTEND:20251019T033000Z
 UID:csgo_mc_2386635@5eplay.com
@@ -449,5 +448,28 @@ DESCRIPTION:比赛ID: csgo_mc_2386889\n赛事: CCT 第3赛季 欧洲系列
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386889
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第3季: RED Canids vs TBD
+DTSTART:20251019T210000Z
+DTEND:20251019T233000Z
+UID:csgo_mc_2386606@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386606\n赛事: ESL 挑战者联赛 S50 南
+ 美 第3季\n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未
+ 开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386606
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第3季: SkinRave vs TBD
+DTSTART:20251020T010000Z
+DTEND:20251020T033000Z
+UID:csgo_mc_2386636@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386636\n赛事: ESL 挑战者联赛 S50 北
+ 美 第3季\n阶段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386636
 END:VEVENT
 END:VCALENDAR
