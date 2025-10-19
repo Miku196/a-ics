@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第3季: RED Canids vs Gaimin Gladi
- ators
-DTSTART:20251019T210000Z
-DTEND:20251019T233000Z
-UID:csgo_mc_2386606@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386606\n赛事: ESL 挑战者联赛 S50 南
- 美 第3季\n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未
- 开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386606
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 北美 第3季: SkinRave vs Wildcard
 DTSTART:20251020T010000Z
 DTEND:20251020T033000Z
@@ -38,7 +26,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386874
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: Fire Flux vs CPH
+  Wolves
 DTSTART:20251020T080000Z
 DTEND:20251020T103000Z
 UID:csgo_mc_2386890@5eplay.com
@@ -61,7 +50,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386997
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: FORZE Reload vs 
+ SPARTA
 DTSTART:20251020T110000Z
 DTEND:20251020T133000Z
 UID:csgo_mc_2386891@5eplay.com
@@ -84,7 +74,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386998
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: kONO vs VRSoholi
+ cs
 DTSTART:20251020T140000Z
 DTEND:20251020T163000Z
 UID:csgo_mc_2386892@5eplay.com
@@ -120,7 +111,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386576
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: AMKAL vs Washing
+ ton
 DTSTART:20251020T170000Z
 DTEND:20251020T193000Z
 UID:csgo_mc_2386893@5eplay.com
@@ -434,5 +426,28 @@ DESCRIPTION:比赛ID: csgo_mc_2387032\n赛事: CCT 第3赛季 欧洲系列
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387032
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+DTSTART:20251023T170000Z
+DTEND:20251023T193000Z
+UID:csgo_mc_2386905@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386905\n赛事: CCT 第3赛季 欧洲系列
+ 赛 9\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386905
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10 封闭预选赛: TBD vs TBD
+DTSTART:20251023T173000Z
+DTEND:20251023T200000Z
+UID:csgo_mc_2387033@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387033\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10 封闭预选赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛
+ \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387033
 END:VEVENT
 END:VCALENDAR
