@@ -3,41 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CS 2025亚洲邀请赛:  3DMAX vs Legacy
-DTSTART:20251019T070000Z
-DTEND:20251019T110000Z
-UID:csgo_mc_2386848@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386848\n赛事: CS 2025亚洲邀请赛\n阶
- 段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: B级\n状态: 
- 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386848
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United21 联赛 第39赛季: MANA vs MASONIC
-DTSTART:20251019T080000Z
-DTEND:20251019T103000Z
-UID:csgo_mc_2386872@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386872\n赛事: United21 联赛 第39赛季
- \n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386872
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: SPARTA vs Novaq
-DTSTART:20251019T080000Z
-DTEND:20251019T103000Z
-UID:csgo_mc_2386886@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386886\n赛事: CCT 第3赛季 欧洲系列
- 赛 9 封闭预选赛\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\
- n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386886
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:United21 联赛 第39赛季: G2 Ares vs AM
 DTSTART:20251019T103000Z
 DTEND:20251019T130000Z
