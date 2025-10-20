@@ -25,7 +25,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386876
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: Sashi vs Fire Flux
 DTSTART:20251021T080000Z
 DTEND:20251021T103000Z
 UID:csgo_mc_2386894@5eplay.com
@@ -138,7 +138,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386999
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: CYBERSHOKE vs Sangal
 DTSTART:20251021T110000Z
 DTEND:20251021T133000Z
 UID:csgo_mc_2386895@5eplay.com
@@ -212,7 +212,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: ZT vs Washington
 DTSTART:20251021T140000Z
 DTEND:20251021T163000Z
 UID:csgo_mc_2386896@5eplay.com
@@ -223,7 +223,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386896
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: EYE vs kONO
 DTSTART:20251021T170000Z
 DTEND:20251021T193000Z
 UID:csgo_mc_2386897@5eplay.com
@@ -245,7 +245,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386877
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: Betera vs TPuDCATb_TPu
 DTSTART:20251022T080000Z
 DTEND:20251022T103000Z
 UID:csgo_mc_2386898@5eplay.com
@@ -305,7 +305,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387005
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: Oramond vs Nexus
 DTSTART:20251022T110000Z
 DTEND:20251022T133000Z
 UID:csgo_mc_2386899@5eplay.com
@@ -339,7 +339,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387006
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: VP.P vs SPARTA
 DTSTART:20251022T140000Z
 DTEND:20251022T163000Z
 UID:csgo_mc_2386900@5eplay.com
@@ -362,7 +362,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387028
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: Johnny Speeds vs ARCRED
 DTSTART:20251022T170000Z
 DTEND:20251022T193000Z
 UID:csgo_mc_2386901@5eplay.com
@@ -453,5 +453,27 @@ DESCRIPTION:比赛ID: csgo_mc_2387031\n赛事: CCT 第3赛季 欧洲系列
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387031
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第9赛季: Nemiga vs Sangal
+DTSTART:20251023T140000Z
+DTEND:20251023T163000Z
+UID:csgo_mc_2387008@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387008\n赛事: Winline Insight 第9赛季\
+ n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+DTSTART:20251023T140000Z
+DTEND:20251023T163000Z
+UID:csgo_mc_2386904@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386904\n赛事: CCT 第3赛季 欧洲系列
+ 赛 9\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386904
 END:VEVENT
 END:VCALENDAR
