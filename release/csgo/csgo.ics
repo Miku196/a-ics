@@ -62,7 +62,7 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2386894
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025 欧洲公开预
- 选赛: EF vs foreverOrgless
+ 选赛: EF vs Molotov
 DTSTART:20251021T100000Z
 DTEND:20251021T110000Z
 UID:csgo_mc_2387108@5eplay.com
@@ -353,7 +353,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387027
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: TBD vs TBD
+SUMMARY:Winline Insight 第9赛季: TPuDCATb_TPu vs Johnny Speeds
 DTSTART:20251022T140000Z
 DTEND:20251022T163000Z
 UID:csgo_mc_2387006@5eplay.com
@@ -455,5 +455,16 @@ DESCRIPTION:比赛ID: csgo_mc_2387007\n赛事: Winline Insight 第9赛季\
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387007
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+DTSTART:20251023T110000Z
+DTEND:20251023T133000Z
+UID:csgo_mc_2386903@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386903\n赛事: CCT 第3赛季 欧洲系列
+ 赛 9\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386903
 END:VEVENT
 END:VCALENDAR
