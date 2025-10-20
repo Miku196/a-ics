@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: Nemiga vs TPuDCATb_TPu
-DTSTART:20251020T110000Z
-DTEND:20251020T133000Z
-UID:csgo_mc_2386997@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386997\n赛事: Winline Insight 第9赛季\
- n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386997
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9 封闭预选赛: FORZE Reload vs 
- SPARTA
-DTSTART:20251020T110000Z
-DTEND:20251020T133000Z
-UID:csgo_mc_2386891@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386891\n赛事: CCT 第3赛季 欧洲系列
- 赛 9 封闭预选赛\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386891
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Winline Insight 第9赛季: Johnny Speeds vs Sangal
 DTSTART:20251020T140000Z
 DTEND:20251020T163000Z
@@ -49,18 +25,6 @@ DESCRIPTION:比赛ID: csgo_mc_2386892\n赛事: CCT 第3赛季 欧洲系列
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386892
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United21 联赛 第39赛季: MANA vs AM
-DTSTART:20251020T150000Z
-DTEND:20251020T173000Z
-UID:csgo_mc_2386875@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386875\n赛事: United21 联赛 第39赛季
- \n阶段: 淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386875
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 欧洲 第3季: Sangal vs ESC
@@ -99,7 +63,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386996
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第39赛季: TBD vs TBD
+SUMMARY:United21 联赛 第39赛季: Wildcard Academy vs AM
 DTSTART:20251021T080000Z
 DTEND:20251021T103000Z
 UID:csgo_mc_2386876@5eplay.com
@@ -119,6 +83,97 @@ DESCRIPTION:比赛ID: csgo_mc_2386894\n赛事: CCT 第3赛季 欧洲系列
  : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386894
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025 欧洲公开预
+ 选赛: EF vs foreverOrgless
+DTSTART:20251021T100000Z
+DTEND:20251021T110000Z
+UID:csgo_mc_2387108@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387108\n赛事: Skyesports 钦奈电子竞
+ 技全球锦标赛 2025 欧洲公开预选赛\n阶段: 淘汰赛 十六强
+ \n轮次: 十六强\n赛制: BO1\n等级: \n状态: 未开始\n预估时
+ 长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387108
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025 欧洲公开预
+ 选赛: Washington vs AM
+DTSTART:20251021T100000Z
+DTEND:20251021T110000Z
+UID:csgo_mc_2387110@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387110\n赛事: Skyesports 钦奈电子竞
+ 技全球锦标赛 2025 欧洲公开预选赛\n阶段: 淘汰赛 十六强
+ \n轮次: 十六强\n赛制: BO1\n等级: \n状态: 未开始\n预估时
+ 长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025 欧洲公开预
+ 选赛: BIG vs premdesant
+DTSTART:20251021T100000Z
+DTEND:20251021T110000Z
+UID:csgo_mc_2387109@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387109\n赛事: Skyesports 钦奈电子竞
+ 技全球锦标赛 2025 欧洲公开预选赛\n阶段: 淘汰赛 十六强
+ \n轮次: 十六强\n赛制: BO1\n等级: \n状态: 未开始\n预估时
+ 长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025 欧洲公开预
+ 选赛: BC.Game vs QUAZAR
+DTSTART:20251021T100000Z
+DTEND:20251021T110000Z
+UID:csgo_mc_2387111@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387111\n赛事: Skyesports 钦奈电子竞
+ 技全球锦标赛 2025 欧洲公开预选赛\n阶段: 淘汰赛 十六强
+ \n轮次: 十六强\n赛制: BO1\n等级: \n状态: 未开始\n预估时
+ 长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387111
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025 欧洲公开预
+ 选赛: Novaq vs JUMBO
+DTSTART:20251021T100000Z
+DTEND:20251021T110000Z
+UID:csgo_mc_2387112@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387112\n赛事: Skyesports 钦奈电子竞
+ 技全球锦标赛 2025 欧洲公开预选赛\n阶段: 淘汰赛 十六强
+ \n轮次: 十六强\n赛制: BO1\n等级: \n状态: 未开始\n预估时
+ 长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025 欧洲公开预
+ 选赛: Genone vs Mousquetaires
+DTSTART:20251021T100000Z
+DTEND:20251021T110000Z
+UID:csgo_mc_2387106@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387106\n赛事: Skyesports 钦奈电子竞
+ 技全球锦标赛 2025 欧洲公开预选赛\n阶段: 淘汰赛 十六强
+ \n轮次: 十六强\n赛制: BO1\n等级: \n状态: 未开始\n预估时
+ 长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387106
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025 欧洲公开预
+ 选赛: Aab vs illwill
+DTSTART:20251021T100000Z
+DTEND:20251021T110000Z
+UID:csgo_mc_2387107@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387107\n赛事: Skyesports 钦奈电子竞
+ 技全球锦标赛 2025 欧洲公开预选赛\n阶段: 淘汰赛 十六强
+ \n轮次: 十六强\n赛制: BO1\n等级: \n状态: 未开始\n预估时
+ 长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387107
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winline Insight 第9赛季: ECSTATIC vs SPARTA
@@ -141,6 +196,58 @@ DESCRIPTION:比赛ID: csgo_mc_2386895\n赛事: CCT 第3赛季 欧洲系列
  : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386895
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025 欧洲公开预
+ 选赛: TBD vs TBD
+DTSTART:20251021T113000Z
+DTEND:20251021T140000Z
+UID:csgo_mc_2387114@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387114\n赛事: Skyesports 钦奈电子竞
+ 技全球锦标赛 2025 欧洲公开预选赛\n阶段: 淘汰赛 八强\n
+ 轮次: 八强\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.
+ 5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025 欧洲公开预
+ 选赛: TBD vs TBD
+DTSTART:20251021T113000Z
+DTEND:20251021T140000Z
+UID:csgo_mc_2387115@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387115\n赛事: Skyesports 钦奈电子竞
+ 技全球锦标赛 2025 欧洲公开预选赛\n阶段: 淘汰赛 八强\n
+ 轮次: 八强\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.
+ 5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387115
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025 欧洲公开预
+ 选赛: FUT vs TBD
+DTSTART:20251021T113000Z
+DTEND:20251021T140000Z
+UID:csgo_mc_2387113@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387113\n赛事: Skyesports 钦奈电子竞
+ 技全球锦标赛 2025 欧洲公开预选赛\n阶段: 淘汰赛 八强\n
+ 轮次: 八强\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.
+ 5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387113
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025 欧洲公开预
+ 选赛: TBD vs TBD
+DTSTART:20251021T113000Z
+DTEND:20251021T140000Z
+UID:csgo_mc_2387116@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387116\n赛事: Skyesports 钦奈电子竞
+ 技全球锦标赛 2025 欧洲公开预选赛\n阶段: 淘汰赛 八强\n
+ 轮次: 八强\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.
+ 5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387116
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winline Insight 第9赛季: CYBERSHOKE vs SINNERS
@@ -176,7 +283,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386897
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第39赛季: TBD vs TBD
+SUMMARY:United21 联赛 第39赛季: WOPA vs TBD
 DTSTART:20251022T080000Z
 DTEND:20251022T103000Z
 UID:csgo_mc_2386877@5eplay.com
@@ -208,6 +315,32 @@ DESCRIPTION:比赛ID: csgo_mc_2387026\n赛事: CCT 第3赛季 欧洲系列
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025 欧洲公开预
+ 选赛: TBD vs TBD
+DTSTART:20251022T100000Z
+DTEND:20251022T123000Z
+UID:csgo_mc_2387117@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387117\n赛事: Skyesports 钦奈电子竞
+ 技全球锦标赛 2025 欧洲公开预选赛\n阶段: 淘汰赛 半决赛
+ \n轮次: 半决赛\n赛制: BO3\n等级: \n状态: 未开始\n预估时
+ 长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387117
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025 欧洲公开预
+ 选赛: TBD vs TBD
+DTSTART:20251022T100000Z
+DTEND:20251022T123000Z
+UID:csgo_mc_2387118@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387118\n赛事: Skyesports 钦奈电子竞
+ 技全球锦标赛 2025 欧洲公开预选赛\n阶段: 淘汰赛 半决赛
+ \n轮次: 半决赛\n赛制: BO3\n等级: \n状态: 未开始\n预估时
+ 长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387118
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winline Insight 第9赛季: TBD vs TBD
@@ -322,119 +455,5 @@ DESCRIPTION:比赛ID: csgo_mc_2387030\n赛事: CCT 第3赛季 欧洲系列
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387030
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: TBD vs TBD
-DTSTART:20251023T110000Z
-DTEND:20251023T133000Z
-UID:csgo_mc_2387007@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387007\n赛事: Winline Insight 第9赛季\
- n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387007
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
-DTSTART:20251023T110000Z
-DTEND:20251023T133000Z
-UID:csgo_mc_2386903@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386903\n赛事: CCT 第3赛季 欧洲系列
- 赛 9\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386903
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10 封闭预选赛: TBD vs TBD
-DTSTART:20251023T113000Z
-DTEND:20251023T140000Z
-UID:csgo_mc_2387031@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387031\n赛事: CCT 第3赛季 欧洲系列
- 赛 10 封闭预选赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387031
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: TBD vs TBD
-DTSTART:20251023T140000Z
-DTEND:20251023T163000Z
-UID:csgo_mc_2387008@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387008\n赛事: Winline Insight 第9赛季\
- n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387008
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
-DTSTART:20251023T140000Z
-DTEND:20251023T163000Z
-UID:csgo_mc_2386904@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386904\n赛事: CCT 第3赛季 欧洲系列
- 赛 9\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386904
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10 封闭预选赛: TBD vs TBD
-DTSTART:20251023T143000Z
-DTEND:20251023T170000Z
-UID:csgo_mc_2387032@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387032\n赛事: CCT 第3赛季 欧洲系列
- 赛 10 封闭预选赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387032
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
-DTSTART:20251023T170000Z
-DTEND:20251023T193000Z
-UID:csgo_mc_2386905@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386905\n赛事: CCT 第3赛季 欧洲系列
- 赛 9\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386905
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10 封闭预选赛: TBD vs TBD
-DTSTART:20251023T173000Z
-DTEND:20251023T200000Z
-UID:csgo_mc_2387033@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387033\n赛事: CCT 第3赛季 欧洲系列
- 赛 10 封闭预选赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387033
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
-DTSTART:20251024T080000Z
-DTEND:20251024T103000Z
-UID:csgo_mc_2386906@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386906\n赛事: CCT 第3赛季 欧洲系列
- 赛 9\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386906
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10 封闭预选赛: TBD vs TBD
-DTSTART:20251024T083000Z
-DTEND:20251024T110000Z
-UID:csgo_mc_2387034@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387034\n赛事: CCT 第3赛季 欧洲系列
- 赛 10 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387034
 END:VEVENT
 END:VCALENDAR
