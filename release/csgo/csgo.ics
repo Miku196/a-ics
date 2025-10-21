@@ -92,7 +92,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skyesports钦奈锦标赛2025欧洲预选赛: Molotov vs TBD
+SUMMARY:Skyesports钦奈锦标赛2025欧洲预选赛: Molotov vs Mousqueta
+ ires
 DTSTART:20251022T100000Z
 DTEND:20251022T123000Z
 UID:csgo_mc_2387117@5eplay.com
@@ -104,7 +105,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387117
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skyesports钦奈锦标赛2025欧洲预选赛: TBD vs TBD
+SUMMARY:Skyesports钦奈锦标赛2025欧洲预选赛: BIG vs BC.Game
 DTSTART:20251022T100000Z
 DTEND:20251022T123000Z
 UID:csgo_mc_2387118@5eplay.com
@@ -406,5 +407,54 @@ DESCRIPTION:比赛ID: csgo_mc_2387144\n赛事: ESL 挑战者联赛 S50 亚
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387144
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第4季: NomadS vs ScarX
+DTSTART:20251023T130000Z
+DTEND:20251023T153000Z
+UID:csgo_mc_2387145@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387145\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第4季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387145
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第4季: Kaleido vs Arise
+DTSTART:20251023T130000Z
+DTEND:20251023T153000Z
+UID:csgo_mc_2387146@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387146\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第4季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387146
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第4季: Eruption vs CTG
+DTSTART:20251023T130000Z
+DTEND:20251023T153000Z
+UID:csgo_mc_2387148@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387148\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第4季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387148
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第4季: Last Bullet vs Just Swi
+ ng
+DTSTART:20251023T130000Z
+DTEND:20251023T153000Z
+UID:csgo_mc_2387147@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387147\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第4季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387147
 END:VEVENT
 END:VCALENDAR
