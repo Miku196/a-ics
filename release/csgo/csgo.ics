@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: Shimmer vs Overknight
-DTSTART:20251022T030000Z
-DTEND:20251022T053000Z
-UID:csgo_mc_2387123@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387123\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387123
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:United21 联赛 第39赛季: WOPA vs Wildcard Academy
 DTSTART:20251022T080000Z
 DTEND:20251022T103000Z
@@ -446,5 +435,28 @@ DESCRIPTION:比赛ID: csgo_mc_2387008\n赛事: Winline Insight 第9赛季\
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+DTSTART:20251023T140000Z
+DTEND:20251023T163000Z
+UID:csgo_mc_2386904@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386904\n赛事: CCT 第3赛季 欧洲系列
+ 赛 9\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386904
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10 封闭预选赛: TBD vs TBD
+DTSTART:20251023T143000Z
+DTEND:20251023T170000Z
+UID:csgo_mc_2387032@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387032\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10 封闭预选赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛
+ \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387032
 END:VEVENT
 END:VCALENDAR
