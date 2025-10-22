@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: Johnny Speeds vs ARCRED
-DTSTART:20251022T170000Z
-DTEND:20251022T193000Z
-UID:csgo_mc_2386901@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386901\n赛事: CCT 第3赛季 欧洲系列
- 赛 9\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386901
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10 封闭预选赛: Ence.A vs NIP I
- mpact
-DTSTART:20251022T173000Z
-DTEND:20251022T200000Z
-UID:csgo_mc_2387029@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387029\n赛事: CCT 第3赛季 欧洲系列
- 赛 10 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387029
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S4: BOSS vs Voca
 DTSTART:20251023T000000Z
 DTEND:20251023T023000Z
@@ -177,7 +153,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386903
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10 封闭预选赛: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 10 封闭预选赛: RUBY vs TBD
 DTSTART:20251023T113000Z
 DTEND:20251023T140000Z
 UID:csgo_mc_2387031@5eplay.com
@@ -332,7 +308,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387032
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CBCS 大师赛 Xeque Mate 2025: TBD vs TBD
+SUMMARY:CBCS 大师赛 Xeque Mate 2025: Keyd vs LP
 DTSTART:20251023T160000Z
 DTEND:20251023T183000Z
 UID:csgo_mc_2387357@5eplay.com
@@ -344,7 +320,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387357
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CBCS 大师赛 Xeque Mate 2025: TBD vs TBD
+SUMMARY:CBCS 大师赛 Xeque Mate 2025: Fake do Biru vs ODDIK
 DTSTART:20251023T160000Z
 DTEND:20251023T183000Z
 UID:csgo_mc_2387358@5eplay.com
@@ -425,5 +401,54 @@ DESCRIPTION:比赛ID: csgo_mc_2387175\n赛事: ESL 挑战者联赛 S50 欧
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387175
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: FORZE Reload vs Oramond
+DTSTART:20251023T170000Z
+DTEND:20251023T193000Z
+UID:csgo_mc_2387177@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387177\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第4季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387177
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: HubaBuba vs Venom
+DTSTART:20251023T170000Z
+DTEND:20251023T193000Z
+UID:csgo_mc_2387179@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387179\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第4季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387179
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: RUBY vs Novaq
+DTSTART:20251023T170000Z
+DTEND:20251023T193000Z
+UID:csgo_mc_2387178@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387178\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第4季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387178
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10 封闭预选赛: Nuclear TigeRES
+  vs TBD
+DTSTART:20251023T173000Z
+DTEND:20251023T200000Z
+UID:csgo_mc_2387033@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387033\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10 封闭预选赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛
+ \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387033
 END:VEVENT
 END:VCALENDAR
