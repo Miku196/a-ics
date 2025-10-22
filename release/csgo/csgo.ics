@@ -3,42 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: BOSS vs Voca
-DTSTART:20251022T000000Z
-DTEND:20251022T023000Z
-UID:csgo_mc_2387120@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387120\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387120
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: LAG vs Marsborne
-DTSTART:20251022T000000Z
-DTEND:20251022T023000Z
-UID:csgo_mc_2387121@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387121\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: Phoenix vs Money Crew
-DTSTART:20251022T000000Z
-DTEND:20251022T023000Z
-UID:csgo_mc_2387122@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387122\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387122
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S4: Shimmer vs Overknight
-DTSTART:20251022T000000Z
-DTEND:20251022T023000Z
+DTSTART:20251022T030000Z
+DTEND:20251022T053000Z
 UID:csgo_mc_2387123@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387123\n赛事: Dust2.us 猎鹰大师赛 S4
  \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
@@ -200,15 +167,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387029
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: InControl vs Nocturnal
+SUMMARY:Dust2.us 猎鹰大师赛 S4: BOSS vs Voca
 DTSTART:20251023T000000Z
 DTEND:20251023T023000Z
-UID:csgo_mc_2387124@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387124\n赛事: Dust2.us 猎鹰大师赛 S4
+UID:csgo_mc_2387120@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387120\n赛事: Dust2.us 猎鹰大师赛 S4
  \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387124
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387120
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S4: regain vs SportsBetExpert
@@ -242,6 +209,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387127\n赛事: Dust2.us 猎鹰大师赛 S4
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S4: InControl vs Nocturnal
+DTSTART:20251023T003000Z
+DTEND:20251023T030000Z
+UID:csgo_mc_2387124@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387124\n赛事: Dust2.us 猎鹰大师赛 S4
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387124
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
