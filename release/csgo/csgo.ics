@@ -3,55 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 大洋洲 第4季: SemperFi vs Animus Vict
- oria
-DTSTART:20251023T090000Z
-DTEND:20251023T113000Z
-UID:csgo_mc_2387128@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387128\n赛事: ESL 挑战者联赛 S50 大
- 洋洲 第4季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制
- : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387128
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 大洋洲 第4季: Gz vs Fury
-DTSTART:20251023T090000Z
-DTEND:20251023T113000Z
-UID:csgo_mc_2387130@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387130\n赛事: ESL 挑战者联赛 S50 大
- 洋洲 第4季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制
- : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 大洋洲 第4季: Vantage vs Underground
-DTSTART:20251023T090000Z
-DTEND:20251023T113000Z
-UID:csgo_mc_2387129@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387129\n赛事: ESL 挑战者联赛 S50 大
- 洋洲 第4季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制
- : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387129
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 大洋洲 第4季: Mindfreak vs Rooster
-DTSTART:20251023T090000Z
-DTEND:20251023T113000Z
-UID:csgo_mc_2387131@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387131\n赛事: ESL 挑战者联赛 S50 大
- 洋洲 第4季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制
- : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387131
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Winline Insight 第9赛季: ECSTATIC vs SINNERS
 DTSTART:20251023T103000Z
 DTEND:20251023T130000Z
@@ -467,5 +418,16 @@ DESCRIPTION:比赛ID: csgo_mc_2387367\n赛事: Dust2.us 猎鹰大师赛 S4
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387367
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S4: BOSS vs Money Crew
+DTSTART:20251024T000000Z
+DTEND:20251024T023000Z
+UID:csgo_mc_2387364@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387364\n赛事: Dust2.us 猎鹰大师赛 S4
+ \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387364
 END:VEVENT
 END:VCALENDAR
