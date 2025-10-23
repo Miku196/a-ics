@@ -111,18 +111,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387031
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skyesports钦奈锦标赛2025欧洲预选赛: BIG vs Mousquetaires
-DTSTART:20251023T130000Z
-DTEND:20251023T153000Z
-UID:csgo_mc_2387119@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387119\n赛事: Skyesports钦奈锦标赛20
- 25欧洲预选赛\n阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387119
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 亚太区 第4季: CW vs DQZS
 DTSTART:20251023T130000Z
 DTEND:20251023T153000Z
@@ -252,6 +240,18 @@ DESCRIPTION:比赛ID: csgo_mc_2387032\n赛事: CCT 第3赛季 欧洲系列
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387032
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skyesports钦奈锦标赛2025欧洲预选赛: BIG vs Mousquetaires
+DTSTART:20251023T150000Z
+DTEND:20251023T173000Z
+UID:csgo_mc_2387119@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387119\n赛事: Skyesports钦奈锦标赛20
+ 25欧洲预选赛\n阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制:
+  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387119
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CBCS 大师赛 Xeque Mate 2025: Keyd vs LP
