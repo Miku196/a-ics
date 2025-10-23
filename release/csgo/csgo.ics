@@ -3,126 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: VP.P vs Fire Flux
-DTSTART:20251023T170000Z
-DTEND:20251023T193000Z
-UID:csgo_mc_2386905@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386905\n赛事: CCT 第3赛季 欧洲系列
- 赛 9\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386905
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: Nemiga vs Dziuseppe
-DTSTART:20251023T170000Z
-DTEND:20251023T193000Z
-UID:csgo_mc_2387176@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387176\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387176
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: ECSTATIC vs HAVU
-DTSTART:20251023T170000Z
-DTEND:20251023T193000Z
-UID:csgo_mc_2387172@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387172\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387172
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: 1win vs BASEMENT BOYS
-DTSTART:20251023T170000Z
-DTEND:20251023T193000Z
-UID:csgo_mc_2387173@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387173\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387173
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: TPuDCATb_TPu vs EF
-DTSTART:20251023T170000Z
-DTEND:20251023T193000Z
-UID:csgo_mc_2387174@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387174\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387174
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: SPARTA vs Sangal
-DTSTART:20251023T170000Z
-DTEND:20251023T193000Z
-UID:csgo_mc_2387175@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387175\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387175
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: FORZE Reload vs Oramond
-DTSTART:20251023T170000Z
-DTEND:20251023T193000Z
-UID:csgo_mc_2387177@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387177\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387177
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: HubaBuba vs Venom
-DTSTART:20251023T170000Z
-DTEND:20251023T193000Z
-UID:csgo_mc_2387179@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387179\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387179
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: RUBY vs Novaq
-DTSTART:20251023T170000Z
-DTEND:20251023T193000Z
-UID:csgo_mc_2387178@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387178\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 胜者组 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387178
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10 封闭预选赛: Nuclear TigeRES
-  vs Ence.A
-DTSTART:20251023T173000Z
-DTEND:20251023T200000Z
-UID:csgo_mc_2387033@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387033\n赛事: CCT 第3赛季 欧洲系列
- 赛 10 封闭预选赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387033
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Vasco vs GameHunters
 DTSTART:20251023T210000Z
 DTEND:20251023T233000Z
@@ -406,5 +286,54 @@ DESCRIPTION:比赛ID: csgo_mc_2386907\n赛事: CCT 第3赛季 欧洲系列
  : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386907
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10 封闭预选赛: AMKAL vs Mousqu
+ etaires
+DTSTART:20251024T113000Z
+DTEND:20251024T140000Z
+UID:csgo_mc_2387035@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387035\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
+ \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387035
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第4季: CW vs IHC
+DTSTART:20251024T130000Z
+DTEND:20251024T153000Z
+UID:csgo_mc_2387150@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387150\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第4季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387150
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第4季: FengDa vs ScarX
+DTSTART:20251024T130000Z
+DTEND:20251024T153000Z
+UID:csgo_mc_2387151@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387151\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第4季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387151
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 亚太区 第4季: Last Bullet vs Kaleido
+DTSTART:20251024T130000Z
+DTEND:20251024T153000Z
+UID:csgo_mc_2387152@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387152\n赛事: ESL 挑战者联赛 S50 亚
+ 太区 第4季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387152
 END:VEVENT
 END:VCALENDAR
