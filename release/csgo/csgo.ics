@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: Zomblers vs anything else
-DTSTART:20251023T013000Z
-DTEND:20251023T040000Z
-UID:csgo_mc_2387127@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387127\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387127
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: regain vs SportsBetExpert
-DTSTART:20251023T020000Z
-DTEND:20251023T043000Z
-UID:csgo_mc_2387125@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387125\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387125
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 9: Oramond vs kONO
 DTSTART:20251023T080000Z
 DTEND:20251023T103000Z
@@ -442,5 +420,41 @@ DESCRIPTION:比赛ID: csgo_mc_2387236\n赛事: ESL 挑战者联赛 S50 南
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387236
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Crashers vs KRÜ
+DTSTART:20251023T210000Z
+DTEND:20251023T233000Z
+UID:csgo_mc_2387234@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387234\n赛事: ESL 挑战者联赛 S50 南
+ 美 第4季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387234
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: R2 vs Galorys
+DTSTART:20251023T210000Z
+DTEND:20251023T233000Z
+UID:csgo_mc_2387239@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387239\n赛事: ESL 挑战者联赛 S50 南
+ 美 第4季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387239
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Bounty Hunters vs MAGICOS
+DTSTART:20251023T210000Z
+DTEND:20251023T233000Z
+UID:csgo_mc_2387238@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387238\n赛事: ESL 挑战者联赛 S50 南
+ 美 第4季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387238
 END:VEVENT
 END:VCALENDAR
