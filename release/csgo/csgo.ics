@@ -3,72 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: AKA HERO KAJO vs 888aura
-DTSTART:20251024T183000Z
-DTEND:20251024T210000Z
-UID:csgo_mc_2386973@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386973\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386973
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Nemesis Impact vs Imperial fe
-DTSTART:20251024T183000Z
-DTEND:20251024T210000Z
-UID:csgo_mc_2386975@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386975\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386975
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Peekaboo vs BIG.E
-DTSTART:20251024T183000Z
-DTEND:20251024T210000Z
-UID:csgo_mc_2386976@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386976\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386976
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: hindsight vs Flame Sharks fe
-DTSTART:20251024T183000Z
-DTEND:20251024T210000Z
-UID:csgo_mc_2386974@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386974\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386974
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: shinigami vs Overpeek
-DTSTART:20251024T183000Z
-DTEND:20251024T210000Z
-UID:csgo_mc_2386977@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386977\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386977
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 欧洲: NIP Impact vs Let Her Cook
-DTSTART:20251024T183000Z
-DTEND:20251024T210000Z
-UID:csgo_mc_2386972@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386972\n赛事: ESL Impact 联赛 第8赛
- 季 欧洲\n阶段: 小组赛\n赛制: BO3\n等级: 其他\n状态: 未开
- 始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386972
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL Impact 联赛 第8赛季 南美: Curralzinho vs CAPIVARAS
 DTSTART:20251024T210000Z
 DTEND:20251024T233000Z
@@ -346,5 +280,124 @@ DESCRIPTION:比赛ID: csgo_mc_2387291\n赛事: ESL 挑战者联赛 S50 北
  : 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: Aether vs regain
+DTSTART:20251025T010000Z
+DTEND:20251025T033000Z
+UID:csgo_mc_2387289@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387289\n赛事: ESL 挑战者联赛 S50 北
+ 美 第4季\n阶段: 淘汰赛 胜者组 16强\n轮次: 16强\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387289
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: InControl vs Shimmer
+DTSTART:20251025T010000Z
+DTEND:20251025T033000Z
+UID:csgo_mc_2387285@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387285\n赛事: ESL 挑战者联赛 S50 北
+ 美 第4季\n阶段: 淘汰赛 胜者组 16强\n轮次: 16强\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387285
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: SkinRave vs Overknight
+DTSTART:20251025T010000Z
+DTEND:20251025T033000Z
+UID:csgo_mc_2387284@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387284\n赛事: ESL 挑战者联赛 S50 北
+ 美 第4季\n阶段: 淘汰赛 胜者组 16强\n轮次: 16强\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387284
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 2 封闭预选: kONO vs MOUZ.N
+DTSTART:20251025T080000Z
+DTEND:20251025T103000Z
+UID:csgo_mc_2387385@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387385\n赛事: NODWIN Clutch 系列 2 封
+ 闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387385
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+DTSTART:20251025T080000Z
+DTEND:20251025T103000Z
+UID:csgo_mc_2386910@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386910\n赛事: CCT 第3赛季 欧洲系列
+ 赛 9\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386910
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10 封闭预选赛: Leo vs AMKAL
+DTSTART:20251025T083000Z
+DTEND:20251025T110000Z
+UID:csgo_mc_2387038@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387038\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10 封闭预选赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛
+ \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387038
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 大洋洲 第4季: Animus Victoria vs Mind
+ freak
+DTSTART:20251025T090000Z
+DTEND:20251025T113000Z
+UID:csgo_mc_2387136@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387136\n赛事: ESL 挑战者联赛 S50 大
+ 洋洲 第4季\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387136
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 大洋洲 第4季: Vantage vs Rooster
+DTSTART:20251025T090000Z
+DTEND:20251025T113000Z
+UID:csgo_mc_2387137@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387137\n赛事: ESL 挑战者联赛 S50 大
+ 洋洲 第4季\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387137
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 2 封闭预选: SPARTA vs HyperSpirit
+DTSTART:20251025T110000Z
+DTEND:20251025T133000Z
+UID:csgo_mc_2387386@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387386\n赛事: NODWIN Clutch 系列 2 封
+ 闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387386
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+DTSTART:20251025T110000Z
+DTEND:20251025T133000Z
+UID:csgo_mc_2386911@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386911\n赛事: CCT 第3赛季 欧洲系列
+ 赛 9\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386911
 END:VEVENT
 END:VCALENDAR
