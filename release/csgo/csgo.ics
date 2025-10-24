@@ -207,7 +207,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387156
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: TPuDCATb_TPu vs TBD
+SUMMARY:Winline Insight 第9赛季: TPuDCATb_TPu vs Nemiga
 DTSTART:20251024T140000Z
 DTEND:20251024T163000Z
 UID:csgo_mc_2387010@5eplay.com
@@ -461,5 +461,16 @@ DESCRIPTION:比赛ID: csgo_mc_2386982\n赛事: ESL Impact 联赛 第8赛
  预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386982
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 南美: Four Magic vs Atrix
+DTSTART:20251024T210000Z
+DTEND:20251024T233000Z
+UID:csgo_mc_2386983@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386983\n赛事: ESL Impact 联赛 第8赛
+ 季 南美\n阶段: 小组赛\n赛制: BO3\n等级: \n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386983
 END:VEVENT
 END:VCALENDAR
