@@ -3,90 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 亚太区 第4季: The QUBE vs GATERON
-DTSTART:20251025T130000Z
-DTEND:20251025T153000Z
-UID:csgo_mc_2387158@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387158\n赛事: ESL 挑战者联赛 S50 亚
- 太区 第4季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387158
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 亚太区 第4季: BORING PLAYER vs Last B
- ullet
-DTSTART:20251025T130000Z
-DTEND:20251025T153000Z
-UID:csgo_mc_2387159@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387159\n赛事: ESL 挑战者联赛 S50 亚
- 太区 第4季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387159
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 亚太区 第4季: Just Swing vs ScarX
-DTSTART:20251025T130000Z
-DTEND:20251025T153000Z
-UID:csgo_mc_2387160@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387160\n赛事: ESL 挑战者联赛 S50 亚
- 太区 第4季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387160
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 亚太区 第4季: IHC vs CTG
-DTSTART:20251025T130000Z
-DTEND:20251025T153000Z
-UID:csgo_mc_2387161@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387161\n赛事: ESL 挑战者联赛 S50 亚
- 太区 第4季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387161
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 2 封闭预选: Dziuseppe vs Phantom
-DTSTART:20251025T140000Z
-DTEND:20251025T163000Z
-UID:csgo_mc_2387387@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387387\n赛事: NODWIN Clutch 系列 2 封
- 闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3
- \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
- ay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387387
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段 公开预选: GUN5 vs MASONIC
-DTSTART:20251025T140000Z
-DTEND:20251025T163000Z
-UID:csgo_mc_2387415@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387415\n赛事: 银河之战 2025 第5阶
- 段 公开预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387415
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: ARCRED vs Washington
-DTSTART:20251025T140000Z
-DTEND:20251025T163000Z
-UID:csgo_mc_2386911@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386911\n赛事: CCT 第3赛季 欧洲系列
- 赛 9\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386911
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Flame Sharks fe vs Overpeek
 DTSTART:20251025T143000Z
 DTEND:20251025T170000Z
@@ -121,6 +37,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387423\n赛事: 游戏区域大师赛 2025\
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387423
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRIME  Pricempire联赛 2025: WiLD vs TBD
+DTSTART:20251025T150000Z
+DTEND:20251025T173000Z
+UID:csgo_mc_2387491@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387491\n赛事: PRIME  Pricempire联赛 202
+ 5\n阶段: 淘汰赛  决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387491
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CBCS 大师赛 Xeque Mate 2025: BESTIA vs Sharks
@@ -439,5 +366,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387293\n赛事: ESL 挑战者联赛 S50 北
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: Arrival Seven vs BOSS
+DTSTART:20251026T010000Z
+DTEND:20251026T033000Z
+UID:csgo_mc_2387295@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387295\n赛事: ESL 挑战者联赛 S50 北
+ 美 第4季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387295
 END:VEVENT
 END:VCALENDAR
