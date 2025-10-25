@@ -434,7 +434,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387251
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第4季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Yawara vs LP
 DTSTART:20251025T210000Z
 DTEND:20251025T233000Z
 UID:csgo_mc_2387252@5eplay.com
@@ -446,7 +446,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387252
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第4季: MAGICOS vs TBD
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: MAGICOS vs GameHunters
 DTSTART:20251025T210000Z
 DTEND:20251025T233000Z
 UID:csgo_mc_2387253@5eplay.com
@@ -458,7 +458,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387253
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第4季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: ODDIK vs Tropa do KinGui
 DTSTART:20251025T210000Z
 DTEND:20251025T233000Z
 UID:csgo_mc_2387255@5eplay.com
@@ -468,5 +468,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387255\n赛事: ESL 挑战者联赛 S50 南
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387255
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: R2 vs Fake do Biru
+DTSTART:20251025T210000Z
+DTEND:20251025T233000Z
+UID:csgo_mc_2387254@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387254\n赛事: ESL 挑战者联赛 S50 南
+ 美 第4季\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387254
 END:VEVENT
 END:VCALENDAR
