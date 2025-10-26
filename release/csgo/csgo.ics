@@ -458,4 +458,16 @@ DESCRIPTION:比赛ID: csgo_mc_2387375\n赛事: PrizePicks 北美复兴杯
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387375
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Keyd vs 9z
+DTSTART:20251026T220000Z
+DTEND:20251027T003000Z
+UID:csgo_mc_2387257@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387257\n赛事: ESL 挑战者联赛 S50 南
+ 美 第4季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387257
+END:VEVENT
 END:VCALENDAR
