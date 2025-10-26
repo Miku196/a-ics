@@ -3,160 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 2 封闭预选: kONO vs Phantom
-DTSTART:20251026T161500Z
-DTEND:20251026T184500Z
-UID:csgo_mc_2387494@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387494\n赛事: NODWIN Clutch 系列 2 封
- 闭预选\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3
- \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
- ay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387494
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: Aurora vs FNC
-DTSTART:20251026T170000Z
-DTEND:20251026T193000Z
-UID:csgo_mc_2387104@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387104\n赛事: PGL布加勒斯特大师赛
- \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: B
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387104
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 2 封闭预选: MOUZ.N vs Dziuseppe
-DTSTART:20251026T180000Z
-DTEND:20251026T203000Z
-UID:csgo_mc_2387495@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387495\n赛事: NODWIN Clutch 系列 2 封
- 闭预选\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3
- \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
- ay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387495
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段 公开预选: kONO vs The Glecs
-DTSTART:20251026T180000Z
-DTEND:20251026T203000Z
-UID:csgo_mc_2387418@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387418\n赛事: 银河之战 2025 第5阶
- 段 公开预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387418
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: EYE vs Betera
-DTSTART:20251026T180000Z
-DTEND:20251026T203000Z
-UID:csgo_mc_2386916@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386916\n赛事: CCT 第3赛季 欧洲系列
- 赛 9\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386916
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: BASEMENT BOYS vs HAVU
-DTSTART:20251026T180000Z
-DTEND:20251026T203000Z
-UID:csgo_mc_2387196@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387196\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 胜者组 十六强\n轮次: 十六强\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387196
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: TPuDCATb_TPu vs Sangal
-DTSTART:20251026T180000Z
-DTEND:20251026T203000Z
-UID:csgo_mc_2387197@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387197\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 胜者组 十六强\n轮次: 十六强\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387197
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: Nemiga vs FORZE Reload
-DTSTART:20251026T180000Z
-DTEND:20251026T203000Z
-UID:csgo_mc_2387198@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387198\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 胜者组 十六强\n轮次: 十六强\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387198
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: RUBY vs Venom
-DTSTART:20251026T180000Z
-DTEND:20251026T203000Z
-UID:csgo_mc_2387199@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387199\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 胜者组 十六强\n轮次: 十六强\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387199
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: AI vs SINNERS
-DTSTART:20251026T180000Z
-DTEND:20251026T203000Z
-UID:csgo_mc_2387200@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387200\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 胜者组 十六强\n轮次: 十六强\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387200
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: 500 vs Nexus
-DTSTART:20251026T180000Z
-DTEND:20251026T203000Z
-UID:csgo_mc_2387201@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387201\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 胜者组 十六强\n轮次: 十六强\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387201
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: K27 vs Aab
-DTSTART:20251026T180000Z
-DTEND:20251026T203000Z
-UID:csgo_mc_2387202@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387202\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 胜者组 十六强\n轮次: 十六强\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387202
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: JJH vs Monte
-DTSTART:20251026T180000Z
-DTEND:20251026T203000Z
-UID:csgo_mc_2387203@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387203\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 胜者组 十六强\n轮次: 十六强\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387203
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL Impact 联赛 第8赛季 欧洲: Flame Sharks fe vs Let Her Co
  ok
 DTSTART:20251026T183000Z
@@ -181,15 +27,28 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PrizePicks 北美复兴杯 S10: SkinRave vs Marsborne
-DTSTART:20251026T190000Z
-DTEND:20251026T213000Z
-UID:csgo_mc_2387375@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387375\n赛事: PrizePicks 北美复兴杯 
- S10\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+SUMMARY:NODWIN Clutch 系列 2 封闭预选: MOUZ.N vs Dziuseppe
+DTSTART:20251026T184500Z
+DTEND:20251026T211500Z
+UID:csgo_mc_2387495@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387495\n赛事: NODWIN Clutch 系列 2 封
+ 闭预选\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387375
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387495
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段 公开预选: kONO vs The Glecs
+DTSTART:20251026T184500Z
+DTEND:20251026T211500Z
+UID:csgo_mc_2387418@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387418\n赛事: 银河之战 2025 第5阶
+ 段 公开预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387418
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Keyd vs 9z
@@ -291,7 +150,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387263
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PrizePicks 北美复兴杯 S10: TBD vs TBD
+SUMMARY:PrizePicks 北美复兴杯 S10: NRG vs TBD
 DTSTART:20251026T220000Z
 DTEND:20251027T003000Z
 UID:csgo_mc_2387376@5eplay.com
@@ -393,5 +252,52 @@ DESCRIPTION:比赛ID: csgo_mc_2387302\n赛事: ESL 挑战者联赛 S50 北
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: regain vs TSG
+DTSTART:20251027T020000Z
+DTEND:20251027T043000Z
+UID:csgo_mc_2387303@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387303\n赛事: ESL 挑战者联赛 S50 北
+ 美 第4季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: BOSS vs Ghost
+DTSTART:20251027T020000Z
+DTEND:20251027T043000Z
+UID:csgo_mc_2387304@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387304\n赛事: ESL 挑战者联赛 S50 北
+ 美 第4季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387304
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: Shimmer vs Overknight
+DTSTART:20251027T020000Z
+DTEND:20251027T043000Z
+UID:csgo_mc_2387305@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387305\n赛事: ESL 挑战者联赛 S50 北
+ 美 第4季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387305
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+DTSTART:20251027T080000Z
+DTEND:20251027T103000Z
+UID:csgo_mc_2387320@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387320\n赛事: PGL布加勒斯特大师赛
+ \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: B
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387320
 END:VEVENT
 END:VCALENDAR
