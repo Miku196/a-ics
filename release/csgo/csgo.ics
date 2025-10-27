@@ -3,31 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10 封闭预选赛: Nuclear TigeRES
-  vs Leo
-DTSTART:20251027T183000Z
-DTEND:20251027T210000Z
-UID:csgo_mc_2387049@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387049\n赛事: CCT 第3赛季 欧洲系列
- 赛 10 封闭预选赛\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制
- : BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387049
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: Novaq vs AI
-DTSTART:20251027T183000Z
-DTEND:20251027T210000Z
-UID:csgo_mc_2387207@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387207\n赛事: ESL 挑战者联赛 S50 欧
- 洲 第4季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387207
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Galorys vs Dusty Roots
 DTSTART:20251027T220000Z
 DTEND:20251028T003000Z
@@ -135,7 +110,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387309
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+SUMMARY:PGL布加勒斯特大师赛: Liquid vs BB
 DTSTART:20251028T080000Z
 DTEND:20251028T103000Z
 UID:csgo_mc_2387328@5eplay.com
@@ -146,7 +121,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387328
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+SUMMARY:PGL布加勒斯特大师赛: GL vs SAW
 DTSTART:20251028T080000Z
 DTEND:20251028T103000Z
 UID:csgo_mc_2387329@5eplay.com
@@ -181,7 +156,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387050
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+SUMMARY:PGL布加勒斯特大师赛: Astralis vs Legacy
 DTSTART:20251028T110000Z
 DTEND:20251028T133000Z
 UID:csgo_mc_2387330@5eplay.com
@@ -192,7 +167,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387330
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+SUMMARY:PGL布加勒斯特大师赛:  3DMAX vs FlyQuest
 DTSTART:20251028T110000Z
 DTEND:20251028T133000Z
 UID:csgo_mc_2387331@5eplay.com
@@ -249,7 +224,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387051
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+SUMMARY:PGL布加勒斯特大师赛: Aurora vs Heroic
 DTSTART:20251028T140000Z
 DTEND:20251028T163000Z
 UID:csgo_mc_2387332@5eplay.com
@@ -260,7 +235,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387332
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+SUMMARY:PGL布加勒斯特大师赛: NIP vs Gentle Mates
 DTSTART:20251028T140000Z
 DTEND:20251028T163000Z
 UID:csgo_mc_2387333@5eplay.com
@@ -329,7 +304,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+SUMMARY:PGL布加勒斯特大师赛: B8 vs paiN
 DTSTART:20251028T170000Z
 DTEND:20251028T193000Z
 UID:csgo_mc_2387334@5eplay.com
@@ -338,5 +313,99 @@ DESCRIPTION:比赛ID: csgo_mc_2387334\n赛事: PGL布加勒斯特大师赛
  级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL布加勒斯特大师赛: FNC vs MIBR
+DTSTART:20251028T170000Z
+DTEND:20251028T193000Z
+UID:csgo_mc_2387335@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387335\n赛事: PGL布加勒斯特大师赛
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: B
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387335
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 2 封闭预选: Washington vs Fire Flux
+DTSTART:20251028T180000Z
+DTEND:20251028T203000Z
+UID:csgo_mc_2387392@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387392\n赛事: NODWIN Clutch 系列 2 封
+ 闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387392
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段 公开预选: CPH Wolves vs The Glecs
+DTSTART:20251028T180000Z
+DTEND:20251028T203000Z
+UID:csgo_mc_2387427@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387427\n赛事: 银河之战 2025 第5阶
+ 段 公开预选\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387427
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: Sashi vs kONO
+DTSTART:20251028T180000Z
+DTEND:20251028T203000Z
+UID:csgo_mc_2386923@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386923\n赛事: CCT 第3赛季 欧洲系列
+ 赛 9\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386923
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: TBD vs TBD
+DTSTART:20251028T180000Z
+DTEND:20251028T203000Z
+UID:csgo_mc_2387212@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387212\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第4季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: Nemiga vs Venom
+DTSTART:20251028T180000Z
+DTEND:20251028T203000Z
+UID:csgo_mc_2387213@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387213\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第4季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: SINNERS vs 500
+DTSTART:20251028T180000Z
+DTEND:20251028T203000Z
+UID:csgo_mc_2387214@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387214\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第4季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: K27 vs Monte
+DTSTART:20251028T180000Z
+DTEND:20251028T203000Z
+UID:csgo_mc_2387215@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387215\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第4季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387215
 END:VEVENT
 END:VCALENDAR
