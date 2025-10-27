@@ -3,101 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: Take Flyte vs Money Crew
-DTSTART:20251027T011500Z
-DTEND:20251027T034500Z
-UID:csgo_mc_2387496@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387496\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387496
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第4季: LAG vs Mythic
-DTSTART:20251027T020000Z
-DTEND:20251027T043000Z
-UID:csgo_mc_2387299@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387299\n赛事: ESL 挑战者联赛 S50 北
- 美 第4季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387299
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第4季: Marsborne vs Phoenix
-DTSTART:20251027T020000Z
-DTEND:20251027T043000Z
-UID:csgo_mc_2387301@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387301\n赛事: ESL 挑战者联赛 S50 北
- 美 第4季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第4季: Aether vs Voca
-DTSTART:20251027T020000Z
-DTEND:20251027T043000Z
-UID:csgo_mc_2387300@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387300\n赛事: ESL 挑战者联赛 S50 北
- 美 第4季\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387300
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第4季: Zomblers vs FLYRED
-DTSTART:20251027T020000Z
-DTEND:20251027T043000Z
-UID:csgo_mc_2387302@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387302\n赛事: ESL 挑战者联赛 S50 北
- 美 第4季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387302
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第4季: regain vs TSG
-DTSTART:20251027T020000Z
-DTEND:20251027T043000Z
-UID:csgo_mc_2387303@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387303\n赛事: ESL 挑战者联赛 S50 北
- 美 第4季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第4季: BOSS vs Ghost
-DTSTART:20251027T020000Z
-DTEND:20251027T043000Z
-UID:csgo_mc_2387304@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387304\n赛事: ESL 挑战者联赛 S50 北
- 美 第4季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387304
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第4季: Shimmer vs Overknight
-DTSTART:20251027T020000Z
-DTEND:20251027T043000Z
-UID:csgo_mc_2387305@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387305\n赛事: ESL 挑战者联赛 S50 北
- 美 第4季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
-  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387305
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PGL布加勒斯特大师赛: GL vs paiN
 DTSTART:20251027T080000Z
 DTEND:20251027T103000Z
@@ -431,5 +336,54 @@ DESCRIPTION:比赛ID: csgo_mc_2387210\n赛事: ESL 挑战者联赛 S50 欧
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: 9BOOMPRO vs HAVU
+DTSTART:20251027T180000Z
+DTEND:20251027T203000Z
+UID:csgo_mc_2387211@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387211\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第4季\n阶段: 淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387211
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10 封闭预选赛: Nuclear TigeRES
+  vs Leo
+DTSTART:20251027T183000Z
+DTEND:20251027T210000Z
+UID:csgo_mc_2387049@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387049\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10 封闭预选赛\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制
+ : BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387049
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Galorys vs TBD
+DTSTART:20251027T220000Z
+DTEND:20251028T003000Z
+UID:csgo_mc_2387264@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387264\n赛事: ESL 挑战者联赛 S50 南
+ 美 第4季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387264
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: LP vs TBD
+DTSTART:20251027T220000Z
+DTEND:20251028T003000Z
+UID:csgo_mc_2387266@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387266\n赛事: ESL 挑战者联赛 S50 南
+ 美 第4季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387266
 END:VEVENT
 END:VCALENDAR
