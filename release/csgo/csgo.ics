@@ -363,7 +363,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387049
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Galorys vs TBD
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Galorys vs Dusty Roots
 DTSTART:20251027T220000Z
 DTEND:20251028T003000Z
 UID:csgo_mc_2387264@5eplay.com
@@ -375,7 +375,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387264
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第4季: LP vs TBD
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: LP vs Gaimin Gladiators
 DTSTART:20251027T220000Z
 DTEND:20251028T003000Z
 UID:csgo_mc_2387266@5eplay.com
@@ -387,7 +387,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387266
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Bounty Hunters vs TBD
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Bounty Hunters vs Keyd
 DTSTART:20251027T220000Z
 DTEND:20251028T003000Z
 UID:csgo_mc_2387265@5eplay.com
@@ -399,7 +399,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387265
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Fake do Biru vs TBD
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Fake do Biru vs BESTIA
 DTSTART:20251027T220000Z
 DTEND:20251028T003000Z
 UID:csgo_mc_2387267@5eplay.com
@@ -422,7 +422,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387497
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第4季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: InControl vs Zomblers
 DTSTART:20251028T020000Z
 DTEND:20251028T043000Z
 UID:csgo_mc_2387306@5eplay.com
@@ -434,7 +434,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387306
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第4季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: Aether vs BOSS
 DTSTART:20251028T020000Z
 DTEND:20251028T043000Z
 UID:csgo_mc_2387308@5eplay.com
@@ -446,7 +446,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387308
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第4季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: Mythic vs TSG
 DTSTART:20251028T020000Z
 DTEND:20251028T043000Z
 UID:csgo_mc_2387307@5eplay.com
@@ -456,5 +456,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387307\n赛事: ESL 挑战者联赛 S50 北
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: Phoenix vs Overknight
+DTSTART:20251028T020000Z
+DTEND:20251028T043000Z
+UID:csgo_mc_2387309@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387309\n赛事: ESL 挑战者联赛 S50 北
+ 美 第4季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387309
 END:VEVENT
 END:VCALENDAR
