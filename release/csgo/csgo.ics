@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: GL vs paiN
-DTSTART:20251027T080000Z
-DTEND:20251027T103000Z
-UID:csgo_mc_2387320@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387320\n赛事: PGL布加勒斯特大师赛
- \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: B
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387320
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: Legacy vs Gentle Mates
-DTSTART:20251027T080000Z
-DTEND:20251027T103000Z
-UID:csgo_mc_2387321@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387321\n赛事: PGL布加勒斯特大师赛
- \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: B
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387321
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NODWIN Clutch 系列 2 封闭预选: AI vs HubaBuba
 DTSTART:20251027T090000Z
 DTEND:20251027T113000Z
