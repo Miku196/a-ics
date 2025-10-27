@@ -386,4 +386,75 @@ DESCRIPTION:比赛ID: csgo_mc_2387266\n赛事: ESL 挑战者联赛 S50 南
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387266
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Bounty Hunters vs TBD
+DTSTART:20251027T220000Z
+DTEND:20251028T003000Z
+UID:csgo_mc_2387265@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387265\n赛事: ESL 挑战者联赛 S50 南
+ 美 第4季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387265
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Fake do Biru vs TBD
+DTSTART:20251027T220000Z
+DTEND:20251028T003000Z
+UID:csgo_mc_2387267@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387267\n赛事: ESL 挑战者联赛 S50 南
+ 美 第4季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387267
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S4: regain vs InControl
+DTSTART:20251027T230000Z
+DTEND:20251028T013000Z
+UID:csgo_mc_2387497@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387497\n赛事: Dust2.us 猎鹰大师赛 S4
+ \n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387497
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: TBD vs TBD
+DTSTART:20251028T020000Z
+DTEND:20251028T043000Z
+UID:csgo_mc_2387306@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387306\n赛事: ESL 挑战者联赛 S50 北
+ 美 第4季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: TBD vs TBD
+DTSTART:20251028T020000Z
+DTEND:20251028T043000Z
+UID:csgo_mc_2387308@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387308\n赛事: ESL 挑战者联赛 S50 北
+ 美 第4季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387308
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: TBD vs TBD
+DTSTART:20251028T020000Z
+DTEND:20251028T043000Z
+UID:csgo_mc_2387307@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387307\n赛事: ESL 挑战者联赛 S50 北
+ 美 第4季\n阶段: 淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387307
+END:VEVENT
 END:VCALENDAR
