@@ -3,64 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10 封闭预选赛: AMKAL vs RUBY
-DTSTART:20251027T123000Z
-DTEND:20251027T150000Z
-UID:csgo_mc_2387047@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387047\n赛事: CCT 第3赛季 欧洲系列
- 赛 10 封闭预选赛\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制
- : BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387047
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: Aurora vs Liquid
-DTSTART:20251027T140000Z
-DTEND:20251027T163000Z
-UID:csgo_mc_2387324@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387324\n赛事: PGL布加勒斯特大师赛
- \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: B
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387324
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: FNC vs FlyQuest
-DTSTART:20251027T140000Z
-DTEND:20251027T163000Z
-UID:csgo_mc_2387325@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387325\n赛事: PGL布加勒斯特大师赛
- \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: B
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387325
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 亚太区 第4季: FengDa vs The QUBE
-DTSTART:20251027T140000Z
-DTEND:20251027T163000Z
-UID:csgo_mc_2387166@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387166\n赛事: ESL 挑战者联赛 S50 亚
- 太区 第4季\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387166
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 亚太区 第4季: CTG vs Eruption
-DTSTART:20251027T140000Z
-DTEND:20251027T163000Z
-UID:csgo_mc_2387167@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387167\n赛事: ESL 挑战者联赛 S50 亚
- 太区 第4季\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387167
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Winline Insight 第9赛季: Betera vs ARCRED
 DTSTART:20251027T150000Z
 DTEND:20251027T173000Z
@@ -412,5 +354,27 @@ DESCRIPTION:比赛ID: csgo_mc_2387050\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387050
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+DTSTART:20251028T110000Z
+DTEND:20251028T133000Z
+UID:csgo_mc_2387330@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387330\n赛事: PGL布加勒斯特大师赛
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: B
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387330
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+DTSTART:20251028T110000Z
+DTEND:20251028T133000Z
+UID:csgo_mc_2387331@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387331\n赛事: PGL布加勒斯特大师赛
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: B
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387331
 END:VEVENT
 END:VCALENDAR
