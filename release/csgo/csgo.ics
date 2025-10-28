@@ -60,7 +60,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387054
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+SUMMARY:PGL布加勒斯特大师赛: Liquid vs FlyQuest
 DTSTART:20251029T110000Z
 DTEND:20251029T133000Z
 UID:csgo_mc_2387338@5eplay.com
@@ -71,7 +71,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387338
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+SUMMARY:PGL布加勒斯特大师赛: BB vs Gentle Mates
 DTSTART:20251029T110000Z
 DTEND:20251029T133000Z
 UID:csgo_mc_2387339@5eplay.com
@@ -105,7 +105,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387011
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: Johnny Speeds vs Nexus
 DTSTART:20251029T120000Z
 DTEND:20251029T143000Z
 UID:csgo_mc_2386924@5eplay.com
@@ -128,7 +128,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387055
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+SUMMARY:PGL布加勒斯特大师赛: B8 vs Legacy
 DTSTART:20251029T140000Z
 DTEND:20251029T163000Z
 UID:csgo_mc_2387340@5eplay.com
@@ -139,7 +139,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387340
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+SUMMARY:PGL布加勒斯特大师赛: GL vs FNC
 DTSTART:20251029T140000Z
 DTEND:20251029T163000Z
 UID:csgo_mc_2387341@5eplay.com
@@ -185,7 +185,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387428
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: ARCRED vs kONO
 DTSTART:20251029T150000Z
 DTEND:20251029T173000Z
 UID:csgo_mc_2386925@5eplay.com
@@ -220,7 +220,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387518
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段 公开预选: TBD vs TBD
+SUMMARY:银河之战 2025 第5阶段 公开预选: illwill vs CPH Wolves
 DTSTART:20251029T180000Z
 DTEND:20251029T203000Z
 UID:csgo_mc_2387429@5eplay.com
@@ -232,7 +232,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387429
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: ZT vs TPuDCATb_TPu
 DTSTART:20251029T180000Z
 DTEND:20251029T203000Z
 UID:csgo_mc_2386926@5eplay.com
@@ -400,5 +400,62 @@ DESCRIPTION:比赛ID: csgo_mc_2387060\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387060
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段 公开预选: Novaq vs premdesant
+DTSTART:20251030T180000Z
+DTEND:20251030T203000Z
+UID:csgo_mc_2387420@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387420\n赛事: 银河之战 2025 第5阶
+ 段 公开预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387420
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+DTSTART:20251030T180000Z
+DTEND:20251030T203000Z
+UID:csgo_mc_2386930@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386930\n赛事: CCT 第3赛季 欧洲系列
+ 赛 9\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: TBD vs TBD
+DTSTART:20251030T183000Z
+DTEND:20251030T210000Z
+UID:csgo_mc_2387061@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387061\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S4: Voca vs regain
+DTSTART:20251031T000000Z
+DTEND:20251031T023000Z
+UID:csgo_mc_2387510@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387510\n赛事: Dust2.us 猎鹰大师赛 S4
+ \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+DTSTART:20251031T080000Z
+DTEND:20251031T103000Z
+UID:csgo_mc_2387345@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387345\n赛事: PGL布加勒斯特大师赛
+ \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: B
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387345
 END:VEVENT
 END:VCALENDAR
