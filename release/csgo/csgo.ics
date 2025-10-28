@@ -3,62 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: Astralis vs Legacy
-DTSTART:20251028T110000Z
-DTEND:20251028T133000Z
-UID:csgo_mc_2387330@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387330\n赛事: PGL布加勒斯特大师赛
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: B
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387330
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛:  3DMAX vs FlyQuest
-DTSTART:20251028T110000Z
-DTEND:20251028T133000Z
-UID:csgo_mc_2387331@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387331\n赛事: PGL布加勒斯特大师赛
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: B
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387331
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: EYE vs Nexus
-DTSTART:20251028T120000Z
-DTEND:20251028T143000Z
-UID:csgo_mc_2387003@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387003\n赛事: Winline Insight 第9赛季\
- n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387003
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 2 封闭预选: Aab vs Mousquetaires
-DTSTART:20251028T120000Z
-DTEND:20251028T143000Z
-UID:csgo_mc_2387390@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387390\n赛事: NODWIN Clutch 系列 2 封
- 闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3
- \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
- ay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387390
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: Johnny Speeds vs CYBERSHOKE
-DTSTART:20251028T120000Z
-DTEND:20251028T143000Z
-UID:csgo_mc_2386921@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386921\n赛事: CCT 第3赛季 欧洲系列
- 赛 9\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386921
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 10: ARCRED vs Novaq
 DTSTART:20251028T123000Z
 DTEND:20251028T150000Z
@@ -317,6 +261,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387053
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S4: Marsborne vs Overknight
+DTSTART:20251028T220000Z
+DTEND:20251029T003000Z
+UID:csgo_mc_2387508@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387508\n赛事: Dust2.us 猎鹰大师赛 S4
+ \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387508
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
 DTSTART:20251029T080000Z
 DTEND:20251029T103000Z
@@ -416,5 +371,39 @@ DESCRIPTION:比赛ID: csgo_mc_2387340\n赛事: PGL布加勒斯特大师赛
  级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387340
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+DTSTART:20251029T140000Z
+DTEND:20251029T163000Z
+UID:csgo_mc_2387341@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387341\n赛事: PGL布加勒斯特大师赛
+ \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: B
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387341
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第9赛季: TBD vs TBD
+DTSTART:20251029T150000Z
+DTEND:20251029T173000Z
+UID:csgo_mc_2387012@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387012\n赛事: Winline Insight 第9赛季\
+ n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段 公开预选: Ence.A vs MASONIC
+DTSTART:20251029T150000Z
+DTEND:20251029T173000Z
+UID:csgo_mc_2387428@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387428\n赛事: 银河之战 2025 第5阶
+ 段 公开预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387428
 END:VEVENT
 END:VCALENDAR
