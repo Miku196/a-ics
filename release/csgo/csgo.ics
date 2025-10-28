@@ -418,4 +418,38 @@ DESCRIPTION:比赛ID: csgo_mc_2387339\n赛事: PGL布加勒斯特大师赛
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387339
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第9赛季: Aab vs ARCRED
+DTSTART:20251029T120000Z
+DTEND:20251029T143000Z
+UID:csgo_mc_2387011@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387011\n赛事: Winline Insight 第9赛季\
+ n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387011
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+DTSTART:20251029T120000Z
+DTEND:20251029T143000Z
+UID:csgo_mc_2386924@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386924\n赛事: CCT 第3赛季 欧洲系列
+ 赛 9\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级
+ : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386924
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: 500 vs GUN5
+DTSTART:20251029T123000Z
+DTEND:20251029T150000Z
+UID:csgo_mc_2387055@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387055\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387055
+END:VEVENT
 END:VCALENDAR
