@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: Aurora vs SAW
-DTSTART:20251029T080000Z
-DTEND:20251029T103000Z
-UID:csgo_mc_2387336@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387336\n赛事: PGL布加勒斯特大师赛
- \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: B
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387336
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛:  3DMAX vs Astralis
-DTSTART:20251029T080000Z
-DTEND:20251029T103000Z
-UID:csgo_mc_2387337@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387337\n赛事: PGL布加勒斯特大师赛
- \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: B
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387337
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NODWIN Clutch 系列 2 封闭预选: Aab vs Washington
 DTSTART:20251029T090000Z
 DTEND:20251029T113000Z
