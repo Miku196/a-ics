@@ -447,4 +447,15 @@ DESCRIPTION:比赛ID: csgo_mc_2387345\n赛事: PGL布加勒斯特大师赛
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387345
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+DTSTART:20251031T080000Z
+DTEND:20251031T103000Z
+UID:csgo_mc_2387346@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387346\n赛事: PGL布加勒斯特大师赛
+ \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: B
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387346
+END:VEVENT
 END:VCALENDAR
