@@ -30,8 +30,9 @@ DTSTART:20251030T090000Z
 DTEND:20251030T113000Z
 UID:csgo_mc_2387533@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387533\n赛事: NODWIN Clutch 系列 2 封
- 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
- 时\n数据来源: 5EPlay
+ 闭预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387533
 END:VEVENT
@@ -86,8 +87,9 @@ DTSTART:20251030T120000Z
 DTEND:20251030T143000Z
 UID:csgo_mc_2387534@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387534\n赛事: NODWIN Clutch 系列 2 封
- 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
- 时\n数据来源: 5EPlay
+ 闭预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387534
 END:VEVENT
@@ -230,8 +232,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2387061
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S4: Voca vs regain
-DTSTART:20251031T000000Z
-DTEND:20251031T023000Z
+DTSTART:20251030T220000Z
+DTEND:20251031T003000Z
 UID:csgo_mc_2387510@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387510\n赛事: Dust2.us 猎鹰大师赛 S4
  \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
@@ -278,8 +280,8 @@ DTSTART:20251031T090000Z
 DTEND:20251031T113000Z
 UID:csgo_mc_2387535@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387535\n赛事: NODWIN Clutch 系列 2 封
- 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
- 时\n数据来源: 5EPlay
+ 闭预选\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制: BO3\n等级
+ : \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387535
 END:VEVENT
@@ -334,8 +336,8 @@ DTSTART:20251031T120000Z
 DTEND:20251031T143000Z
 UID:csgo_mc_2387536@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387536\n赛事: NODWIN Clutch 系列 2 封
- 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
- 时\n数据来源: 5EPlay
+ 闭预选\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制: BO3\n等级
+ : \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387536
 END:VEVENT
@@ -390,8 +392,8 @@ DTSTART:20251031T150000Z
 DTEND:20251031T173000Z
 UID:csgo_mc_2387537@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387537\n赛事: NODWIN Clutch 系列 2 封
- 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
- 时\n数据来源: 5EPlay
+ 闭预选\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制: BO3\n等级
+ : \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387537
 END:VEVENT
@@ -440,5 +442,16 @@ DESCRIPTION:比赛ID: csgo_mc_2387064\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+DTSTART:20251031T170000Z
+DTEND:20251031T193000Z
+UID:csgo_mc_2387350@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387350\n赛事: PGL布加勒斯特大师赛
+ \n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: B
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387350
 END:VEVENT
 END:VCALENDAR
