@@ -231,6 +231,31 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387061
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Liga 玩家俱乐部 2025 系列赛A 十月杯: Procyon vs FOLHA A
+ MARELA
+DTSTART:20251030T190000Z
+DTEND:20251030T213000Z
+UID:csgo_mc_2387539@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387539\n赛事: Liga 玩家俱乐部 2025 
+ 系列赛A 十月杯\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387539
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liga 玩家俱乐部 2025 系列赛A 十月杯: LP vs Mibr.A
+DTSTART:20251030T213000Z
+DTEND:20251031T000000Z
+UID:csgo_mc_2387540@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387540\n赛事: Liga 玩家俱乐部 2025 
+ 系列赛A 十月杯\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387540
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S4: Voca vs regain
 DTSTART:20251030T220000Z
 DTEND:20251031T003000Z
@@ -430,28 +455,5 @@ DESCRIPTION:比赛ID: csgo_mc_2386933\n赛事: CCT 第3赛季 欧洲系列
  : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386933
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: ARCRED vs FT
-DTSTART:20251031T153000Z
-DTEND:20251031T180000Z
-UID:csgo_mc_2387064@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387064\n赛事: CCT 第3赛季 欧洲系列
- 赛 10\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387064
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
-DTSTART:20251031T170000Z
-DTEND:20251031T193000Z
-UID:csgo_mc_2387350@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387350\n赛事: PGL布加勒斯特大师赛
- \n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: B
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387350
 END:VEVENT
 END:VCALENDAR
