@@ -4,8 +4,8 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY:Liga 玩家俱乐部 2025 系列赛A 十月杯: LP vs Mibr.A
-DTSTART:20251030T213000Z
-DTEND:20251031T000000Z
+DTSTART:20251030T223000Z
+DTEND:20251031T010000Z
 UID:csgo_mc_2387540@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387540\n赛事: Liga 玩家俱乐部 2025 
  系列赛A 十月杯\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛
@@ -13,17 +13,6 @@ DESCRIPTION:比赛ID: csgo_mc_2387540\n赛事: Liga 玩家俱乐部 2025
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387540
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: Voca vs regain
-DTSTART:20251030T220000Z
-DTEND:20251031T003000Z
-UID:csgo_mc_2387510@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387510\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387510
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S4: Marsborne vs BOSS
@@ -240,8 +229,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2387064
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DACH Masters Season 4: Wave vs XPERION NXT
-DTSTART:20251031T170000Z
-DTEND:20251031T193000Z
+DTSTART:20251031T160000Z
+DTEND:20251031T183000Z
 UID:csgo_mc_2387574@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387574\n赛事: DACH Masters Season 4\n赛
  制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
@@ -270,6 +259,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387538\n赛事: NODWIN Clutch 系列 2 封
  : \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387538
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DACH Masters Season 4: ProCamp vs BIG.A
+DTSTART:20251031T180000Z
+DTEND:20251031T203000Z
+UID:csgo_mc_2387575@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387575\n赛事: DACH Masters Season 4\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387575
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:银河之战 2025 第5阶段 公开预选: FORZE Reload vs Y.NIP
@@ -317,17 +317,6 @@ DESCRIPTION:比赛ID: csgo_mc_2387541\n赛事: Liga 玩家俱乐部 2025
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387541
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DACH Masters Season 4: ProCamp vs BIG.A
-DTSTART:20251031T190000Z
-DTEND:20251031T213000Z
-UID:csgo_mc_2387575@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387575\n赛事: DACH Masters Season 4\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387575
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S4: SportsBetExpert vs Take Flyte
@@ -418,5 +407,28 @@ DESCRIPTION:比赛ID: csgo_mc_2387524\n赛事: 欧洲职业联赛杯 2\n
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+DTSTART:20251101T120000Z
+DTEND:20251101T143000Z
+UID:csgo_mc_2387567@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387567\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387567
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
+DTSTART:20251101T120000Z
+DTEND:20251101T143000Z
+UID:csgo_mc_2386936@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2386936\n赛事: CCT 第3赛季 欧洲系列
+ 赛 9\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2386936
 END:VEVENT
 END:VCALENDAR
