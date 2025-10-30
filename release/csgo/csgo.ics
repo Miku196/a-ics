@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: BOSS vs LAG
-DTSTART:20251030T000000Z
-DTEND:20251030T023000Z
-UID:csgo_mc_2387509@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387509\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387509
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PGL布加勒斯特大师赛: GL vs Gentle Mates
 DTSTART:20251030T080000Z
 DTEND:20251030T103000Z
