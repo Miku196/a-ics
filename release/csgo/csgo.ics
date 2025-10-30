@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段 公开预选: Novaq vs premdesant
-DTSTART:20251030T180000Z
-DTEND:20251030T203000Z
-UID:csgo_mc_2387420@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387420\n赛事: 银河之战 2025 第5阶
- 段 公开预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387420
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: Partizan vs Sangal
-DTSTART:20251030T180000Z
-DTEND:20251030T203000Z
-UID:csgo_mc_2386930@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386930\n赛事: CCT 第3赛季 欧洲系列
- 赛 9\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386930
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 10: CPH Wolves vs AI
 DTSTART:20251030T183000Z
 DTEND:20251030T210000Z
@@ -118,7 +95,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387521
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 2 封闭预选: TBD vs TBD
+SUMMARY:NODWIN Clutch 系列 2 封闭预选: Genone vs Phantom
 DTSTART:20251031T090000Z
 DTEND:20251031T113000Z
 UID:csgo_mc_2387535@5eplay.com
@@ -174,7 +151,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387348
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 2 封闭预选: TBD vs TBD
+SUMMARY:NODWIN Clutch 系列 2 封闭预选: kONO vs Ence.A
 DTSTART:20251031T120000Z
 DTEND:20251031T143000Z
 UID:csgo_mc_2387536@5eplay.com
@@ -230,7 +207,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387349
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 2 封闭预选: TBD vs TBD
+SUMMARY:NODWIN Clutch 系列 2 封闭预选: SPARTA vs Aab
 DTSTART:20251031T150000Z
 DTEND:20251031T173000Z
 UID:csgo_mc_2387537@5eplay.com
@@ -241,7 +218,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387537
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: Metizport vs TBD
+SUMMARY:Winline Insight 第9赛季: Metizport vs JJH
 DTSTART:20251031T150000Z
 DTEND:20251031T173000Z
 UID:csgo_mc_2387016@5eplay.com
@@ -298,7 +275,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387350
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 2 封闭预选: TBD vs TBD
+SUMMARY:NODWIN Clutch 系列 2 封闭预选: Fire Flux vs AI
 DTSTART:20251031T180000Z
 DTEND:20251031T203000Z
 UID:csgo_mc_2387538@5eplay.com
@@ -389,6 +366,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387523
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+DTSTART:20251101T090000Z
+DTEND:20251101T113000Z
+UID:csgo_mc_2387566@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387566\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387566
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 9: TBD vs TBD
 DTSTART:20251101T090000Z
 DTEND:20251101T113000Z
@@ -421,5 +410,28 @@ DESCRIPTION:比赛ID: csgo_mc_2387352\n赛事: PGL布加勒斯特大师赛
  态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387352
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛杯 2: MASONIC vs TBD
+DTSTART:20251101T113000Z
+DTEND:20251101T140000Z
+UID:csgo_mc_2387524@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387524\n赛事: 欧洲职业联赛杯 2\n
+ 阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+DTSTART:20251101T120000Z
+DTEND:20251101T143000Z
+UID:csgo_mc_2387567@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387567\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387567
 END:VEVENT
 END:VCALENDAR
