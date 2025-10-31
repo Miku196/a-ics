@@ -3,21 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Liga 玩家俱乐部 2025 系列赛A 十月杯: LP vs Mibr.A
-DTSTART:20251030T223000Z
-DTEND:20251031T010000Z
-UID:csgo_mc_2387540@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387540\n赛事: Liga 玩家俱乐部 2025 
- 系列赛A 十月杯\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387540
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S4: Marsborne vs BOSS
-DTSTART:20251031T000000Z
-DTEND:20251031T023000Z
+DTSTART:20251031T010000Z
+DTEND:20251031T033000Z
 UID:csgo_mc_2387512@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387512\n赛事: Dust2.us 猎鹰大师赛 S4
  \n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
@@ -307,7 +295,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387065
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Liga 玩家俱乐部 2025 系列赛A 十月杯: TBD vs TBD
+SUMMARY:Liga 玩家俱乐部 2025 系列赛A 十月杯: FOLHA AMARELA vs L
+ P
 DTSTART:20251031T190000Z
 DTEND:20251031T213000Z
 UID:csgo_mc_2387541@5eplay.com
@@ -430,5 +419,39 @@ DESCRIPTION:比赛ID: csgo_mc_2386936\n赛事: CCT 第3赛季 欧洲系列
  \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386936
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: TBD vs TBD
+DTSTART:20251101T123000Z
+DTEND:20251101T150000Z
+UID:csgo_mc_2387067@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387067\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387067
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DACH Masters Season 4: Reveal vs TBD
+DTSTART:20251101T140000Z
+DTEND:20251101T163000Z
+UID:csgo_mc_2387576@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387576\n赛事: DACH Masters Season 4\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387576
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DACH Masters Season 4: 6GPA vs TBD
+DTSTART:20251101T140000Z
+DTEND:20251101T163000Z
+UID:csgo_mc_2387577@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387577\n赛事: DACH Masters Season 4\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387577
 END:VEVENT
 END:VCALENDAR
