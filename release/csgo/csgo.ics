@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: Heroic vs GL
-DTSTART:20251031T080000Z
-DTEND:20251031T103000Z
-UID:csgo_mc_2387345@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387345\n赛事: PGL布加勒斯特大师赛
- \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: B
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387345
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: B8 vs Aurora
-DTSTART:20251031T080000Z
-DTEND:20251031T103000Z
-UID:csgo_mc_2387346@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387346\n赛事: PGL布加勒斯特大师赛
- \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: B
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387346
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛杯 2: G2 Ares vs WOPA
 DTSTART:20251031T090000Z
 DTEND:20251031T113000Z
