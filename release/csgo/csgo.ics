@@ -3,85 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: GL vs Aurora
-DTSTART:20251031T141500Z
-DTEND:20251031T164500Z
-UID:csgo_mc_2387349@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387349\n赛事: PGL布加勒斯特大师赛
- \n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: B
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387349
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 2 封闭预选: SPARTA vs Aab
-DTSTART:20251031T150000Z
-DTEND:20251031T173000Z
-UID:csgo_mc_2387537@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387537\n赛事: NODWIN Clutch 系列 2 封
- 闭预选\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制: BO3\n等级
- : \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387537
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: Metizport vs JJH
-DTSTART:20251031T150000Z
-DTEND:20251031T173000Z
-UID:csgo_mc_2387016@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387016\n赛事: Winline Insight 第9赛季\
- n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387016
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段 公开预选: ECLOT vs Dziuseppe
-DTSTART:20251031T150000Z
-DTEND:20251031T173000Z
-UID:csgo_mc_2387421@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387421\n赛事: 银河之战 2025 第5阶
- 段 公开预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387421
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: BC.Game vs EYE
-DTSTART:20251031T150000Z
-DTEND:20251031T173000Z
-UID:csgo_mc_2386933@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386933\n赛事: CCT 第3赛季 欧洲系列
- 赛 9\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386933
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: ARCRED vs FT
-DTSTART:20251031T153000Z
-DTEND:20251031T180000Z
-UID:csgo_mc_2387064@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387064\n赛事: CCT 第3赛季 欧洲系列
- 赛 10\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387064
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DACH 大师赛 第4赛季: Wave vs XPERION NXT
-DTSTART:20251031T160000Z
-DTEND:20251031T183000Z
-UID:csgo_mc_2387574@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387574\n赛事: DACH 大师赛 第4赛季\n
- 阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387574
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PGL布加勒斯特大师赛: SAW vs Legacy
 DTSTART:20251031T170000Z
 DTEND:20251031T193000Z
@@ -197,7 +118,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387566
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+SUMMARY:PGL布加勒斯特大师赛: GL vs TBD
 DTSTART:20251101T090000Z
 DTEND:20251101T113000Z
 UID:csgo_mc_2387351@5eplay.com
@@ -231,7 +152,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387066
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: TBD vs TBD
+SUMMARY:PGL布加勒斯特大师赛: Aurora vs TBD
 DTSTART:20251101T110000Z
 DTEND:20251101T150000Z
 UID:csgo_mc_2387352@5eplay.com
@@ -440,5 +361,41 @@ DESCRIPTION:比赛ID: csgo_mc_2386938\n赛事: CCT 第3赛季 欧洲系列
  \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386938
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: TBD vs TBD
+DTSTART:20251101T183000Z
+DTEND:20251101T210000Z
+UID:csgo_mc_2387069@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387069\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387069
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛杯 2: Tricked vs Alliance
+DTSTART:20251102T090000Z
+DTEND:20251102T113000Z
+UID:csgo_mc_2387525@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387525\n赛事: 欧洲职业联赛杯 2\n
+ 阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387525
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+DTSTART:20251102T090000Z
+DTEND:20251102T113000Z
+UID:csgo_mc_2387570@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387570\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387570
 END:VEVENT
 END:VCALENDAR
