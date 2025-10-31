@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: Marsborne vs BOSS
-DTSTART:20251031T010000Z
-DTEND:20251031T033000Z
-UID:csgo_mc_2387512@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387512\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387512
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PGL布加勒斯特大师赛: Heroic vs GL
 DTSTART:20251031T080000Z
 DTEND:20251031T103000Z
@@ -216,13 +205,13 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387064
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DACH Masters Season 4: Wave vs XPERION NXT
+SUMMARY:DACH 大师赛 第4赛季: Wave vs XPERION NXT
 DTSTART:20251031T160000Z
 DTEND:20251031T183000Z
 UID:csgo_mc_2387574@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387574\n赛事: DACH Masters Season 4\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2387574\n赛事: DACH 大师赛 第4赛季\n
+ 阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387574
 END:VEVENT
@@ -249,13 +238,13 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387538
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DACH Masters Season 4: ProCamp vs BIG.A
+SUMMARY:DACH 大师赛 第4赛季: ProCamp vs BIG.A
 DTSTART:20251031T180000Z
 DTEND:20251031T203000Z
 UID:csgo_mc_2387575@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387575\n赛事: DACH Masters Season 4\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2387575\n赛事: DACH 大师赛 第4赛季\n
+ 阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387575
 END:VEVENT
@@ -433,25 +422,38 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387067
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DACH Masters Season 4: Reveal vs TBD
+SUMMARY:DACH 大师赛 第4赛季: Reveal vs TBD
 DTSTART:20251101T140000Z
 DTEND:20251101T163000Z
 UID:csgo_mc_2387576@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387576\n赛事: DACH Masters Season 4\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2387576\n赛事: DACH 大师赛 第4赛季\n
+ 阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: \
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387576
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DACH Masters Season 4: 6GPA vs TBD
+SUMMARY:DACH 大师赛 第4赛季: 6GPA vs TBD
 DTSTART:20251101T140000Z
 DTEND:20251101T163000Z
 UID:csgo_mc_2387577@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387577\n赛事: DACH Masters Season 4\n赛
+DESCRIPTION:比赛ID: csgo_mc_2387577\n赛事: DACH 大师赛 第4赛季\n
+ 阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: \
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387577
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA 发展联赛 第55赛季 欧洲精英杯 1: QUAZAR vs Fire Fl
+ ux
+DTSTART:20251101T150000Z
+DTEND:20251101T173000Z
+UID:csgo_mc_2387562@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387562\n赛事: ESEA 发展联赛 第55赛
+ 季 欧洲精英杯 1\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛
  制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387577
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387562
 END:VEVENT
 END:VCALENDAR
