@@ -3,76 +3,20 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:PGL布加勒斯特大师赛: Aurora vs Legacy
-DTSTART:20251101T122500Z
-DTEND:20251101T162500Z
-UID:csgo_mc_2387352@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387352\n赛事: PGL布加勒斯特大师赛
- \n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: B级\n状
- 态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+SUMMARY:游戏地带杯 2025: Aab vs YinYang
+DTSTART:20251101T141000Z
+DTEND:20251101T164000Z
+UID:csgo_mc_2387693@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387693\n赛事: 游戏地带杯 2025\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387352
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: Nexus vs Washington
-DTSTART:20251101T123000Z
-DTEND:20251101T150000Z
-UID:csgo_mc_2387067@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387067\n赛事: CCT 第3赛季 欧洲系列
- 赛 10\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387067
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Epic 46: Nemesis vs MINLATE
-DTSTART:20251101T130000Z
-DTEND:20251101T153000Z
-UID:csgo_mc_2387605@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387605\n赛事: Epic 46\n阶段: 淘汰赛 
- 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387605
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Epic 46: Prestige vs Phantom
-DTSTART:20251101T130000Z
-DTEND:20251101T153000Z
-UID:csgo_mc_2387604@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387604\n赛事: Epic 46\n阶段: 淘汰赛 
- 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387604
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DACH 大师赛 第4赛季: Reveal vs BIG.A
-DTSTART:20251101T140000Z
-DTEND:20251101T163000Z
-UID:csgo_mc_2387576@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387576\n赛事: DACH 大师赛 第4赛季\n
- 阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: \
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387576
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DACH 大师赛 第4赛季: 6GPA vs Wave
-DTSTART:20251101T140000Z
-DTEND:20251101T163000Z
-UID:csgo_mc_2387577@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387577\n赛事: DACH 大师赛 第4赛季\n
- 阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: \
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387577
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387693
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 竞争者东欧系列赛 1 : Insilio vs ARCRED
-DTSTART:20251101T140000Z
-DTEND:20251101T163000Z
+DTSTART:20251101T143000Z
+DTEND:20251101T170000Z
 UID:csgo_mc_2387585@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387585\n赛事: CCT 第3赛季 竞争者东
  欧系列赛 1 \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: B
@@ -127,6 +71,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387068\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387068
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:游戏地带杯 2025: Alliance vs MASONIC
+DTSTART:20251101T163000Z
+DTEND:20251101T190000Z
+UID:csgo_mc_2387692@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387692\n赛事: 游戏地带杯 2025\n阶
+ 段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387692
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DACH 大师赛 第4赛季: XPERION NXT vs ProCamp
@@ -266,6 +221,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387599\n赛事: DreamHack 亚特兰大 锦
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387599
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:游戏地带杯 2025: TBD vs TBD
+DTSTART:20251101T193000Z
+DTEND:20251101T220000Z
+UID:csgo_mc_2387694@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387694\n赛事: 游戏地带杯 2025\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387694
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Epic 46: TBD vs TBD
