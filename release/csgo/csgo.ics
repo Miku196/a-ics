@@ -160,9 +160,9 @@ SUMMARY:Epic 46: Nemesis vs MINLATE
 DTSTART:20251101T130000Z
 DTEND:20251101T153000Z
 UID:csgo_mc_2387605@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387605\n赛事: Epic 46\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
+DESCRIPTION:比赛ID: csgo_mc_2387605\n赛事: Epic 46\n阶段: 淘汰赛 
+ 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387605
 END:VEVENT
@@ -171,9 +171,9 @@ SUMMARY:Epic 46: Prestige vs Phantom
 DTSTART:20251101T130000Z
 DTEND:20251101T153000Z
 UID:csgo_mc_2387604@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387604\n赛事: Epic 46\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
+DESCRIPTION:比赛ID: csgo_mc_2387604\n赛事: Epic 46\n阶段: 淘汰赛 
+ 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387604
 END:VEVENT
@@ -274,9 +274,9 @@ SUMMARY:Epic 46: TBD vs TBD
 DTSTART:20251101T170000Z
 DTEND:20251101T193000Z
 UID:csgo_mc_2387607@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387607\n赛事: Epic 46\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
+DESCRIPTION:比赛ID: csgo_mc_2387607\n赛事: Epic 46\n阶段: 淘汰赛 
+ 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n状态: 未
+ 开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387607
 END:VEVENT
@@ -285,9 +285,9 @@ SUMMARY:Epic 46: TBD vs TBD
 DTSTART:20251101T170000Z
 DTEND:20251101T193000Z
 UID:csgo_mc_2387606@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387606\n赛事: Epic 46\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
+DESCRIPTION:比赛ID: csgo_mc_2387606\n赛事: Epic 46\n阶段: 淘汰赛 
+ 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状态: 未
+ 开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387606
 END:VEVENT
@@ -296,9 +296,9 @@ SUMMARY:Epic 46: TBD vs TBD
 DTSTART:20251101T170000Z
 DTEND:20251101T193000Z
 UID:csgo_mc_2387608@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387608\n赛事: Epic 46\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
+DESCRIPTION:比赛ID: csgo_mc_2387608\n赛事: Epic 46\n阶段: 淘汰赛 
+ 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n状态: 未
+ 开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387608
 END:VEVENT
@@ -398,9 +398,9 @@ SUMMARY:Epic 46: TBD vs TBD
 DTSTART:20251101T210000Z
 DTEND:20251101T233000Z
 UID:csgo_mc_2387609@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387609\n赛事: Epic 46\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
+DESCRIPTION:比赛ID: csgo_mc_2387609\n赛事: Epic 46\n阶段: 淘汰赛 
+ 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387609
 END:VEVENT
