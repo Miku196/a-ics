@@ -3,19 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 竞争者东欧系列赛 1 : Nuclear TigeRES vs FOR
- ZE Reload
-DTSTART:20251101T063000Z
-DTEND:20251101T090000Z
-UID:csgo_mc_2387582@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387582\n赛事: CCT 第3赛季 竞争者东
- 欧系列赛 1 \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387582
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛杯 2: K27 vs Preasy Mix
 DTSTART:20251101T090000Z
 DTEND:20251101T113000Z
