@@ -3,43 +3,10 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:AMD GameOn 2025: Wicked vs Arise
-DTSTART:20251102T103000Z
-DTEND:20251102T130000Z
-UID:csgo_mc_2387695@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387695\n赛事: AMD GameOn 2025\n阶段: 
- 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状态: 未
- 开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387695
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: ECSTATIC vs Venom
-DTSTART:20251102T110000Z
-DTEND:20251102T133000Z
-UID:csgo_mc_2386939@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386939\n赛事: CCT 第3赛季 欧洲系列
- 赛 9\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386939
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛杯 2: Wildcard Academy vs WOPA
-DTSTART:20251102T113000Z
-DTEND:20251102T140000Z
-UID:csgo_mc_2387526@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387526\n赛事: 欧洲职业联赛杯 2\n
- 阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387526
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 竞争者东欧系列赛 1 : Nuclear TigeRES vs TBD
-DTSTART:20251102T113000Z
-DTEND:20251102T140000Z
+SUMMARY:CCT 第3赛季 竞争者东欧系列赛 1 : Nuclear TigeRES vs Ins
+ ilio
+DTSTART:20251102T122000Z
+DTEND:20251102T145000Z
 UID:csgo_mc_2387588@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387588\n赛事: CCT 第3赛季 竞争者东
  欧系列赛 1 \n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n
@@ -47,18 +14,6 @@ DESCRIPTION:比赛ID: csgo_mc_2387588\n赛事: CCT 第3赛季 竞争者东
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387588
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: 1win vs K27
-DTSTART:20251102T120000Z
-DTEND:20251102T143000Z
-UID:csgo_mc_2387571@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387571\n赛事: NODWIN Clutch 系列 第2
- 赛季\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387571
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 10: Oramond vs FT
@@ -73,7 +28,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387071
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epic 46: MINLATE vs TBD
+SUMMARY:Epic 46: MINLATE vs Nemesis
 DTSTART:20251102T130000Z
 DTEND:20251102T153000Z
 UID:csgo_mc_2387611@5eplay.com
@@ -288,7 +243,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387384
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛杯 2: TBD vs TBD
+SUMMARY:欧洲职业联赛杯 2: K27 vs WOPA
 DTSTART:20251103T090000Z
 DTEND:20251103T113000Z
 UID:csgo_mc_2387527@5eplay.com
@@ -334,7 +289,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387380
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛杯 2: G2 Ares vs TBD
+SUMMARY:欧洲职业联赛杯 2: G2 Ares vs Tricked
 DTSTART:20251103T113000Z
 DTEND:20251103T140000Z
 UID:csgo_mc_2387528@5eplay.com
@@ -404,5 +359,65 @@ DESCRIPTION:比赛ID: csgo_mc_2387560\n赛事: ESEA 发展联赛 第55赛
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387560
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第9赛季: TBD vs TBD
+DTSTART:20251103T150000Z
+DTEND:20251103T173000Z
+UID:csgo_mc_2387018@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387018\n赛事: Winline Insight 第9赛季\
+ n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387018
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA 发展联赛 第55赛季 欧洲精英杯 1: QUAZAR vs Fire Fl
+ ux
+DTSTART:20251103T150000Z
+DTEND:20251103T173000Z
+UID:csgo_mc_2387562@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387562\n赛事: ESEA 发展联赛 第55赛
+ 季 欧洲精英杯 1\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387562
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+DTSTART:20251103T150000Z
+DTEND:20251103T173000Z
+UID:csgo_mc_2387591@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387591\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387591
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段 公开预选: Novaq vs premdesant
+DTSTART:20251103T150000Z
+DTEND:20251103T173000Z
+UID:csgo_mc_2387434@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387434\n赛事: 银河之战 2025 第5阶
+ 段 公开预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387434
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: TBD vs TBD
+DTSTART:20251103T153000Z
+DTEND:20251103T180000Z
+UID:csgo_mc_2387075@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387075\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387075
 END:VEVENT
 END:VCALENDAR
