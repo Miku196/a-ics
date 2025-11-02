@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: SportsBetExpert vs Take Flyte
-DTSTART:20251102T000000Z
-DTEND:20251102T023000Z
-UID:csgo_mc_2387511@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387511\n赛事: Dust2.us 猎鹰大师赛 S4
- \n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387511
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 竞争者东欧系列赛 1 : Nuclear TigeRES vs SPA
  RTA
 DTSTART:20251102T063000Z
@@ -63,7 +52,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387587
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epic 46: Prestige vs TBD
+SUMMARY:Epic 46: Prestige vs Nemesis
 DTSTART:20251102T090000Z
 DTEND:20251102T113000Z
 UID:csgo_mc_2387610@5eplay.com
@@ -236,7 +225,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387580
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DreamHack 亚特兰大 锦标赛 2025: TBD vs TBD
+SUMMARY:DreamHack 亚特兰大 锦标赛 2025: M80 vs TBD
 DTSTART:20251102T170000Z
 DTEND:20251102T193000Z
 UID:csgo_mc_2387603@5eplay.com
@@ -404,5 +393,39 @@ DESCRIPTION:比赛ID: csgo_mc_2387379\n赛事: IEM成都 2025\n阶段: 小
  : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387379
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEM成都 2025: Astralis vs NAVI
+DTSTART:20251103T093000Z
+DTEND:20251103T120000Z
+UID:csgo_mc_2387380@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387380\n赛事: IEM成都 2025\n阶段: 小
+ 组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: A级\n状态
+ : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387380
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛杯 2: G2 Ares vs TBD
+DTSTART:20251103T113000Z
+DTEND:20251103T140000Z
+UID:csgo_mc_2387528@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387528\n赛事: 欧洲职业联赛杯 2\n
+ 阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第9赛季: TBD vs TBD
+DTSTART:20251103T120000Z
+DTEND:20251103T143000Z
+UID:csgo_mc_2387017@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387017\n赛事: Winline Insight 第9赛季\
+ n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387017
 END:VEVENT
 END:VCALENDAR
