@@ -67,9 +67,9 @@ SUMMARY:AMD GameOn 2025: Wicked vs Arise
 DTSTART:20251102T090000Z
 DTEND:20251102T113000Z
 UID:csgo_mc_2387695@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387695\n赛事: AMD GameOn 2025\n赛制: BO
- 3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
+DESCRIPTION:比赛ID: csgo_mc_2387695\n赛事: AMD GameOn 2025\n阶段: 
+ 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状态: 未
+ 开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387695
 END:VEVENT
@@ -225,7 +225,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387580
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DreamHack 亚特兰大 锦标赛 2025: M80 vs TBD
+SUMMARY:DreamHack 亚特兰大 锦标赛 2025: M80 vs BIG
 DTSTART:20251102T170000Z
 DTEND:20251102T193000Z
 UID:csgo_mc_2387603@5eplay.com
@@ -283,7 +283,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387073
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S4: Voca vs TBD
+SUMMARY:Dust2.us 猎鹰大师赛 S4: Voca vs SportsBetExpert
 DTSTART:20251103T000000Z
 DTEND:20251103T023000Z
 UID:csgo_mc_2387513@5eplay.com
@@ -427,5 +427,41 @@ DESCRIPTION:比赛ID: csgo_mc_2387017\n赛事: Winline Insight 第9赛季\
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+DTSTART:20251103T120000Z
+DTEND:20251103T143000Z
+UID:csgo_mc_2387590@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387590\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387590
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: TBD vs TBD
+DTSTART:20251103T123000Z
+DTEND:20251103T150000Z
+UID:csgo_mc_2387074@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387074\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387074
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛6: Galorys vs Prison Breakers
+DTSTART:20251103T130000Z
+DTEND:20251103T153000Z
+UID:csgo_mc_2387644@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387644\n赛事:  CCT 第3赛季 南美系
+ 列赛6\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387644
 END:VEVENT
 END:VCALENDAR
