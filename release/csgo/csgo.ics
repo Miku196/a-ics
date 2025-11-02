@@ -3,64 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:DACH 大师赛 第4赛季: Wave vs BIG.A
-DTSTART:20251102T141500Z
-DTEND:20251102T164500Z
-UID:csgo_mc_2387579@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387579\n赛事: DACH 大师赛 第4赛季\n
- 阶段: 淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387579
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: ARCRED vs Novaq
-DTSTART:20251102T150000Z
-DTEND:20251102T173000Z
-UID:csgo_mc_2387572@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387572\n赛事: NODWIN Clutch 系列 第2
- 赛季\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387572
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段 公开预选: ECLOT vs FORZE Reload
-DTSTART:20251102T150000Z
-DTEND:20251102T173000Z
-UID:csgo_mc_2387432@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387432\n赛事: 银河之战 2025 第5阶
- 段 公开预选\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387432
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: CYBERSHOKE vs SPARTA
-DTSTART:20251102T153000Z
-DTEND:20251102T180000Z
-UID:csgo_mc_2387072@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387072\n赛事: CCT 第3赛季 欧洲系列
- 赛 10\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387072
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DACH 大师赛 第4赛季: XPERION NXT vs TBD
-DTSTART:20251102T170000Z
-DTEND:20251102T193000Z
-UID:csgo_mc_2387580@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387580\n赛事: DACH 大师赛 第4赛季\n
- 阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: \
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387580
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 9: Venom vs TBD
 DTSTART:20251102T170000Z
 DTEND:20251102T193000Z
@@ -70,6 +12,17 @@ DESCRIPTION:比赛ID: csgo_mc_2386941\n赛事: CCT 第3赛季 欧洲系列
  : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2386941
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DACH 大师赛 第4赛季: XPERION NXT vs TBD
+DTSTART:20251102T173000Z
+DTEND:20251102T200000Z
+UID:csgo_mc_2387580@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387580\n赛事: DACH 大师赛 第4赛季\n
+ 阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: \
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387580
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NODWIN Clutch 系列 第2赛季: CPH Wolves vs Genone
@@ -421,5 +374,41 @@ DESCRIPTION:比赛ID: csgo_mc_2387559\n赛事: ESEA 发展联赛 第55赛
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387559
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: TBD vs TBD
+DTSTART:20251103T183000Z
+DTEND:20251103T210000Z
+UID:csgo_mc_2387076@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387076\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387076
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛6: Dusty Roots vs paiN.A
+DTSTART:20251103T190000Z
+DTEND:20251103T213000Z
+UID:csgo_mc_2387646@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387646\n赛事:  CCT 第3赛季 南美系
+ 列赛6\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387646
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛6: Bounty Hunters vs MAGICOS
+DTSTART:20251103T220000Z
+DTEND:20251104T003000Z
+UID:csgo_mc_2387647@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387647\n赛事:  CCT 第3赛季 南美系
+ 列赛6\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387647
 END:VEVENT
 END:VCALENDAR
