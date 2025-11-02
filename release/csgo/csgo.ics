@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: Aab vs GUN5
-DTSTART:20251102T183000Z
-DTEND:20251102T210000Z
-UID:csgo_mc_2387073@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387073\n赛事: CCT 第3赛季 欧洲系列
- 赛 10\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387073
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 9: Venom vs Nemiga
-DTSTART:20251102T184000Z
-DTEND:20251102T211000Z
-UID:csgo_mc_2386941@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2386941\n赛事: CCT 第3赛季 欧洲系列
- 赛 9\n阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO3\n等级
- : C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2386941
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S4: Voca vs SportsBetExpert
 DTSTART:20251103T000000Z
 DTEND:20251103T023000Z
@@ -161,7 +138,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387528
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: TBD vs TBD
+SUMMARY:Winline Insight 第9赛季: SINNERS vs JJH
 DTSTART:20251103T120000Z
 DTEND:20251103T143000Z
 UID:csgo_mc_2387017@5eplay.com
@@ -221,7 +198,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387560
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: TBD vs TBD
+SUMMARY:Winline Insight 第9赛季: TPuDCATb_TPu vs Spirit.A
 DTSTART:20251103T150000Z
 DTEND:20251103T173000Z
 UID:csgo_mc_2387018@5eplay.com
@@ -305,7 +282,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387592
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段 公开预选: ECLOT vs TBD
+SUMMARY:银河之战 2025 第5阶段 公开预选: ECLOT vs Y.NIP
 DTSTART:20251103T180000Z
 DTEND:20251103T203000Z
 UID:csgo_mc_2387435@5eplay.com
@@ -419,5 +396,27 @@ DESCRIPTION:比赛ID: csgo_mc_2387396\n赛事: IEM成都 2025\n阶段: 小
  : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387396
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEM成都 2025: TBD vs TBD
+DTSTART:20251104T070000Z
+DTEND:20251104T093000Z
+UID:csgo_mc_2387397@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387397\n赛事: IEM成都 2025\n阶段: 小
+ 组赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: A级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387397
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEM成都 2025: TBD vs TBD
+DTSTART:20251104T070000Z
+DTEND:20251104T093000Z
+UID:csgo_mc_2387398@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387398\n赛事: IEM成都 2025\n阶段: 小
+ 组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: A级\n状态
+ : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387398
 END:VEVENT
 END:VCALENDAR
