@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:IEM成都 2025: TYLOO vs Falcons
-DTSTART:20251103T020000Z
-DTEND:20251103T043000Z
-UID:csgo_mc_2387377@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387377\n赛事: IEM成都 2025\n阶段: 小
- 组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: A级\n状态
- : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387377
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEM成都 2025: FURIA vs LVG
-DTSTART:20251103T020000Z
-DTEND:20251103T043000Z
-UID:csgo_mc_2387381@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387381\n赛事: IEM成都 2025\n阶段: 小
- 组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: A级\n状态
- : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387381
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:IEM成都 2025: MOUZ vs FaZe
 DTSTART:20251103T043000Z
 DTEND:20251103T070000Z
