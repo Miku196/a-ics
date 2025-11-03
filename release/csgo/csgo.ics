@@ -3,52 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛杯 2: K27 vs WOPA
-DTSTART:20251103T090000Z
-DTEND:20251103T113000Z
-UID:csgo_mc_2387527@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387527\n赛事: 欧洲职业联赛杯 2\n
- 阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387527
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: 1win vs Novaq
-DTSTART:20251103T090000Z
-DTEND:20251103T113000Z
-UID:csgo_mc_2387589@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387589\n赛事: NODWIN Clutch 系列 第2
- 赛季\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387589
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEM成都 2025: paiN vs Spirit
-DTSTART:20251103T093000Z
-DTEND:20251103T120000Z
-UID:csgo_mc_2387379@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387379\n赛事: IEM成都 2025\n阶段: 小
- 组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: A级\n状态
- : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387379
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEM成都 2025: Astralis vs NAVI
-DTSTART:20251103T093000Z
-DTEND:20251103T120000Z
-UID:csgo_mc_2387380@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387380\n赛事: IEM成都 2025\n阶段: 小
- 组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: A级\n状态
- : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387380
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛杯 2: G2 Ares vs Tricked
 DTSTART:20251103T113000Z
 DTEND:20251103T140000Z
@@ -266,7 +220,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387647
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IEM成都 2025: LVG vs TBD
+SUMMARY:IEM成都 2025: LVG vs  3DMAX
 DTSTART:20251104T020000Z
 DTEND:20251104T043000Z
 UID:csgo_mc_2387394@5eplay.com
@@ -277,7 +231,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387394
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IEM成都 2025: FURIA vs TBD
+SUMMARY:IEM成都 2025: FURIA vs G2
 DTSTART:20251104T020000Z
 DTEND:20251104T043000Z
 UID:csgo_mc_2387393@5eplay.com
@@ -321,7 +275,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387397
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IEM成都 2025: TBD vs TBD
+SUMMARY:IEM成都 2025: Heroic vs TBD
 DTSTART:20251104T070000Z
 DTEND:20251104T093000Z
 UID:csgo_mc_2387398@5eplay.com
@@ -356,7 +310,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387593
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IEM成都 2025: TBD vs TBD
+SUMMARY:IEM成都 2025: Mongolz vs TBD
 DTSTART:20251104T093000Z
 DTEND:20251104T120000Z
 UID:csgo_mc_2387399@5eplay.com
@@ -445,5 +399,29 @@ DESCRIPTION:比赛ID: csgo_mc_2387020\n赛事: Winline Insight 第9赛季\
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387020
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: CPH Wolves vs 9BOOMPRO
+DTSTART:20251104T150000Z
+DTEND:20251104T173000Z
+UID:csgo_mc_2387595@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387595\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387595
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段 公开预选: TBD vs TBD
+DTSTART:20251104T150000Z
+DTEND:20251104T173000Z
+UID:csgo_mc_2387436@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387436\n赛事: 银河之战 2025 第5阶
+ 段 公开预选\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387436
 END:VEVENT
 END:VCALENDAR
