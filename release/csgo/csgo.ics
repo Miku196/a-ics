@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: Bounty Hunters vs MAGICOS
-DTSTART:20251103T220000Z
-DTEND:20251104T003000Z
-UID:csgo_mc_2387647@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387647\n赛事:  CCT 第3赛季 南美系
- 列赛6\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387647
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:IEM成都 2025: LVG vs  3DMAX
 DTSTART:20251104T020000Z
 DTEND:20251104T043000Z
@@ -401,5 +389,61 @@ DESCRIPTION:比赛ID: csgo_mc_2387404\n赛事: IEM成都 2025\n阶段: 小
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEM成都 2025: TBD vs TBD
+DTSTART:20251105T070000Z
+DTEND:20251105T093000Z
+UID:csgo_mc_2387405@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387405\n赛事: IEM成都 2025\n阶段: 小
+ 组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: A级\n状态
+ : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEM成都 2025: TBD vs TBD
+DTSTART:20251105T070000Z
+DTEND:20251105T093000Z
+UID:csgo_mc_2387406@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387406\n赛事: IEM成都 2025\n阶段: 小
+ 组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: A级\n状态
+ : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387406
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛杯 2: TBD vs TBD
+DTSTART:20251105T090000Z
+DTEND:20251105T113000Z
+UID:csgo_mc_2387531@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387531\n赛事: 欧洲职业联赛杯 2\n
+ 阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387531
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+DTSTART:20251105T090000Z
+DTEND:20251105T113000Z
+UID:csgo_mc_2387612@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387612\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387612
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第40赛季: GANK vs Brute
+DTSTART:20251105T090000Z
+DTEND:20251105T113000Z
+UID:csgo_mc_2387702@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387702\n赛事: United21 联赛 第40赛季
+ \n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
+  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387702
 END:VEVENT
 END:VCALENDAR
