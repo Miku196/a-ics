@@ -3,41 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:女子职业联赛 第1赛季: Fingers Crossed fe vs confidence
-DTSTART:20251104T163000Z
-DTEND:20251104T190000Z
-UID:csgo_mc_2387697@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387697\n赛事: 女子职业联赛 第1赛
- 季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387697
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: JJH vs SPARTA
-DTSTART:20251104T180000Z
-DTEND:20251104T203000Z
-UID:csgo_mc_2387596@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387596\n赛事: NODWIN Clutch 系列 第2
- 赛季\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387596
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段 公开预选: Fire Flux vs CPH Wolves
-DTSTART:20251104T180000Z
-DTEND:20251104T203000Z
-UID:csgo_mc_2387437@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387437\n赛事: 银河之战 2025 第5阶
- 段 公开预选\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387437
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 10: 500 vs Nuclear TigeRES
 DTSTART:20251104T183000Z
 DTEND:20251104T210000Z
@@ -419,5 +384,53 @@ DESCRIPTION:比赛ID: csgo_mc_2387507\n赛事: Showmatch CS\n赛制: BO3\n
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387507
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: K27 vs Aab
+DTSTART:20251105T180000Z
+DTEND:20251105T203000Z
+UID:csgo_mc_2387773@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387773\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
+ \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387773
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+DTSTART:20251105T180000Z
+DTEND:20251105T203000Z
+UID:csgo_mc_2387615@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387615\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387615
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段 公开预选: GUN5 vs ECLOT
+DTSTART:20251105T180000Z
+DTEND:20251105T203000Z
+UID:csgo_mc_2387439@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387439\n赛事: 银河之战 2025 第5阶
+ 段 公开预选\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387439
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: TBD vs TBD
+DTSTART:20251105T183000Z
+DTEND:20251105T210000Z
+UID:csgo_mc_2387082@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387082\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387082
 END:VEVENT
 END:VCALENDAR
