@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:IEM成都 2025: MOUZ vs Vitality
-DTSTART:20251104T043000Z
-DTEND:20251104T070000Z
-UID:csgo_mc_2387395@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387395\n赛事: IEM成都 2025\n阶段: 小
- 组赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: A级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387395
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:IEM成都 2025: FaZe vs VP
 DTSTART:20251104T043000Z
 DTEND:20251104T070000Z
@@ -23,6 +12,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387396\n赛事: IEM成都 2025\n阶段: 小
  : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387396
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEM成都 2025: MOUZ vs Vitality
+DTSTART:20251104T051500Z
+DTEND:20251104T074500Z
+UID:csgo_mc_2387395@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387395\n赛事: IEM成都 2025\n阶段: 小
+ 组赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: A级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387395
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IEM成都 2025: Mongolz vs Astralis
@@ -207,7 +207,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387595
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段 公开预选: TBD vs TBD
+SUMMARY:银河之战 2025 第5阶段 公开预选: FORZE Reload vs MASONIC
 DTSTART:20251104T150000Z
 DTEND:20251104T173000Z
 UID:csgo_mc_2387436@5eplay.com
@@ -266,7 +266,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387596
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段 公开预选: TBD vs TBD
+SUMMARY:银河之战 2025 第5阶段 公开预选: Fire Flux vs CPH Wolves
 DTSTART:20251104T180000Z
 DTEND:20251104T203000Z
 UID:csgo_mc_2387437@5eplay.com
@@ -434,5 +434,16 @@ DESCRIPTION:比赛ID: csgo_mc_2387407\n赛事: IEM成都 2025\n阶段: 小
  : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEM成都 2025: TBD vs TBD
+DTSTART:20251105T093000Z
+DTEND:20251105T120000Z
+UID:csgo_mc_2387408@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387408\n赛事: IEM成都 2025\n阶段: 小
+ 组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: A级\n状态
+ : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387408
 END:VEVENT
 END:VCALENDAR
