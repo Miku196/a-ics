@@ -3,65 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: ECSTATIC vs EYE
-DTSTART:20251104T150000Z
-DTEND:20251104T173000Z
-UID:csgo_mc_2387020@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387020\n赛事: Winline Insight 第9赛季\
- n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387020
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: CPH Wolves vs 9BOOMPRO
-DTSTART:20251104T150000Z
-DTEND:20251104T173000Z
-UID:csgo_mc_2387595@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387595\n赛事: NODWIN Clutch 系列 第2
- 赛季\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387595
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段 公开预选: FORZE Reload vs MASONIC
-DTSTART:20251104T150000Z
-DTEND:20251104T173000Z
-UID:csgo_mc_2387436@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387436\n赛事: 银河之战 2025 第5阶
- 段 公开预选\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387436
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: SPARTA vs GUN5
-DTSTART:20251104T153000Z
-DTEND:20251104T180000Z
-UID:csgo_mc_2387078@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387078\n赛事: CCT 第3赛季 欧洲系列
- 赛 10\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387078
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: KRÜ vs Tropa do KinGui
-DTSTART:20251104T160000Z
-DTEND:20251104T183000Z
-UID:csgo_mc_2387649@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387649\n赛事:  CCT 第3赛季 南美系
- 列赛6\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387649
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:女子职业联赛 第1赛季: Fingers Crossed fe vs confidence
 DTSTART:20251104T163000Z
 DTEND:20251104T190000Z
@@ -235,7 +176,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387770
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛杯 2: Tricked vs TBD
+SUMMARY:欧洲职业联赛杯 2: Tricked vs Wildcard Academy
 DTSTART:20251105T090000Z
 DTEND:20251105T113000Z
 UID:csgo_mc_2387531@5eplay.com
@@ -408,5 +349,75 @@ DESCRIPTION:比赛ID: csgo_mc_2387022\n赛事: Winline Insight 第9赛季\
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+DTSTART:20251105T150000Z
+DTEND:20251105T173000Z
+UID:csgo_mc_2387614@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387614\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387614
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段 公开预选: kONO vs Novaq
+DTSTART:20251105T150000Z
+DTEND:20251105T173000Z
+UID:csgo_mc_2387438@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387438\n赛事: 银河之战 2025 第5阶
+ 段 公开预选\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387438
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: TBD vs TBD
+DTSTART:20251105T153000Z
+DTEND:20251105T180000Z
+UID:csgo_mc_2387081@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387081\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387081
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+DTSTART:20251105T160000Z
+DTEND:20251105T183000Z
+UID:csgo_mc_2387653@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387653\n赛事:  CCT 第3赛季 南美系
+ 列赛6\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387653
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:女子职业联赛 第1赛季: Nemesis Impact vs BIG.E
+DTSTART:20251105T160000Z
+DTEND:20251105T183000Z
+UID:csgo_mc_2387698@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387698\n赛事: 女子职业联赛 第1赛
+ 季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387698
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Showmatch CS: NIP vs NIP Legends
+DTSTART:20251105T170000Z
+DTEND:20251105T193000Z
+UID:csgo_mc_2387507@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387507\n赛事: Showmatch CS\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387507
 END:VEVENT
 END:VCALENDAR
