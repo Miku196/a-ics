@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:IEM成都 2025: LVG vs  3DMAX
-DTSTART:20251104T020000Z
-DTEND:20251104T043000Z
-UID:csgo_mc_2387394@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387394\n赛事: IEM成都 2025\n阶段: 小
- 组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: A级\n状态
- : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387394
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEM成都 2025: FURIA vs G2
-DTSTART:20251104T020000Z
-DTEND:20251104T043000Z
-UID:csgo_mc_2387393@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387393\n赛事: IEM成都 2025\n阶段: 小
- 组赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: A级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387393
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:IEM成都 2025: MOUZ vs Vitality
 DTSTART:20251104T043000Z
 DTEND:20251104T070000Z
