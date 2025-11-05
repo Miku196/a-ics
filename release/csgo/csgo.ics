@@ -3,32 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Showmatch CS: NIP vs NIP Legends
-DTSTART:20251105T170000Z
-DTEND:20251105T193000Z
-UID:csgo_mc_2387507@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387507\n赛事: Showmatch CS\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387507
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: K27 vs Aab
-DTSTART:20251105T180000Z
-DTEND:20251105T203000Z
-UID:csgo_mc_2387773@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387773\n赛事: CCT 第3赛季 欧洲系列
- 赛 11 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387773
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NODWIN Clutch 系列 第2赛季: BASEMENT BOYS vs Genone
-DTSTART:20251105T180000Z
-DTEND:20251105T203000Z
+DTSTART:20251105T182000Z
+DTEND:20251105T205000Z
 UID:csgo_mc_2387615@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387615\n赛事: NODWIN Clutch 系列 第2
  赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
@@ -38,16 +15,16 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387615
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段 公开预选: GUN5 vs ECLOT
-DTSTART:20251105T180000Z
-DTEND:20251105T203000Z
-UID:csgo_mc_2387439@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387439\n赛事: 银河之战 2025 第5阶
- 段 公开预选\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
+SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: K27 vs Aab
+DTSTART:20251105T183000Z
+DTEND:20251105T210000Z
+UID:csgo_mc_2387773@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387773\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
+ \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387439
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387773
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 10: Nexus vs Novaq
@@ -86,7 +63,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387734
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第55赛季 欧洲: OLDBOYS vs TBD
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: OLDBOYS vs UNiTY
 DTSTART:20251105T183000Z
 DTEND:20251105T210000Z
 UID:csgo_mc_2387735@5eplay.com
@@ -192,7 +169,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387616
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第40赛季: Megoshort vs TBD
+SUMMARY:United21 联赛 第40赛季: Megoshort vs MASONIC
 DTSTART:20251106T090000Z
 DTEND:20251106T113000Z
 UID:csgo_mc_2387704@5eplay.com
@@ -250,7 +227,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387779
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: Spirit.A vs TBD
+SUMMARY:Winline Insight 第9赛季: Spirit.A vs Sangal
 DTSTART:20251106T120000Z
 DTEND:20251106T143000Z
 UID:csgo_mc_2387023@5eplay.com
@@ -365,7 +342,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387780
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: SINNERS vs TBD
+SUMMARY:Winline Insight 第9赛季: SINNERS vs ECSTATIC
 DTSTART:20251106T150000Z
 DTEND:20251106T173000Z
 UID:csgo_mc_2387024@5eplay.com
@@ -374,5 +351,64 @@ DESCRIPTION:比赛ID: csgo_mc_2387024\n赛事: Winline Insight 第9赛季\
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: ARCRED vs Ence.A
+DTSTART:20251106T150000Z
+DTEND:20251106T173000Z
+UID:csgo_mc_2387618@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387618\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387618
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: TBD vs TBD
+DTSTART:20251106T153000Z
+DTEND:20251106T180000Z
+UID:csgo_mc_2387085@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387085\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛6: GameHunters vs LP
+DTSTART:20251106T160000Z
+DTEND:20251106T183000Z
+UID:csgo_mc_2387657@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387657\n赛事:  CCT 第3赛季 南美系
+ 列赛6\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387657
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:女子职业联赛 第1赛季: Imperial fe vs confidence
+DTSTART:20251106T163000Z
+DTEND:20251106T190000Z
+UID:csgo_mc_2387714@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387714\n赛事: 女子职业联赛 第1赛
+ 季\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387714
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 圣保罗 2025: TBD vs TBD
+DTSTART:20251106T173000Z
+DTEND:20251106T200000Z
+UID:csgo_mc_2387742@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387742\n赛事: Circuit X 圣保罗 2025\n
+ 阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387742
 END:VEVENT
 END:VCALENDAR
