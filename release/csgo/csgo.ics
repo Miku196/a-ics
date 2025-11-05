@@ -3,101 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第40赛季: MASONIC vs Wildcard Academy
-DTSTART:20251105T144000Z
-DTEND:20251105T171000Z
-UID:csgo_mc_2387701@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387701\n赛事: United21 联赛 第40赛季
- \n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
-  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387701
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: Nuclear TigeRES
-  vs HyperSpirit
-DTSTART:20251105T150000Z
-DTEND:20251105T173000Z
-UID:csgo_mc_2387772@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387772\n赛事: CCT 第3赛季 欧洲系列
- 赛 11 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387772
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: Sangal vs ECSTATIC
-DTSTART:20251105T150000Z
-DTEND:20251105T173000Z
-UID:csgo_mc_2387022@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387022\n赛事: Winline Insight 第9赛季\
- n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387022
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: 9BOOMPRO vs Fire Flux
-DTSTART:20251105T150000Z
-DTEND:20251105T173000Z
-UID:csgo_mc_2387614@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387614\n赛事: NODWIN Clutch 系列 第2
- 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387614
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段 公开预选: kONO vs Novaq
-DTSTART:20251105T150000Z
-DTEND:20251105T173000Z
-UID:csgo_mc_2387438@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387438\n赛事: 银河之战 2025 第5阶
- 段 公开预选\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387438
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: SPARTA vs 500
-DTSTART:20251105T153000Z
-DTEND:20251105T180000Z
-UID:csgo_mc_2387081@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387081\n赛事: CCT 第3赛季 欧洲系列
- 赛 10\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387081
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: Tropa do KinGui vs Prison Breake
- rs
-DTSTART:20251105T160000Z
-DTEND:20251105T183000Z
-UID:csgo_mc_2387653@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387653\n赛事:  CCT 第3赛季 南美系
- 列赛6\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387653
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:女子职业联赛 第1赛季: Nemesis Impact vs BIG.E
-DTSTART:20251105T160000Z
-DTEND:20251105T183000Z
-UID:csgo_mc_2387698@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387698\n赛事: 女子职业联赛 第1赛
- 季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387698
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Showmatch CS: NIP vs NIP Legends
 DTSTART:20251105T170000Z
 DTEND:20251105T193000Z
@@ -252,7 +157,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387762
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: Phantom vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: Phantom vs AI
 DTSTART:20251106T090000Z
 DTEND:20251106T113000Z
 UID:csgo_mc_2387778@5eplay.com
@@ -322,7 +227,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387763
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第40赛季: Brute vs TBD
+SUMMARY:United21 联赛 第40赛季: Brute vs Lilmix
 DTSTART:20251106T113000Z
 DTEND:20251106T140000Z
 UID:csgo_mc_2387705@5eplay.com
@@ -345,7 +250,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387779
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: TBD vs TBD
+SUMMARY:Winline Insight 第9赛季: Spirit.A vs TBD
 DTSTART:20251106T120000Z
 DTEND:20251106T143000Z
 UID:csgo_mc_2387023@5eplay.com
@@ -400,5 +305,74 @@ DESCRIPTION:比赛ID: csgo_mc_2387084\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387084
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛6: Mibr.A vs Vasco
+DTSTART:20251106T130000Z
+DTEND:20251106T153000Z
+UID:csgo_mc_2387654@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387654\n赛事:  CCT 第3赛季 南美系
+ 列赛6\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387654
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:女子职业联赛 第1赛季: amateurs vs Fingers Crossed fe
+DTSTART:20251106T133000Z
+DTEND:20251106T160000Z
+UID:csgo_mc_2387716@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387716\n赛事: 女子职业联赛 第1赛
+ 季\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 圣保罗 2025: TBD vs TBD
+DTSTART:20251106T143000Z
+DTEND:20251106T170000Z
+UID:csgo_mc_2387740@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387740\n赛事: Circuit X 圣保罗 2025\n
+ 阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387740
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 圣保罗 2025: TBD vs TBD
+DTSTART:20251106T143000Z
+DTEND:20251106T170000Z
+UID:csgo_mc_2387741@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387741\n赛事: Circuit X 圣保罗 2025\n
+ 阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387741
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: Novaq vs FORZE 
+ Reload
+DTSTART:20251106T150000Z
+DTEND:20251106T173000Z
+UID:csgo_mc_2387780@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387780\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11 封闭预选赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛
+ \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387780
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第9赛季: SINNERS vs TBD
+DTSTART:20251106T150000Z
+DTEND:20251106T173000Z
+UID:csgo_mc_2387024@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387024\n赛事: Winline Insight 第9赛季\
+ n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387024
 END:VEVENT
 END:VCALENDAR
