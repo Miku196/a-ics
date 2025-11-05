@@ -3,28 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:IEM成都 2025: Heroic vs Spirit
-DTSTART:20251105T043000Z
-DTEND:20251105T070000Z
-UID:csgo_mc_2387403@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387403\n赛事: IEM成都 2025\n阶段: 小
- 组赛 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: A级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387403
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEM成都 2025: Mongolz vs paiN
-DTSTART:20251105T043000Z
-DTEND:20251105T070000Z
-UID:csgo_mc_2387404@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387404\n赛事: IEM成都 2025\n阶段: 小
- 组赛 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: A级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387404
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:完美世界 挑战者系列赛 2 封闭预选: Kaleido vs UR
 DTSTART:20251105T070000Z
 DTEND:20251105T093000Z
@@ -37,18 +15,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387760
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IEM成都 2025: FURIA vs MOUZ
-DTSTART:20251105T070000Z
-DTEND:20251105T093000Z
-UID:csgo_mc_2387405@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387405\n赛事: IEM成都 2025\n阶段: 小
- 组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: A级\n状态
- : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387405
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEM成都 2025: Vitality vs TBD
+SUMMARY:IEM成都 2025: Vitality vs G2
 DTSTART:20251105T070000Z
 DTEND:20251105T093000Z
 UID:csgo_mc_2387406@5eplay.com
@@ -57,6 +24,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387406\n赛事: IEM成都 2025\n阶段: 小
  : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387406
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEM成都 2025: FURIA vs MOUZ
+DTSTART:20251105T083000Z
+DTEND:20251105T110000Z
+UID:csgo_mc_2387405@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387405\n赛事: IEM成都 2025\n阶段: 小
+ 组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: A级\n状态
+ : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387405
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: Novaq vs Phanto
@@ -459,5 +437,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387762\n赛事: 完美世界 挑战者系
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387762
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: TBD vs TBD
+DTSTART:20251106T090000Z
+DTEND:20251106T113000Z
+UID:csgo_mc_2387778@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387778\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11 封闭预选赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮
+ \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387778
 END:VEVENT
 END:VCALENDAR
