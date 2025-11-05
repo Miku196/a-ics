@@ -187,7 +187,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387771
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: TBD vs TBD
+SUMMARY:Winline Insight 第9赛季: SINNERS vs Spirit.A
 DTSTART:20251105T120000Z
 DTEND:20251105T143000Z
 UID:csgo_mc_2387021@5eplay.com
@@ -233,7 +233,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387080
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛6: Fuego vs MAGICOS
 DTSTART:20251105T130000Z
 DTEND:20251105T153000Z
 UID:csgo_mc_2387652@5eplay.com
@@ -269,7 +269,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387772
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winline Insight 第9赛季: TBD vs TBD
+SUMMARY:Winline Insight 第9赛季: Sangal vs ECSTATIC
 DTSTART:20251105T150000Z
 DTEND:20251105T173000Z
 UID:csgo_mc_2387022@5eplay.com
@@ -316,7 +316,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387081
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛6: Tropa do KinGui vs Prison Breake
+ rs
 DTSTART:20251105T160000Z
 DTEND:20251105T183000Z
 UID:csgo_mc_2387653@5eplay.com
@@ -398,7 +399,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387082
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第55赛季 欧洲: TBD vs TBD
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: Wildcard Academy vs Leo
 DTSTART:20251105T183000Z
 DTEND:20251105T210000Z
 UID:csgo_mc_2387732@5eplay.com
@@ -410,7 +411,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387732
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第55赛季 欧洲: TBD vs TBD
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: MOUZ.N vs MINLATE
 DTSTART:20251105T183000Z
 DTEND:20251105T210000Z
 UID:csgo_mc_2387733@5eplay.com
@@ -422,7 +423,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387733
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第55赛季 欧洲: TBD vs TBD
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: FORZE Reload vs DRGN
 DTSTART:20251105T183000Z
 DTEND:20251105T210000Z
 UID:csgo_mc_2387734@5eplay.com
@@ -434,7 +435,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387734
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第55赛季 欧洲: TBD vs TBD
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: OLDBOYS vs TBD
 DTSTART:20251105T183000Z
 DTEND:20251105T210000Z
 UID:csgo_mc_2387735@5eplay.com
@@ -446,7 +447,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387735
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛6: Mibr.A vs Vasco
 DTSTART:20251105T190000Z
 DTEND:20251105T213000Z
 UID:csgo_mc_2387654@5eplay.com
@@ -456,5 +457,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387654\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387654
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛6: FURIA fe vs paiN.A
+DTSTART:20251105T220000Z
+DTEND:20251106T003000Z
+UID:csgo_mc_2387655@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387655\n赛事:  CCT 第3赛季 南美系
+ 列赛6\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387655
 END:VEVENT
 END:VCALENDAR
