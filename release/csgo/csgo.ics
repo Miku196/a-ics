@@ -3,67 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:IEM成都 2025: Vitality vs G2
-DTSTART:20251105T083000Z
-DTEND:20251105T110000Z
-UID:csgo_mc_2387406@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387406\n赛事: IEM成都 2025\n阶段: 小
- 组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: A级\n状态
- : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387406
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: Novaq vs Phanto
- m
-DTSTART:20251105T090000Z
-DTEND:20251105T113000Z
-UID:csgo_mc_2387770@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387770\n赛事: CCT 第3赛季 欧洲系列
- 赛 11 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387770
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛杯 2: Tricked vs Wildcard Academy
-DTSTART:20251105T090000Z
-DTEND:20251105T113000Z
-UID:csgo_mc_2387531@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387531\n赛事: 欧洲职业联赛杯 2\n
- 阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387531
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: CPH Wolves vs Nuclear TigeRES
-DTSTART:20251105T090000Z
-DTEND:20251105T113000Z
-UID:csgo_mc_2387612@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387612\n赛事: NODWIN Clutch 系列 第2
- 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387612
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEM成都 2025: Astralis vs Falcons
-DTSTART:20251105T093000Z
-DTEND:20251105T120000Z
-UID:csgo_mc_2387407@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387407\n赛事: IEM成都 2025\n阶段: 小
- 组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: A级\n状态
- : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387407
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEM成都 2025: Spirit vs TBD
-DTSTART:20251105T093000Z
-DTEND:20251105T120000Z
+SUMMARY:IEM成都 2025: Spirit vs Mongolz
+DTSTART:20251105T111500Z
+DTEND:20251105T134500Z
 UID:csgo_mc_2387408@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387408\n赛事: IEM成都 2025\n阶段: 小
  组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: A级\n状态
@@ -72,28 +14,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387408
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 2 封闭预选: Last Bullet vs BOR
- ING PLAYER
-DTSTART:20251105T100000Z
-DTEND:20251105T123000Z
-UID:csgo_mc_2387761@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387761\n赛事: 完美世界 挑战者系
- 列赛 2 封闭预选\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\
- n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
+SUMMARY:IEM成都 2025: Astralis vs Falcons
+DTSTART:20251105T113000Z
+DTEND:20251105T140000Z
+UID:csgo_mc_2387407@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387407\n赛事: IEM成都 2025\n阶段: 小
+ 组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: A级\n状态
+ : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387761
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United21 联赛 第40赛季: GANK vs Brute
-DTSTART:20251105T100000Z
-DTEND:20251105T123000Z
-UID:csgo_mc_2387702@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387702\n赛事: United21 联赛 第40赛季
- \n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
-  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387702
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387407
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: FORZE Reload vs
@@ -321,18 +250,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387082
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第55赛季 欧洲: Wildcard Academy vs Leo
-DTSTART:20251105T183000Z
-DTEND:20251105T210000Z
-UID:csgo_mc_2387732@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387732\n赛事: ESEA发展联赛 第55赛
- 季 欧洲\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387732
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESEA发展联赛 第55赛季 欧洲: MOUZ.N vs MINLATE
 DTSTART:20251105T183000Z
 DTEND:20251105T210000Z
@@ -369,16 +286,28 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387735
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: Mibr.A vs Vasco
+SUMMARY: CCT 第3赛季 南美系列赛6: Bounty Hunters vs Procyon
 DTSTART:20251105T190000Z
 DTEND:20251105T213000Z
-UID:csgo_mc_2387654@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387654\n赛事:  CCT 第3赛季 南美系
+UID:csgo_mc_2387656@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387656\n赛事:  CCT 第3赛季 南美系
  列赛6\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
  级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
  lay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387654
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387656
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: Wildcard Academy vs Leo
+DTSTART:20251105T190000Z
+DTEND:20251105T213000Z
+UID:csgo_mc_2387732@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387732\n赛事: ESEA发展联赛 第55赛
+ 季 欧洲\n阶段: 淘汰赛 胜者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387732
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 南美系列赛6: FURIA fe vs paiN.A
@@ -437,5 +366,28 @@ DESCRIPTION:比赛ID: csgo_mc_2387532\n赛事: 欧洲职业联赛杯 2\n
  时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387532
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: Novaq vs K27
+DTSTART:20251106T090000Z
+DTEND:20251106T113000Z
+UID:csgo_mc_2387616@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387616\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387616
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第40赛季: Megoshort vs TBD
+DTSTART:20251106T090000Z
+DTEND:20251106T113000Z
+UID:csgo_mc_2387704@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387704\n赛事: United21 联赛 第40赛季
+ \n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
+  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387704
 END:VEVENT
 END:VCALENDAR
