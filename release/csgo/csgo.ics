@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: FURIA fe vs paiN.A
-DTSTART:20251105T220000Z
-DTEND:20251106T003000Z
-UID:csgo_mc_2387655@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387655\n赛事:  CCT 第3赛季 南美系
- 列赛6\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387655
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S4: Marsborne vs Voca
 DTSTART:20251106T010000Z
 DTEND:20251106T033000Z
@@ -84,7 +72,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387704
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: VP.P vs FT
 DTSTART:20251106T093000Z
 DTEND:20251106T120000Z
 UID:csgo_mc_2387083@5eplay.com
@@ -108,6 +96,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387763
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exort Series 第18赛季: ECLOT vs HyperSpirit
+DTSTART:20251106T103000Z
+DTEND:20251106T130000Z
+UID:csgo_mc_2387930@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387930\n赛事: Exort Series 第18赛季\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387930
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:United21 联赛 第40赛季: Brute vs Lilmix
 DTSTART:20251106T113000Z
 DTEND:20251106T140000Z
@@ -120,7 +119,7 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2387705
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: Nuclear TigeRES
-  vs TBD
+  vs Aab
 DTSTART:20251106T120000Z
 DTEND:20251106T143000Z
 UID:csgo_mc_2387779@5eplay.com
@@ -177,7 +176,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387724
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: JJH vs GUN5
 DTSTART:20251106T123000Z
 DTEND:20251106T150000Z
 UID:csgo_mc_2387084@5eplay.com
@@ -199,6 +198,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387654\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387654
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort Series 第18赛季: UNiTY vs Flame Sharks
+DTSTART:20251106T133000Z
+DTEND:20251106T160000Z
+UID:csgo_mc_2387931@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387931\n赛事: Exort Series 第18赛季\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387931
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:女子职业联赛 第1赛季: amateurs vs Fingers Crossed fe
@@ -270,7 +280,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387618
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: ZT vs Oramond
 DTSTART:20251106T153000Z
 DTEND:20251106T180000Z
 UID:csgo_mc_2387085@5eplay.com
@@ -292,6 +302,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387657\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387657
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort Series 第18赛季: 9INE vs aimclub
+DTSTART:20251106T163000Z
+DTEND:20251106T190000Z
+UID:csgo_mc_2387932@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387932\n赛事: Exort Series 第18赛季\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387932
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:女子职业联赛 第1赛季: Imperial fe vs confidence
@@ -318,7 +339,7 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2387742
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: HyperSpirit vs 
- TBD
+ K27
 DTSTART:20251106T180000Z
 DTEND:20251106T203000Z
 UID:csgo_mc_2387781@5eplay.com
@@ -342,7 +363,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387619
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: Monte vs Nuclear TigeRES
 DTSTART:20251106T183000Z
 DTEND:20251106T210000Z
 UID:csgo_mc_2387086@5eplay.com
@@ -366,6 +387,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387658
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exort Series 第18赛季: TPuDCATb_TPu vs TBD
+DTSTART:20251106T193000Z
+DTEND:20251106T220000Z
+UID:csgo_mc_2387933@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387933\n赛事: Exort Series 第18赛季\n
+ 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
+ 数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387933
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Circuit X 圣保罗 2025: Gaimin Gladiators vs Bounty Hunters
 DTSTART:20251106T200000Z
 DTEND:20251106T223000Z
@@ -375,5 +407,50 @@ DESCRIPTION:比赛ID: csgo_mc_2387727\n赛事: Circuit X 圣保罗 2025\n
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 圣保罗 2025: Fluxo vs Charrados
+DTSTART:20251106T200000Z
+DTEND:20251106T223000Z
+UID:csgo_mc_2387726@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387726\n赛事: Circuit X 圣保罗 2025\n
+ 阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387726
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛6: Galorys vs KRÜ
+DTSTART:20251106T220000Z
+DTEND:20251107T003000Z
+UID:csgo_mc_2387659@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387659\n赛事:  CCT 第3赛季 南美系
+ 列赛6\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387659
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 圣保罗 2025: TBD vs TBD
+DTSTART:20251106T223000Z
+DTEND:20251107T010000Z
+UID:csgo_mc_2387743@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387743\n赛事: Circuit X 圣保罗 2025\n
+ 阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387743
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 圣保罗 2025: TBD vs TBD
+DTSTART:20251106T223000Z
+DTEND:20251107T010000Z
+UID:csgo_mc_2387744@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387744\n赛事: Circuit X 圣保罗 2025\n
+ 阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387744
 END:VEVENT
 END:VCALENDAR
