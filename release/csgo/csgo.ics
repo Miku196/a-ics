@@ -3,57 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: ARCRED vs AMKAL
-DTSTART:20251105T123000Z
-DTEND:20251105T150000Z
-UID:csgo_mc_2387080@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387080\n赛事: CCT 第3赛季 欧洲系列
- 赛 10\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387080
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: FORZE Reload vs
-  AI
-DTSTART:20251105T124000Z
-DTEND:20251105T151000Z
-UID:csgo_mc_2387771@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387771\n赛事: CCT 第3赛季 欧洲系列
- 赛 11 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387771
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: Fuego vs MAGICOS
-DTSTART:20251105T130000Z
-DTEND:20251105T153000Z
-UID:csgo_mc_2387652@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387652\n赛事:  CCT 第3赛季 南美系
- 列赛6\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387652
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United21 联赛 第40赛季: Lilmix vs YinYang
-DTSTART:20251105T130000Z
-DTEND:20251105T153000Z
-UID:csgo_mc_2387703@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387703\n赛事: United21 联赛 第40赛季
- \n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
-  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387703
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:United21 联赛 第40赛季: MASONIC vs Wildcard Academy
-DTSTART:20251105T140000Z
-DTEND:20251105T163000Z
+DTSTART:20251105T144000Z
+DTEND:20251105T171000Z
 UID:csgo_mc_2387701@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387701\n赛事: United21 联赛 第40赛季
  \n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
@@ -300,7 +252,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387762
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: Phantom vs TBD
 DTSTART:20251106T090000Z
 DTEND:20251106T113000Z
 UID:csgo_mc_2387778@5eplay.com
@@ -370,7 +322,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387763
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第40赛季: TBD vs TBD
+SUMMARY:United21 联赛 第40赛季: Brute vs TBD
 DTSTART:20251106T113000Z
 DTEND:20251106T140000Z
 UID:csgo_mc_2387705@5eplay.com
@@ -391,5 +343,62 @@ DESCRIPTION:比赛ID: csgo_mc_2387779\n赛事: CCT 第3赛季 欧洲系列
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387779
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winline Insight 第9赛季: TBD vs TBD
+DTSTART:20251106T120000Z
+DTEND:20251106T143000Z
+UID:csgo_mc_2387023@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387023\n赛事: Winline Insight 第9赛季\
+ n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估
+ 时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: FORZE Reload vs SPARTA
+DTSTART:20251106T120000Z
+DTEND:20251106T143000Z
+UID:csgo_mc_2387617@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387617\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387617
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 圣保罗 2025: Fake do Biru vs Galorys
+DTSTART:20251106T120000Z
+DTEND:20251106T143000Z
+UID:csgo_mc_2387725@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387725\n赛事: Circuit X 圣保罗 2025\n
+ 阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387725
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 圣保罗 2025: Imperial vs ALZON
+DTSTART:20251106T120000Z
+DTEND:20251106T143000Z
+UID:csgo_mc_2387724@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387724\n赛事: Circuit X 圣保罗 2025\n
+ 阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387724
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: TBD vs TBD
+DTSTART:20251106T123000Z
+DTEND:20251106T150000Z
+UID:csgo_mc_2387084@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387084\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387084
 END:VEVENT
 END:VCALENDAR
