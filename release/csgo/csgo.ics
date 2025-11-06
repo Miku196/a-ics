@@ -4,8 +4,8 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY:Circuit X 圣保罗 2025: Gaimin Gladiators vs Bounty Hunters
-DTSTART:20251106T203000Z
-DTEND:20251106T230000Z
+DTSTART:20251106T222000Z
+DTEND:20251107T005000Z
 UID:csgo_mc_2387727@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387727\n赛事: Circuit X 圣保罗 2025\n
  阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
@@ -15,26 +15,14 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2387727
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Circuit X 圣保罗 2025: Fluxo vs Charrados
-DTSTART:20251106T203000Z
-DTEND:20251106T230000Z
+DTSTART:20251106T222000Z
+DTEND:20251107T005000Z
 UID:csgo_mc_2387726@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387726\n赛事: Circuit X 圣保罗 2025\n
  阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387726
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: Galorys vs KRÜ
-DTSTART:20251106T220000Z
-DTEND:20251107T003000Z
-UID:csgo_mc_2387659@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387659\n赛事:  CCT 第3赛季 南美系
- 列赛6\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387659
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Circuit X 圣保罗 2025: TBD vs TBD
@@ -388,5 +376,60 @@ DESCRIPTION:比赛ID: csgo_mc_2387876\n赛事: 2025 年红牛吉巴瓦之
  预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: 777 vs Boys N Da HUD
+DTSTART:20251107T120000Z
+DTEND:20251107T130000Z
+UID:csgo_mc_2387872@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387872\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387872
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: ENCE vs FUT Academy
+DTSTART:20251107T120000Z
+DTEND:20251107T130000Z
+UID:csgo_mc_2387877@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387877\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387877
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: MASONIC vs Falcons Force
+DTSTART:20251107T120000Z
+DTEND:20251107T130000Z
+UID:csgo_mc_2387878@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387878\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387878
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: EYE vs MOUZ.N
+DTSTART:20251107T120000Z
+DTEND:20251107T130000Z
+UID:csgo_mc_2387879@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387879\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387879
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: WOPA vs boomer demons
+DTSTART:20251107T120000Z
+DTEND:20251107T130000Z
+UID:csgo_mc_2387881@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387881\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387881
 END:VEVENT
 END:VCALENDAR
