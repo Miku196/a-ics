@@ -3,52 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: JJH vs GUN5
-DTSTART:20251106T123000Z
-DTEND:20251106T150000Z
-UID:csgo_mc_2387084@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387084\n赛事: CCT 第3赛季 欧洲系列
- 赛 10\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387084
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: Mibr.A vs Vasco
-DTSTART:20251106T130000Z
-DTEND:20251106T153000Z
-UID:csgo_mc_2387654@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387654\n赛事:  CCT 第3赛季 南美系
- 列赛6\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387654
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort Series 第18赛季: UNiTY vs Flame Sharks
-DTSTART:20251106T133000Z
-DTEND:20251106T160000Z
-UID:csgo_mc_2387931@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387931\n赛事: Exort Series 第18赛季\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387931
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:女子职业联赛 第1赛季: amateurs vs Fingers Crossed fe
-DTSTART:20251106T133000Z
-DTEND:20251106T160000Z
-UID:csgo_mc_2387716@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387716\n赛事: 女子职业联赛 第1赛
- 季\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等
- 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387716
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Circuit X 圣保罗 2025: TBD vs TBD
 DTSTART:20251106T143000Z
 DTEND:20251106T170000Z
@@ -398,5 +352,40 @@ DESCRIPTION:比赛ID: csgo_mc_2387087\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387087
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEM成都 2025: FURIA vs Mongolz
+DTSTART:20251107T094500Z
+DTEND:20251107T121500Z
+UID:csgo_mc_2387409@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387409\n赛事: IEM成都 2025\n阶段: 淘
+ 汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: A级\n状态: 
+ 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 2 封闭预选: GATERON vs EGG
+DTSTART:20251107T100000Z
+DTEND:20251107T123000Z
+UID:csgo_mc_2387765@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387765\n赛事: 完美世界 挑战者系
+ 列赛 2 封闭预选\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\
+ n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387765
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025: BIG vs Nemesis 
+ SEA
+DTSTART:20251107T100000Z
+DTEND:20251107T123000Z
+UID:csgo_mc_2387552@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387552\n赛事: Skyesports 钦奈电子竞
+ 技全球锦标赛 2025\n阶段: 小组赛\n赛制: BO3\n等级: C级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387552
 END:VEVENT
 END:VCALENDAR
