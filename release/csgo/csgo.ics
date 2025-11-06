@@ -101,8 +101,8 @@ DTSTART:20251106T103000Z
 DTEND:20251106T130000Z
 UID:csgo_mc_2387930@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387930\n赛事: Exort Series 第18赛季\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387930
 END:VEVENT
@@ -205,8 +205,8 @@ DTSTART:20251106T133000Z
 DTEND:20251106T160000Z
 UID:csgo_mc_2387931@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387931\n赛事: Exort Series 第18赛季\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387931
 END:VEVENT
@@ -216,8 +216,8 @@ DTSTART:20251106T133000Z
 DTEND:20251106T160000Z
 UID:csgo_mc_2387716@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387716\n赛事: 女子职业联赛 第1赛
- 季\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+ 季\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387716
 END:VEVENT
@@ -309,8 +309,8 @@ DTSTART:20251106T163000Z
 DTEND:20251106T190000Z
 UID:csgo_mc_2387932@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387932\n赛事: Exort Series 第18赛季\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387932
 END:VEVENT
@@ -375,6 +375,30 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387086
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: Wildcard Academy vs MOUZ.N
+DTSTART:20251106T183000Z
+DTEND:20251106T210000Z
+UID:csgo_mc_2387937@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387937\n赛事: ESEA发展联赛 第55赛
+ 季 欧洲\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387937
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: FORZE Reload vs OLDBOYS
+DTSTART:20251106T183000Z
+DTEND:20251106T210000Z
+UID:csgo_mc_2387938@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387938\n赛事: ESEA发展联赛 第55赛
+ 季 欧洲\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387938
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 南美系列赛6: Dusty Roots vs Crashers
 DTSTART:20251106T190000Z
 DTEND:20251106T213000Z
@@ -387,13 +411,13 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387658
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exort Series 第18赛季: TPuDCATb_TPu vs TBD
+SUMMARY:Exort Series 第18赛季: TPuDCATb_TPu vs QUAZAR
 DTSTART:20251106T193000Z
 DTEND:20251106T220000Z
 UID:csgo_mc_2387933@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387933\n赛事: Exort Series 第18赛季\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387933
 END:VEVENT
@@ -441,16 +465,5 @@ DESCRIPTION:比赛ID: csgo_mc_2387743\n赛事: Circuit X 圣保罗 2025\n
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387743
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Circuit X 圣保罗 2025: TBD vs TBD
-DTSTART:20251106T223000Z
-DTEND:20251107T010000Z
-UID:csgo_mc_2387744@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387744\n赛事: Circuit X 圣保罗 2025\n
- 阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387744
 END:VEVENT
 END:VCALENDAR
