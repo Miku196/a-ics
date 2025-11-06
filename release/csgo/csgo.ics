@@ -3,75 +3,15 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: GameHunters vs LP
-DTSTART:20251106T161500Z
-DTEND:20251106T184500Z
-UID:csgo_mc_2387657@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387657\n赛事:  CCT 第3赛季 南美系
- 列赛6\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387657
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort Series 第18赛季: 9INE vs aimclub
-DTSTART:20251106T163000Z
-DTEND:20251106T190000Z
-UID:csgo_mc_2387932@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387932\n赛事: Exort Series 第18赛季\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387932
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:女子职业联赛 第1赛季: Imperial fe vs confidence
-DTSTART:20251106T163000Z
-DTEND:20251106T190000Z
-UID:csgo_mc_2387714@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387714\n赛事: 女子职业联赛 第1赛
- 季\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3
- \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
- ay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387714
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Circuit X 圣保罗 2025: TBD vs TBD
-DTSTART:20251106T173000Z
-DTEND:20251106T200000Z
+SUMMARY:Circuit X 圣保罗 2025: Fake do Biru vs Galorys
+DTSTART:20251106T182500Z
+DTEND:20251106T205500Z
 UID:csgo_mc_2387742@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387742\n赛事: Circuit X 圣保罗 2025\n
  阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387742
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: HyperSpirit vs 
- K27
-DTSTART:20251106T180000Z
-DTEND:20251106T203000Z
-UID:csgo_mc_2387781@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387781\n赛事: CCT 第3赛季 欧洲系列
- 赛 11 封闭预选赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387781
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: JJH vs AMKAL
-DTSTART:20251106T180000Z
-DTEND:20251106T203000Z
-UID:csgo_mc_2387619@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387619\n赛事: NODWIN Clutch 系列 第2
- 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387619
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 10: Monte vs Nuclear TigeRES
@@ -394,5 +334,106 @@ DESCRIPTION:比赛ID: csgo_mc_2387864\n赛事: 2025 年红牛吉巴瓦之
  预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387864
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: EYE vs FUT Academy
+DTSTART:20251107T110000Z
+DTEND:20251107T120000Z
+UID:csgo_mc_2387866@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387866\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387866
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: Alliance vs boomer demons
+DTSTART:20251107T110000Z
+DTEND:20251107T120000Z
+UID:csgo_mc_2387868@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387868\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387868
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: MOUZ.N vs MASONIC
+DTSTART:20251107T110000Z
+DTEND:20251107T120000Z
+UID:csgo_mc_2387867@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387867\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387867
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: BC.Game vs aimclub
+DTSTART:20251107T110000Z
+DTEND:20251107T120000Z
+UID:csgo_mc_2387869@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387869\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387869
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: AM vs WOPA
+DTSTART:20251107T110000Z
+DTEND:20251107T120000Z
+UID:csgo_mc_2387870@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387870\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387870
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第40赛季: GANK vs YinYang
+DTSTART:20251107T113000Z
+DTEND:20251107T140000Z
+UID:csgo_mc_2387707@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387707\n赛事: United21 联赛 第40赛季
+ \n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387707
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: AMKAL vs Genone
+DTSTART:20251107T120000Z
+DTEND:20251107T143000Z
+UID:csgo_mc_2387775@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387775\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
+ \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387775
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: Inner Circle vs Acend
+DTSTART:20251107T120000Z
+DTEND:20251107T130000Z
+UID:csgo_mc_2387874@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387874\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387874
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: Y.NIP vs Minkens finest
+DTSTART:20251107T120000Z
+DTEND:20251107T130000Z
+UID:csgo_mc_2387875@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387875\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387875
 END:VEVENT
 END:VCALENDAR
