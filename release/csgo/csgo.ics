@@ -3,254 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: Johnny Speeds vs Minkens finest
-DTSTART:20251107T141500Z
-DTEND:20251107T151500Z
-UID:csgo_mc_2387888@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387888\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387888
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: Metizport vs Acend
-DTSTART:20251107T142000Z
-DTEND:20251107T152000Z
-UID:csgo_mc_2387887@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387887\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387887
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: Alliance vs AM
-DTSTART:20251107T144500Z
-DTEND:20251107T154500Z
-UID:csgo_mc_2387904@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387904\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387904
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: BC.Game vs WOPA
-DTSTART:20251107T144500Z
-DTEND:20251107T154500Z
-UID:csgo_mc_2387905@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387905\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387905
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: aimclub vs boomer demons
-DTSTART:20251107T144500Z
-DTEND:20251107T154500Z
-UID:csgo_mc_2387906@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387906\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387906
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: EF vs SPARTA
-DTSTART:20251107T150000Z
-DTEND:20251107T173000Z
-UID:csgo_mc_2387776@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387776\n赛事: CCT 第3赛季 欧洲系列
- 赛 11 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387776
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: JJH vs Ence.A
-DTSTART:20251107T150000Z
-DTEND:20251107T173000Z
-UID:csgo_mc_2387622@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387622\n赛事: NODWIN Clutch 系列 第2
- 赛季\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387622
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: BB vs Betclic
-DTSTART:20251107T150000Z
-DTEND:20251107T160000Z
-UID:csgo_mc_2387895@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387895\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387895
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: Sashi vs 777
-DTSTART:20251107T150000Z
-DTEND:20251107T160000Z
-UID:csgo_mc_2387896@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387896\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387896
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: Lilmix vs Boys N Da HUD
-DTSTART:20251107T150000Z
-DTEND:20251107T160000Z
-UID:csgo_mc_2387897@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387897\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387897
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: Inner Circle vs Metizport
-DTSTART:20251107T150000Z
-DTEND:20251107T160000Z
-UID:csgo_mc_2387898@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387898\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387898
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: Johnny Speeds vs Y.NIP
-DTSTART:20251107T150000Z
-DTEND:20251107T160000Z
-UID:csgo_mc_2387899@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387899\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387899
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: Acend vs Minkens finest
-DTSTART:20251107T150000Z
-DTEND:20251107T160000Z
-UID:csgo_mc_2387900@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387900\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387900
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: ENCE vs MOUZ.N
-DTSTART:20251107T150000Z
-DTEND:20251107T160000Z
-UID:csgo_mc_2387901@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387901\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387901
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: EYE vs MASONIC
-DTSTART:20251107T150000Z
-DTEND:20251107T160000Z
-UID:csgo_mc_2387902@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387902\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387902
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: FUT Academy vs Falcons Force
-DTSTART:20251107T150000Z
-DTEND:20251107T160000Z
-UID:csgo_mc_2387903@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387903\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387903
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Circuit X 圣保罗 2025: RED Canids vs TBD
-DTSTART:20251107T150000Z
-DTEND:20251107T173000Z
-UID:csgo_mc_2387746@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387746\n赛事: Circuit X 圣保罗 2025\n
- 阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387746
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Circuit X 圣保罗 2025: Mibr.A vs TBD
-DTSTART:20251107T150000Z
-DTEND:20251107T173000Z
-UID:csgo_mc_2387747@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387747\n赛事: Circuit X 圣保罗 2025\n
- 阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387747
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: Nemiga vs Nexus
-DTSTART:20251107T153000Z
-DTEND:20251107T180000Z
-UID:csgo_mc_2387089@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387089\n赛事: CCT 第3赛季 欧洲系列
- 赛 10\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387089
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: AM vs boomer demons
-DTSTART:20251107T154500Z
-DTEND:20251107T164500Z
-UID:csgo_mc_2387917@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387917\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387917
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: WOPA vs aimclub
-DTSTART:20251107T154500Z
-DTEND:20251107T164500Z
-UID:csgo_mc_2387918@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387918\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387918
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: Alliance vs BC.Game
-DTSTART:20251107T154500Z
-DTEND:20251107T164500Z
-UID:csgo_mc_2387916@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387916\n赛事: 2025 年红牛吉巴瓦之
- 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
- 预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387916
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2025 年红牛吉巴瓦之旅: MASONIC vs FUT Academy
-DTSTART:20251107T160000Z
-DTEND:20251107T170000Z
+DTSTART:20251107T162000Z
+DTEND:20251107T172000Z
 UID:csgo_mc_2387915@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387915\n赛事: 2025 年红牛吉巴瓦之
  旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
@@ -259,20 +14,54 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387915
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2025 年红牛吉巴瓦之旅: Betclic vs Boys N Da HUD
-DTSTART:20251107T160000Z
-DTEND:20251107T170000Z
-UID:csgo_mc_2387908@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387908\n赛事: 2025 年红牛吉巴瓦之
+SUMMARY:2025 年红牛吉巴瓦之旅: ENCE vs EYE
+DTSTART:20251107T162000Z
+DTEND:20251107T172000Z
+UID:csgo_mc_2387913@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387913\n赛事: 2025 年红牛吉巴瓦之
  旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
  预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387908
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387913
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: MOUZ.N vs Falcons Force
+DTSTART:20251107T162000Z
+DTEND:20251107T172000Z
+UID:csgo_mc_2387914@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387914\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387914
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort Series 第18赛季: 9INE vs TPuDCATb_TPu
+DTSTART:20251107T163000Z
+DTEND:20251107T190000Z
+UID:csgo_mc_2387935@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387935\n赛事: Exort Series 第18赛季\n
+ 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387935
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:女子职业联赛 第1赛季: NIP Impact vs Nemesis Impact
+DTSTART:20251107T163000Z
+DTEND:20251107T190000Z
+UID:csgo_mc_2387715@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387715\n赛事: 女子职业联赛 第1赛
+ 季\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387715
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2025 年红牛吉巴瓦之旅: Metizport vs Minkens finest
-DTSTART:20251107T160000Z
-DTEND:20251107T170000Z
+DTSTART:20251107T164500Z
+DTEND:20251107T174500Z
 UID:csgo_mc_2387911@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387911\n赛事: 2025 年红牛吉巴瓦之
  旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
@@ -281,15 +70,200 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387911
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: Tropa do KinGui vs Mibr.A
-DTSTART:20251107T160000Z
-DTEND:20251107T183000Z
-UID:csgo_mc_2387661@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387661\n赛事:  CCT 第3赛季 南美系
+SUMMARY:2025 年红牛吉巴瓦之旅: Y.NIP vs Acend
+DTSTART:20251107T164500Z
+DTEND:20251107T174500Z
+UID:csgo_mc_2387912@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387912\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387912
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: Inner Circle vs Johnny Speeds
+DTSTART:20251107T164500Z
+DTEND:20251107T174500Z
+UID:csgo_mc_2387910@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387910\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387910
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA 发展联赛 第55赛季 欧洲精英杯 1: Flame Sharks vs N
+ uclear TigeRES
+DTSTART:20251107T170000Z
+DTEND:20251107T193000Z
+UID:csgo_mc_2387563@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387563\n赛事: ESEA 发展联赛 第55赛
+ 季 欧洲精英杯 1\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA 发展联赛 第55赛季 欧洲精英杯 1: Bushido Wildcats 
+ vs Fire Flux
+DTSTART:20251107T170000Z
+DTEND:20251107T193000Z
+UID:csgo_mc_2387564@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387564\n赛事: ESEA 发展联赛 第55赛
+ 季 欧洲精英杯 1\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387564
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: DRGN vs RUSTEC
+DTSTART:20251107T170000Z
+DTEND:20251107T193000Z
+UID:csgo_mc_2387737@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387737\n赛事: ESEA发展联赛 第55赛
+ 季 欧洲\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387737
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: UNiTY vs YinYang
+DTSTART:20251107T170000Z
+DTEND:20251107T193000Z
+UID:csgo_mc_2387736@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387736\n赛事: ESEA发展联赛 第55赛
+ 季 欧洲\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387736
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 圣保罗 2025: Gaimin Gladiators vs Bounty Hunters
+DTSTART:20251107T170000Z
+DTEND:20251107T193000Z
+UID:csgo_mc_2387745@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387745\n赛事: Circuit X 圣保罗 2025\n
+ 阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387745
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 圣保罗 2025: TBD vs TBD
+DTSTART:20251107T173000Z
+DTEND:20251107T200000Z
+UID:csgo_mc_2387748@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387748\n赛事: Circuit X 圣保罗 2025\n
+ 阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387748
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: Venom vs ARCRED
+DTSTART:20251107T183000Z
+DTEND:20251107T210000Z
+UID:csgo_mc_2387090@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387090\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387090
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: MINLATE vs Ursa
+DTSTART:20251107T183000Z
+DTEND:20251107T210000Z
+UID:csgo_mc_2387738@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387738\n赛事: ESEA发展联赛 第55赛
+ 季 欧洲\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387738
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: Leo vs Flame Sharks
+DTSTART:20251107T183000Z
+DTEND:20251107T210000Z
+UID:csgo_mc_2387739@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387739\n赛事: ESEA发展联赛 第55赛
+ 季 欧洲\n阶段: 淘汰赛 败者组 第1轮\n轮次: 第1轮\n赛制: 
+ BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387739
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛6: Procyon vs Prison Breakers
+DTSTART:20251107T190000Z
+DTEND:20251107T213000Z
+UID:csgo_mc_2387662@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387662\n赛事:  CCT 第3赛季 南美系
  列赛6\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
  级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
  lay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387661
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387662
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: TBD vs TBD
+DTSTART:20251107T190000Z
+DTEND:20251107T213000Z
+UID:csgo_mc_2387919@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387919\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 淘汰赛 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: TBD vs TBD
+DTSTART:20251107T190000Z
+DTEND:20251107T213000Z
+UID:csgo_mc_2387921@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387921\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 淘汰赛 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387921
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: TBD vs TBD
+DTSTART:20251107T190000Z
+DTEND:20251107T213000Z
+UID:csgo_mc_2387920@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387920\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 淘汰赛 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387920
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: TBD vs TBD
+DTSTART:20251107T190000Z
+DTEND:20251107T213000Z
+UID:csgo_mc_2387922@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387922\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 淘汰赛 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387922
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 圣保罗 2025: Sharks vs Fuego
+DTSTART:20251107T200000Z
+DTEND:20251107T223000Z
+UID:csgo_mc_2387730@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387730\n赛事: Circuit X 圣保罗 2025\n
+ 阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387730
 END:VEVENT
 END:VCALENDAR
