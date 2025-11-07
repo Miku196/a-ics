@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Circuit X 圣保罗 2025: TBD vs TBD
-DTSTART:20251107T034500Z
-DTEND:20251107T061500Z
+SUMMARY:Circuit X 圣保罗 2025: Gaimin Gladiators vs TBD
+DTSTART:20251107T050000Z
+DTEND:20251107T073000Z
 UID:csgo_mc_2387745@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387745\n赛事: Circuit X 圣保罗 2025\n
  阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
@@ -431,5 +431,16 @@ DESCRIPTION:比赛ID: csgo_mc_2387873\n赛事: 2025 年红牛吉巴瓦之
  预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387873
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 圣保罗 2025: RED Canids vs Mibr.A
+DTSTART:20251107T120000Z
+DTEND:20251107T143000Z
+UID:csgo_mc_2387728@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387728\n赛事: Circuit X 圣保罗 2025\n
+ 阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387728
 END:VEVENT
 END:VCALENDAR
