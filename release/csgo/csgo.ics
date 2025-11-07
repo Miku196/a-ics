@@ -3,68 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: ARCRED vs HAVU
-DTSTART:20251107T090000Z
-DTEND:20251107T113000Z
-UID:csgo_mc_2387774@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387774\n赛事: CCT 第3赛季 欧洲系列
- 赛 11 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387774
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: Nuclear TigeRES vs Genone
-DTSTART:20251107T090000Z
-DTEND:20251107T113000Z
-UID:csgo_mc_2387620@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387620\n赛事: NODWIN Clutch 系列 第2
- 赛季\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387620
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United21 联赛 第40赛季: ex-Maestro vs Wildcard Academy
-DTSTART:20251107T090000Z
-DTEND:20251107T113000Z
-UID:csgo_mc_2387706@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387706\n赛事: United21 联赛 第40赛季
- \n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387706
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: Betera vs CYBERSHOKE
-DTSTART:20251107T093000Z
-DTEND:20251107T120000Z
-UID:csgo_mc_2387087@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387087\n赛事: CCT 第3赛季 欧洲系列
- 赛 10\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387087
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IEM成都 2025: FURIA vs Mongolz
-DTSTART:20251107T094500Z
-DTEND:20251107T121500Z
-UID:csgo_mc_2387409@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387409\n赛事: IEM成都 2025\n阶段: 淘
- 汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: A级\n状态: 
- 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387409
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:完美世界 挑战者系列赛 2 封闭预选: GATERON vs EGG
-DTSTART:20251107T100000Z
-DTEND:20251107T123000Z
+DTSTART:20251107T103000Z
+DTEND:20251107T130000Z
 UID:csgo_mc_2387765@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387765\n赛事: 完美世界 挑战者系
  列赛 2 封闭预选\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\
@@ -72,18 +13,6 @@ DESCRIPTION:比赛ID: csgo_mc_2387765\n赛事: 完美世界 挑战者系
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387765
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025: BIG vs Nemesis 
- SEA
-DTSTART:20251107T100000Z
-DTEND:20251107T123000Z
-UID:csgo_mc_2387552@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387552\n赛事: Skyesports 钦奈电子竞
- 技全球锦标赛 2025\n阶段: 小组赛\n赛制: BO3\n等级: C级\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387552
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2025 年红牛吉巴瓦之旅: BB vs Boys N Da HUD
@@ -418,5 +347,39 @@ DESCRIPTION:比赛ID: csgo_mc_2387553\n赛事: Skyesports 钦奈电子竞
  态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387553
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: ECSTATIC vs 500
+DTSTART:20251107T123000Z
+DTEND:20251107T150000Z
+UID:csgo_mc_2387088@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387088\n赛事: CCT 第3赛季 欧洲系列
+ 赛 10\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387088
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: MOUZ.N vs FUT Academy
+DTSTART:20251107T130000Z
+DTEND:20251107T140000Z
+UID:csgo_mc_2387890@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387890\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387890
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 年红牛吉巴瓦之旅: EYE vs Falcons Force
+DTSTART:20251107T130000Z
+DTEND:20251107T140000Z
+UID:csgo_mc_2387891@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387891\n赛事: 2025 年红牛吉巴瓦之
+ 旅\n阶段: 小组赛\n赛制: BO1\n等级: 其他\n状态: 未开始\n
+ 预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387891
 END:VEVENT
 END:VCALENDAR
