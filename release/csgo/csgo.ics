@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Circuit X 圣保罗 2025: TBD vs TBD
-DTSTART:20251108T042000Z
-DTEND:20251108T065000Z
-UID:csgo_mc_2387751@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387751\n赛事: Circuit X 圣保罗 2025\n
- 阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Skyesports 钦奈电子竞技全球锦标赛 2025: BIG vs Arise
 DTSTART:20251108T063000Z
 DTEND:20251108T090000Z
@@ -352,37 +341,52 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387942
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Ultra Mega Jersey 2025: TBD vs TBD
+SUMMARY:Fragadelphia Ultra Mega Jersey 2025: Factor vs FLYRED
 DTSTART:20251108T150000Z
 DTEND:20251108T173000Z
 UID:csgo_mc_2387958@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387958\n赛事: Fragadelphia Ultra Mega Jer
- sey 2025\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.
- 5小时\n数据来源: 5EPlay
+ sey 2025\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387958
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Ultra Mega Jersey 2025: TBD vs TBD
+SUMMARY:Fragadelphia Ultra Mega Jersey 2025: M80 vs FoxHound
 DTSTART:20251108T150000Z
 DTEND:20251108T173000Z
 UID:csgo_mc_2387959@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387959\n赛事: Fragadelphia Ultra Mega Jer
- sey 2025\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.
- 5小时\n数据来源: 5EPlay
+ sey 2025\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387959
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Ultra Mega Jersey 2025: TBD vs TBD
+SUMMARY:Fragadelphia Ultra Mega Jersey 2025: Mavrek vs NuTorious
 DTSTART:20251108T150000Z
 DTEND:20251108T173000Z
 UID:csgo_mc_2387960@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387960\n赛事: Fragadelphia Ultra Mega Jer
- sey 2025\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.
- 5小时\n数据来源: 5EPlay
+ sey 2025\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387960
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragadelphia Ultra Mega Jersey 2025: SAW vs Zealous
+DTSTART:20251108T150000Z
+DTEND:20251108T173000Z
+UID:csgo_mc_2387957@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387957\n赛事: Fragadelphia Ultra Mega Jer
+ sey 2025\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387957
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Good Game 秋季联赛 2025 决赛: INFURITY vs Nordix
