@@ -3,31 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Circuit X 圣保罗 2025: 9z vs TBD
-DTSTART:20251108T010000Z
-DTEND:20251108T033000Z
-UID:csgo_mc_2387749@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387749\n赛事: Circuit X 圣保罗 2025\n
- 阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387749
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Circuit X 圣保罗 2025: Four Magic vs TBD
-DTSTART:20251108T010000Z
-DTEND:20251108T033000Z
-UID:csgo_mc_2387750@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387750\n赛事: Circuit X 圣保罗 2025\n
- 阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387750
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Circuit X 圣保罗 2025: TBD vs TBD
-DTSTART:20251108T010000Z
-DTEND:20251108T033000Z
+DTSTART:20251108T033000Z
+DTEND:20251108T060000Z
 UID:csgo_mc_2387751@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387751\n赛事: Circuit X 圣保罗 2025\n
  阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
@@ -441,5 +419,39 @@ DESCRIPTION:比赛ID: csgo_mc_2387754\n赛事: Circuit X 圣保罗 2025\n
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387754
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit X 圣保罗 2025: TBD vs TBD
+DTSTART:20251108T170000Z
+DTEND:20251108T193000Z
+UID:csgo_mc_2387755@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387755\n赛事: Circuit X 圣保罗 2025\n
+ 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387755
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:英特尔 Monsters Reloaded 2025: FUT TR vs Bushido Wildcats
+DTSTART:20251108T170000Z
+DTEND:20251108T193000Z
+UID:csgo_mc_2387943@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387943\n赛事: 英特尔 Monsters Reloaded
+  2025\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
+ : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387943
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: Leo vs SPARTA
+DTSTART:20251108T180000Z
+DTEND:20251108T203000Z
+UID:csgo_mc_2387785@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387785\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11 封闭预选赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛
+ \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387785
 END:VEVENT
 END:VCALENDAR
