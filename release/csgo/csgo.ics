@@ -3,31 +3,7 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Ultra Mega Jersey 2025: Marsborne vs TBD
-DTSTART:20251109T203000Z
-DTEND:20251109T230000Z
-UID:csgo_mc_2387983@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387983\n赛事: Fragadelphia Ultra Mega Jer
- sey 2025\n阶段: 淘汰赛 季军赛\n轮次: 季军赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387983
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: Crashers vs paiN.A
-DTSTART:20251109T210000Z
-DTEND:20251109T233000Z
-UID:csgo_mc_2387670@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387670\n赛事:  CCT 第3赛季 南美系
- 列赛6\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387670
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fragadelphia Ultra Mega Jersey 2025: M80 vs TBD
+SUMMARY:Fragadelphia Ultra Mega Jersey 2025: M80 vs NRG
 DTSTART:20251109T233000Z
 DTEND:20251110T033000Z
 UID:csgo_mc_2387984@5eplay.com
@@ -51,7 +27,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387956
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: Genone vs Nucle
+ ar TigeRES
 DTSTART:20251110T090000Z
 DTEND:20251110T113000Z
 UID:csgo_mc_2387790@5eplay.com
@@ -98,7 +75,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387138
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: K27 vs HAVU
 DTSTART:20251110T120000Z
 DTEND:20251110T143000Z
 UID:csgo_mc_2387791@5eplay.com
@@ -134,7 +111,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387168
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: Leo vs AI
 DTSTART:20251110T150000Z
 DTEND:20251110T173000Z
 UID:csgo_mc_2387792@5eplay.com
@@ -218,7 +195,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387221
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 11 封闭预选赛: Novaq vs SPARTA
 DTSTART:20251110T180000Z
 DTEND:20251110T203000Z
 UID:csgo_mc_2387793@5eplay.com
@@ -266,7 +243,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387223
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第55赛季 欧洲: DRGN vs TBD
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: DRGN vs Ursa
 DTSTART:20251110T183000Z
 DTEND:20251110T210000Z
 UID:csgo_mc_2387953@5eplay.com
@@ -430,5 +407,41 @@ DESCRIPTION:比赛ID: csgo_mc_2387713\n赛事: United21 联赛 第40赛季
  估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387713
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 大洋洲 第4季: SemperFi vs Gz
+DTSTART:20251111T100000Z
+DTEND:20251111T123000Z
+UID:csgo_mc_2387139@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387139\n赛事: ESL 挑战者联赛 S50 大
+ 洋洲 第4季\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387139
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+DTSTART:20251111T120000Z
+DTEND:20251111T143000Z
+UID:csgo_mc_2387795@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387795\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387795
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: Nemiga vs JJH
+DTSTART:20251111T120000Z
+DTEND:20251111T143000Z
+UID:csgo_mc_2387634@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387634\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387634
 END:VEVENT
 END:VCALENDAR
