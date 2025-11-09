@@ -3,42 +3,7 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Circuit X 圣保罗 2025: Sharks vs Fluxo
-DTSTART:20251109T182500Z
-DTEND:20251109T222500Z
-UID:csgo_mc_2387759@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387759\n赛事: Circuit X 圣保罗 2025\n
- 阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 其他\n状
- 态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387759
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第55赛季 欧洲: FORZE Reload vs Ursa
-DTSTART:20251109T183000Z
-DTEND:20251109T210000Z
-UID:csgo_mc_2387950@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387950\n赛事: ESEA发展联赛 第55赛
- 季 欧洲\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387950
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第55赛季 欧洲: MOUZ.N vs DRGN
-DTSTART:20251109T183000Z
-DTEND:20251109T210000Z
-UID:csgo_mc_2387949@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387949\n赛事: ESEA发展联赛 第55赛
- 季 欧洲\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387949
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fragadelphia Ultra Mega Jersey 2025: TBD vs TBD
+SUMMARY:Fragadelphia Ultra Mega Jersey 2025: Marsborne vs TBD
 DTSTART:20251109T203000Z
 DTEND:20251109T230000Z
 UID:csgo_mc_2387983@5eplay.com
@@ -62,7 +27,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387670
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Ultra Mega Jersey 2025: TBD vs TBD
+SUMMARY:Fragadelphia Ultra Mega Jersey 2025: M80 vs TBD
 DTSTART:20251109T233000Z
 DTEND:20251110T033000Z
 UID:csgo_mc_2387984@5eplay.com
@@ -98,7 +63,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387790
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+SUMMARY:NODWIN Clutch 系列 第2赛季: CYBERSHOKE vs Fire Flux
 DTSTART:20251110T090000Z
 DTEND:20251110T113000Z
 UID:csgo_mc_2387629@5eplay.com
@@ -145,7 +110,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387791
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+SUMMARY:NODWIN Clutch 系列 第2赛季: Monte vs Oramond
 DTSTART:20251110T120000Z
 DTEND:20251110T143000Z
 UID:csgo_mc_2387630@5eplay.com
@@ -181,7 +146,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387792
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+SUMMARY:NODWIN Clutch 系列 第2赛季: ex-Inner Circle vs K27
 DTSTART:20251110T150000Z
 DTEND:20251110T173000Z
 UID:csgo_mc_2387631@5eplay.com
@@ -265,7 +230,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387793
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+SUMMARY:NODWIN Clutch 系列 第2赛季: Venom vs Novaq
 DTSTART:20251110T180000Z
 DTEND:20251110T203000Z
 UID:csgo_mc_2387632@5eplay.com
@@ -301,7 +266,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387223
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第55赛季 欧洲: TBD vs TBD
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: DRGN vs TBD
 DTSTART:20251110T183000Z
 DTEND:20251110T210000Z
 UID:csgo_mc_2387953@5eplay.com
@@ -395,5 +360,75 @@ DESCRIPTION:比赛ID: csgo_mc_2387312\n赛事: ESL 挑战者联赛 S50 北
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387312
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: Voca vs Marsborne
+DTSTART:20251111T020000Z
+DTEND:20251111T043000Z
+UID:csgo_mc_2387311@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387311\n赛事: ESL 挑战者联赛 S50 北
+ 美 第4季\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387311
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: BOSS vs Overknight
+DTSTART:20251111T020000Z
+DTEND:20251111T043000Z
+UID:csgo_mc_2387313@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387313\n赛事: ESL 挑战者联赛 S50 北
+ 美 第4季\n阶段: 淘汰赛 败者组 第4轮\n轮次: 第4轮\n赛制:
+  BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+DTSTART:20251111T090000Z
+DTEND:20251111T113000Z
+UID:csgo_mc_2387794@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387794\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387794
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: Nexus vs 1win
+DTSTART:20251111T090000Z
+DTEND:20251111T113000Z
+UID:csgo_mc_2387633@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387633\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: ECLOT vs Partizan
+DTSTART:20251111T090000Z
+DTEND:20251111T113000Z
+UID:csgo_mc_2387440@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387440\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第40赛季: Wildcard Academy vs TBD
+DTSTART:20251111T090000Z
+DTEND:20251111T113000Z
+UID:csgo_mc_2387713@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387713\n赛事: United21 联赛 第40赛季
+ \n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
+ 估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387713
 END:VEVENT
 END:VCALENDAR
