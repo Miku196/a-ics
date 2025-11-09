@@ -3,33 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Ultra Mega Jersey 2025: Marsborne vs Reactor 9
-DTSTART:20251108T221500Z
-DTEND:20251109T004500Z
-UID:csgo_mc_2387973@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387973\n赛事: Fragadelphia Ultra Mega Jer
- sey 2025\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\
- n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387973
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fragadelphia Ultra Mega Jersey 2025: barry pickers vs Take Flyte
-DTSTART:20251108T221500Z
-DTEND:20251109T004500Z
-UID:csgo_mc_2387974@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387974\n赛事: Fragadelphia Ultra Mega Jer
- sey 2025\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\
- n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387974
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Circuit X 圣保罗 2025: Galorys vs Fluxo
-DTSTART:20251108T230000Z
-DTEND:20251109T013000Z
+DTSTART:20251109T005500Z
+DTEND:20251109T032500Z
 UID:csgo_mc_2387757@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387757\n赛事: Circuit X 圣保罗 2025\n
  阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
@@ -38,33 +14,9 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387757
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Ultra Mega Jersey 2025: Memeories vs TBD
-DTSTART:20251108T233000Z
-DTEND:20251109T020000Z
-UID:csgo_mc_2387972@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387972\n赛事: Fragadelphia Ultra Mega Jer
- sey 2025\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\
- n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387972
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fragadelphia Ultra Mega Jersey 2025: Reign Above vs TBD
-DTSTART:20251108T233000Z
-DTEND:20251109T020000Z
-UID:csgo_mc_2387971@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387971\n赛事: Fragadelphia Ultra Mega Jer
- sey 2025\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\
- n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387971
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fragadelphia Ultra Mega Jersey 2025: TBD vs TBD
-DTSTART:20251109T021500Z
-DTEND:20251109T044500Z
+SUMMARY:Fragadelphia Ultra Mega Jersey 2025: Reactor 9 vs Take Flyte
+DTSTART:20251109T011000Z
+DTEND:20251109T034000Z
 UID:csgo_mc_2387976@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387976\n赛事: Fragadelphia Ultra Mega Jer
  sey 2025\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\
@@ -74,9 +26,9 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387976
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fragadelphia Ultra Mega Jersey 2025: TBD vs TBD
-DTSTART:20251109T021500Z
-DTEND:20251109T044500Z
+SUMMARY:Fragadelphia Ultra Mega Jersey 2025: Reign Above vs TBD
+DTSTART:20251109T011500Z
+DTEND:20251109T034500Z
 UID:csgo_mc_2387975@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387975\n赛事: Fragadelphia Ultra Mega Jer
  sey 2025\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\
@@ -184,7 +136,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387769
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: Nemiga vs Oramond
 DTSTART:20251109T110000Z
 DTEND:20251109T133000Z
 UID:csgo_mc_2387095@5eplay.com
@@ -244,7 +196,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387721
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 10: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 10: Betera vs Nuclear TigeRES
 DTSTART:20251109T140000Z
 DTEND:20251109T163000Z
 UID:csgo_mc_2387096@5eplay.com
@@ -267,7 +219,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387710
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Circuit X 圣保罗 2025: TBD vs TBD
+SUMMARY:Circuit X 圣保罗 2025: Imperial vs TBD
 DTSTART:20251109T150000Z
 DTEND:20251109T173000Z
 UID:csgo_mc_2387758@5eplay.com
@@ -315,7 +267,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387628
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛6: Procyon vs Vasco
 DTSTART:20251109T150000Z
 DTEND:20251109T173000Z
 UID:csgo_mc_2387668@5eplay.com
@@ -398,7 +350,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387097
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Circuit X 圣保罗 2025: TBD vs TBD
+SUMMARY:Circuit X 圣保罗 2025: Sharks vs TBD
 DTSTART:20251109T180000Z
 DTEND:20251109T220000Z
 UID:csgo_mc_2387759@5eplay.com
@@ -421,7 +373,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387789
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛6: FURIA fe vs Tropa do KinGui
 DTSTART:20251109T180000Z
 DTEND:20251109T203000Z
 UID:csgo_mc_2387669@5eplay.com
@@ -431,5 +383,90 @@ DESCRIPTION:比赛ID: csgo_mc_2387669\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387669
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragadelphia Ultra Mega Jersey 2025: TBD vs TBD
+DTSTART:20251109T180000Z
+DTEND:20251109T203000Z
+UID:csgo_mc_2387981@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387981\n赛事: Fragadelphia Ultra Mega Jer
+ sey 2025\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387981
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragadelphia Ultra Mega Jersey 2025: TBD vs TBD
+DTSTART:20251109T180000Z
+DTEND:20251109T203000Z
+UID:csgo_mc_2387982@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387982\n赛事: Fragadelphia Ultra Mega Jer
+ sey 2025\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387982
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: FORZE Reload vs Ursa
+DTSTART:20251109T183000Z
+DTEND:20251109T210000Z
+UID:csgo_mc_2387950@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387950\n赛事: ESEA发展联赛 第55赛
+ 季 欧洲\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387950
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: MOUZ.N vs DRGN
+DTSTART:20251109T183000Z
+DTEND:20251109T210000Z
+UID:csgo_mc_2387949@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387949\n赛事: ESEA发展联赛 第55赛
+ 季 欧洲\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387949
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fragadelphia Ultra Mega Jersey 2025: TBD vs TBD
+DTSTART:20251109T203000Z
+DTEND:20251109T230000Z
+UID:csgo_mc_2387983@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387983\n赛事: Fragadelphia Ultra Mega Jer
+ sey 2025\n阶段: 淘汰赛 季军赛\n轮次: 季军赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387983
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛6: Crashers vs paiN.A
+DTSTART:20251109T210000Z
+DTEND:20251109T233000Z
+UID:csgo_mc_2387670@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387670\n赛事:  CCT 第3赛季 南美系
+ 列赛6\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387670
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA 发展联赛 第55赛季 北美精英杯 1: Voca vs SportsBet
+ Expert
+DTSTART:20251109T210000Z
+DTEND:20251109T233000Z
+UID:csgo_mc_2387956@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387956\n赛事: ESEA 发展联赛 第55赛
+ 季 北美精英杯 1\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: B
+ O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387956
 END:VEVENT
 END:VCALENDAR
