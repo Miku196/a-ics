@@ -146,17 +146,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387440
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第40赛季: Wildcard Academy vs Brute
-DTSTART:20251111T090000Z
-DTEND:20251111T113000Z
-UID:csgo_mc_2387713@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387713\n赛事: United21 联赛 第40赛季
- \n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
- 估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387713
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 大洋洲 第4季: SemperFi vs Gz
 DTSTART:20251111T100000Z
 DTEND:20251111T123000Z
@@ -202,6 +191,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387441\n赛事: 银河之战 2025 第5阶
  C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387441
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第40赛季: Wildcard Academy vs Brute
+DTSTART:20251111T130000Z
+DTEND:20251111T153000Z
+UID:csgo_mc_2387713@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387713\n赛事: United21 联赛 第40赛季
+ \n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预
+ 估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387713
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 亚太区 第4季: CW vs Kaleido
@@ -346,7 +346,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387443
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: 1win vs Nemiga
 DTSTART:20251111T180000Z
 DTEND:20251111T203000Z
 UID:csgo_mc_2387226@5eplay.com
@@ -403,5 +403,28 @@ DESCRIPTION:比赛ID: csgo_mc_2387273\n赛事: ESL 挑战者联赛 S50 南
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387273
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: TBD vs TBD
+DTSTART:20251111T220000Z
+DTEND:20251112T003000Z
+UID:csgo_mc_2387272@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387272\n赛事: ESL 挑战者联赛 S50 南
+ 美 第4季\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387272
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST巅峰赛S2: Mongolz vs Passion UA
+DTSTART:20251112T020000Z
+DTEND:20251112T043000Z
+UID:csgo_mc_2387503@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387503\n赛事: BLAST巅峰赛S2\n阶段: 
+ 小组赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: A
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387503
 END:VEVENT
 END:VCALENDAR
