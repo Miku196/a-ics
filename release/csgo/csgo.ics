@@ -9,9 +9,8 @@ DTSTART:20251110T090000Z
 DTEND:20251110T113000Z
 UID:csgo_mc_2387790@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387790\n赛事: CCT 第3赛季 欧洲系列
- 赛 11 封闭预选赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: 
- BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5
- EPlay
+ 赛 11 封闭预选赛\n阶段: 淘汰赛\n赛制: BO3\n等级: \n状态: 
+ 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387790
 END:VEVENT
@@ -56,9 +55,8 @@ DTSTART:20251110T120000Z
 DTEND:20251110T143000Z
 UID:csgo_mc_2387791@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387791\n赛事: CCT 第3赛季 欧洲系列
- 赛 11 封闭预选赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: 
- BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5
- EPlay
+ 赛 11 封闭预选赛\n阶段: 淘汰赛\n赛制: BO3\n等级: \n状态: 
+ 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387791
 END:VEVENT
@@ -92,9 +90,8 @@ DTSTART:20251110T150000Z
 DTEND:20251110T173000Z
 UID:csgo_mc_2387792@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387792\n赛事: CCT 第3赛季 欧洲系列
- 赛 11 封闭预选赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: 
- BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5
- EPlay
+ 赛 11 封闭预选赛\n阶段: 淘汰赛\n赛制: BO3\n等级: \n状态: 
+ 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387792
 END:VEVENT
@@ -176,9 +173,8 @@ DTSTART:20251110T180000Z
 DTEND:20251110T203000Z
 UID:csgo_mc_2387793@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387793\n赛事: CCT 第3赛季 欧洲系列
- 赛 11 封闭预选赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: 
- BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5
- EPlay
+ 赛 11 封闭预选赛\n阶段: 淘汰赛\n赛制: BO3\n等级: \n状态: 
+ 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387793
 END:VEVENT
@@ -454,5 +450,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387796\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387796
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: 500 vs 9BOOMPRO
+DTSTART:20251111T150000Z
+DTEND:20251111T173000Z
+UID:csgo_mc_2387635@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387635\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387635
 END:VEVENT
 END:VCALENDAR
