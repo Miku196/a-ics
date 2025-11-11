@@ -27,17 +27,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387633
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: ECLOT vs Partizan
-DTSTART:20251111T090000Z
-DTEND:20251111T113000Z
-UID:csgo_mc_2387440@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387440\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387440
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 大洋洲 第4季: SemperFi vs Gz
 DTSTART:20251111T100000Z
 DTEND:20251111T123000Z
@@ -72,17 +61,6 @@ DESCRIPTION:比赛ID: csgo_mc_2387634\n赛事: NODWIN Clutch 系列 第2
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387634
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: JJH vs Novaq
-DTSTART:20251111T120000Z
-DTEND:20251111T143000Z
-UID:csgo_mc_2387441@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387441\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387441
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:United21 联赛 第40赛季: Wildcard Academy vs Brute
@@ -132,7 +110,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387635
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛6: LP vs Crashers
 DTSTART:20251111T150000Z
 DTEND:20251111T173000Z
 UID:csgo_mc_2387674@5eplay.com
@@ -215,7 +193,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387636
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛6: Procyon vs FURIA fe
 DTSTART:20251111T180000Z
 DTEND:20251111T203000Z
 UID:csgo_mc_2387675@5eplay.com
@@ -273,7 +251,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387985
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛6: GameHunters vs Fuego
 DTSTART:20251111T210000Z
 DTEND:20251111T233000Z
 UID:csgo_mc_2387676@5eplay.com
@@ -466,5 +444,27 @@ DESCRIPTION:比赛ID: csgo_mc_2387800\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387800
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+DTSTART:20251112T120000Z
+DTEND:20251112T143000Z
+UID:csgo_mc_2387638@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387638\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387638
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: Sangal vs SPARTA
+DTSTART:20251112T120000Z
+DTEND:20251112T143000Z
+UID:csgo_mc_2387445@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387445\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387445
 END:VEVENT
 END:VCALENDAR
