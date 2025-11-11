@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第55赛季 欧洲: OLDBOYS vs Ursa
-DTSTART:20251111T183000Z
-DTEND:20251111T210000Z
-UID:csgo_mc_2387954@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387954\n赛事: ESEA发展联赛 第55赛
- 季 欧洲\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO
- 3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387954
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY: CCT 第3赛季 南美系列赛6: GameHunters vs Fuego
 DTSTART:20251111T210000Z
 DTEND:20251111T233000Z
@@ -324,7 +312,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387678
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: K27 vs TBD
 DTSTART:20251112T180000Z
 DTEND:20251112T203000Z
 UID:csgo_mc_2387229@5eplay.com
@@ -347,7 +335,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387994
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: Monte vs TBD
 DTSTART:20251112T180000Z
 DTEND:20251112T203000Z
 UID:csgo_mc_2387228@5eplay.com
@@ -380,5 +368,63 @@ DESCRIPTION:比赛ID: csgo_mc_2387640\n赛事: NODWIN Clutch 系列 第2
  级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387640
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: Nexus vs Aab
+DTSTART:20251112T180000Z
+DTEND:20251112T203000Z
+UID:csgo_mc_2387447@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387447\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387447
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: Wildcard Academy vs TBD
+DTSTART:20251112T183000Z
+DTEND:20251112T223000Z
+UID:csgo_mc_2387955@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387955\n赛事: ESEA发展联赛 第55赛
+ 季 欧洲\n阶段: 淘汰赛  决赛\n轮次: 决赛\n赛制: BO5\n等级
+ : 其他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387955
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+DTSTART:20251112T190000Z
+DTEND:20251112T213000Z
+UID:csgo_mc_2387679@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387679\n赛事:  CCT 第3赛季 南美系
+ 列赛6\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387679
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: TBD vs TBD
+DTSTART:20251112T220000Z
+DTEND:20251113T003000Z
+UID:csgo_mc_2387274@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387274\n赛事: ESL 挑战者联赛 S50 南
+ 美 第4季\n阶段: 淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387274
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+DTSTART:20251112T220000Z
+DTEND:20251113T003000Z
+UID:csgo_mc_2387680@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387680\n赛事:  CCT 第3赛季 南美系
+ 列赛6\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387680
 END:VEVENT
 END:VCALENDAR
