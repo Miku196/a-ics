@@ -3,42 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: GameHunters vs Fuego
-DTSTART:20251111T210000Z
-DTEND:20251111T233000Z
-UID:csgo_mc_2387676@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387676\n赛事:  CCT 第3赛季 南美系
- 列赛6\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387676
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第4季: KRÜ vs BESTIA
-DTSTART:20251111T220000Z
-DTEND:20251112T003000Z
-UID:csgo_mc_2387273@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387273\n赛事: ESL 挑战者联赛 S50 南
- 美 第4季\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387273
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Bounty Hunters vs ShindeN
-DTSTART:20251111T220000Z
-DTEND:20251112T003000Z
-UID:csgo_mc_2387272@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387272\n赛事: ESL 挑战者联赛 S50 南
- 美 第4季\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387272
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLAST巅峰赛S2: Mongolz vs Passion UA
 DTSTART:20251112T020000Z
 DTEND:20251112T043000Z
@@ -108,7 +72,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387799
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+SUMMARY:NODWIN Clutch 系列 第2赛季: Monte vs CYBERSHOKE
 DTSTART:20251112T090000Z
 DTEND:20251112T113000Z
 UID:csgo_mc_2387637@5eplay.com
@@ -198,7 +162,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387800
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+SUMMARY:NODWIN Clutch 系列 第2赛季: JJH vs Nexus
 DTSTART:20251112T120000Z
 DTEND:20251112T143000Z
 UID:csgo_mc_2387638@5eplay.com
@@ -278,7 +242,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387801
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+SUMMARY:NODWIN Clutch 系列 第2赛季: K27 vs Nuclear TigeRES
 DTSTART:20251112T150000Z
 DTEND:20251112T173000Z
 UID:csgo_mc_2387639@5eplay.com
@@ -312,7 +276,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387678
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: K27 vs TBD
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: K27 vs TPuDCATb_TPu
 DTSTART:20251112T180000Z
 DTEND:20251112T203000Z
 UID:csgo_mc_2387229@5eplay.com
@@ -335,7 +299,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387994
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: Monte vs TBD
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: Monte vs Nemiga
 DTSTART:20251112T180000Z
 DTEND:20251112T203000Z
 UID:csgo_mc_2387228@5eplay.com
@@ -359,7 +323,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387797
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+SUMMARY:NODWIN Clutch 系列 第2赛季: Novaq vs 500
 DTSTART:20251112T180000Z
 DTEND:20251112T203000Z
 UID:csgo_mc_2387640@5eplay.com
@@ -381,7 +345,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387447
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第55赛季 欧洲: Wildcard Academy vs TBD
+SUMMARY:ESEA发展联赛 第55赛季 欧洲: Wildcard Academy vs OLDBOYS
 DTSTART:20251112T183000Z
 DTEND:20251112T223000Z
 UID:csgo_mc_2387955@5eplay.com
@@ -426,5 +390,40 @@ DESCRIPTION:比赛ID: csgo_mc_2387680\n赛事:  CCT 第3赛季 南美系
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387680
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST巅峰赛S2: TBD vs TBD
+DTSTART:20251113T020000Z
+DTEND:20251113T043000Z
+UID:csgo_mc_2387542@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387542\n赛事: BLAST巅峰赛S2\n阶段: 
+ 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: A级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: TBD vs TBD
+DTSTART:20251113T020000Z
+DTEND:20251113T043000Z
+UID:csgo_mc_2387316@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387316\n赛事: ESL 挑战者联赛 S50 北
+ 美 第4季\n阶段: 淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 2: Gentle Mates vs CTG
+DTSTART:20251113T030000Z
+DTEND:20251113T053000Z
+UID:csgo_mc_2387843@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387843\n赛事: 完美世界 挑战者系
+ 列赛 2\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387843
 END:VEVENT
 END:VCALENDAR
