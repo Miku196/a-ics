@@ -332,7 +332,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第4季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: LAG vs BOSS
 DTSTART:20251112T020000Z
 DTEND:20251112T043000Z
 UID:csgo_mc_2387315@5eplay.com
@@ -432,5 +432,27 @@ DESCRIPTION:比赛ID: csgo_mc_2387140\n赛事: ESL 挑战者联赛 S50 大
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svenska Cupen 2025: Metizport vs Megoshort
+DTSTART:20251112T103000Z
+DTEND:20251112T113000Z
+UID:csgo_mc_2387988@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387988\n赛事: Svenska Cupen 2025\n阶段:
+  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: C级\n
+ 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387988
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svenska Cupen 2025: EYE vs southern lights
+DTSTART:20251112T120000Z
+DTEND:20251112T130000Z
+UID:csgo_mc_2387989@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387989\n赛事: Svenska Cupen 2025\n阶段:
+  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: C级\n
+ 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387989
 END:VEVENT
 END:VCALENDAR
