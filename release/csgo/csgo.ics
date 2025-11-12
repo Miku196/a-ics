@@ -184,7 +184,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387445
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛6: Keyd vs KRÜ
 DTSTART:20251112T130000Z
 DTEND:20251112T153000Z
 UID:csgo_mc_2387677@5eplay.com
@@ -264,7 +264,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387446
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛6: 9z vs Prison Breakers
 DTSTART:20251112T160000Z
 DTEND:20251112T183000Z
 UID:csgo_mc_2387678@5eplay.com
@@ -356,7 +356,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387955
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛6: Sharks vs LP
 DTSTART:20251112T190000Z
 DTEND:20251112T213000Z
 UID:csgo_mc_2387679@5eplay.com
@@ -368,7 +368,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387679
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第4季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: BESTIA vs TBD
 DTSTART:20251112T220000Z
 DTEND:20251113T003000Z
 UID:csgo_mc_2387274@5eplay.com
@@ -380,7 +380,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387274
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛6: Gaimin Gladiators vs Galorys
 DTSTART:20251112T220000Z
 DTEND:20251113T003000Z
 UID:csgo_mc_2387680@5eplay.com
@@ -425,5 +425,28 @@ DESCRIPTION:比赛ID: csgo_mc_2387843\n赛事: 完美世界 挑战者系
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387843
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST巅峰赛S2: TBD vs TBD
+DTSTART:20251113T043000Z
+DTEND:20251113T070000Z
+UID:csgo_mc_2387543@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387543\n赛事: BLAST巅峰赛S2\n阶段: 
+ 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: A级\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387543
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 2: RA vs Kaleido
+DTSTART:20251113T060000Z
+DTEND:20251113T083000Z
+UID:csgo_mc_2387844@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387844\n赛事: 完美世界 挑战者系
+ 列赛 2\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387844
 END:VEVENT
 END:VCALENDAR
