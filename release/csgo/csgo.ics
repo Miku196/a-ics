@@ -346,7 +346,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387680
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST 对抗赛 S2: Mongolz vs TBD
+SUMMARY:BLAST 对抗赛 S2: Mongolz vs Spirit
 DTSTART:20251113T020000Z
 DTEND:20251113T043000Z
 UID:csgo_mc_2387542@5eplay.com
@@ -381,7 +381,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387843
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST 对抗赛 S2: Passion UA vs TBD
+SUMMARY:BLAST 对抗赛 S2: Passion UA vs Falcons
 DTSTART:20251113T043000Z
 DTEND:20251113T070000Z
 UID:csgo_mc_2387543@5eplay.com
@@ -448,5 +448,16 @@ DESCRIPTION:比赛ID: csgo_mc_2387641\n赛事: NODWIN Clutch 系列 第2
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387641
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST 对抗赛 S2: TBD vs TBD
+DTSTART:20251113T093000Z
+DTEND:20251113T120000Z
+UID:csgo_mc_2387545@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387545\n赛事: BLAST 对抗赛 S2\n阶段:
+  小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: A级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387545
 END:VEVENT
 END:VCALENDAR
