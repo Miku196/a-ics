@@ -3,20 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:BLAST 对抗赛 S2: Spirit vs Falcons
-DTSTART:20251112T043000Z
-DTEND:20251112T070000Z
-UID:csgo_mc_2387504@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387504\n赛事: BLAST 对抗赛 S2\n阶段:
-  小组赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: A
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387504
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLAST 对抗赛 S2: FURIA vs paiN
-DTSTART:20251112T073000Z
-DTEND:20251112T100000Z
+DTSTART:20251112T083000Z
+DTEND:20251112T110000Z
 UID:csgo_mc_2387505@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387505\n赛事: BLAST 对抗赛 S2\n阶段:
   小组赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: A
@@ -357,7 +346,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387680
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST 对抗赛 S2: TBD vs TBD
+SUMMARY:BLAST 对抗赛 S2: Mongolz vs TBD
 DTSTART:20251113T020000Z
 DTEND:20251113T043000Z
 UID:csgo_mc_2387542@5eplay.com
@@ -368,7 +357,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387542
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第4季: TBD vs TBD
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: Marsborne vs BOSS
 DTSTART:20251113T020000Z
 DTEND:20251113T043000Z
 UID:csgo_mc_2387316@5eplay.com
@@ -392,7 +381,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387843
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST 对抗赛 S2: TBD vs TBD
+SUMMARY:BLAST 对抗赛 S2: Passion UA vs TBD
 DTSTART:20251113T043000Z
 DTEND:20251113T070000Z
 UID:csgo_mc_2387543@5eplay.com
@@ -435,5 +424,29 @@ DESCRIPTION:比赛ID: csgo_mc_2387992\n赛事: 瑞典杯 2025\n阶段: 小
  : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387992
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+DTSTART:20251113T090000Z
+DTEND:20251113T113000Z
+UID:csgo_mc_2387802@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387802\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387802
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+DTSTART:20251113T090000Z
+DTEND:20251113T113000Z
+UID:csgo_mc_2387641@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387641\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387641
 END:VEVENT
 END:VCALENDAR
