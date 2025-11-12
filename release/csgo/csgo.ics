@@ -3,51 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:瑞典杯 2025: EYE vs Johnny Speeds
-DTSTART:20251112T183000Z
-DTEND:20251112T210000Z
-UID:csgo_mc_2387994@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387994\n赛事: 瑞典杯 2025\n阶段: 小
- 组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: C级\n状态
- : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387994
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第55赛季 欧洲: Wildcard Academy vs OLDBOYS
-DTSTART:20251112T183000Z
-DTEND:20251112T223000Z
-UID:csgo_mc_2387955@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387955\n赛事: ESEA发展联赛 第55赛
- 季 欧洲\n阶段: 淘汰赛  决赛\n轮次: 决赛\n赛制: BO5\n等级
- : 其他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387955
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: Sharks vs LP
-DTSTART:20251112T190000Z
-DTEND:20251112T213000Z
-UID:csgo_mc_2387679@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387679\n赛事:  CCT 第3赛季 南美系
- 列赛6\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387679
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: Nexus vs Aab
-DTSTART:20251112T190500Z
-DTEND:20251112T213500Z
-UID:csgo_mc_2387447@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387447\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387447
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 南美 第4季: BESTIA vs Bounty Hunters
 DTSTART:20251112T220000Z
 DTEND:20251113T003000Z
@@ -256,7 +211,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387171
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:瑞典杯 2025: TBD vs TBD
+SUMMARY:瑞典杯 2025: Metizport vs TBD
 DTSTART:20251113T150000Z
 DTEND:20251113T173000Z
 UID:csgo_mc_2387993@5eplay.com
@@ -405,5 +360,16 @@ DESCRIPTION:比赛ID: csgo_mc_2387985\n赛事: UKIC 游戏联赛 冬季 20
  n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387985
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UKIC 游戏联赛 冬季 2025: 8Sins vs Coalesce
+DTSTART:20251113T203000Z
+DTEND:20251113T230000Z
+UID:csgo_mc_2387986@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387986\n赛事: UKIC 游戏联赛 冬季 20
+ 25\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: \
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387986
 END:VEVENT
 END:VCALENDAR
