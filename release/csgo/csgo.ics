@@ -3,43 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: Sangal vs SPARTA
-DTSTART:20251112T123000Z
-DTEND:20251112T150000Z
-UID:csgo_mc_2387445@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387445\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387445
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:瑞典杯 2025: EYE vs southern lights
-DTSTART:20251112T124500Z
-DTEND:20251112T134500Z
-UID:csgo_mc_2387989@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387989\n赛事: 瑞典杯 2025\n阶段: 小
- 组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: C级\n状态
- : 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387989
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: Keyd vs KRÜ
-DTSTART:20251112T130000Z
-DTEND:20251112T153000Z
-UID:csgo_mc_2387677@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387677\n赛事:  CCT 第3赛季 南美系
- 列赛6\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387677
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:瑞典杯 2025: Johnny Speeds vs FUT Academy
-DTSTART:20251112T133000Z
-DTEND:20251112T143000Z
+DTSTART:20251112T141500Z
+DTEND:20251112T151500Z
 UID:csgo_mc_2387990@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387990\n赛事: 瑞典杯 2025\n阶段: 小
  组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: C级\n状态
@@ -48,19 +14,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387990
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 亚太区 第4季: FengDa vs Kaleido
-DTSTART:20251112T140000Z
-DTEND:20251112T163000Z
-UID:csgo_mc_2387170@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387170\n赛事: ESL 挑战者联赛 S50 亚
- 太区 第4季\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制
- : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387170
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:瑞典杯 2025: Alliance vs TBD
+SUMMARY:瑞典杯 2025: Alliance vs Metizport
 DTSTART:20251112T150000Z
 DTEND:20251112T173000Z
 UID:csgo_mc_2387991@5eplay.com
@@ -129,7 +83,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387229
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:瑞典杯 2025: TBD vs TBD
+SUMMARY:瑞典杯 2025: EYE vs TBD
 DTSTART:20251112T180000Z
 DTEND:20251112T203000Z
 UID:csgo_mc_2387994@5eplay.com
@@ -302,7 +256,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387544
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:瑞典杯 2025: Lilmix vs TBD
+SUMMARY:瑞典杯 2025: Lilmix vs Megoshort
 DTSTART:20251113T090000Z
 DTEND:20251113T113000Z
 UID:csgo_mc_2387992@5eplay.com
@@ -359,7 +313,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387141
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:瑞典杯 2025: TBD vs TBD
+SUMMARY:瑞典杯 2025: southern lights vs TBD
 DTSTART:20251113T120000Z
 DTEND:20251113T143000Z
 UID:csgo_mc_2387995@5eplay.com
@@ -426,5 +380,29 @@ DESCRIPTION:比赛ID: csgo_mc_2387993\n赛事: 瑞典杯 2025\n阶段: 小
  : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387993
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+DTSTART:20251113T150000Z
+DTEND:20251113T173000Z
+UID:csgo_mc_2387804@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387804\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 第2赛季: TBD vs TBD
+DTSTART:20251113T150000Z
+DTEND:20251113T173000Z
+UID:csgo_mc_2387643@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387643\n赛事: NODWIN Clutch 系列 第2
+ 赛季\n阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387643
 END:VEVENT
 END:VCALENDAR
