@@ -3,21 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 2: RA vs Kaleido
-DTSTART:20251113T060000Z
-DTEND:20251113T083000Z
-UID:csgo_mc_2387844@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387844\n赛事: 完美世界 挑战者系
- 列赛 2\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387844
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLAST 对抗赛 S2: paiN vs TYLOO
-DTSTART:20251113T070000Z
-DTEND:20251113T093000Z
+DTSTART:20251113T063000Z
+DTEND:20251113T090000Z
 UID:csgo_mc_2387544@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387544\n赛事: BLAST 对抗赛 S2\n阶段:
   小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: A级\n
@@ -351,7 +339,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387846
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST 对抗赛 S2: TBD vs TBD
+SUMMARY:BLAST 对抗赛 S2: Passion UA vs TBD
 DTSTART:20251114T080000Z
 DTEND:20251114T103000Z
 UID:csgo_mc_2387546@5eplay.com
@@ -374,7 +362,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387806
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST 对抗赛 S2: TBD vs TBD
+SUMMARY:BLAST 对抗赛 S2: Spirit vs TBD
 DTSTART:20251114T103000Z
 DTEND:20251114T130000Z
 UID:csgo_mc_2387547@5eplay.com
@@ -430,5 +418,40 @@ DESCRIPTION:比赛ID: csgo_mc_2388008\n赛事: Rainhas do Clutch FERJEE 20
  : 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:虚空超级联赛 S1: UR vs XDM
+DTSTART:20251114T150000Z
+DTEND:20251114T173000Z
+UID:cg_mc_manual_1890@5eplay.com
+DESCRIPTION:比赛ID: cg_mc_manual_1890\n赛事: 虚空超级联赛 S1\n
+ 阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1890
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: FT vs CPH Wolves
+DTSTART:20251114T150000Z
+DTEND:20251114T173000Z
+UID:csgo_mc_2387808@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387808\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387808
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:英特尔 Monsters Reloaded 2025: GANK vs Bushido Wildcats
+DTSTART:20251114T150000Z
+DTEND:20251114T190000Z
+UID:csgo_mc_2387944@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387944\n赛事: 英特尔 Monsters Reloaded
+  2025\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 其
+ 他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387944
 END:VEVENT
 END:VCALENDAR
