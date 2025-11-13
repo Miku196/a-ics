@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:BLAST 对抗赛 S2: paiN vs TYLOO
-DTSTART:20251113T063000Z
-DTEND:20251113T090000Z
-UID:csgo_mc_2387544@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387544\n赛事: BLAST 对抗赛 S2\n阶段:
-  小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: A级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387544
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:瑞典杯 2025: Lilmix vs Megoshort
 DTSTART:20251113T090000Z
 DTEND:20251113T113000Z
