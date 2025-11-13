@@ -83,18 +83,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387992
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: ECLOT vs 9BOOMPRO
-DTSTART:20251113T090000Z
-DTEND:20251113T113000Z
-UID:csgo_mc_2387802@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387802\n赛事: CCT 第3赛季 欧洲系列
- 赛 11\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387802
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NODWIN Clutch 系列 第2赛季: JJH vs Nuclear TigeRES
 DTSTART:20251113T090000Z
 DTEND:20251113T113000Z
@@ -222,7 +210,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387643
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+SUMMARY:银河之战 2025 第5阶段: Oramond vs ECLOT
 DTSTART:20251113T150000Z
 DTEND:20251113T173000Z
 UID:csgo_mc_2387448@5eplay.com
@@ -257,7 +245,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387682
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:瑞典杯 2025: TBD vs TBD
+SUMMARY:瑞典杯 2025: EYE vs TBD
 DTSTART:20251113T180000Z
 DTEND:20251113T203000Z
 UID:csgo_mc_2387996@5eplay.com
@@ -292,7 +280,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387805
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+SUMMARY:银河之战 2025 第5阶段: Nexus vs Novaq
 DTSTART:20251113T180000Z
 DTEND:20251113T203000Z
 UID:csgo_mc_2387449@5eplay.com
@@ -430,5 +418,40 @@ DESCRIPTION:比赛ID: csgo_mc_2387806\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387806
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST 对抗赛 S2: TBD vs TBD
+DTSTART:20251114T103000Z
+DTEND:20251114T130000Z
+UID:csgo_mc_2387547@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387547\n赛事: BLAST 对抗赛 S2\n阶段:
+  淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: A级\n状态
+ : 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387547
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: Betera vs Nuclear TigeRES
+DTSTART:20251114T120000Z
+DTEND:20251114T143000Z
+UID:csgo_mc_2387807@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387807\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387807
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:虚空超级联赛 S1: KDG vs Last Bullet
+DTSTART:20251114T130000Z
+DTEND:20251114T153000Z
+UID:cg_mc_manual_1889@5eplay.com
+DESCRIPTION:比赛ID: cg_mc_manual_1889\n赛事: 虚空超级联赛 S1\n
+ 阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1889
 END:VEVENT
 END:VCALENDAR
