@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:BLAST 对抗赛 S2: Passion UA vs Falcons
-DTSTART:20251113T043000Z
-DTEND:20251113T070000Z
-UID:csgo_mc_2387543@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387543\n赛事: BLAST 对抗赛 S2\n阶段:
-  小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: A级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387543
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:完美世界 挑战者系列赛 2: RA vs Kaleido
 DTSTART:20251113T060000Z
 DTEND:20251113T083000Z
@@ -429,5 +418,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387685\n赛事:  CCT 第3赛季 南美系
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387685
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rainhas do Clutch FERJEE 2025 决赛: TBD vs TBD
+DTSTART:20251114T140000Z
+DTEND:20251114T163000Z
+UID:csgo_mc_2388008@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388008\n赛事: Rainhas do Clutch FERJEE 20
+ 25 决赛\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3
+ \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
+ : 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388008
 END:VEVENT
 END:VCALENDAR
