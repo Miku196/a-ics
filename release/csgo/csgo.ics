@@ -108,7 +108,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387685
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rainhas do Clutch FERJEE 2025 决赛: Atrix vs TBD
+SUMMARY:Rainhas do Clutch FERJEE 2025 决赛: Atrix vs FURIA fe
 DTSTART:20251114T140000Z
 DTEND:20251114T163000Z
 UID:csgo_mc_2388008@5eplay.com
@@ -200,7 +200,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387231
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rainhas do Clutch FERJEE 2025 决赛: Four Magic vs TBD
+SUMMARY:Rainhas do Clutch FERJEE 2025 决赛: Four Magic vs MIBR.fe
 DTSTART:20251114T180000Z
 DTEND:20251114T203000Z
 UID:csgo_mc_2388009@5eplay.com
@@ -405,5 +405,40 @@ DESCRIPTION:比赛ID: csgo_mc_2387723\n赛事: 女子职业联赛 第1赛
   其他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387723
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:瑞典杯 2025: TBD vs TBD
+DTSTART:20251115T140000Z
+DTEND:20251115T163000Z
+UID:csgo_mc_2387999@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387999\n赛事: 瑞典杯 2025\n阶段: 淘
+ 汰赛 季军赛\n轮次: 季军赛\n赛制: BO3\n等级: C级\n状态: 
+ 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387999
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:虚空超级联赛 S1: TBD vs TBD
+DTSTART:20251115T150000Z
+DTEND:20251115T173000Z
+UID:cg_mc_manual_1892@5eplay.com
+DESCRIPTION:比赛ID: cg_mc_manual_1892\n赛事: 虚空超级联赛 S1\n
+ 阶段: 淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1892
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+DTSTART:20251115T150000Z
+DTEND:20251115T173000Z
+UID:csgo_mc_2387812@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387812\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387812
 END:VEVENT
 END:VCALENDAR
