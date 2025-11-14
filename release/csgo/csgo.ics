@@ -3,32 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: Oramond vs JJH
-DTSTART:20251114T182000Z
-DTEND:20251114T205000Z
-UID:csgo_mc_2387809@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387809\n赛事: CCT 第3赛季 欧洲系列
- 赛 11\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387809
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: BESTIA vs Bounty Hunters
-DTSTART:20251114T190000Z
-DTEND:20251114T213000Z
-UID:csgo_mc_2387687@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387687\n赛事:  CCT 第3赛季 南美系
- 列赛6\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387687
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:瑞典杯 2025: Alliance vs EYE
-DTSTART:20251114T200000Z
-DTEND:20251114T223000Z
+DTSTART:20251114T201500Z
+DTEND:20251114T224500Z
 UID:csgo_mc_2387997@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387997\n赛事: 瑞典杯 2025\n阶段: 淘
  汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\n状态: 
@@ -60,7 +37,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387688
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rainhas do Clutch FERJEE 2025 决赛: Atrix vs TBD
+SUMMARY:Rainhas do Clutch FERJEE 2025 决赛: Atrix vs MIBR.fe
 DTSTART:20251114T230000Z
 DTEND:20251115T013000Z
 UID:csgo_mc_2388010@5eplay.com
@@ -187,7 +164,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387723
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:瑞典杯 2025: TBD vs TBD
+SUMMARY:瑞典杯 2025: Johnny Speeds vs TBD
 DTSTART:20251115T140000Z
 DTEND:20251115T163000Z
 UID:csgo_mc_2387999@5eplay.com
@@ -246,7 +223,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388003
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:瑞典杯 2025: TBD vs TBD
+SUMMARY:瑞典杯 2025: Metizport vs TBD
 DTSTART:20251115T170000Z
 DTEND:20251115T210000Z
 UID:csgo_mc_2388000@5eplay.com
@@ -392,5 +369,74 @@ DESCRIPTION:比赛ID: csgo_mc_2387319\n赛事: ESL 挑战者联赛 S50 北
  开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387319
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 2: TBD vs TBD
+DTSTART:20251116T030000Z
+DTEND:20251116T053000Z
+UID:csgo_mc_2387849@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387849\n赛事: 完美世界 挑战者系
+ 列赛 2\n阶段: 淘汰赛 季军赛\n轮次: 季军赛\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387849
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:完美世界 挑战者系列赛 2: TBD vs TBD
+DTSTART:20251116T060000Z
+DTEND:20251116T083000Z
+UID:csgo_mc_2387850@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387850\n赛事: 完美世界 挑战者系
+ 列赛 2\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: C
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387850
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLAST 对抗赛 S2: TBD vs TBD
+DTSTART:20251116T080000Z
+DTEND:20251116T120000Z
+UID:csgo_mc_2387550@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387550\n赛事: BLAST 对抗赛 S2\n阶段:
+  淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: A级\n状态: 未
+ 开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387550
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+DTSTART:20251116T090000Z
+DTEND:20251116T113000Z
+UID:csgo_mc_2387814@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387814\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387814
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+DTSTART:20251116T120000Z
+DTEND:20251116T143000Z
+UID:csgo_mc_2387815@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387815\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:虚空超级联赛 S1: TBD vs TBD
+DTSTART:20251116T130000Z
+DTEND:20251116T153000Z
+UID:cg_mc_manual_1893@5eplay.com
+DESCRIPTION:比赛ID: cg_mc_manual_1893\n赛事: 虚空超级联赛 S1\n
+ 阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1893
 END:VEVENT
 END:VCALENDAR
