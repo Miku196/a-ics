@@ -3,52 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:瑞典杯 2025: Alliance vs EYE
-DTSTART:20251114T201500Z
-DTEND:20251114T224500Z
-UID:csgo_mc_2387997@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387997\n赛事: 瑞典杯 2025\n阶段: 淘
- 汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\n状态: 
- 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387997
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Bounty Hunters vs 9z
-DTSTART:20251114T220000Z
-DTEND:20251115T003000Z
-UID:csgo_mc_2387276@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387276\n赛事: ESL 挑战者联赛 S50 南
- 美 第4季\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387276
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: ODDIK vs Fake do Biru
-DTSTART:20251114T220000Z
-DTEND:20251115T003000Z
-UID:csgo_mc_2387688@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387688\n赛事:  CCT 第3赛季 南美系
- 列赛6\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387688
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rainhas do Clutch FERJEE 2025 决赛: Atrix vs MIBR.fe
-DTSTART:20251114T230000Z
-DTEND:20251115T013000Z
-UID:csgo_mc_2388010@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388010\n赛事: Rainhas do Clutch FERJEE 20
- 25 决赛\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3
- \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
- : 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388010
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 北美 第4季: Marsborne vs Voca
 DTSTART:20251115T020000Z
 DTEND:20251115T043000Z
@@ -96,7 +50,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387548
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: BASEMENT BOYS vs 9BOOMPRO
 DTSTART:20251115T090000Z
 DTEND:20251115T113000Z
 UID:csgo_mc_2387810@5eplay.com
@@ -119,7 +73,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387549
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: RUBY vs SPARTA
 DTSTART:20251115T120000Z
 DTEND:20251115T143000Z
 UID:csgo_mc_2387811@5eplay.com
@@ -164,7 +118,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387723
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:瑞典杯 2025: Johnny Speeds vs TBD
+SUMMARY:瑞典杯 2025: Johnny Speeds vs EYE
 DTSTART:20251115T140000Z
 DTEND:20251115T163000Z
 UID:csgo_mc_2387999@5eplay.com
@@ -187,7 +141,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1892
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: 500 vs Leo
 DTSTART:20251115T150000Z
 DTEND:20251115T173000Z
 UID:csgo_mc_2387812@5eplay.com
@@ -199,7 +153,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387812
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛6: 9z vs TBD
 DTSTART:20251115T150000Z
 DTEND:20251115T173000Z
 UID:csgo_mc_2387689@5eplay.com
@@ -223,7 +177,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388003
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:瑞典杯 2025: Metizport vs TBD
+SUMMARY:瑞典杯 2025: Metizport vs Alliance
 DTSTART:20251115T170000Z
 DTEND:20251115T210000Z
 UID:csgo_mc_2388000@5eplay.com
@@ -234,7 +188,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: Monte vs TBD
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: Monte vs Venom
 DTSTART:20251115T180000Z
 DTEND:20251115T203000Z
 UID:csgo_mc_2387232@5eplay.com
@@ -246,7 +200,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387232
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: ECLOT vs JJH
 DTSTART:20251115T180000Z
 DTEND:20251115T203000Z
 UID:csgo_mc_2387813@5eplay.com
@@ -258,7 +212,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387813
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+SUMMARY: CCT 第3赛季 南美系列赛6: BESTIA vs Gaimin Gladiators
 DTSTART:20251115T180000Z
 DTEND:20251115T203000Z
 UID:csgo_mc_2387690@5eplay.com
@@ -405,7 +359,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387550
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: Partizan vs K27
 DTSTART:20251116T090000Z
 DTEND:20251116T113000Z
 UID:csgo_mc_2387814@5eplay.com
@@ -417,7 +371,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387814
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: FT vs Nuclear TigeRES
 DTSTART:20251116T120000Z
 DTEND:20251116T143000Z
 UID:csgo_mc_2387815@5eplay.com
@@ -438,5 +392,40 @@ DESCRIPTION:比赛ID: cg_mc_manual_1893\n赛事: 虚空超级联赛 S1\n
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1893
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rainhas do Clutch FERJEE 2025 决赛: FURIA fe vs TBD
+DTSTART:20251116T140000Z
+DTEND:20251116T163000Z
+UID:csgo_mc_2388011@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388011\n赛事: Rainhas do Clutch FERJEE 20
+ 25 决赛\n阶段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388011
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:虚空超级联赛 S1: TBD vs TBD
+DTSTART:20251116T150000Z
+DTEND:20251116T173000Z
+UID:cg_mc_manual_1894@5eplay.com
+DESCRIPTION:比赛ID: cg_mc_manual_1894\n赛事: 虚空超级联赛 S1\n
+ 阶段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1894
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: Betera vs Oramond
+DTSTART:20251116T150000Z
+DTEND:20251116T173000Z
+UID:csgo_mc_2387816@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387816\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387816
 END:VEVENT
 END:VCALENDAR
