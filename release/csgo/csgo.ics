@@ -3,63 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:虚空超级联赛 S1: UR vs XDM
-DTSTART:20251114T150000Z
-DTEND:20251114T173000Z
-UID:cg_mc_manual_1890@5eplay.com
-DESCRIPTION:比赛ID: cg_mc_manual_1890\n赛事: 虚空超级联赛 S1\n
- 阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1890
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: FT vs CPH Wolves
-DTSTART:20251114T150000Z
-DTEND:20251114T173000Z
-UID:csgo_mc_2387808@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387808\n赛事: CCT 第3赛季 欧洲系列
- 赛 11\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387808
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:英特尔 Monsters Reloaded 2025: GANK vs Bushido Wildcats
-DTSTART:20251114T150000Z
-DTEND:20251114T190000Z
-UID:csgo_mc_2387944@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387944\n赛事: 英特尔 Monsters Reloaded
-  2025\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 其
- 他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387944
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: CYBERSHOKE vs FORZE Reload
-DTSTART:20251114T150000Z
-DTEND:20251114T173000Z
-UID:csgo_mc_2387450@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387450\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387450
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: Sharks vs Gaimin Gladiators
-DTSTART:20251114T160000Z
-DTEND:20251114T183000Z
-UID:csgo_mc_2387686@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387686\n赛事:  CCT 第3赛季 南美系
- 列赛6\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387686
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:瑞典杯 2025: Metizport vs Johnny Speeds
 DTSTART:20251114T170000Z
 DTEND:20251114T193000Z
@@ -212,8 +155,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2387848
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLAST 对抗赛 S2: FURIA vs paiN
-DTSTART:20251115T080000Z
-DTEND:20251115T103000Z
+DTSTART:20251115T073000Z
+DTEND:20251115T100000Z
 UID:csgo_mc_2387548@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387548\n赛事: BLAST 对抗赛 S2\n阶段:
   淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: A级\n状态
@@ -234,7 +177,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387810
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST 对抗赛 S2: Falcons vs TBD
+SUMMARY:BLAST 对抗赛 S2: Falcons vs Vitality
 DTSTART:20251115T103000Z
 DTEND:20251115T130000Z
 UID:csgo_mc_2387549@5eplay.com
@@ -301,7 +244,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387999
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:虚空超级联赛 S1: TBD vs TBD
+SUMMARY:虚空超级联赛 S1: Last Bullet vs TBD
 DTSTART:20251115T150000Z
 DTEND:20251115T173000Z
 UID:cg_mc_manual_1892@5eplay.com
@@ -405,5 +348,51 @@ DESCRIPTION:比赛ID: csgo_mc_2387453\n赛事: 银河之战 2025 第5阶
  C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387453
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CBCS 大师赛 Xeque Mate 2025决赛: Sharks vs Fake do Biru
+DTSTART:20251115T193000Z
+DTEND:20251115T220000Z
+UID:csgo_mc_2388004@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388004\n赛事: CBCS 大师赛 Xeque Mate 2
+ 025决赛\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n
+ 等级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5E
+ Play
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PrizePicks 北美复兴杯 S11: TBD vs TBD
+DTSTART:20251115T200000Z
+DTEND:20251115T223000Z
+UID:csgo_mc_2388022@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388022\n赛事: PrizePicks 北美复兴杯 
+ S11\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PrizePicks 北美复兴杯 S11: TBD vs TBD
+DTSTART:20251115T200000Z
+DTEND:20251115T223000Z
+UID:csgo_mc_2388023@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388023\n赛事: PrizePicks 北美复兴杯 
+ S11\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+DTSTART:20251115T210000Z
+DTEND:20251115T233000Z
+UID:csgo_mc_2387691@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387691\n赛事:  CCT 第3赛季 南美系
+ 列赛6\n阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387691
 END:VEVENT
 END:VCALENDAR
