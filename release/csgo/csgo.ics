@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第4季: SkinRave vs Voca
-DTSTART:20251114T020000Z
-DTEND:20251114T043000Z
-UID:csgo_mc_2387317@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387317\n赛事: ESL 挑战者联赛 S50 北
- 美 第4季\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: B
- O3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387317
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 2: 9INE vs BORING PLAYER
-DTSTART:20251114T030000Z
-DTEND:20251114T053000Z
-UID:csgo_mc_2387845@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387845\n赛事: 完美世界 挑战者系
- 列赛 2\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387845
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:完美世界 挑战者系列赛 2: LVG vs Last Bullet
 DTSTART:20251114T060000Z
 DTEND:20251114T083000Z
@@ -257,7 +233,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387997
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Bounty Hunters vs TBD
+SUMMARY:ESL 挑战者联赛 S50 南美 第4季: Bounty Hunters vs 9z
 DTSTART:20251114T220000Z
 DTEND:20251115T003000Z
 UID:csgo_mc_2387276@5eplay.com
@@ -440,5 +416,29 @@ DESCRIPTION:比赛ID: csgo_mc_2387812\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387812
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: CCT 第3赛季 南美系列赛6: TBD vs TBD
+DTSTART:20251115T150000Z
+DTEND:20251115T173000Z
+UID:csgo_mc_2387689@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387689\n赛事:  CCT 第3赛季 南美系
+ 列赛6\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387689
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CBCS 大师赛 Xeque Mate 2025决赛: Keyd vs Bounty Hunters
+DTSTART:20251115T153000Z
+DTEND:20251115T180000Z
+UID:csgo_mc_2388003@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388003\n赛事: CBCS 大师赛 Xeque Mate 2
+ 025决赛\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n
+ 等级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5E
+ Play
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388003
 END:VEVENT
 END:VCALENDAR
