@@ -3,41 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:虚空超级联赛 S1: KDG vs Last Bullet
-DTSTART:20251114T130000Z
-DTEND:20251114T153000Z
-UID:cg_mc_manual_1889@5eplay.com
-DESCRIPTION:比赛ID: cg_mc_manual_1889\n赛事: 虚空超级联赛 S1\n
- 阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1889
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: 9z vs Keyd
-DTSTART:20251114T130000Z
-DTEND:20251114T153000Z
-UID:csgo_mc_2387685@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387685\n赛事:  CCT 第3赛季 南美系
- 列赛6\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387685
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rainhas do Clutch FERJEE 2025 决赛: Atrix vs FURIA fe
-DTSTART:20251114T140000Z
-DTEND:20251114T163000Z
-UID:csgo_mc_2388008@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388008\n赛事: Rainhas do Clutch FERJEE 20
- 25 决赛\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3
- \n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源
- : 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388008
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:虚空超级联赛 S1: UR vs XDM
 DTSTART:20251114T150000Z
 DTEND:20251114T173000Z
