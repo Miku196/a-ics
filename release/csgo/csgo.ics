@@ -3,43 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CBCS 大师赛 Xeque Mate 2025决赛: Keyd vs Bounty Hunters
-DTSTART:20251115T193000Z
-DTEND:20251115T220000Z
-UID:csgo_mc_2388003@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388003\n赛事: CBCS 大师赛 Xeque Mate 2
- 025决赛\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n
- 等级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5E
- Play
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388003
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PrizePicks 北美复兴杯 S11: BOSS vs regain
-DTSTART:20251115T200000Z
-DTEND:20251115T223000Z
-UID:csgo_mc_2388022@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388022\n赛事: PrizePicks 北美复兴杯 
- S11\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388022
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PrizePicks 北美复兴杯 S11: SkinRave vs Sakura
-DTSTART:20251115T200000Z
-DTEND:20251115T223000Z
-UID:csgo_mc_2388023@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388023\n赛事: PrizePicks 北美复兴杯 
- S11\n阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388023
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: CCT 第3赛季 南美系列赛6: 9z vs TBD
-DTSTART:20251115T210000Z
-DTEND:20251115T233000Z
+SUMMARY: CCT 第3赛季 南美系列赛6: 9z vs BESTIA
+DTSTART:20251115T203500Z
+DTEND:20251115T230500Z
 UID:csgo_mc_2387691@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387691\n赛事:  CCT 第3赛季 南美系
  列赛6\n阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO3\n等
@@ -390,5 +356,50 @@ DESCRIPTION:比赛ID: csgo_mc_2388017\n赛事: POWER Ligaen 第30赛季\n
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+DTSTART:20251117T180000Z
+DTEND:20251117T203000Z
+UID:csgo_mc_2387820@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387820\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387820
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+DTSTART:20251117T180000Z
+DTEND:20251117T203000Z
+UID:csgo_mc_2387457@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387457\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387457
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POWER Ligaen 第30赛季: TBD vs TBD
+DTSTART:20251117T190000Z
+DTEND:20251117T213000Z
+UID:csgo_mc_2388018@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388018\n赛事: POWER Ligaen 第30赛季\n
+ 阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388018
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POWER Ligaen 第30赛季: TBD vs TBD
+DTSTART:20251117T190000Z
+DTEND:20251117T213000Z
+UID:csgo_mc_2388019@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388019\n赛事: POWER Ligaen 第30赛季\n
+ 阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388019
 END:VEVENT
 END:VCALENDAR
