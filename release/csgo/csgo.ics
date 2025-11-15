@@ -278,7 +278,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388025
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第4季: SkinRave vs TBD
+SUMMARY:ESL 挑战者联赛 S50 北美 第4季: SkinRave vs Marsborne
 DTSTART:20251116T020000Z
 DTEND:20251116T043000Z
 UID:csgo_mc_2387319@5eplay.com
@@ -437,5 +437,16 @@ DESCRIPTION:比赛ID: csgo_mc_2388005\n赛事: CBCS 大师赛 Xeque Mate 2
  C级\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PrizePicks 北美复兴杯 S11: TBD vs TBD
+DTSTART:20251116T170000Z
+DTEND:20251116T193000Z
+UID:csgo_mc_2388026@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388026\n赛事: PrizePicks 北美复兴杯 
+ S11\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388026
 END:VEVENT
 END:VCALENDAR
