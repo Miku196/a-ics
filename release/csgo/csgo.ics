@@ -4,8 +4,8 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY:BLAST 对抗赛 S2: Falcons vs Vitality
-DTSTART:20251115T103000Z
-DTEND:20251115T130000Z
+DTSTART:20251115T101500Z
+DTEND:20251115T124500Z
 UID:csgo_mc_2387549@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387549\n赛事: BLAST 对抗赛 S2\n阶段:
   淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: A级\n状态
@@ -188,7 +188,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388003
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PrizePicks 北美复兴杯 S11: TBD vs TBD
+SUMMARY:PrizePicks 北美复兴杯 S11: BOSS vs regain
 DTSTART:20251115T200000Z
 DTEND:20251115T223000Z
 UID:csgo_mc_2388022@5eplay.com
@@ -199,7 +199,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388022
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PrizePicks 北美复兴杯 S11: TBD vs TBD
+SUMMARY:PrizePicks 北美复兴杯 S11: SkinRave vs Sakura
 DTSTART:20251115T200000Z
 DTEND:20251115T223000Z
 UID:csgo_mc_2388023@5eplay.com
@@ -233,7 +233,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387277
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PrizePicks 北美复兴杯 S11: TBD vs TBD
+SUMMARY:PrizePicks 北美复兴杯 S11: Voca vs Phoenix
 DTSTART:20251115T230000Z
 DTEND:20251116T013000Z
 UID:csgo_mc_2388024@5eplay.com
@@ -244,7 +244,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388024
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PrizePicks 北美复兴杯 S11: TBD vs TBD
+SUMMARY:PrizePicks 北美复兴杯 S11: Marsborne vs Zomblers
 DTSTART:20251115T230000Z
 DTEND:20251116T013000Z
 UID:csgo_mc_2388025@5eplay.com
@@ -266,7 +266,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387319
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 2: Gentle Mates vs TBD
+SUMMARY:完美世界 挑战者系列赛 2: Gentle Mates vs 9INE
 DTSTART:20251116T030000Z
 DTEND:20251116T053000Z
 UID:csgo_mc_2387849@5eplay.com
@@ -278,7 +278,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387849
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 2: RA vs TBD
+SUMMARY:完美世界 挑战者系列赛 2: RA vs LVG
 DTSTART:20251116T060000Z
 DTEND:20251116T083000Z
 UID:csgo_mc_2387850@5eplay.com
@@ -301,7 +301,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388029
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BLAST 对抗赛 S2: TBD vs TBD
+SUMMARY:BLAST 对抗赛 S2: FURIA vs TBD
 DTSTART:20251116T080000Z
 DTEND:20251116T120000Z
 UID:csgo_mc_2387550@5eplay.com
@@ -437,5 +437,28 @@ DESCRIPTION:比赛ID: csgo_mc_2387233\n赛事: ESL 挑战者联赛 S50 欧
   5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387233
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: CYBERSHOKE vs CPH Wolves
+DTSTART:20251116T180000Z
+DTEND:20251116T203000Z
+UID:csgo_mc_2387817@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387817\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387817
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: JJH vs Aab
+DTSTART:20251116T180000Z
+DTEND:20251116T203000Z
+UID:csgo_mc_2387455@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387455\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387455
 END:VEVENT
 END:VCALENDAR
