@@ -4,8 +4,8 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY:完美世界 挑战者系列赛 2: 9INE vs LVG
-DTSTART:20251115T060000Z
-DTEND:20251115T083000Z
+DTSTART:20251115T070000Z
+DTEND:20251115T093000Z
 UID:csgo_mc_2387848@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387848\n赛事: 完美世界 挑战者系
  列赛 2\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
@@ -448,5 +448,17 @@ DESCRIPTION:比赛ID: csgo_mc_2388026\n赛事: PrizePicks 北美复兴杯
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL 挑战者联赛 S50 欧洲 第4季: SINNERS vs TBD
+DTSTART:20251116T180000Z
+DTEND:20251116T203000Z
+UID:csgo_mc_2387233@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387233\n赛事: ESL 挑战者联赛 S50 欧
+ 洲 第4季\n阶段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387233
 END:VEVENT
 END:VCALENDAR
