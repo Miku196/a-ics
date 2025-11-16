@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:虚空超级联赛 S1: XDM vs UR
-DTSTART:20251116T130000Z
-DTEND:20251116T153000Z
-UID:cg_mc_manual_1893@5eplay.com
-DESCRIPTION:比赛ID: cg_mc_manual_1893\n赛事: 虚空超级联赛 S1\n
- 阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/cg_mc_manual_1893
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rainhas do Clutch FERJEE 2025 决赛: FURIA fe vs MIBR.fe
-DTSTART:20251116T140000Z
-DTEND:20251116T163000Z
-UID:csgo_mc_2388011@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388011\n赛事: Rainhas do Clutch FERJEE 20
- 25 决赛\n阶段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388011
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:虚空超级联赛 S1: Kaleido vs TBD
 DTSTART:20251116T150000Z
 DTEND:20251116T173000Z
@@ -313,7 +290,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388019
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 3: Animus Victoria vs TBD
+SUMMARY:CCT 第3赛季 大洋洲系列赛 3: Animus Victoria vs THUNDER dO
+ WNUNDER
 DTSTART:20251118T080000Z
 DTEND:20251118T103000Z
 UID:csgo_mc_2388131@5eplay.com
@@ -417,7 +395,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388021
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 3: Time Waves vs TBD
+SUMMARY:CCT 第3赛季 大洋洲系列赛 3: Time Waves vs LITE
 DTSTART:20251119T080000Z
 DTEND:20251119T103000Z
 UID:csgo_mc_2388133@5eplay.com
@@ -427,5 +405,41 @@ DESCRIPTION:比赛ID: csgo_mc_2388133\n赛事: CCT 第3赛季 大洋洲系
   5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 3: TBD vs TBD
+DTSTART:20251119T103000Z
+DTEND:20251119T130000Z
+UID:csgo_mc_2388134@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388134\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 3\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\
+ n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+DTSTART:20251119T120000Z
+DTEND:20251119T143000Z
+UID:csgo_mc_2387824@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387824\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387824
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+DTSTART:20251119T150000Z
+DTEND:20251119T173000Z
+UID:csgo_mc_2387825@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387825\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387825
 END:VEVENT
 END:VCALENDAR
