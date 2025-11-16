@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESEA发展联赛 第55赛季 北美: Fisher College vs Mythic
-DTSTART:20251116T013000Z
-DTEND:20251116T040000Z
-UID:csgo_mc_2388161@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388161\n赛事: ESEA发展联赛 第55赛
- 季 北美\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 
- 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388161
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 北美 第4季: SkinRave vs Marsborne
-DTSTART:20251116T020000Z
-DTEND:20251116T043000Z
-UID:csgo_mc_2387319@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387319\n赛事: ESL 挑战者联赛 S50 北
- 美 第4季\n阶段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未
- 开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387319
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:完美世界 挑战者系列赛 2: Gentle Mates vs 9INE
-DTSTART:20251116T030000Z
-DTEND:20251116T053000Z
-UID:csgo_mc_2387849@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387849\n赛事: 完美世界 挑战者系
- 列赛 2\n阶段: 淘汰赛 季军赛\n轮次: 季军赛\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387849
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:完美世界 挑战者系列赛 2: RA vs LVG
 DTSTART:20251116T060000Z
 DTEND:20251116T083000Z
@@ -107,7 +73,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387815
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:虚空超级联赛 S1: TBD vs TBD
+SUMMARY:虚空超级联赛 S1: UR vs XDM
 DTSTART:20251116T130000Z
 DTEND:20251116T153000Z
 UID:cg_mc_manual_1893@5eplay.com
@@ -130,7 +96,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388011
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:虚空超级联赛 S1: TBD vs TBD
+SUMMARY:虚空超级联赛 S1: Kaleido vs TBD
 DTSTART:20251116T150000Z
 DTEND:20251116T173000Z
 UID:cg_mc_manual_1894@5eplay.com
@@ -248,8 +214,9 @@ DTSTART:20251117T013000Z
 DTEND:20251117T053000Z
 UID:csgo_mc_2388162@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388162\n赛事: ESEA发展联赛 第55赛
- 季 北美\n赛制: BO5\n等级: 其他\n状态: 未开始\n预估时长: 
- 4.0小时\n数据来源: 5EPlay
+ 季 北美\n阶段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO5\n
+ 等级: 其他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 
+ 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388162
 END:VEVENT
@@ -266,13 +233,14 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388031
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch Series 3 Closed Qualifier: HAVU vs HyperSpirit
+SUMMARY:NODWIN Clutch 系列 3 封闭预选: HAVU vs HyperSpirit
 DTSTART:20251117T090000Z
 DTEND:20251117T113000Z
 UID:csgo_mc_2388152@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388152\n赛事: NODWIN Clutch Series 3 Clos
- ed Qualifier\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长
- : 2.5小时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2388152\n赛事: NODWIN Clutch 系列 3 封
+ 闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388152
 END:VEVENT
@@ -301,13 +269,14 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387818
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch Series 3 Closed Qualifier: SPARTA vs CSDIILIT
+SUMMARY:NODWIN Clutch 系列 3 封闭预选: SPARTA vs CSDIILIT
 DTSTART:20251117T120000Z
 DTEND:20251117T143000Z
 UID:csgo_mc_2388153@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388153\n赛事: NODWIN Clutch Series 3 Clos
- ed Qualifier\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长
- : 2.5小时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2388153\n赛事: NODWIN Clutch 系列 3 封
+ 闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388153
 END:VEVENT
@@ -324,13 +293,14 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387819
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch Series 3 Closed Qualifier: Dziuseppe vs MOUZ.N
+SUMMARY:NODWIN Clutch 系列 3 封闭预选: Dziuseppe vs MOUZ.N
 DTSTART:20251117T150000Z
 DTEND:20251117T173000Z
 UID:csgo_mc_2388154@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388154\n赛事: NODWIN Clutch Series 3 Clos
- ed Qualifier\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长
- : 2.5小时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2388154\n赛事: NODWIN Clutch 系列 3 封
+ 闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388154
 END:VEVENT
@@ -380,13 +350,14 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387820
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NODWIN Clutch Series 3 Closed Qualifier: EF vs MANA
+SUMMARY:NODWIN Clutch 系列 3 封闭预选: EF vs MANA
 DTSTART:20251117T180000Z
 DTEND:20251117T203000Z
 UID:csgo_mc_2388155@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388155\n赛事: NODWIN Clutch Series 3 Clos
- ed Qualifier\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长
- : 2.5小时\n数据来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2388155\n赛事: NODWIN Clutch 系列 3 封
+ 闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388155
 END:VEVENT
