@@ -4,8 +4,8 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY:CBCS 大师赛 Xeque Mate 2025决赛: Sharks vs Keyd
-DTSTART:20251116T193000Z
-DTEND:20251116T233000Z
+DTSTART:20251116T202000Z
+DTEND:20251117T002000Z
 UID:csgo_mc_2388005@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388005\n赛事: CBCS 大师赛 Xeque Mate 2
  025决赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 
@@ -14,18 +14,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388005
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PrizePicks 北美复兴杯 S11: Voca vs Marsborne
-DTSTART:20251116T200000Z
-DTEND:20251116T223000Z
-UID:csgo_mc_2388027@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388027\n赛事: PrizePicks 北美复兴杯 
- S11\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388027
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PrizePicks 北美复兴杯 S11: TBD vs TBD
+SUMMARY:PrizePicks 北美复兴杯 S11: SkinRave vs TBD
 DTSTART:20251116T230000Z
 DTEND:20251117T013000Z
 UID:csgo_mc_2388028@5eplay.com
@@ -419,5 +408,39 @@ DESCRIPTION:比赛ID: csgo_mc_2387827\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387827
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 3 封闭预选: Mousquetaires vs Leo
+DTSTART:20251120T090000Z
+DTEND:20251120T113000Z
+UID:csgo_mc_2388156@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388156\n赛事: NODWIN Clutch 系列 3 封
+ 闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388156
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第三季: Genone vs Strael Bora
+DTSTART:20251120T090000Z
+DTEND:20251120T100000Z
+UID:csgo_mc_2388163@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388163\n赛事: DraculaN 第三季\n阶段:
+  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
+ 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388163
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第三季: Nexus vs Infinite
+DTSTART:20251120T090000Z
+DTEND:20251120T100000Z
+UID:csgo_mc_2388164@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388164\n赛事: DraculaN 第三季\n阶段:
+  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
+ 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388164
 END:VEVENT
 END:VCALENDAR
