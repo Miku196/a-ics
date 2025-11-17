@@ -443,4 +443,15 @@ DESCRIPTION:比赛ID: csgo_mc_2388165\n赛事: DraculaN 第三季\n阶段:
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388165
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第三季: Tricked vs ASTRAL
+DTSTART:20251120T090000Z
+DTEND:20251120T100000Z
+UID:csgo_mc_2388166@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388166\n赛事: DraculaN 第三季\n阶段:
+  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
+ 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388166
+END:VEVENT
 END:VCALENDAR
