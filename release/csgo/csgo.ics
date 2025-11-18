@@ -15,6 +15,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388133
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 3 封闭预选: SPARTA vs CSDIILIT
+DTSTART:20251119T090000Z
+DTEND:20251119T113000Z
+UID:csgo_mc_2388275@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388275\n赛事: NODWIN Clutch 系列 3 封
+ 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
+ 时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388275
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 大洋洲系列赛 3: boosters vs WannaNow
 DTSTART:20251119T103000Z
 DTEND:20251119T130000Z
@@ -27,7 +38,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388134
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+SUMMARY:NODWIN Clutch 系列 3 封闭预选: MANA vs EF
+DTSTART:20251119T120000Z
+DTEND:20251119T143000Z
+UID:csgo_mc_2388276@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388276\n赛事: NODWIN Clutch 系列 3 封
+ 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
+ 时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388276
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: 500 vs ECLOT
 DTSTART:20251119T120000Z
 DTEND:20251119T143000Z
 UID:csgo_mc_2387824@5eplay.com
@@ -51,7 +73,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388215
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: Partizan vs CPH Wolves
 DTSTART:20251119T150000Z
 DTEND:20251119T173000Z
 UID:csgo_mc_2387825@5eplay.com
@@ -74,7 +96,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387461
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: Betera vs JJH
 DTSTART:20251119T180000Z
 DTEND:20251119T203000Z
 UID:csgo_mc_2387826@5eplay.com
