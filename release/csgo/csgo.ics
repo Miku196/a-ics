@@ -21,8 +21,9 @@ DTSTART:20251118T090000Z
 DTEND:20251118T113000Z
 UID:csgo_mc_2388246@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388246\n赛事: NODWIN Clutch 系列 3 封
- 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
- 时\n数据来源: 5EPlay
+ 闭预选\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388246
 END:VEVENT
@@ -44,8 +45,9 @@ DTSTART:20251118T120000Z
 DTEND:20251118T143000Z
 UID:csgo_mc_2388247@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388247\n赛事: NODWIN Clutch 系列 3 封
- 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
- 时\n数据来源: 5EPlay
+ 闭预选\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388247
 END:VEVENT
@@ -67,8 +69,9 @@ DTSTART:20251118T150000Z
 DTEND:20251118T173000Z
 UID:csgo_mc_2388248@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388248\n赛事: NODWIN Clutch 系列 3 封
- 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
- 时\n数据来源: 5EPlay
+ 闭预选\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388248
 END:VEVENT
@@ -112,8 +115,9 @@ DTSTART:20251118T180000Z
 DTEND:20251118T203000Z
 UID:csgo_mc_2388249@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388249\n赛事: NODWIN Clutch 系列 3 封
- 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
- 时\n数据来源: 5EPlay
+ 闭预选\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388249
 END:VEVENT
@@ -309,9 +313,9 @@ SUMMARY:JB 职业联赛 2025: ZT vs RUBY
 DTSTART:20251120T090000Z
 DTEND:20251120T113000Z
 UID:csgo_mc_2388253@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388253\n赛事: JB 职业联赛 2025\n赛
- 制: BO3\n等级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2388253\n赛事: JB 职业联赛 2025\n阶
+ 段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: C级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388253
 END:VEVENT
@@ -440,15 +444,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388170
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JB 职业联赛 2025: BC.Game vs FORZE Reload
+SUMMARY:JB 职业联赛 2025: CYBERSHOKE vs Oramond
 DTSTART:20251120T120000Z
 DTEND:20251120T143000Z
-UID:csgo_mc_2388254@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388254\n赛事: JB 职业联赛 2025\n赛
- 制: BO3\n等级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
+UID:csgo_mc_2388260@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388260\n赛事: JB 职业联赛 2025\n阶
+ 段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: C级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388254
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388260
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
