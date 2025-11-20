@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL 挑战者联赛 S50 南美 决赛: 9z vs Gaimin Gladiators
-DTSTART:20251120T220000Z
-DTEND:20251121T020000Z
-UID:csgo_mc_2388222@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388222\n赛事: ESL 挑战者联赛 S50 南
- 美 决赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级:
-  C级\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388222
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 北美 决赛: SkinRave vs NRG
 DTSTART:20251121T020000Z
 DTEND:20251121T060000Z
@@ -25,7 +14,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 3: TBD vs TBD
+SUMMARY:CCT 第3赛季 大洋洲系列赛 3: Gz vs Rooster
 DTSTART:20251121T080000Z
 DTEND:20251121T103000Z
 UID:csgo_mc_2388137@5eplay.com
@@ -37,7 +26,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388137
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: ENCE vs TBD
+SUMMARY:DraculaN 第三季: ENCE vs Nexus
 DTSTART:20251121T080000Z
 DTEND:20251121T090000Z
 UID:csgo_mc_2388185@5eplay.com
@@ -48,7 +37,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388185
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Passion UA vs TBD
+SUMMARY:DraculaN 第三季: Passion UA vs Acend
 DTSTART:20251121T080000Z
 DTEND:20251121T090000Z
 UID:csgo_mc_2388183@5eplay.com
@@ -59,7 +48,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388183
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Friendly Campers vs TBD
+SUMMARY:DraculaN 第三季: Friendly Campers vs WOPA
 DTSTART:20251121T080000Z
 DTEND:20251121T090000Z
 UID:csgo_mc_2388186@5eplay.com
@@ -70,7 +59,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388186
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: BASEMENT BOYS vs TBD
+SUMMARY:DraculaN 第三季: BASEMENT BOYS vs Genone
 DTSTART:20251121T080000Z
 DTEND:20251121T090000Z
 UID:csgo_mc_2388184@5eplay.com
@@ -104,6 +93,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388279
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 3 封闭预选: The Glecs vs Mousquetaires
+DTSTART:20251121T090000Z
+DTEND:20251121T113000Z
+UID:csgo_mc_2388317@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388317\n赛事: NODWIN Clutch 系列 3 封
+ 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
+ 时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388317
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 11: EYE vs CYBERSHOKE
 DTSTART:20251121T090000Z
 DTEND:20251121T113000Z
@@ -116,7 +116,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387831
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: ECSTATIC vs TBD
+SUMMARY:DraculaN 第三季: ECSTATIC vs UNiTY
 DTSTART:20251121T093000Z
 DTEND:20251121T103000Z
 UID:csgo_mc_2388187@5eplay.com
@@ -127,7 +127,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388187
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Betclic vs TBD
+SUMMARY:DraculaN 第三季: Betclic vs Tricked
 DTSTART:20251121T093000Z
 DTEND:20251121T103000Z
 UID:csgo_mc_2388189@5eplay.com
@@ -138,7 +138,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388189
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Inner Circle vs TBD
+SUMMARY:DraculaN 第三季: Inner Circle vs illwill
 DTSTART:20251121T093000Z
 DTEND:20251121T103000Z
 UID:csgo_mc_2388190@5eplay.com
@@ -149,7 +149,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388190
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: FUT vs TBD
+SUMMARY:DraculaN 第三季: FUT vs AM
 DTSTART:20251121T093000Z
 DTEND:20251121T103000Z
 UID:csgo_mc_2388188@5eplay.com
@@ -160,7 +160,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388188
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 3: TBD vs TBD
+SUMMARY:CCT 第3赛季 大洋洲系列赛 3: Vantage vs THUNDER dOWNUNDER
 DTSTART:20251121T103000Z
 DTEND:20251121T130000Z
 UID:csgo_mc_2388138@5eplay.com
@@ -249,6 +249,17 @@ DESCRIPTION:比赛ID: csgo_mc_2388258\n赛事: JB 职业联赛 2025\n阶
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388258
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 3 封闭预选: Fire Flux vs Leo
+DTSTART:20251121T120000Z
+DTEND:20251121T143000Z
+UID:csgo_mc_2388318@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388318\n赛事: NODWIN Clutch 系列 3 封
+ 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
+ 时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388318
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 11: SAW vs CPH Wolves
@@ -340,6 +351,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388259
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 3 封闭预选: Ence.A vs Aab
+DTSTART:20251121T150000Z
+DTEND:20251121T173000Z
+UID:csgo_mc_2388319@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388319\n赛事: NODWIN Clutch 系列 3 封
+ 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
+ 时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388319
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 11: BIG vs Leo
 DTSTART:20251121T150000Z
 DTEND:20251121T173000Z
@@ -394,5 +416,27 @@ DESCRIPTION:比赛ID: csgo_mc_2388201\n赛事: DraculaN 第三季\n阶段:
  \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第三季: TBD vs TBD
+DTSTART:20251121T170000Z
+DTEND:20251121T193000Z
+UID:csgo_mc_2388202@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388202\n赛事: DraculaN 第三季\n阶段:
+  淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制: BO3\n等级: 其他
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388202
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JB 职业联赛 2025: Venom vs 1win
+DTSTART:20251121T180000Z
+DTEND:20251121T203000Z
+UID:csgo_mc_2388255@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388255\n赛事: JB 职业联赛 2025\n阶
+ 段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: C级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388255
 END:VEVENT
 END:VCALENDAR
