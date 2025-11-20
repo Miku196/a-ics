@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 竞争者欧洲系列赛 2: EF vs Washington
-DTSTART:20251120T183000Z
-DTEND:20251120T210000Z
-UID:csgo_mc_2388239@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388239\n赛事: CCT 第3赛季 竞争者欧
- 洲系列赛 2\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制
- : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388239
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JB 职业联赛 2025: BC.Game vs FORZE Reload
-DTSTART:20251120T184000Z
-DTEND:20251120T211000Z
-UID:csgo_mc_2388254@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388254\n赛事: JB 职业联赛 2025\n阶
- 段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: C级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388254
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 南美 决赛: 9z vs Gaimin Gladiators
 DTSTART:20251120T220000Z
 DTEND:20251121T020000Z
@@ -286,7 +263,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387832
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+SUMMARY:银河之战 2025 第5阶段: CPH Wolves vs Novaq
 DTSTART:20251121T120000Z
 DTEND:20251121T143000Z
 UID:csgo_mc_2387464@5eplay.com
@@ -350,5 +327,72 @@ DESCRIPTION:比赛ID: csgo_mc_2388198\n赛事: DraculaN 第三季\n阶段:
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388198
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JB 职业联赛 2025: FT vs EF
+DTSTART:20251121T150000Z
+DTEND:20251121T173000Z
+UID:csgo_mc_2388259@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388259\n赛事: JB 职业联赛 2025\n阶
+ 段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: C级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388259
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: BIG vs Leo
+DTSTART:20251121T150000Z
+DTEND:20251121T173000Z
+UID:csgo_mc_2387833@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387833\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387833
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: 500 vs FORZE Reload
+DTSTART:20251121T150000Z
+DTEND:20251121T173000Z
+UID:csgo_mc_2387465@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387465\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387465
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第三季: TBD vs TBD
+DTSTART:20251121T170000Z
+DTEND:20251121T193000Z
+UID:csgo_mc_2388199@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388199\n赛事: DraculaN 第三季\n阶段:
+  淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制: BO3\n等级: 其他
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第三季: TBD vs TBD
+DTSTART:20251121T170000Z
+DTEND:20251121T193000Z
+UID:csgo_mc_2388200@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388200\n赛事: DraculaN 第三季\n阶段:
+  淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制: BO3\n等级: 其他
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388200
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第三季: TBD vs TBD
+DTSTART:20251121T170000Z
+DTEND:20251121T193000Z
+UID:csgo_mc_2388201@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388201\n赛事: DraculaN 第三季\n阶段:
+  淘汰赛 败者组 第2轮\n轮次: 第2轮\n赛制: BO3\n等级: 其他
+ \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388201
 END:VEVENT
 END:VCALENDAR
