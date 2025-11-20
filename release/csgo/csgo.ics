@@ -3,155 +3,7 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 3: Rooster vs boosters
-DTSTART:20251120T103000Z
-DTEND:20251120T130000Z
-UID:csgo_mc_2388136@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388136\n赛事: CCT 第3赛季 大洋洲系
- 列赛 3\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\
- n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388136
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: MINLATE vs illwill
-DTSTART:20251120T103000Z
-DTEND:20251120T113000Z
-UID:csgo_mc_2388167@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388167\n赛事: DraculaN 第三季\n阶段:
-  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
- 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388167
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: WOPA vs G2 Ares
-DTSTART:20251120T103000Z
-DTEND:20251120T113000Z
-UID:csgo_mc_2388168@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388168\n赛事: DraculaN 第三季\n阶段:
-  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
- 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388168
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: UNiTY vs Acend
-DTSTART:20251120T103000Z
-DTEND:20251120T113000Z
-UID:csgo_mc_2388169@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388169\n赛事: DraculaN 第三季\n阶段:
-  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
- 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388169
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: AM vs Lazer Cats
-DTSTART:20251120T103000Z
-DTEND:20251120T113000Z
-UID:csgo_mc_2388170@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388170\n赛事: DraculaN 第三季\n阶段:
-  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
- 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388170
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛 3 封闭预选赛: CSDIILIT vs QWENTR
- Y
-DTSTART:20251120T113000Z
-DTEND:20251120T140000Z
-UID:csgo_mc_2388277@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388277\n赛事: 欧洲职业联赛 系列
- 赛 3 封闭预选赛\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制:
-  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388277
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JB 职业联赛 2025: CYBERSHOKE vs Oramond
-DTSTART:20251120T120000Z
-DTEND:20251120T143000Z
-UID:csgo_mc_2388260@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388260\n赛事: JB 职业联赛 2025\n阶
- 段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: C级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388260
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: BC.Game vs K27
-DTSTART:20251120T120000Z
-DTEND:20251120T143000Z
-UID:csgo_mc_2387828@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387828\n赛事: CCT 第3赛季 欧洲系列
- 赛 11\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387828
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 3 封闭预选: Aab vs Washington
-DTSTART:20251120T120000Z
-DTEND:20251120T143000Z
-UID:csgo_mc_2388157@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388157\n赛事: NODWIN Clutch 系列 3 封
- 闭预选\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3
- \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
- ay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388157
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Nexus vs TBD
-DTSTART:20251120T120000Z
-DTEND:20251120T130000Z
-UID:csgo_mc_2388172@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388172\n赛事: DraculaN 第三季\n阶段:
-  小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO1\n等级: 其他\n
- 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388172
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Tricked vs TBD
-DTSTART:20251120T120000Z
-DTEND:20251120T130000Z
-UID:csgo_mc_2388174@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388174\n赛事: DraculaN 第三季\n阶段:
-  小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO1\n等级: 其他\n
- 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388174
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Genone vs TBD
-DTSTART:20251120T120000Z
-DTEND:20251120T130000Z
-UID:csgo_mc_2388171@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388171\n赛事: DraculaN 第三季\n阶段:
-  小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO1\n等级: 其他\n
- 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388171
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Haemus vs TBD
-DTSTART:20251120T120000Z
-DTEND:20251120T130000Z
-UID:csgo_mc_2388173@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388173\n赛事: DraculaN 第三季\n阶段:
-  小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO1\n等级: 其他\n
- 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388173
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Strael Bora vs TBD
+SUMMARY:DraculaN 第三季: Strael Bora vs illwill
 DTSTART:20251120T133000Z
 DTEND:20251120T160000Z
 UID:csgo_mc_2388175@5eplay.com
@@ -162,7 +14,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388175
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Infinite vs TBD
+SUMMARY:DraculaN 第三季: Infinite vs G2 Ares
 DTSTART:20251120T133000Z
 DTEND:20251120T160000Z
 UID:csgo_mc_2388176@5eplay.com
@@ -173,7 +25,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388176
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: ASTRAL vs TBD
+SUMMARY:DraculaN 第三季: ASTRAL vs Lazer Cats
 DTSTART:20251120T133000Z
 DTEND:20251120T160000Z
 UID:csgo_mc_2388178@5eplay.com
@@ -182,17 +34,6 @@ DESCRIPTION:比赛ID: csgo_mc_2388178\n赛事: DraculaN 第三季\n阶段:
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388178
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Phantom vs TBD
-DTSTART:20251120T133000Z
-DTEND:20251120T160000Z
-UID:csgo_mc_2388177@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388177\n赛事: DraculaN 第三季\n阶段:
-  小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388177
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESL 挑战者联赛 S50 亚洲 决赛: RA vs LVG
@@ -421,5 +262,95 @@ DESCRIPTION:比赛ID: csgo_mc_2388185\n赛事: DraculaN 第三季\n阶段:
  状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388185
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第三季: Passion UA vs TBD
+DTSTART:20251121T080000Z
+DTEND:20251121T090000Z
+UID:csgo_mc_2388183@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388183\n赛事: DraculaN 第三季\n阶段:
+  淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
+ 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第三季: Friendly Campers vs TBD
+DTSTART:20251121T080000Z
+DTEND:20251121T090000Z
+UID:csgo_mc_2388186@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388186\n赛事: DraculaN 第三季\n阶段:
+  淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
+ 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388186
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第三季: BASEMENT BOYS vs TBD
+DTSTART:20251121T080000Z
+DTEND:20251121T090000Z
+UID:csgo_mc_2388184@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388184\n赛事: DraculaN 第三季\n阶段:
+  淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
+ 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388184
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JB 职业联赛 2025: Nemiga vs Novaq
+DTSTART:20251121T090000Z
+DTEND:20251121T113000Z
+UID:csgo_mc_2388257@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388257\n赛事: JB 职业联赛 2025\n阶
+ 段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: C级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388257
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛 3 封闭预选赛: Eagle vs MANA
+DTSTART:20251121T090000Z
+DTEND:20251121T113000Z
+UID:csgo_mc_2388279@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388279\n赛事: 欧洲职业联赛 系列
+ 赛 3 封闭预选赛\n阶段: 淘汰赛 第1轮\n轮次: 第1轮\n赛制:
+  BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: EYE vs CYBERSHOKE
+DTSTART:20251121T090000Z
+DTEND:20251121T113000Z
+UID:csgo_mc_2387831@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387831\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387831
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第三季: ECSTATIC vs TBD
+DTSTART:20251121T093000Z
+DTEND:20251121T103000Z
+UID:csgo_mc_2388187@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388187\n赛事: DraculaN 第三季\n阶段:
+  淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
+ 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388187
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第三季: Betclic vs TBD
+DTSTART:20251121T093000Z
+DTEND:20251121T103000Z
+UID:csgo_mc_2388189@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388189\n赛事: DraculaN 第三季\n阶段:
+  淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
+ 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388189
 END:VEVENT
 END:VCALENDAR
