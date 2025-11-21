@@ -3,62 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 3: Gz vs Rooster
-DTSTART:20251121T080000Z
-DTEND:20251121T103000Z
-UID:csgo_mc_2388137@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388137\n赛事: CCT 第3赛季 大洋洲系
- 列赛 3\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\
- n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388137
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: ENCE vs Nexus
-DTSTART:20251121T080000Z
-DTEND:20251121T090000Z
-UID:csgo_mc_2388185@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388185\n赛事: DraculaN 第三季\n阶段:
-  淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
- 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388185
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Passion UA vs Acend
-DTSTART:20251121T080000Z
-DTEND:20251121T090000Z
-UID:csgo_mc_2388183@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388183\n赛事: DraculaN 第三季\n阶段:
-  淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
- 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388183
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Friendly Campers vs WOPA
-DTSTART:20251121T080000Z
-DTEND:20251121T090000Z
-UID:csgo_mc_2388186@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388186\n赛事: DraculaN 第三季\n阶段:
-  淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
- 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388186
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: BASEMENT BOYS vs Genone
-DTSTART:20251121T080000Z
-DTEND:20251121T090000Z
-UID:csgo_mc_2388184@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388184\n赛事: DraculaN 第三季\n阶段:
-  淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等级: 其他\n
- 状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388184
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JB 职业联赛 2025: Nemiga vs Novaq
 DTSTART:20251121T090000Z
 DTEND:20251121T113000Z
