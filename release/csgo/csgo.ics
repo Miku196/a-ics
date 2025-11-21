@@ -431,4 +431,16 @@ DESCRIPTION:比赛ID: csgo_mc_2388320\n赛事: NODWIN Clutch 系列 3 封
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388320
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: Heroic vs 500
+DTSTART:20251121T180000Z
+DTEND:20251121T203000Z
+UID:csgo_mc_2387834@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387834\n赛事: CCT 第3赛季 欧洲系列
+ 赛 11\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387834
+END:VEVENT
 END:VCALENDAR
