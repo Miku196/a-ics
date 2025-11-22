@@ -3,95 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: ECSTATIC vs Passion UA
-DTSTART:20251122T163000Z
-DTEND:20251122T190000Z
-UID:csgo_mc_2388209@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388209\n赛事: DraculaN 第三季\n阶段:
-  淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388209
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:卑尔根 游戏节 2025: Center vs INFURITY
-DTSTART:20251122T170000Z
-DTEND:20251122T193000Z
-UID:csgo_mc_2388252@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388252\n赛事: 卑尔根 游戏节 2025\n
- 阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388252
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DACH 大师赛 第4赛季 决赛: ProCamp vs XPERION NXT
-DTSTART:20251122T170000Z
-DTEND:20251122T193000Z
-UID:csgo_mc_2387581@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387581\n赛事: DACH 大师赛 第4赛季 
- 决赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387581
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: ENCE vs TBD
-DTSTART:20251122T170000Z
-DTEND:20251122T193000Z
-UID:csgo_mc_2388210@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388210\n赛事: DraculaN 第三季\n阶段:
-  淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388210
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JB 职业联赛 2025: 500 vs FT
-DTSTART:20251122T180000Z
-DTEND:20251122T203000Z
-UID:csgo_mc_2388264@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388264\n赛事: JB 职业联赛 2025\n阶
- 段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n状态: 
- 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388264
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elisa 芬兰公开赛 第11赛季: CSDIILIT vs smuuttikusilkki
-DTSTART:20251122T180000Z
-DTEND:20251122T203000Z
-UID:csgo_mc_2388269@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388269\n赛事: Elisa 芬兰公开赛 第11
- 赛季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388269
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: Heroic vs Nuclear TigeRES
-DTSTART:20251122T180000Z
-DTEND:20251122T203000Z
-UID:csgo_mc_2387838@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387838\n赛事: CCT 第3赛季 欧洲系列
- 赛 11\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387838
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: TPuDCATb_TPu vs JJH
-DTSTART:20251122T180000Z
-DTEND:20251122T203000Z
-UID:csgo_mc_2387469@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387469\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387469
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 竞争者欧洲系列赛 2: EF vs Aab
 DTSTART:20251122T183000Z
 DTEND:20251122T210000Z
@@ -102,6 +13,18 @@ DESCRIPTION:比赛ID: csgo_mc_2388240\n赛事: CCT 第3赛季 竞争者欧
  来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elisa 芬兰公开赛 第11赛季: CSDIILIT vs smuuttikusilkki
+DTSTART:20251122T184500Z
+DTEND:20251122T211500Z
+UID:csgo_mc_2388269@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388269\n赛事: Elisa 芬兰公开赛 第11
+ 赛季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388269
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 大洋洲系列赛 3: Rooster vs Fury
@@ -379,5 +302,74 @@ DESCRIPTION:比赛ID: csgo_mc_2388322\n赛事: X2ONE 大师赛 S1\n阶段:
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X2ONE 大师赛 S1: GUN5 vs Ursa
+DTSTART:20251124T083000Z
+DTEND:20251124T110000Z
+UID:csgo_mc_2388323@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388323\n赛事: X2ONE 大师赛 S1\n阶段:
+  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388323
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X2ONE 大师赛 S1: BC.Game vs GANK
+DTSTART:20251124T084500Z
+DTEND:20251124T111500Z
+UID:csgo_mc_2388324@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388324\n赛事: X2ONE 大师赛 S1\n阶段:
+  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388324
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛 3: JJH vs SPARTA
+DTSTART:20251124T090000Z
+DTEND:20251124T113000Z
+UID:csgo_mc_2388285@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388285\n赛事: 欧洲职业联赛 系列
+ 赛 3\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388285
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 3 封闭预选: HAVU vs Fire Flux
+DTSTART:20251124T090000Z
+DTEND:20251124T113000Z
+UID:csgo_mc_2388357@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388357\n赛事: NODWIN Clutch 系列 3 封
+ 闭预选\n阶段: 淘汰赛 决胜赛\n轮次: 决胜赛\n赛制: BO3\n
+ 等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388357
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 3: LITE vs THUNDER dOWNUNDER
+DTSTART:20251124T103000Z
+DTEND:20251124T130000Z
+UID:csgo_mc_2388144@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388144\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 3\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388144
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛 3: Novaq vs QWENTRY
+DTSTART:20251124T113000Z
+DTEND:20251124T140000Z
+UID:csgo_mc_2388286@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388286\n赛事: 欧洲职业联赛 系列
+ 赛 3\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388286
 END:VEVENT
 END:VCALENDAR
