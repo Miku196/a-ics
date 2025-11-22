@@ -42,8 +42,9 @@ DTSTART:20251122T090000Z
 DTEND:20251122T113000Z
 UID:csgo_mc_2388355@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388355\n赛事: NODWIN Clutch 系列 3 封
- 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
- 时\n数据来源: 5EPlay
+ 闭预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388355
 END:VEVENT
@@ -52,9 +53,9 @@ SUMMARY:GLuck Yungstar 2025: Sangal vs GUN5
 DTSTART:20251122T093000Z
 DTEND:20251122T120000Z
 UID:csgo_mc_2388352@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388352\n赛事: GLuck Yungstar 2025\n赛制
- : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2388352\n赛事: GLuck Yungstar 2025\n阶段
+ : 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388352
 END:VEVENT
@@ -154,8 +155,9 @@ DTSTART:20251122T120000Z
 DTEND:20251122T143000Z
 UID:csgo_mc_2388356@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388356\n赛事: NODWIN Clutch 系列 3 封
- 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
- 时\n数据来源: 5EPlay
+ 闭预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3
+ \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
+ ay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388356
 END:VEVENT
@@ -186,9 +188,9 @@ SUMMARY:GLuck Yungstar 2025: TPuDCATb_TPu vs K27
 DTSTART:20251122T123000Z
 DTEND:20251122T150000Z
 UID:csgo_mc_2388353@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388353\n赛事: GLuck Yungstar 2025\n赛制
- : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2388353\n赛事: GLuck Yungstar 2025\n阶段
+ : 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388353
 END:VEVENT
@@ -309,9 +311,9 @@ SUMMARY:GLuck Yungstar 2025: TBD vs TBD
 DTSTART:20251122T163000Z
 DTEND:20251122T190000Z
 UID:csgo_mc_2388354@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388354\n赛事: GLuck Yungstar 2025\n赛制
- : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
+DESCRIPTION:比赛ID: csgo_mc_2388354\n赛事: GLuck Yungstar 2025\n阶段
+ : 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状态: 
+ 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388354
 END:VEVENT
