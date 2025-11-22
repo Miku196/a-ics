@@ -3,77 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:JB 职业联赛 2025: BC.Game vs RUBY
-DTSTART:20251122T150000Z
-DTEND:20251122T173000Z
-UID:csgo_mc_2388263@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388263\n赛事: JB 职业联赛 2025\n阶
- 段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n状态: 
- 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388263
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: BB vs Oramond
-DTSTART:20251122T150000Z
-DTEND:20251122T173000Z
-UID:csgo_mc_2387837@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387837\n赛事: CCT 第3赛季 欧洲系列
- 赛 11\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387837
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 竞争者欧洲系列赛 2: MOUZ.N vs Washington
-DTSTART:20251122T153000Z
-DTEND:20251122T180000Z
-UID:csgo_mc_2388242@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388242\n赛事: CCT 第3赛季 竞争者欧
- 洲系列赛 2\n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制
- : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388242
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elisa 芬兰公开赛 第11赛季: Ence.A vs HAVU
-DTSTART:20251122T153000Z
-DTEND:20251122T180000Z
-UID:csgo_mc_2388268@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388268\n赛事: Elisa 芬兰公开赛 第11
- 赛季\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388268
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OMEN Retake 第11赛季 决赛: AMKAL vs Wildcard Academy
-DTSTART:20251122T153000Z
-DTEND:20251122T180000Z
-UID:csgo_mc_2387940@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387940\n赛事: OMEN Retake 第11赛季 决
- 赛\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387940
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:卑尔根 游戏节 2025: Center vs INFURITY
-DTSTART:20251122T160000Z
-DTEND:20251122T183000Z
-UID:csgo_mc_2388252@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388252\n赛事: 卑尔根 游戏节 2025\n
- 阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388252
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DraculaN 第三季: ECSTATIC vs Passion UA
-DTSTART:20251122T160000Z
-DTEND:20251122T183000Z
+DTSTART:20251122T163000Z
+DTEND:20251122T190000Z
 UID:csgo_mc_2388209@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388209\n赛事: DraculaN 第三季\n阶段:
   淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
@@ -82,26 +14,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388209
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: TBD vs TBD
-DTSTART:20251122T160000Z
-DTEND:20251122T183000Z
-UID:csgo_mc_2388210@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388210\n赛事: DraculaN 第三季\n阶段:
-  淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+SUMMARY:卑尔根 游戏节 2025: Center vs INFURITY
+DTSTART:20251122T170000Z
+DTEND:20251122T193000Z
+UID:csgo_mc_2388252@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388252\n赛事: 卑尔根 游戏节 2025\n
+ 阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388210
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GLuck Yungstar 2025: GUN5 vs TBD
-DTSTART:20251122T163000Z
-DTEND:20251122T190000Z
-UID:csgo_mc_2388354@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388354\n赛事: GLuck Yungstar 2025\n阶段
- : 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状态: 
- 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388354
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388252
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DACH 大师赛 第4赛季 决赛: ProCamp vs XPERION NXT
@@ -113,6 +34,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387581\n赛事: DACH 大师赛 第4赛季
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387581
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DraculaN 第三季: ENCE vs TBD
+DTSTART:20251122T170000Z
+DTEND:20251122T193000Z
+UID:csgo_mc_2388210@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388210\n赛事: DraculaN 第三季\n阶段:
+  淘汰赛 败者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388210
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JB 职业联赛 2025: 500 vs FT
@@ -254,7 +186,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387470
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OMEN Retake 第11赛季 决赛: TBD vs TBD
+SUMMARY:OMEN Retake 第11赛季 决赛: Sashi vs TBD
 DTSTART:20251123T130000Z
 DTEND:20251123T170000Z
 UID:csgo_mc_2387941@5eplay.com
@@ -402,5 +334,50 @@ DESCRIPTION:比赛ID: csgo_mc_2388243\n赛事: CCT 第3赛季 竞争者欧
  数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388243
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:超级女王杯 2025: TBD vs TBD
+DTSTART:20251123T190000Z
+DTEND:20251123T230000Z
+UID:csgo_mc_2388361@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388361\n赛事: 超级女王杯 2025\n阶
+ 段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 其他\n状态
+ : 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388361
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X2ONE 大师赛 S1: Nemiga vs OlyBet
+DTSTART:20251124T080000Z
+DTEND:20251124T103000Z
+UID:csgo_mc_2388321@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388321\n赛事: X2ONE 大师赛 S1\n阶段:
+  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388321
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 3: Gz vs Mindfreak
+DTSTART:20251124T080000Z
+DTEND:20251124T103000Z
+UID:csgo_mc_2388143@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388143\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 3\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388143
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X2ONE 大师赛 S1: Sangal vs Infinite
+DTSTART:20251124T081500Z
+DTEND:20251124T104500Z
+UID:csgo_mc_2388322@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388322\n赛事: X2ONE 大师赛 S1\n阶段:
+  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388322
 END:VEVENT
 END:VCALENDAR
