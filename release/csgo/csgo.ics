@@ -26,18 +26,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388261
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛 3: FORZE Reload vs ComeBack
-DTSTART:20251122T090000Z
-DTEND:20251122T113000Z
-UID:csgo_mc_2388281@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388281\n赛事: 欧洲职业联赛 系列
- 赛 3\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388281
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 11: Leo vs K27
 DTSTART:20251122T090000Z
 DTEND:20251122T113000Z
@@ -49,9 +37,20 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387835
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GLuck Yungstar 2025: Sangal vs TBD
-DTSTART:20251122T100000Z
-DTEND:20251122T123000Z
+SUMMARY:NODWIN Clutch 系列 3 封闭预选: Ence.A vs Washington
+DTSTART:20251122T090000Z
+DTEND:20251122T113000Z
+UID:csgo_mc_2388355@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388355\n赛事: NODWIN Clutch 系列 3 封
+ 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
+ 时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388355
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLuck Yungstar 2025: Sangal vs GUN5
+DTSTART:20251122T093000Z
+DTEND:20251122T120000Z
 UID:csgo_mc_2388352@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388352\n赛事: GLuck Yungstar 2025\n赛制
  : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
@@ -116,17 +115,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388140
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: Sangal vs Aab
-DTSTART:20251122T110000Z
-DTEND:20251122T133000Z
-UID:csgo_mc_2387467@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387467\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387467
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛 3: Oramond vs kONO
 DTSTART:20251122T113000Z
 DTEND:20251122T140000Z
@@ -161,6 +149,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387836
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 3 封闭预选: Fire Flux vs Mousquetaires
+DTSTART:20251122T120000Z
+DTEND:20251122T143000Z
+UID:csgo_mc_2388356@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388356\n赛事: NODWIN Clutch 系列 3 封
+ 闭预选\n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小
+ 时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388356
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OMEN Retake 第11赛季 决赛: Sashi vs Impulse GW
 DTSTART:20251122T120000Z
 DTEND:20251122T143000Z
@@ -172,9 +171,20 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387939
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: Sangal vs Aab
+DTSTART:20251122T120000Z
+DTEND:20251122T143000Z
+UID:csgo_mc_2387467@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387467\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387467
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GLuck Yungstar 2025: TPuDCATb_TPu vs K27
-DTSTART:20251122T130000Z
-DTEND:20251122T153000Z
+DTSTART:20251122T123000Z
+DTEND:20251122T150000Z
 UID:csgo_mc_2388353@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388353\n赛事: GLuck Yungstar 2025\n赛制
  : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
@@ -225,17 +235,6 @@ DESCRIPTION:比赛ID: csgo_mc_2387837\n赛事: CCT 第3赛季 欧洲系列
  级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387837
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: Nexus vs ARCRED
-DTSTART:20251122T150000Z
-DTEND:20251122T173000Z
-UID:csgo_mc_2387468@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387468\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387468
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 竞争者欧洲系列赛 2: MOUZ.N vs Washington
@@ -373,7 +372,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387469
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 竞争者欧洲系列赛 2: TBD vs TBD
+SUMMARY:CCT 第3赛季 竞争者欧洲系列赛 2: EF vs Aab
 DTSTART:20251122T183000Z
 DTEND:20251122T210000Z
 UID:csgo_mc_2388240@5eplay.com
@@ -442,5 +441,17 @@ DESCRIPTION:比赛ID: csgo_mc_2387839\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛 3: Nuclear TigeRES vs HAVU
+DTSTART:20251123T113000Z
+DTEND:20251123T140000Z
+UID:csgo_mc_2388284@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388284\n赛事: 欧洲职业联赛 系列
+ 赛 3\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388284
 END:VEVENT
 END:VCALENDAR
