@@ -39,7 +39,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388142
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JB 职业联赛 2025: TBD vs TBD
+SUMMARY:JB 职业联赛 2025: RUBY vs 1win
 DTSTART:20251123T110000Z
 DTEND:20251123T133000Z
 UID:csgo_mc_2388265@5eplay.com
@@ -74,7 +74,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388284
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+SUMMARY:银河之战 2025 第5阶段: ARCRED vs ECLOT
 DTSTART:20251123T120000Z
 DTEND:20251123T143000Z
 UID:csgo_mc_2387470@5eplay.com
@@ -96,7 +96,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387941
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JB 职业联赛 2025: TBD vs TBD
+SUMMARY:JB 职业联赛 2025: Oramond vs FT
 DTSTART:20251123T140000Z
 DTEND:20251123T163000Z
 UID:csgo_mc_2388266@5eplay.com
@@ -119,7 +119,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387840
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Passion UA vs TBD
+SUMMARY:DraculaN 第三季: Passion UA vs FUT
 DTSTART:20251123T150000Z
 DTEND:20251123T173000Z
 UID:csgo_mc_2388211@5eplay.com
@@ -130,7 +130,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388211
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+SUMMARY:银河之战 2025 第5阶段: 500 vs Aab
 DTSTART:20251123T150000Z
 DTEND:20251123T173000Z
 UID:csgo_mc_2387471@5eplay.com
@@ -154,7 +154,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388241
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elisa 芬兰公开赛 第11赛季: Ence.A vs TBD
+SUMMARY:Elisa 芬兰公开赛 第11赛季: Ence.A vs smuuttikusilkki
 DTSTART:20251123T153000Z
 DTEND:20251123T180000Z
 UID:csgo_mc_2388270@5eplay.com
@@ -200,7 +200,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387841
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elisa 芬兰公开赛 第11赛季: HAVU vs TBD
+SUMMARY:Elisa 芬兰公开赛 第11赛季: HAVU vs CSDIILIT
 DTSTART:20251123T180000Z
 DTEND:20251123T203000Z
 UID:csgo_mc_2388271@5eplay.com
@@ -223,7 +223,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388212
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+SUMMARY:银河之战 2025 第5阶段: TPuDCATb_TPu vs Novaq
 DTSTART:20251123T180000Z
 DTEND:20251123T203000Z
 UID:csgo_mc_2387472@5eplay.com
@@ -234,7 +234,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387472
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 竞争者欧洲系列赛 2: TBD vs TBD
+SUMMARY:CCT 第3赛季 竞争者欧洲系列赛 2: EF vs TBD
 DTSTART:20251123T183000Z
 DTEND:20251123T210000Z
 UID:csgo_mc_2388243@5eplay.com
@@ -246,7 +246,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388243
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:超级女王杯 2025: TBD vs TBD
+SUMMARY:超级女王杯 2025: Four Magic vs TBD
 DTSTART:20251123T190000Z
 DTEND:20251123T230000Z
 UID:csgo_mc_2388361@5eplay.com
@@ -413,5 +413,49 @@ DESCRIPTION:比赛ID: csgo_mc_2388326\n赛事: X2ONE 大师赛 S1\n阶段:
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388326
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X2ONE 大师赛 S1: RUBY vs Bushido Wildcats
+DTSTART:20251124T123000Z
+DTEND:20251124T150000Z
+UID:csgo_mc_2388327@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388327\n赛事: X2ONE 大师赛 S1\n阶段:
+  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388327
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X2ONE 大师赛 S1: CYBERSHOKE vs Baks
+DTSTART:20251124T124500Z
+DTEND:20251124T151500Z
+UID:csgo_mc_2388328@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388328\n赛事: X2ONE 大师赛 S1\n阶段:
+  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388328
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第一阶段: Legacy vs FlyQuest
+DTSTART:20251124T130000Z
+DTEND:20251124T140000Z
+UID:csgo_mc_2387851@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387851\n赛事: 布达佩斯Major 第一阶
+ 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第一阶段: PARIVISION vs The Huns
+DTSTART:20251124T130000Z
+DTEND:20251124T140000Z
+UID:csgo_mc_2387854@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387854\n赛事: 布达佩斯Major 第一阶
+ 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387854
 END:VEVENT
 END:VCALENDAR
