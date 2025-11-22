@@ -3,95 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:JB 职业联赛 2025: Nemiga vs Oramond
-DTSTART:20251122T090000Z
-DTEND:20251122T113000Z
-UID:csgo_mc_2388261@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388261\n赛事: JB 职业联赛 2025\n阶
- 段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n状态: 
- 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388261
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: Leo vs K27
-DTSTART:20251122T090000Z
-DTEND:20251122T113000Z
-UID:csgo_mc_2387835@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387835\n赛事: CCT 第3赛季 欧洲系列
- 赛 11\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387835
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 3 封闭预选: Ence.A vs Washington
-DTSTART:20251122T090000Z
-DTEND:20251122T113000Z
-UID:csgo_mc_2388355@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388355\n赛事: NODWIN Clutch 系列 3 封
- 闭预选\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3
- \n等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPl
- ay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388355
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GLuck Yungstar 2025: Sangal vs GUN5
-DTSTART:20251122T093000Z
-DTEND:20251122T120000Z
-UID:csgo_mc_2388352@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388352\n赛事: GLuck Yungstar 2025\n阶段
- : 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其他\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388352
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Passion UA vs Nexus
-DTSTART:20251122T100000Z
-DTEND:20251122T123000Z
-UID:csgo_mc_2388203@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388203\n赛事: DraculaN 第三季\n阶段:
-  淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388203
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Tricked vs ECSTATIC
-DTSTART:20251122T100000Z
-DTEND:20251122T123000Z
-UID:csgo_mc_2388204@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388204\n赛事: DraculaN 第三季\n阶段:
-  淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388204
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: illwill vs ENCE
-DTSTART:20251122T100000Z
-DTEND:20251122T123000Z
-UID:csgo_mc_2388205@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388205\n赛事: DraculaN 第三季\n阶段:
-  淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制: BO3\n等级: 其他
- \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388205
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: FUT vs Inner Circle
-DTSTART:20251122T100000Z
-DTEND:20251122T123000Z
-UID:csgo_mc_2388206@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388206\n赛事: DraculaN 第三季\n阶段:
-  淘汰赛 败者组 第3轮\n轮次: 第3轮\n赛制: BO3\n等级: 其他
- \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388206
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 大洋洲系列赛 3: Fury vs Mindfreak
 DTSTART:20251122T103000Z
 DTEND:20251122T130000Z
@@ -443,5 +354,16 @@ DESCRIPTION:比赛ID: csgo_mc_2388284\n赛事: 欧洲职业联赛 系列
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388284
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+DTSTART:20251123T120000Z
+DTEND:20251123T143000Z
+UID:csgo_mc_2387470@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387470\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387470
 END:VEVENT
 END:VCALENDAR
