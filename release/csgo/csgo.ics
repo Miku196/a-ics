@@ -27,6 +27,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388283
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:JB 职业联赛 2025: RUBY vs 1win
+DTSTART:20251123T100000Z
+DTEND:20251123T123000Z
+UID:csgo_mc_2388265@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388265\n赛事: JB 职业联赛 2025\n阶
+ 段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388265
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 大洋洲系列赛 3: Vantage vs Underground
 DTSTART:20251123T103000Z
 DTEND:20251123T130000Z
@@ -37,17 +48,6 @@ DESCRIPTION:比赛ID: csgo_mc_2388142\n赛事: CCT 第3赛季 大洋洲系
   5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388142
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JB 职业联赛 2025: RUBY vs 1win
-DTSTART:20251123T110000Z
-DTEND:20251123T133000Z
-UID:csgo_mc_2388265@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388265\n赛事: JB 职业联赛 2025\n阶
- 段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388265
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 11: EYE vs Leo
@@ -85,6 +85,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387470
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:JB 职业联赛 2025: Oramond vs FT
+DTSTART:20251123T130000Z
+DTEND:20251123T153000Z
+UID:csgo_mc_2388266@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388266\n赛事: JB 职业联赛 2025\n阶
+ 段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388266
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OMEN Retake 第11赛季 决赛: Sashi vs AMKAL
 DTSTART:20251123T130000Z
 DTEND:20251123T170000Z
@@ -94,17 +105,6 @@ DESCRIPTION:比赛ID: csgo_mc_2387941\n赛事: OMEN Retake 第11赛季 决
  \n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387941
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JB 职业联赛 2025: Oramond vs FT
-DTSTART:20251123T140000Z
-DTEND:20251123T163000Z
-UID:csgo_mc_2388266@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388266\n赛事: JB 职业联赛 2025\n阶
- 段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388266
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 11: BB vs Heroic
@@ -246,7 +246,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388243
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:超级女王杯 2025: Four Magic vs TBD
+SUMMARY:超级女王杯 2025: Four Magic vs Dusty Roses
 DTSTART:20251123T190000Z
 DTEND:20251123T230000Z
 UID:csgo_mc_2388361@5eplay.com
