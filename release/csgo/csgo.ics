@@ -272,7 +272,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388359
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 竞争者欧洲系列赛 2: Washington vs TBD
+SUMMARY:CCT 第3赛季 竞争者欧洲系列赛 2: Washington vs Fire Flux
 DTSTART:20251124T153000Z
 DTEND:20251124T180000Z
 UID:csgo_mc_2388244@5eplay.com
@@ -404,5 +404,38 @@ DESCRIPTION:比赛ID: csgo_mc_2388037\n赛事: 布达佩斯Major 第一阶
  S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388037
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第一阶段: TBD vs TBD
+DTSTART:20251124T190000Z
+DTEND:20251124T200000Z
+UID:csgo_mc_2388038@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388038\n赛事: 布达佩斯Major 第一阶
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388038
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第一阶段: TBD vs TBD
+DTSTART:20251124T200000Z
+DTEND:20251124T210000Z
+UID:csgo_mc_2388039@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388039\n赛事: 布达佩斯Major 第一阶
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388039
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第一阶段: TBD vs TBD
+DTSTART:20251124T200000Z
+DTEND:20251124T210000Z
+UID:csgo_mc_2388040@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388040\n赛事: 布达佩斯Major 第一阶
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388040
 END:VEVENT
 END:VCALENDAR
