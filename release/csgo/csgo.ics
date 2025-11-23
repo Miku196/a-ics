@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 竞争者欧洲系列赛 2: EF vs Fire Flux
-DTSTART:20251123T183000Z
-DTEND:20251123T210000Z
-UID:csgo_mc_2388243@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388243\n赛事: CCT 第3赛季 竞争者欧
- 洲系列赛 2\n阶段: 淘汰赛 败者组 半决赛\n轮次: 半决赛\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388243
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:超级女王杯 2025: Four Magic vs Dusty Roses
-DTSTART:20251123T190000Z
-DTEND:20251123T230000Z
-UID:csgo_mc_2388361@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388361\n赛事: 超级女王杯 2025\n阶
- 段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 其他\n状态
- : 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388361
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:X2ONE 大师赛 S1: Nemiga vs OlyBet
 DTSTART:20251124T080000Z
 DTEND:20251124T103000Z
@@ -382,5 +359,50 @@ DESCRIPTION:比赛ID: csgo_mc_2388035\n赛事: 布达佩斯Major 第一阶
  S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388035
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第一阶段: TBD vs TBD
+DTSTART:20251124T180000Z
+DTEND:20251124T190000Z
+UID:csgo_mc_2388036@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388036\n赛事: 布达佩斯Major 第一阶
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388036
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 3 封闭预选: Leo vs EF
+DTSTART:20251124T180000Z
+DTEND:20251124T203000Z
+UID:csgo_mc_2388360@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388360\n赛事: NODWIN Clutch 系列 3 封
+ 闭预选\n阶段: 淘汰赛 决胜赛\n轮次: 决胜赛\n赛制: BO3\n
+ 等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388360
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 竞争者欧洲系列赛 2: MOUZ.N vs TBD
+DTSTART:20251124T183000Z
+DTEND:20251124T210000Z
+UID:csgo_mc_2388245@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388245\n赛事: CCT 第3赛季 竞争者欧
+ 洲系列赛 2\n阶段: 淘汰赛  决赛\n轮次: 决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388245
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第一阶段: TBD vs TBD
+DTSTART:20251124T190000Z
+DTEND:20251124T200000Z
+UID:csgo_mc_2388037@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388037\n赛事: 布达佩斯Major 第一阶
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388037
 END:VEVENT
 END:VCALENDAR
