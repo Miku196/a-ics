@@ -3,33 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 3: Vantage vs Underground
-DTSTART:20251123T103000Z
-DTEND:20251123T130000Z
-UID:csgo_mc_2388142@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388142\n赛事: CCT 第3赛季 大洋洲系
- 列赛 3\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\
- n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388142
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: EYE vs Leo
-DTSTART:20251123T110000Z
-DTEND:20251123T133000Z
-UID:csgo_mc_2387839@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387839\n赛事: CCT 第3赛季 欧洲系列
- 赛 11\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387839
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛 3: Nuclear TigeRES vs HAVU
-DTSTART:20251123T113000Z
-DTEND:20251123T140000Z
+DTSTART:20251123T124500Z
+DTEND:20251123T151500Z
 UID:csgo_mc_2388284@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388284\n赛事: 欧洲职业联赛 系列
  赛 3\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n
@@ -37,17 +13,6 @@ DESCRIPTION:比赛ID: csgo_mc_2388284\n赛事: 欧洲职业联赛 系列
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388284
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: ARCRED vs ECLOT
-DTSTART:20251123T120000Z
-DTEND:20251123T143000Z
-UID:csgo_mc_2387470@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387470\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387470
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JB 职业联赛 2025: Oramond vs FT
@@ -153,7 +118,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388362
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JB 职业联赛 2025: TBD vs TBD
+SUMMARY:JB 职业联赛 2025: 1win vs TBD
 DTSTART:20251123T170000Z
 DTEND:20251123T193000Z
 UID:csgo_mc_2388267@5eplay.com
@@ -422,5 +387,27 @@ DESCRIPTION:比赛ID: csgo_mc_2387851\n赛事: 布达佩斯Major 第一阶
  S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第一阶段: PARIVISION vs The Huns
+DTSTART:20251124T130000Z
+DTEND:20251124T140000Z
+UID:csgo_mc_2387854@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387854\n赛事: 布达佩斯Major 第一阶
+ 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第一阶段: NIP vs NRG
+DTSTART:20251124T140000Z
+DTEND:20251124T150000Z
+UID:csgo_mc_2387856@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387856\n赛事: 布达佩斯Major 第一阶
+ 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387856
 END:VEVENT
 END:VCALENDAR
