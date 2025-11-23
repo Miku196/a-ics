@@ -3,43 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛 3: Nuclear TigeRES vs HAVU
-DTSTART:20251123T124500Z
-DTEND:20251123T151500Z
-UID:csgo_mc_2388284@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388284\n赛事: 欧洲职业联赛 系列
- 赛 3\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388284
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JB 职业联赛 2025: Oramond vs FT
-DTSTART:20251123T130000Z
-DTEND:20251123T153000Z
-UID:csgo_mc_2388266@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388266\n赛事: JB 职业联赛 2025\n阶
- 段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: C级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388266
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OMEN Retake 第11赛季 决赛: Sashi vs AMKAL
-DTSTART:20251123T130000Z
-DTEND:20251123T170000Z
-UID:csgo_mc_2387941@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387941\n赛事: OMEN Retake 第11赛季 决
- 赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 其他
- \n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387941
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 11: BB vs Heroic
-DTSTART:20251123T140000Z
-DTEND:20251123T163000Z
+DTSTART:20251123T141000Z
+DTEND:20251123T164000Z
 UID:csgo_mc_2387840@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2387840\n赛事: CCT 第3赛季 欧洲系列
  赛 11\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
@@ -47,17 +13,6 @@ DESCRIPTION:比赛ID: csgo_mc_2387840\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387840
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winamax 西班牙 巡回赛 S2: Ascend vs KlanPedrajas
-DTSTART:20251123T140000Z
-DTEND:20251123T163000Z
-UID:csgo_mc_2388369@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388369\n赛事: Winamax 西班牙 巡回赛
-  S2\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他
- \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388369
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DraculaN 第三季: Passion UA vs FUT
@@ -129,7 +84,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388267
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: EYE vs TBD
 DTSTART:20251123T170000Z
 DTEND:20251123T193000Z
 UID:csgo_mc_2387841@5eplay.com
@@ -409,5 +364,50 @@ DESCRIPTION:比赛ID: csgo_mc_2387856\n赛事: 布达佩斯Major 第一阶
  S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387856
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第一阶段: GL vs Fluxo
+DTSTART:20251124T140000Z
+DTEND:20251124T150000Z
+UID:csgo_mc_2387857@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387857\n赛事: 布达佩斯Major 第一阶
+ 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387857
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛 3: FORZE Reload vs MANA
+DTSTART:20251124T143000Z
+DTEND:20251124T170000Z
+UID:csgo_mc_2388281@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388281\n赛事: 欧洲职业联赛 系列
+ 赛 3\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388281
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第一阶段: FNC vs RED Canids
+DTSTART:20251124T150000Z
+DTEND:20251124T160000Z
+UID:csgo_mc_2387852@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387852\n赛事: 布达佩斯Major 第一阶
+ 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387852
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第一阶段: FaZe vs LVG
+DTSTART:20251124T150000Z
+DTEND:20251124T160000Z
+UID:csgo_mc_2387853@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387853\n赛事: 布达佩斯Major 第一阶
+ 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387853
 END:VEVENT
 END:VCALENDAR
