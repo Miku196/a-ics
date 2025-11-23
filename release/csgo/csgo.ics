@@ -3,68 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: BB vs Heroic
-DTSTART:20251123T141000Z
-DTEND:20251123T164000Z
-UID:csgo_mc_2387840@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387840\n赛事: CCT 第3赛季 欧洲系列
- 赛 11\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387840
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DraculaN 第三季: Passion UA vs FUT
-DTSTART:20251123T150000Z
-DTEND:20251123T173000Z
-UID:csgo_mc_2388211@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388211\n赛事: DraculaN 第三季\n阶段:
-  淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388211
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: 500 vs Aab
-DTSTART:20251123T150000Z
-DTEND:20251123T173000Z
-UID:csgo_mc_2387471@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387471\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387471
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 竞争者欧洲系列赛 2: HyperSpirit vs Fire Flu
- x
-DTSTART:20251123T153000Z
-DTEND:20251123T180000Z
-UID:csgo_mc_2388241@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388241\n赛事: CCT 第3赛季 竞争者欧
- 洲系列赛 2\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制
- : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388241
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elisa 芬兰公开赛 第11赛季: Ence.A vs smuuttikusilkki
-DTSTART:20251123T153000Z
-DTEND:20251123T180000Z
-UID:csgo_mc_2388270@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388270\n赛事: Elisa 芬兰公开赛 第11
- 赛季\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388270
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:XP 游戏节 2025: KS vs MANA
-DTSTART:20251123T160000Z
-DTEND:20251123T183000Z
+DTSTART:20251123T163000Z
+DTEND:20251123T190000Z
 UID:csgo_mc_2388362@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388362\n赛事: XP 游戏节 2025\n阶段: 
  淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状态: 未
@@ -84,7 +25,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388267
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 11: EYE vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 11: EYE vs BB
 DTSTART:20251123T170000Z
 DTEND:20251123T193000Z
 UID:csgo_mc_2387841@5eplay.com
@@ -409,5 +350,39 @@ DESCRIPTION:比赛ID: csgo_mc_2387853\n赛事: 布达佩斯Major 第一阶
  S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NODWIN Clutch 系列 3 封闭预选: Aab vs SPARTA
+DTSTART:20251124T150000Z
+DTEND:20251124T173000Z
+UID:csgo_mc_2388359@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388359\n赛事: NODWIN Clutch 系列 3 封
+ 闭预选\n阶段: 淘汰赛 决胜赛\n轮次: 决胜赛\n赛制: BO3\n
+ 等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388359
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 竞争者欧洲系列赛 2: Washington vs TBD
+DTSTART:20251124T153000Z
+DTEND:20251124T180000Z
+UID:csgo_mc_2388244@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388244\n赛事: CCT 第3赛季 竞争者欧
+ 洲系列赛 2\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388244
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X2ONE 大师赛 S1: TBD vs TBD
+DTSTART:20251124T160000Z
+DTEND:20251124T183000Z
+UID:csgo_mc_2388329@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388329\n赛事: X2ONE 大师赛 S1\n阶段:
+  小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388329
 END:VEVENT
 END:VCALENDAR
