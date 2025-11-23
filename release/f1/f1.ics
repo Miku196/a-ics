@@ -1873,187 +1873,187 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 拉斯维加斯大奖赛即将开始 - 拉斯维加斯大奖赛
-  第1次练习赛
+SUMMARY:F1 拉斯维加斯大奖赛 - 拉斯维加斯大奖赛 第1次练
+ 习赛
 DTSTART:20251121T003000
 DTEND:20251121T023000
-UID:拉斯维加斯大奖赛即将开始_拉斯维加斯大奖赛_第1次
- 练习赛_20251121@f1calendar.com
+UID:拉斯维加斯大奖赛_拉斯维加斯大奖赛_第1次练习赛_202
+ 51121@f1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 拉斯维加斯大奖赛即将开始 - 拉斯维加斯大
- 奖赛 第1次练习赛\n时间: 00:30 (东八区)
-LOCATION:拉斯维加斯大奖赛即将开始
+DESCRIPTION:F1 拉斯维加斯大奖赛 - 拉斯维加斯大奖赛 第1次
+ 练习赛\n时间: 00:30 (东八区)
+LOCATION:拉斯维加斯大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 拉斯维加斯大奖赛即将开始 - 拉斯维加斯大
- 奖赛 第1次练习赛 即将开始
+DESCRIPTION:F1 拉斯维加斯大奖赛 - 拉斯维加斯大奖赛 第1次
+ 练习赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 拉斯维加斯大奖赛即将开始 - 拉斯维加斯大奖赛
-  第2次练习赛
+SUMMARY:F1 拉斯维加斯大奖赛 - 拉斯维加斯大奖赛 第2次练
+ 习赛
 DTSTART:20251121T040000
 DTEND:20251121T060000
-UID:拉斯维加斯大奖赛即将开始_拉斯维加斯大奖赛_第2次
- 练习赛_20251121@f1calendar.com
+UID:拉斯维加斯大奖赛_拉斯维加斯大奖赛_第2次练习赛_202
+ 51121@f1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 拉斯维加斯大奖赛即将开始 - 拉斯维加斯大
- 奖赛 第2次练习赛\n时间: 04:00 (东八区)
-LOCATION:拉斯维加斯大奖赛即将开始
+DESCRIPTION:F1 拉斯维加斯大奖赛 - 拉斯维加斯大奖赛 第2次
+ 练习赛\n时间: 04:00 (东八区)
+LOCATION:拉斯维加斯大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 拉斯维加斯大奖赛即将开始 - 拉斯维加斯大
- 奖赛 第2次练习赛 即将开始
+DESCRIPTION:F1 拉斯维加斯大奖赛 - 拉斯维加斯大奖赛 第2次
+ 练习赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 拉斯维加斯大奖赛即将开始 - 拉斯维加斯大奖赛
-  第3次练习赛
+SUMMARY:F1 拉斯维加斯大奖赛 - 拉斯维加斯大奖赛 第3次练
+ 习赛
 DTSTART:20251122T003000
 DTEND:20251122T023000
-UID:拉斯维加斯大奖赛即将开始_拉斯维加斯大奖赛_第3次
- 练习赛_20251122@f1calendar.com
+UID:拉斯维加斯大奖赛_拉斯维加斯大奖赛_第3次练习赛_202
+ 51122@f1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 拉斯维加斯大奖赛即将开始 - 拉斯维加斯大
- 奖赛 第3次练习赛\n时间: 00:30 (东八区)
-LOCATION:拉斯维加斯大奖赛即将开始
+DESCRIPTION:F1 拉斯维加斯大奖赛 - 拉斯维加斯大奖赛 第3次
+ 练习赛\n时间: 00:30 (东八区)
+LOCATION:拉斯维加斯大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 拉斯维加斯大奖赛即将开始 - 拉斯维加斯大
- 奖赛 第3次练习赛 即将开始
+DESCRIPTION:F1 拉斯维加斯大奖赛 - 拉斯维加斯大奖赛 第3次
+ 练习赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 拉斯维加斯大奖赛即将开始 - 拉斯维加斯大奖赛
-  排位赛
+SUMMARY:F1 拉斯维加斯大奖赛 - 拉斯维加斯大奖赛 排位赛
 DTSTART:20251122T040000
 DTEND:20251122T060000
-UID:拉斯维加斯大奖赛即将开始_拉斯维加斯大奖赛_排位
- 赛_20251122@f1calendar.com
+UID:拉斯维加斯大奖赛_拉斯维加斯大奖赛_排位赛_20251122@f
+ 1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 拉斯维加斯大奖赛即将开始 - 拉斯维加斯大
- 奖赛 排位赛\n时间: 04:00 (东八区)
-LOCATION:拉斯维加斯大奖赛即将开始
+DESCRIPTION:F1 拉斯维加斯大奖赛 - 拉斯维加斯大奖赛 排位
+ 赛\n时间: 04:00 (东八区)
+LOCATION:拉斯维加斯大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 拉斯维加斯大奖赛即将开始 - 拉斯维加斯大
- 奖赛 排位赛 即将开始
+DESCRIPTION:F1 拉斯维加斯大奖赛 - 拉斯维加斯大奖赛 排位
+ 赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 拉斯维加斯大奖赛即将开始 - 拉斯维加斯大奖赛
-  大奖赛
+SUMMARY:F1 拉斯维加斯大奖赛 - 拉斯维加斯大奖赛 大奖赛
 DTSTART:20251123T040000
 DTEND:20251123T060000
-UID:拉斯维加斯大奖赛即将开始_拉斯维加斯大奖赛_大奖
- 赛_20251123@f1calendar.com
+UID:拉斯维加斯大奖赛_拉斯维加斯大奖赛_大奖赛_20251123@f
+ 1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 拉斯维加斯大奖赛即将开始 - 拉斯维加斯大
- 奖赛 大奖赛\n时间: 04:00 (东八区)
-LOCATION:拉斯维加斯大奖赛即将开始
+DESCRIPTION:F1 拉斯维加斯大奖赛 - 拉斯维加斯大奖赛 大奖
+ 赛\n时间: 04:00 (东八区)
+LOCATION:拉斯维加斯大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 拉斯维加斯大奖赛即将开始 - 拉斯维加斯大
- 奖赛 大奖赛 即将开始
+DESCRIPTION:F1 拉斯维加斯大奖赛 - 拉斯维加斯大奖赛 大奖
+ 赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 卡塔尔大奖赛 - 卡塔尔大奖赛 第1次练习赛
+SUMMARY:F1 卡塔尔大奖赛即将开始 - 卡塔尔大奖赛 第1次练
+ 习赛
 DTSTART:20251128T133000
 DTEND:20251128T153000
-UID:卡塔尔大奖赛_卡塔尔大奖赛_第1次练习赛_20251128@f1cale
- ndar.com
+UID:卡塔尔大奖赛即将开始_卡塔尔大奖赛_第1次练习赛_202
+ 51128@f1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 卡塔尔大奖赛 - 卡塔尔大奖赛 第1次练习赛\n
- 时间: 13:30 (东八区)
-LOCATION:卡塔尔大奖赛
+DESCRIPTION:F1 卡塔尔大奖赛即将开始 - 卡塔尔大奖赛 第1次
+ 练习赛\n时间: 13:30 (东八区)
+LOCATION:卡塔尔大奖赛即将开始
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 卡塔尔大奖赛 - 卡塔尔大奖赛 第1次练习赛 
- 即将开始
+DESCRIPTION:F1 卡塔尔大奖赛即将开始 - 卡塔尔大奖赛 第1次
+ 练习赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 卡塔尔大奖赛 - 卡塔尔大奖赛 冲刺排位赛
+SUMMARY:F1 卡塔尔大奖赛即将开始 - 卡塔尔大奖赛 冲刺排
+ 位赛
 DTSTART:20251128T173000
 DTEND:20251128T193000
-UID:卡塔尔大奖赛_卡塔尔大奖赛_冲刺排位赛_20251128@f1calen
- dar.com
+UID:卡塔尔大奖赛即将开始_卡塔尔大奖赛_冲刺排位赛_2025
+ 1128@f1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 卡塔尔大奖赛 - 卡塔尔大奖赛 冲刺排位赛\n
- 时间: 17:30 (东八区)
-LOCATION:卡塔尔大奖赛
+DESCRIPTION:F1 卡塔尔大奖赛即将开始 - 卡塔尔大奖赛 冲刺
+ 排位赛\n时间: 17:30 (东八区)
+LOCATION:卡塔尔大奖赛即将开始
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 卡塔尔大奖赛 - 卡塔尔大奖赛 冲刺排位赛 即
- 将开始
+DESCRIPTION:F1 卡塔尔大奖赛即将开始 - 卡塔尔大奖赛 冲刺
+ 排位赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 卡塔尔大奖赛 - 卡塔尔大奖赛 冲刺赛
+SUMMARY:F1 卡塔尔大奖赛即将开始 - 卡塔尔大奖赛 冲刺赛
 DTSTART:20251129T140000
 DTEND:20251129T160000
-UID:卡塔尔大奖赛_卡塔尔大奖赛_冲刺赛_20251129@f1calendar.co
- m
+UID:卡塔尔大奖赛即将开始_卡塔尔大奖赛_冲刺赛_20251129@f
+ 1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 卡塔尔大奖赛 - 卡塔尔大奖赛 冲刺赛\n时间: 
- 14:00 (东八区)
-LOCATION:卡塔尔大奖赛
+DESCRIPTION:F1 卡塔尔大奖赛即将开始 - 卡塔尔大奖赛 冲刺
+ 赛\n时间: 14:00 (东八区)
+LOCATION:卡塔尔大奖赛即将开始
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 卡塔尔大奖赛 - 卡塔尔大奖赛 冲刺赛 即将开
- 始
+DESCRIPTION:F1 卡塔尔大奖赛即将开始 - 卡塔尔大奖赛 冲刺
+ 赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 卡塔尔大奖赛 - 卡塔尔大奖赛 排位赛
+SUMMARY:F1 卡塔尔大奖赛即将开始 - 卡塔尔大奖赛 排位赛
 DTSTART:20251129T180000
 DTEND:20251129T200000
-UID:卡塔尔大奖赛_卡塔尔大奖赛_排位赛_20251129@f1calendar.co
- m
+UID:卡塔尔大奖赛即将开始_卡塔尔大奖赛_排位赛_20251129@f
+ 1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 卡塔尔大奖赛 - 卡塔尔大奖赛 排位赛\n时间: 
- 18:00 (东八区)
-LOCATION:卡塔尔大奖赛
+DESCRIPTION:F1 卡塔尔大奖赛即将开始 - 卡塔尔大奖赛 排位
+ 赛\n时间: 18:00 (东八区)
+LOCATION:卡塔尔大奖赛即将开始
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 卡塔尔大奖赛 - 卡塔尔大奖赛 排位赛 即将开
- 始
+DESCRIPTION:F1 卡塔尔大奖赛即将开始 - 卡塔尔大奖赛 排位
+ 赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 卡塔尔大奖赛 - 卡塔尔大奖赛 大奖赛
+SUMMARY:F1 卡塔尔大奖赛即将开始 - 卡塔尔大奖赛 大奖赛
 DTSTART:20251130T160000
 DTEND:20251130T180000
-UID:卡塔尔大奖赛_卡塔尔大奖赛_大奖赛_20251130@f1calendar.co
- m
+UID:卡塔尔大奖赛即将开始_卡塔尔大奖赛_大奖赛_20251130@f
+ 1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 卡塔尔大奖赛 - 卡塔尔大奖赛 大奖赛\n时间: 
- 16:00 (东八区)
-LOCATION:卡塔尔大奖赛
+DESCRIPTION:F1 卡塔尔大奖赛即将开始 - 卡塔尔大奖赛 大奖
+ 赛\n时间: 16:00 (东八区)
+LOCATION:卡塔尔大奖赛即将开始
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 卡塔尔大奖赛 - 卡塔尔大奖赛 大奖赛 即将开
- 始
+DESCRIPTION:F1 卡塔尔大奖赛即将开始 - 卡塔尔大奖赛 大奖
+ 赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
