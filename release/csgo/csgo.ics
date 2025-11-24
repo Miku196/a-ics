@@ -3,66 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 3: LITE vs THUNDER dOWNUNDER
-DTSTART:20251124T103000Z
-DTEND:20251124T130000Z
-UID:csgo_mc_2388144@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388144\n赛事: CCT 第3赛季 大洋洲系
- 列赛 3\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制
- : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388144
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛 3: Novaq vs QWENTRY
-DTSTART:20251124T113000Z
-DTEND:20251124T140000Z
-UID:csgo_mc_2388286@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388286\n赛事: 欧洲职业联赛 系列
- 赛 3\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388286
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第一阶段: B8 vs M80
-DTSTART:20251124T120000Z
-DTEND:20251124T130000Z
-UID:csgo_mc_2387855@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387855\n赛事: 布达佩斯Major 第一阶
- 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: 
- S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387855
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第一阶段: Imperial vs RA
-DTSTART:20251124T120000Z
-DTEND:20251124T130000Z
-UID:csgo_mc_2387858@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387858\n赛事: 布达佩斯Major 第一阶
- 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: 
- S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387858
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NODWIN Clutch 系列 3 封闭预选: MOUZ.N vs Ence.A
-DTSTART:20251124T120000Z
-DTEND:20251124T143000Z
-UID:csgo_mc_2388358@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388358\n赛事: NODWIN Clutch 系列 3 封
- 闭预选\n阶段: 淘汰赛 决胜赛\n轮次: 决胜赛\n赛制: BO3\n
- 等级: \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388358
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:X2ONE 大师赛 S1: Nemesis vs WW
-DTSTART:20251124T121500Z
-DTEND:20251124T144500Z
+DTSTART:20251124T123000Z
+DTEND:20251124T150000Z
 UID:csgo_mc_2388326@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388326\n赛事: X2ONE 大师赛 S1\n阶段:
   小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
@@ -194,7 +137,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388244
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:X2ONE 大师赛 S1: K27 vs TBD
+SUMMARY:X2ONE 大师赛 S1: K27 vs Nemiga
 DTSTART:20251124T160000Z
 DTEND:20251124T183000Z
 UID:csgo_mc_2388329@5eplay.com
@@ -205,7 +148,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388329
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:X2ONE 大师赛 S1: TBD vs TBD
+SUMMARY:X2ONE 大师赛 S1: Sangal vs TBD
 DTSTART:20251124T161500Z
 DTEND:20251124T184500Z
 UID:csgo_mc_2388330@5eplay.com
@@ -216,7 +159,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388330
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:X2ONE 大师赛 S1: TBD vs TBD
+SUMMARY:X2ONE 大师赛 S1: GUN5 vs TBD
 DTSTART:20251124T163000Z
 DTEND:20251124T190000Z
 UID:csgo_mc_2388331@5eplay.com
@@ -349,17 +292,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388040
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:X2ONE 大师赛 S1: EF vs TBD
-DTSTART:20251125T080000Z
-DTEND:20251125T103000Z
-UID:csgo_mc_2388333@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388333\n赛事: X2ONE 大师赛 S1\n阶段:
-  小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388333
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 大洋洲系列赛 3: Fury vs TBD
 DTSTART:20251125T080000Z
 DTEND:20251125T103000Z
@@ -372,7 +304,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388145
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:X2ONE 大师赛 S1: TBD vs TBD
+SUMMARY:X2ONE 大师赛 S1: Infinite vs TBD
 DTSTART:20251125T081500Z
 DTEND:20251125T104500Z
 UID:csgo_mc_2388334@5eplay.com
@@ -381,5 +313,95 @@ DESCRIPTION:比赛ID: csgo_mc_2388334\n赛事: X2ONE 大师赛 S1\n阶段:
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X2ONE 大师赛 S1: Ursa vs TBD
+DTSTART:20251125T083000Z
+DTEND:20251125T110000Z
+UID:csgo_mc_2388335@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388335\n赛事: X2ONE 大师赛 S1\n阶段:
+  小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388335
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X2ONE 大师赛 S1: BC.Game vs TBD
+DTSTART:20251125T084500Z
+DTEND:20251125T111500Z
+UID:csgo_mc_2388336@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388336\n赛事: X2ONE 大师赛 S1\n阶段:
+  小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388336
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第41赛季: BIG.A vs MANA
+DTSTART:20251125T090000Z
+DTEND:20251125T113000Z
+UID:csgo_mc_2388370@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388370\n赛事: United21 联赛 第41赛季
+ \n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
+  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388370
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 大洋洲系列赛 3: Underground vs Gz
+DTSTART:20251125T103000Z
+DTEND:20251125T130000Z
+UID:csgo_mc_2388146@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388146\n赛事: CCT 第3赛季 大洋洲系
+ 列赛 3\n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388146
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛 3: AMKAL vs MOUZ.N
+DTSTART:20251125T113000Z
+DTEND:20251125T140000Z
+UID:csgo_mc_2388288@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388288\n赛事: 欧洲职业联赛 系列
+ 赛 3\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388288
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第41赛季: Mousquetaires vs TBD
+DTSTART:20251125T113000Z
+DTEND:20251125T140000Z
+UID:csgo_mc_2388371@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388371\n赛事: United21 联赛 第41赛季
+ \n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
+  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388371
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X2ONE 大师赛 S1: OlyBet vs TBD
+DTSTART:20251125T120000Z
+DTEND:20251125T143000Z
+UID:csgo_mc_2388337@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388337\n赛事: X2ONE 大师赛 S1\n阶段:
+  小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X2ONE 大师赛 S1: TBD vs TBD
+DTSTART:20251125T121500Z
+DTEND:20251125T144500Z
+UID:csgo_mc_2388338@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388338\n赛事: X2ONE 大师赛 S1\n阶段:
+  小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388338
 END:VEVENT
 END:VCALENDAR
