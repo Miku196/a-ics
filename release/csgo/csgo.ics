@@ -4,8 +4,8 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY:X2ONE 大师赛 S1: Nemiga vs OlyBet
-DTSTART:20251124T080000Z
-DTEND:20251124T103000Z
+DTSTART:20251124T083000Z
+DTEND:20251124T110000Z
 UID:csgo_mc_2388321@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388321\n赛事: X2ONE 大师赛 S1\n阶段:
   小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
@@ -14,38 +14,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388321
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 大洋洲系列赛 3: Gz vs Mindfreak
-DTSTART:20251124T080000Z
-DTEND:20251124T103000Z
-UID:csgo_mc_2388143@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388143\n赛事: CCT 第3赛季 大洋洲系
- 列赛 3\n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制
- : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
- 来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388143
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:X2ONE 大师赛 S1: Sangal vs Infinite
-DTSTART:20251124T081500Z
-DTEND:20251124T104500Z
+DTSTART:20251124T084500Z
+DTEND:20251124T111500Z
 UID:csgo_mc_2388322@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388322\n赛事: X2ONE 大师赛 S1\n阶段:
   小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388322
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:X2ONE 大师赛 S1: GUN5 vs Ursa
-DTSTART:20251124T083000Z
-DTEND:20251124T110000Z
-UID:csgo_mc_2388323@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388323\n赛事: X2ONE 大师赛 S1\n阶段:
-  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388323
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:X2ONE 大师赛 S1: BC.Game vs GANK
@@ -69,6 +46,17 @@ DESCRIPTION:比赛ID: csgo_mc_2388285\n赛事: 欧洲职业联赛 系列
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388285
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X2ONE 大师赛 S1: GUN5 vs Ursa
+DTSTART:20251124T090000Z
+DTEND:20251124T113000Z
+UID:csgo_mc_2388323@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388323\n赛事: X2ONE 大师赛 S1\n阶段:
+  小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388323
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NODWIN Clutch 系列 3 封闭预选: HAVU vs Fire Flux
