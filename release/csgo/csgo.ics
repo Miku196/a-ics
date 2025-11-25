@@ -3,61 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:X2ONE 大师赛 S1: Bushido Wildcats vs RUBY
-DTSTART:20251125T123000Z
-DTEND:20251125T150000Z
-UID:csgo_mc_2388339@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388339\n赛事: X2ONE 大师赛 S1\n阶段:
-  小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388339
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:X2ONE 大师赛 S1: WW vs Nemesis
-DTSTART:20251125T124000Z
-DTEND:20251125T151000Z
-UID:csgo_mc_2388338@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388338\n赛事: X2ONE 大师赛 S1\n阶段:
-  小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388338
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:X2ONE 大师赛 S1: GANK vs Baks
-DTSTART:20251125T124500Z
-DTEND:20251125T151500Z
-UID:csgo_mc_2388340@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388340\n赛事: X2ONE 大师赛 S1\n阶段:
-  小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388340
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第一阶段: B8 vs PARIVISION
-DTSTART:20251125T140000Z
-DTEND:20251125T150000Z
-UID:csgo_mc_2388042@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388042\n赛事: 布达佩斯Major 第一阶
- 段\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO1\n等级: 
- S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388042
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第一阶段: Legacy vs RED Canids
-DTSTART:20251125T140000Z
-DTEND:20251125T150000Z
-UID:csgo_mc_2388041@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388041\n赛事: 布达佩斯Major 第一阶
- 段\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO1\n等级: 
- S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388041
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:布达佩斯Major 第一阶段: FNC vs Imperial
 DTSTART:20251125T150000Z
 DTEND:20251125T160000Z
@@ -102,7 +47,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388045
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:X2ONE 大师赛 S1: TBD vs TBD
+SUMMARY:X2ONE 大师赛 S1: K27 vs TBD
 DTSTART:20251125T160000Z
 DTEND:20251125T183000Z
 UID:csgo_mc_2388341@5eplay.com
@@ -113,7 +58,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388341
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:X2ONE 大师赛 S1: TBD vs TBD
+SUMMARY:X2ONE 大师赛 S1: GUN5 vs TBD
 DTSTART:20251125T161500Z
 DTEND:20251125T184500Z
 UID:csgo_mc_2388342@5eplay.com
@@ -124,7 +69,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388342
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:X2ONE 大师赛 S1: TBD vs TBD
+SUMMARY:X2ONE 大师赛 S1: CYBERSHOKE vs TBD
 DTSTART:20251125T163000Z
 DTEND:20251125T190000Z
 UID:csgo_mc_2388343@5eplay.com
@@ -135,7 +80,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388343
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:X2ONE 大师赛 S1: TBD vs TBD
+SUMMARY:X2ONE 大师赛 S1: Sangal vs Nemiga
 DTSTART:20251125T164500Z
 DTEND:20251125T191500Z
 UID:csgo_mc_2388344@5eplay.com
@@ -431,5 +376,17 @@ DESCRIPTION:比赛ID: csgo_mc_2388374\n赛事: United21 联赛 第41赛季
   其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: TBD vs TBD
+DTSTART:20251127T090000Z
+DTEND:20251127T113000Z
+UID:csgo_mc_2388388@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388388\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12 封闭预选赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮
+ \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388388
 END:VEVENT
 END:VCALENDAR
