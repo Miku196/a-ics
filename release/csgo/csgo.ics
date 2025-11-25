@@ -86,7 +86,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388149
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:X2ONE 大师赛 S1: Sangal vs TBD
+SUMMARY:X2ONE 大师赛 S1: Sangal vs CYBERSHOKE
 DTSTART:20251126T110000Z
 DTEND:20251126T133000Z
 UID:csgo_mc_2388346@5eplay.com
@@ -133,7 +133,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388385
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第一阶段: TBD vs TBD
+SUMMARY:布达佩斯Major 第一阶段: B8 vs Legacy
 DTSTART:20251126T140000Z
 DTEND:20251126T163000Z
 UID:csgo_mc_2388050@5eplay.com
@@ -144,7 +144,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388050
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第一阶段: TBD vs TBD
+SUMMARY:布达佩斯Major 第一阶段: Fluxo vs NIP
 DTSTART:20251126T140000Z
 DTEND:20251126T163000Z
 UID:csgo_mc_2388049@5eplay.com
@@ -179,7 +179,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388386
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第一阶段: TBD vs TBD
+SUMMARY:布达佩斯Major 第一阶段: RED Canids vs FaZe
 DTSTART:20251126T163000Z
 DTEND:20251126T190000Z
 UID:csgo_mc_2388051@5eplay.com
@@ -190,7 +190,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388051
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第一阶段: TBD vs TBD
+SUMMARY:布达佩斯Major 第一阶段: NRG vs FNC
 DTSTART:20251126T163000Z
 DTEND:20251126T190000Z
 UID:csgo_mc_2388052@5eplay.com
@@ -214,7 +214,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388387
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第一阶段: TBD vs TBD
+SUMMARY:布达佩斯Major 第一阶段: PARIVISION vs GL
 DTSTART:20251126T190000Z
 DTEND:20251126T213000Z
 UID:csgo_mc_2388053@5eplay.com
@@ -225,7 +225,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388053
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第一阶段: TBD vs TBD
+SUMMARY:布达佩斯Major 第一阶段: Imperial vs The Huns
 DTSTART:20251126T190000Z
 DTEND:20251126T213000Z
 UID:csgo_mc_2388054@5eplay.com
@@ -445,5 +445,29 @@ DESCRIPTION:比赛ID: csgo_mc_2388294\n赛事: 欧洲职业联赛 系列
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388294
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第41赛季: TBD vs TBD
+DTSTART:20251128T113000Z
+DTEND:20251128T140000Z
+UID:csgo_mc_2388377@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388377\n赛事: United21 联赛 第41赛季
+ \n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388377
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 决赛: Imperial fe vs NIP Impact
+DTSTART:20251128T113000Z
+DTEND:20251128T123000Z
+UID:csgo_mc_2388227@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388227\n赛事: ESL Impact 联赛 第8赛
+ 季 决赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO
+ 1\n等级: B级\n状态: 未开始\n预估时长: 1.0小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388227
 END:VEVENT
 END:VCALENDAR
