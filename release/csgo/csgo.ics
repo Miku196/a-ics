@@ -3,44 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:X2ONE 大师赛 S1: K27 vs TBD
-DTSTART:20251126T150000Z
-DTEND:20251126T173000Z
-UID:csgo_mc_2388347@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388347\n赛事: X2ONE 大师赛 S1\n阶段:
-  淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状态: 
- 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388347
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: BASEMENT BOYS v
- s Ence.A
-DTSTART:20251126T150000Z
-DTEND:20251126T173000Z
-UID:csgo_mc_2388386@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388386\n赛事: CCT 第3赛季 欧洲系列
- 赛 12 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388386
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第一阶段: RED Canids vs FaZe
-DTSTART:20251126T163000Z
-DTEND:20251126T190000Z
-UID:csgo_mc_2388051@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388051\n赛事: 布达佩斯Major 第一阶
- 段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
- S级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388051
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:布达佩斯Major 第一阶段: NRG vs FNC
-DTSTART:20251126T163000Z
-DTEND:20251126T190000Z
+DTSTART:20251126T161500Z
+DTEND:20251126T184500Z
 UID:csgo_mc_2388052@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388052\n赛事: 布达佩斯Major 第一阶
  段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
@@ -108,7 +73,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388291
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第41赛季: TBD vs TBD
+SUMMARY:United21 联赛 第41赛季: BIG.A vs Megoshort
 DTSTART:20251127T090000Z
 DTEND:20251127T113000Z
 UID:csgo_mc_2388374@5eplay.com
@@ -119,7 +84,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388374
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: Aab vs MOUZ.N
 DTSTART:20251127T090000Z
 DTEND:20251127T113000Z
 UID:csgo_mc_2388388@5eplay.com
@@ -165,7 +130,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388055
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: AMKAL vs CPH Wo
+ lves
 DTSTART:20251127T150000Z
 DTEND:20251127T173000Z
 UID:csgo_mc_2388390@5eplay.com
@@ -413,5 +379,52 @@ DESCRIPTION:比赛ID: csgo_mc_2388272\n赛事: Elisa 芬兰公开赛 第11
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388272
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 决赛: TBD vs TBD
+DTSTART:20251128T163000Z
+DTEND:20251128T190000Z
+UID:csgo_mc_2388231@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388231\n赛事: ESL Impact 联赛 第8赛
+ 季 决赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO
+ 3\n等级: B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388231
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: EF vs SPARTA
+DTSTART:20251128T180000Z
+DTEND:20251128T203000Z
+UID:csgo_mc_2388395@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388395\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
+ \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388395
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elisa 芬兰公开赛 第11赛季: CSDIILIT vs TBD
+DTSTART:20251128T183000Z
+DTEND:20251128T210000Z
+UID:csgo_mc_2388273@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388273\n赛事: Elisa 芬兰公开赛 第11
+ 赛季\n阶段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388273
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:META 杯 第2赛季: HOTU vs Yoru
+DTSTART:20251129T070000Z
+DTEND:20251129T093000Z
+UID:csgo_mc_2388363@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388363\n赛事: META 杯 第2赛季\n阶段
+ : 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388363
 END:VEVENT
 END:VCALENDAR
