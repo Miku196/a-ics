@@ -3,52 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: CPH Wolves vs M
- OUZ.N
-DTSTART:20251126T122500Z
-DTEND:20251126T145500Z
-UID:csgo_mc_2388385@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388385\n赛事: CCT 第3赛季 欧洲系列
- 赛 12 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388385
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第一阶段: B8 vs Legacy
-DTSTART:20251126T140000Z
-DTEND:20251126T163000Z
-UID:csgo_mc_2388050@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388050\n赛事: 布达佩斯Major 第一阶
- 段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
- S级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388050
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第一阶段: Fluxo vs NIP
-DTSTART:20251126T140000Z
-DTEND:20251126T163000Z
-UID:csgo_mc_2388049@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388049\n赛事: 布达佩斯Major 第一阶
- 段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
- S级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388049
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United21 联赛 第41赛季: MASONIC vs WOPA
-DTSTART:20251126T140000Z
-DTEND:20251126T163000Z
-UID:csgo_mc_2388372@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388372\n赛事: United21 联赛 第41赛季
- \n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
-  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388372
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:X2ONE 大师赛 S1: K27 vs TBD
 DTSTART:20251126T150000Z
 DTEND:20251126T173000Z
@@ -435,5 +389,29 @@ DESCRIPTION:比赛ID: csgo_mc_2388394\n赛事: CCT 第3赛季 欧洲系列
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388394
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 决赛: TBD vs TBD
+DTSTART:20251128T151500Z
+DTEND:20251128T161500Z
+UID:csgo_mc_2388230@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388230\n赛事: ESL Impact 联赛 第8赛
+ 季 决赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO
+ 1\n等级: B级\n状态: 未开始\n预估时长: 1.0小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388230
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elisa 芬兰公开赛 第11赛季: Ence.A vs HAVU
+DTSTART:20251128T153000Z
+DTEND:20251128T180000Z
+UID:csgo_mc_2388272@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388272\n赛事: Elisa 芬兰公开赛 第11
+ 赛季\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388272
 END:VEVENT
 END:VCALENDAR
