@@ -3,41 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第一阶段: PARIVISION vs GL
-DTSTART:20251126T190000Z
-DTEND:20251126T213000Z
-UID:csgo_mc_2388053@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388053\n赛事: 布达佩斯Major 第一阶
- 段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
- S级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388053
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第一阶段: Imperial vs The Huns
-DTSTART:20251126T190000Z
-DTEND:20251126T213000Z
-UID:csgo_mc_2388054@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388054\n赛事: 布达佩斯Major 第一阶
- 段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
- S级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388054
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: FORZE Reload vs
-  Washington
-DTSTART:20251126T190000Z
-DTEND:20251126T213000Z
-UID:csgo_mc_2388387@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388387\n赛事: CCT 第3赛季 欧洲系列
- 赛 12 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388387
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 大洋洲系列赛 3: THUNDER dOWNUNDER vs Gz
 DTSTART:20251127T070000Z
 DTEND:20251127T110000Z
@@ -96,7 +61,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388375
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: Ence.A vs TBD
 DTSTART:20251127T120000Z
 DTEND:20251127T143000Z
 UID:csgo_mc_2388389@5eplay.com
@@ -143,7 +108,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388056
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: BASEMENT BOYS v
+ s TBD
 DTSTART:20251127T180000Z
 DTEND:20251127T203000Z
 UID:csgo_mc_2388391@5eplay.com
@@ -427,5 +393,52 @@ DESCRIPTION:比赛ID: csgo_mc_2388296\n赛事: 欧洲职业联赛 系列
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388296
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:United21 联赛 第41赛季: TBD vs TBD
+DTSTART:20251129T090000Z
+DTEND:20251129T113000Z
+UID:csgo_mc_2388378@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388378\n赛事: United21 联赛 第41赛季
+ \n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n
+ 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
+ 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388378
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: TBD vs TBD
+DTSTART:20251129T090000Z
+DTEND:20251129T113000Z
+UID:csgo_mc_2388396@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388396\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12 封闭预选赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮
+ \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388396
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tipsport 2025 总决赛: TBD vs TBD
+DTSTART:20251129T093000Z
+DTEND:20251129T120000Z
+UID:csgo_mc_2388014@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388014\n赛事: Tipsport 2025 总决赛\n
+ 阶段: 季军赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状
+ 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 决赛: TBD vs TBD
+DTSTART:20251129T093000Z
+DTEND:20251129T120000Z
+UID:csgo_mc_2388232@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388232\n赛事: ESL Impact 联赛 第8赛
+ 季 决赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO
+ 3\n等级: B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388232
 END:VEVENT
 END:VCALENDAR
