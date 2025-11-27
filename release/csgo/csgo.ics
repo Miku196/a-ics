@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第41赛季: WOPA vs Truck Drivers
-DTSTART:20251127T113000Z
-DTEND:20251127T140000Z
-UID:csgo_mc_2388375@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388375\n赛事: United21 联赛 第41赛季
- \n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
-  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388375
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: Ence.A vs Washi
- ngton
-DTSTART:20251127T120000Z
-DTEND:20251127T143000Z
-UID:csgo_mc_2388389@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388389\n赛事: CCT 第3赛季 欧洲系列
- 赛 12 封闭预选赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388389
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:布达佩斯Major 第一阶段: Fluxo vs FaZe
 DTSTART:20251127T140000Z
 DTEND:20251127T163000Z
@@ -324,6 +300,54 @@ DESCRIPTION:比赛ID: csgo_mc_2388273\n赛事: Elisa 芬兰公开赛 第11
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388273
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANZC Locals 布里斯班 2025: Mindfreak vs DXA
+DTSTART:20251128T233000Z
+DTEND:20251129T003000Z
+UID:csgo_mc_2388521@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388521\n赛事: ANZC Locals 布里斯班 20
+ 25\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等
+ 级: 其他\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANZC Locals 布里斯班 2025: Time Waves vs The Bardolphs
+DTSTART:20251128T233000Z
+DTEND:20251129T003000Z
+UID:csgo_mc_2388522@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388522\n赛事: ANZC Locals 布里斯班 20
+ 25\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等
+ 级: 其他\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANZC Locals 布里斯班 2025: Underground vs Rooster
+DTSTART:20251129T023000Z
+DTEND:20251129T033000Z
+UID:csgo_mc_2388523@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388523\n赛事: ANZC Locals 布里斯班 20
+ 25\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等
+ 级: 其他\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388523
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANZC Locals 布里斯班 2025: Bbbmbcbs vs Blingus
+DTSTART:20251129T023000Z
+DTEND:20251129T033000Z
+UID:csgo_mc_2388524@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388524\n赛事: ANZC Locals 布里斯班 20
+ 25\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等
+ 级: 其他\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388524
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:META 杯 第2赛季: HOTU vs Yoru
