@@ -384,7 +384,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388379
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第二阶段: TBD vs TBD
+SUMMARY:布达佩斯Major 第二阶段: Astralis vs NIP
 DTSTART:20251129T120000Z
 DTEND:20251129T130000Z
 UID:csgo_mc_2388058@5eplay.com
@@ -395,7 +395,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388058
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第二阶段: TBD vs TBD
+SUMMARY:布达佩斯Major 第二阶段:  3DMAX vs FNC
 DTSTART:20251129T120000Z
 DTEND:20251129T130000Z
 UID:csgo_mc_2388059@5eplay.com
@@ -441,7 +441,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388015
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第二阶段: TBD vs TBD
+SUMMARY:布达佩斯Major 第二阶段: Passion UA vs FaZe
 DTSTART:20251129T130000Z
 DTEND:20251129T140000Z
 UID:csgo_mc_2388060@5eplay.com
@@ -452,7 +452,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388060
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第二阶段: TBD vs TBD
+SUMMARY:布达佩斯Major 第二阶段: PARIVISION vs TYLOO
 DTSTART:20251129T130000Z
 DTEND:20251129T140000Z
 UID:csgo_mc_2388061@5eplay.com
@@ -461,5 +461,16 @@ DESCRIPTION:比赛ID: csgo_mc_2388061\n赛事: 布达佩斯Major 第二阶
  S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:META 杯 第2赛季: TBD vs TBD
+DTSTART:20251129T130000Z
+DTEND:20251129T153000Z
+UID:csgo_mc_2388365@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388365\n赛事: META 杯 第2赛季\n阶段
+ : 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\
+ n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388365
 END:VEVENT
 END:VCALENDAR
