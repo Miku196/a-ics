@@ -3,43 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 决赛: MIBR.fe vs Atrix
-DTSTART:20251128T124500Z
-DTEND:20251128T134500Z
-UID:csgo_mc_2388228@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388228\n赛事: ESL Impact 联赛 第8赛
- 季 决赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO
- 1\n等级: B级\n状态: 未开始\n预估时长: 1.0小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388228
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort Series 第19赛季: 1win vs MAJOR WINNERS
-DTSTART:20251128T133000Z
-DTEND:20251128T160000Z
-UID:csgo_mc_2388526@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388526\n赛事: Exort Series 第19赛季\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388526
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tipsport 2025 总决赛: ECLOT vs Brute
-DTSTART:20251128T140000Z
-DTEND:20251128T163000Z
-UID:csgo_mc_2388013@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388013\n赛事: Tipsport 2025 总决赛\n
- 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388013
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL Impact 联赛 第8赛季 决赛: Let Her Cook vs Sakura
-DTSTART:20251128T140000Z
-DTEND:20251128T150000Z
+DTSTART:20251128T142000Z
+DTEND:20251128T152000Z
 UID:csgo_mc_2388229@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388229\n赛事: ESL Impact 联赛 第8赛
  季 决赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO
@@ -61,6 +27,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388292
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tipsport 2025 总决赛: ECLOT vs Brute
+DTSTART:20251128T144500Z
+DTEND:20251128T171500Z
+UID:csgo_mc_2388013@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388013\n赛事: Tipsport 2025 总决赛\n
+ 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388013
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: RUBY vs HyperSp
  irit
 DTSTART:20251128T150000Z
@@ -74,7 +51,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388394
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 决赛: TBD vs TBD
+SUMMARY:ESL Impact 联赛 第8赛季 决赛: NIP Impact vs TBD
 DTSTART:20251128T151500Z
 DTEND:20251128T161500Z
 UID:csgo_mc_2388230@5eplay.com
@@ -109,7 +86,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388527
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 决赛: TBD vs TBD
+SUMMARY:ESL Impact 联赛 第8赛季 决赛: Imperial fe vs TBD
 DTSTART:20251128T163000Z
 DTEND:20251128T190000Z
 UID:csgo_mc_2388231@5eplay.com
@@ -299,7 +276,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388296
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第41赛季: BIG.A vs TBD
+SUMMARY:United21 联赛 第41赛季: BIG.A vs MASONIC
 DTSTART:20251129T090000Z
 DTEND:20251129T113000Z
 UID:csgo_mc_2388378@5eplay.com
@@ -323,7 +300,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388396
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tipsport 2025 总决赛: TBD vs TBD
+SUMMARY:Tipsport 2025 总决赛: UNiTY vs TBD
 DTSTART:20251129T093000Z
 DTEND:20251129T120000Z
 UID:csgo_mc_2388014@5eplay.com
@@ -401,5 +378,76 @@ DESCRIPTION:比赛ID: csgo_mc_2388397\n赛事: CCT 第3赛季 欧洲系列
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388397
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 决赛: TBD vs TBD
+DTSTART:20251129T123500Z
+DTEND:20251129T150500Z
+UID:csgo_mc_2388233@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388233\n赛事: ESL Impact 联赛 第8赛
+ 季 决赛\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO
+ 3\n等级: B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388233
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tipsport 2025 总决赛: SINNERS vs TBD
+DTSTART:20251129T130000Z
+DTEND:20251129T170000Z
+UID:csgo_mc_2388015@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388015\n赛事: Tipsport 2025 总决赛\n
+ 阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO5\n等级: 其他\n状
+ 态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388015
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: TBD vs TBD
+DTSTART:20251129T130000Z
+DTEND:20251129T153000Z
+UID:csgo_mc_2388533@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388533\n赛事: DreamHack 斯德哥尔摩 
+ 锦标赛 2025\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO
+ 3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388533
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: TBD vs TBD
+DTSTART:20251129T130000Z
+DTEND:20251129T153000Z
+UID:csgo_mc_2388535@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388535\n赛事: DreamHack 斯德哥尔摩 
+ 锦标赛 2025\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO
+ 3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388535
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: TBD vs TBD
+DTSTART:20251129T130000Z
+DTEND:20251129T153000Z
+UID:csgo_mc_2388539@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388539\n赛事: DreamHack 斯德哥尔摩 
+ 锦标赛 2025\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO
+ 3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388539
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: TBD vs TBD
+DTSTART:20251129T130000Z
+DTEND:20251129T153000Z
+UID:csgo_mc_2388537@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388537\n赛事: DreamHack 斯德哥尔摩 
+ 锦标赛 2025\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO
+ 3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388537
 END:VEVENT
 END:VCALENDAR
