@@ -3,29 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Elisa 芬兰公开赛 第11赛季: CSDIILIT vs HAVU
-DTSTART:20251128T183000Z
-DTEND:20251128T210000Z
-UID:csgo_mc_2388273@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388273\n赛事: Elisa 芬兰公开赛 第11
- 赛季\n阶段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388273
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort Series 第19赛季: FORZE Reload vs Misa
-DTSTART:20251128T193000Z
-DTEND:20251128T220000Z
-UID:csgo_mc_2388528@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388528\n赛事: Exort Series 第19赛季\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388528
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ANZC Locals 布里斯班 2025: Mindfreak vs DXA
 DTSTART:20251128T233000Z
 DTEND:20251129T003000Z
@@ -274,7 +251,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388397
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 决赛: Atrix vs TBD
+SUMMARY:ESL Impact 联赛 第8赛季 决赛: Atrix vs MIBR.fe
 DTSTART:20251129T123500Z
 DTEND:20251129T150500Z
 UID:csgo_mc_2388233@5eplay.com
@@ -446,5 +423,27 @@ DESCRIPTION:比赛ID: csgo_mc_2388062\n赛事: 布达佩斯Major 第二阶
  S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第二阶段: Aurora vs M80
+DTSTART:20251129T140000Z
+DTEND:20251129T150000Z
+UID:csgo_mc_2388063@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388063\n赛事: 布达佩斯Major 第二阶
+ 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第二阶段: MIBR vs Imperial
+DTSTART:20251129T150000Z
+DTEND:20251129T160000Z
+UID:csgo_mc_2388064@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388064\n赛事: 布达佩斯Major 第二阶
+ 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388064
 END:VEVENT
 END:VCALENDAR
