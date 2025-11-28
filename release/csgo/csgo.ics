@@ -3,78 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 决赛: Let Her Cook vs Sakura
-DTSTART:20251128T142000Z
-DTEND:20251128T152000Z
-UID:csgo_mc_2388229@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388229\n赛事: ESL Impact 联赛 第8赛
- 季 决赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO
- 1\n等级: B级\n状态: 未开始\n预估时长: 1.0小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388229
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛 3: CPH Wolves vs Nuclear TigeRES
-DTSTART:20251128T143000Z
-DTEND:20251128T170000Z
-UID:csgo_mc_2388292@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388292\n赛事: 欧洲职业联赛 系列
- 赛 3\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388292
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tipsport 2025 总决赛: ECLOT vs Brute
-DTSTART:20251128T144500Z
-DTEND:20251128T171500Z
-UID:csgo_mc_2388013@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388013\n赛事: Tipsport 2025 总决赛\n
- 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388013
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: RUBY vs HyperSp
- irit
-DTSTART:20251128T150000Z
-DTEND:20251128T173000Z
-UID:csgo_mc_2388394@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388394\n赛事: CCT 第3赛季 欧洲系列
- 赛 12 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388394
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 决赛: NIP Impact vs TBD
-DTSTART:20251128T151500Z
-DTEND:20251128T161500Z
-UID:csgo_mc_2388230@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388230\n赛事: ESL Impact 联赛 第8赛
- 季 决赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO
- 1\n等级: B级\n状态: 未开始\n预估时长: 1.0小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388230
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elisa 芬兰公开赛 第11赛季: Ence.A vs HAVU
-DTSTART:20251128T153000Z
-DTEND:20251128T180000Z
-UID:csgo_mc_2388272@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388272\n赛事: Elisa 芬兰公开赛 第11
- 赛季\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388272
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Exort Series 第19赛季: Flame Sharks vs Dark Tigers
 DTSTART:20251128T163000Z
 DTEND:20251128T190000Z
@@ -86,9 +14,9 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388527
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 决赛: Imperial fe vs TBD
-DTSTART:20251128T163000Z
-DTEND:20251128T190000Z
+SUMMARY:ESL Impact 联赛 第8赛季 决赛: Imperial fe vs MIBR.fe
+DTSTART:20251128T173000Z
+DTEND:20251128T200000Z
 UID:csgo_mc_2388231@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388231\n赛事: ESL Impact 联赛 第8赛
  季 决赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO
@@ -288,7 +216,8 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388378
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: Betclic vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: Betclic vs ARCR
+ ED
 DTSTART:20251129T090000Z
 DTEND:20251129T113000Z
 UID:csgo_mc_2388396@5eplay.com
@@ -449,5 +378,29 @@ DESCRIPTION:比赛ID: csgo_mc_2388537\n赛事: DreamHack 斯德哥尔摩
  源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388537
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: TBD vs TBD
+DTSTART:20251129T130000Z
+DTEND:20251129T153000Z
+UID:csgo_mc_2388534@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388534\n赛事: DreamHack 斯德哥尔摩 
+ 锦标赛 2025\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO
+ 3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388534
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: TBD vs TBD
+DTSTART:20251129T130000Z
+DTEND:20251129T153000Z
+UID:csgo_mc_2388532@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388532\n赛事: DreamHack 斯德哥尔摩 
+ 锦标赛 2025\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO
+ 3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
+ 源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388532
 END:VEVENT
 END:VCALENDAR
