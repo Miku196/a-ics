@@ -3,88 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 决赛: Sakura vs BIG.E
-DTSTART:20251128T101500Z
-DTEND:20251128T111500Z
-UID:csgo_mc_2388226@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388226\n赛事: ESL Impact 联赛 第8赛
- 季 决赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO
- 1\n等级: B级\n状态: 未开始\n预估时长: 1.0小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388226
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exort Series 第19赛季: TPuDCATb_TPu vs Spirit Academy Black
-DTSTART:20251128T103000Z
-DTEND:20251128T130000Z
-UID:csgo_mc_2388525@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388525\n赛事: Exort Series 第19赛季\n
- 阶段: 淘汰赛 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388525
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tipsport 2025 总决赛: SINNERS vs UNiTY
-DTSTART:20251128T110000Z
-DTEND:20251128T133000Z
-UID:csgo_mc_2388012@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388012\n赛事: Tipsport 2025 总决赛\n
- 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388012
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛 3: SPARTA vs Novaq
-DTSTART:20251128T113000Z
-DTEND:20251128T140000Z
-UID:csgo_mc_2388294@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388294\n赛事: 欧洲职业联赛 系列
- 赛 3\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388294
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United21 联赛 第41赛季: Y.NIP vs MASONIC
-DTSTART:20251128T113000Z
-DTEND:20251128T140000Z
-UID:csgo_mc_2388377@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388377\n赛事: United21 联赛 第41赛季
- \n阶段: 淘汰赛 胜者组 半决赛\n轮次: 半决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388377
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 决赛: Imperial fe vs NIP Impact
-DTSTART:20251128T113000Z
-DTEND:20251128T123000Z
-UID:csgo_mc_2388227@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388227\n赛事: ESL Impact 联赛 第8赛
- 季 决赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO
- 1\n等级: B级\n状态: 未开始\n预估时长: 1.0小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388227
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: ARCRED vs HAVU
-DTSTART:20251128T120000Z
-DTEND:20251128T143000Z
-UID:csgo_mc_2388393@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388393\n赛事: CCT 第3赛季 欧洲系列
- 赛 12 封闭预选赛\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388393
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ESL Impact 联赛 第8赛季 决赛: MIBR.fe vs Atrix
 DTSTART:20251128T124500Z
 DTEND:20251128T134500Z
@@ -119,7 +37,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388013
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 决赛: Let Her Cook vs TBD
+SUMMARY:ESL Impact 联赛 第8赛季 决赛: Let Her Cook vs Sakura
 DTSTART:20251128T140000Z
 DTEND:20251128T150000Z
 UID:csgo_mc_2388229@5eplay.com
@@ -416,7 +334,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 决赛: FLYRED vs TBD
+SUMMARY:ESL Impact 联赛 第8赛季 决赛: FLYRED vs BIG.E
 DTSTART:20251129T093000Z
 DTEND:20251129T120000Z
 UID:csgo_mc_2388232@5eplay.com
@@ -439,7 +357,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388364
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:United21 联赛 第41赛季: WOPA vs TBD
+SUMMARY:United21 联赛 第41赛季: WOPA vs MANA
 DTSTART:20251129T113000Z
 DTEND:20251129T140000Z
 UID:csgo_mc_2388379@5eplay.com
@@ -449,5 +367,39 @@ DESCRIPTION:比赛ID: csgo_mc_2388379\n赛事: United21 联赛 第41赛季
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388379
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第二阶段: Astralis vs NIP
+DTSTART:20251129T120000Z
+DTEND:20251129T130000Z
+UID:csgo_mc_2388058@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388058\n赛事: 布达佩斯Major 第二阶
+ 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388058
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第二阶段:  3DMAX vs FNC
+DTSTART:20251129T120000Z
+DTEND:20251129T130000Z
+UID:csgo_mc_2388059@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388059\n赛事: 布达佩斯Major 第二阶
+ 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388059
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: TBD vs TBD
+DTSTART:20251129T120000Z
+DTEND:20251129T143000Z
+UID:csgo_mc_2388397@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388397\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12 封闭预选赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮
+ \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388397
 END:VEVENT
 END:VCALENDAR
