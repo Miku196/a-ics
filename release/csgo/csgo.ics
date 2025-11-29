@@ -3,33 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ANZC Locals 布里斯班 2025: Mindfreak vs DXA
-DTSTART:20251128T233000Z
-DTEND:20251129T003000Z
-UID:csgo_mc_2388521@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388521\n赛事: ANZC Locals 布里斯班 20
- 25\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等
- 级: 其他\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388521
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANZC Locals 布里斯班 2025: Time Waves vs The Bardolphs
-DTSTART:20251128T233000Z
-DTEND:20251129T003000Z
-UID:csgo_mc_2388522@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388522\n赛事: ANZC Locals 布里斯班 20
- 25\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等
- 级: 其他\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388522
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ANZC Locals 布里斯班 2025: TBD vs TBD
-DTSTART:20251129T003000Z
-DTEND:20251129T030000Z
+DTSTART:20251129T013000Z
+DTEND:20251129T040000Z
 UID:csgo_mc_2388550@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388550\n赛事: ANZC Locals 布里斯班 20
  25\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等
@@ -40,8 +16,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2388550
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ANZC Locals 布里斯班 2025: TBD vs TBD
-DTSTART:20251129T003000Z
-DTEND:20251129T030000Z
+DTSTART:20251129T013000Z
+DTEND:20251129T040000Z
 UID:csgo_mc_2388551@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388551\n赛事: ANZC Locals 布里斯班 20
  25\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等
@@ -261,7 +237,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388015
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: TBD vs TBD
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: Sashi vs GUN5
 DTSTART:20251129T130000Z
 DTEND:20251129T153000Z
 UID:csgo_mc_2388533@5eplay.com
@@ -273,7 +249,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388533
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: TBD vs TBD
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: FUT vs TBD
 DTSTART:20251129T130000Z
 DTEND:20251129T153000Z
 UID:csgo_mc_2388535@5eplay.com
@@ -285,7 +261,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388535
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: TBD vs TBD
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: 9INE vs TBD
 DTSTART:20251129T130000Z
 DTEND:20251129T153000Z
 UID:csgo_mc_2388539@5eplay.com
@@ -297,7 +273,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388539
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: TBD vs TBD
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: Venom vs TBD
 DTSTART:20251129T130000Z
 DTEND:20251129T153000Z
 UID:csgo_mc_2388537@5eplay.com
@@ -309,7 +285,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388537
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: TBD vs TBD
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: ECSTATIC vs TBD
 DTSTART:20251129T130000Z
 DTEND:20251129T153000Z
 UID:csgo_mc_2388534@5eplay.com
@@ -321,7 +297,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388534
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: TBD vs TBD
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: Inner Circle vs TBD
 DTSTART:20251129T130000Z
 DTEND:20251129T153000Z
 UID:csgo_mc_2388532@5eplay.com
@@ -333,7 +309,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388532
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: TBD vs TBD
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: OG vs TBD
 DTSTART:20251129T130000Z
 DTEND:20251129T153000Z
 UID:csgo_mc_2388536@5eplay.com
@@ -345,7 +321,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388536
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: TBD vs TBD
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: Monte vs 500
 DTSTART:20251129T130000Z
 DTEND:20251129T153000Z
 UID:csgo_mc_2388538@5eplay.com
@@ -456,5 +432,17 @@ DESCRIPTION:比赛ID: csgo_mc_2388398\n赛事: CCT 第3赛季 欧洲系列
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388398
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESL Impact 联赛 第8赛季 决赛: Let Her Cook vs TBD
+DTSTART:20251129T154000Z
+DTEND:20251129T181000Z
+UID:csgo_mc_2388234@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388234\n赛事: ESL Impact 联赛 第8赛
+ 季 决赛\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO
+ 3\n等级: B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
+  5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388234
 END:VEVENT
 END:VCALENDAR
