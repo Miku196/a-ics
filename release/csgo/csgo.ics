@@ -3,80 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛 3: RUBY vs MOUZ.N
-DTSTART:20251129T090000Z
-DTEND:20251129T113000Z
-UID:csgo_mc_2388296@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388296\n赛事: 欧洲职业联赛 系列
- 赛 3\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388296
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANZC Locals 布里斯班 2025: Time Waves vs The Bardolphs
-DTSTART:20251129T090000Z
-DTEND:20251129T113000Z
-UID:csgo_mc_2388552@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388552\n赛事: ANZC Locals 布里斯班 20
- 25\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388552
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANZC Locals 布里斯班 2025: TBD vs TBD
-DTSTART:20251129T090000Z
-DTEND:20251129T113000Z
-UID:csgo_mc_2388555@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388555\n赛事: ANZC Locals 布里斯班 20
- 25\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388555
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United21 联赛 第41赛季: BIG.A vs MASONIC
-DTSTART:20251129T090000Z
-DTEND:20251129T113000Z
-UID:csgo_mc_2388378@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388378\n赛事: United21 联赛 第41赛季
- \n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388378
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tipsport 2025 总决赛: UNiTY vs Brute
-DTSTART:20251129T093000Z
-DTEND:20251129T120000Z
-UID:csgo_mc_2388014@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388014\n赛事: Tipsport 2025 总决赛\n
- 阶段: 季军赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388014
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 决赛: FLYRED vs BIG.E
-DTSTART:20251129T093000Z
-DTEND:20251129T120000Z
-UID:csgo_mc_2388232@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388232\n赛事: ESL Impact 联赛 第8赛
- 季 决赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO
- 3\n等级: B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388232
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:META 杯 第2赛季: AI vs Omega
-DTSTART:20251129T100000Z
-DTEND:20251129T123000Z
+DTSTART:20251129T101500Z
+DTEND:20251129T124500Z
 UID:csgo_mc_2388364@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388364\n赛事: META 杯 第2赛季\n阶段
  : 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
@@ -190,7 +119,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388539
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: Venom vs TBD
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: Venom vs Alliance
 DTSTART:20251129T130000Z
 DTEND:20251129T153000Z
 UID:csgo_mc_2388537@5eplay.com
@@ -202,7 +131,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388537
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: ECSTATIC vs TBD
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: ECSTATIC vs EYE
 DTSTART:20251129T130000Z
 DTEND:20251129T153000Z
 UID:csgo_mc_2388534@5eplay.com
@@ -272,7 +201,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388061
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:META 杯 第2赛季: TBD vs TBD
+SUMMARY:META 杯 第2赛季: HOTU vs TBD
 DTSTART:20251129T130000Z
 DTEND:20251129T153000Z
 UID:csgo_mc_2388365@5eplay.com
@@ -431,5 +360,38 @@ DESCRIPTION:比赛ID: csgo_mc_2388066\n赛事: 布达佩斯Major 第二阶
  S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388066
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第二阶段: TBD vs TBD
+DTSTART:20251129T170000Z
+DTEND:20251129T180000Z
+UID:csgo_mc_2388067@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388067\n赛事: 布达佩斯Major 第二阶
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388067
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第二阶段: TBD vs TBD
+DTSTART:20251129T180000Z
+DTEND:20251129T190000Z
+UID:csgo_mc_2388068@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388068\n赛事: 布达佩斯Major 第二阶
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388068
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第二阶段: TBD vs TBD
+DTSTART:20251129T180000Z
+DTEND:20251129T190000Z
+UID:csgo_mc_2388069@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388069\n赛事: 布达佩斯Major 第二阶
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388069
 END:VEVENT
 END:VCALENDAR
