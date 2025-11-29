@@ -3,75 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:META 杯 第2赛季: AI vs Omega
-DTSTART:20251129T101500Z
-DTEND:20251129T124500Z
-UID:csgo_mc_2388364@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388364\n赛事: META 杯 第2赛季\n阶段
- : 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388364
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:United21 联赛 第41赛季: WOPA vs MANA
-DTSTART:20251129T113000Z
-DTEND:20251129T140000Z
-UID:csgo_mc_2388379@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388379\n赛事: United21 联赛 第41赛季
- \n阶段: 淘汰赛 败者组 1/4决赛\n轮次: 1/4决赛\n赛制: BO3\n
- 等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 
- 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388379
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第二阶段: Astralis vs NIP
-DTSTART:20251129T120000Z
-DTEND:20251129T130000Z
-UID:csgo_mc_2388058@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388058\n赛事: 布达佩斯Major 第二阶
- 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: 
- S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388058
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第二阶段:  3DMAX vs FNC
-DTSTART:20251129T120000Z
-DTEND:20251129T130000Z
-UID:csgo_mc_2388059@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388059\n赛事: 布达佩斯Major 第二阶
- 段\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: 
- S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388059
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: RUBY vs EF
-DTSTART:20251129T120000Z
-DTEND:20251129T143000Z
-UID:csgo_mc_2388397@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388397\n赛事: CCT 第3赛季 欧洲系列
- 赛 12 封闭预选赛\n阶段: 小组赛 败者组 首轮\n轮次: 首轮
- \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388397
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 决赛: Atrix vs MIBR.fe
-DTSTART:20251129T123500Z
-DTEND:20251129T150500Z
-UID:csgo_mc_2388233@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388233\n赛事: ESL Impact 联赛 第8赛
- 季 决赛\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO
- 3\n等级: B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源:
-  5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388233
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tipsport 2025 总决赛: SINNERS vs ECLOT
 DTSTART:20251129T130000Z
 DTEND:20251129T170000Z
@@ -95,7 +26,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388533
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: FUT vs TBD
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: FUT vs kONO
 DTSTART:20251129T130000Z
 DTEND:20251129T153000Z
 UID:csgo_mc_2388535@5eplay.com
@@ -280,7 +211,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388398
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 决赛: Let Her Cook vs TBD
+SUMMARY:ESL Impact 联赛 第8赛季 决赛: Let Her Cook vs BIG.E
 DTSTART:20251129T154000Z
 DTEND:20251129T181000Z
 UID:csgo_mc_2388234@5eplay.com
@@ -393,5 +324,62 @@ DESCRIPTION:比赛ID: csgo_mc_2388069\n赛事: 布达佩斯Major 第二阶
  S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388069
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12 封闭预选赛: HyperSpirit vs 
+ SPARTA
+DTSTART:20251129T180000Z
+DTEND:20251129T203000Z
+UID:csgo_mc_2388399@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388399\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12 封闭预选赛\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛
+ \n赛制: BO3\n等级: \n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388399
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第二阶段: TBD vs TBD
+DTSTART:20251129T190000Z
+DTEND:20251129T200000Z
+UID:csgo_mc_2388071@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388071\n赛事: 布达佩斯Major 第二阶
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388071
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第二阶段: TBD vs TBD
+DTSTART:20251129T190000Z
+DTEND:20251129T200000Z
+UID:csgo_mc_2388070@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388070\n赛事: 布达佩斯Major 第二阶
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388070
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第二阶段: TBD vs TBD
+DTSTART:20251129T200000Z
+DTEND:20251129T210000Z
+UID:csgo_mc_2388072@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388072\n赛事: 布达佩斯Major 第二阶
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388072
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第二阶段: TBD vs TBD
+DTSTART:20251129T200000Z
+DTEND:20251129T210000Z
+UID:csgo_mc_2388073@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388073\n赛事: 布达佩斯Major 第二阶
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388073
 END:VEVENT
 END:VCALENDAR
