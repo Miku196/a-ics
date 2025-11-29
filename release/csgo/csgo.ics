@@ -3,33 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ANZC Locals 布里斯班 2025: TBD vs TBD
-DTSTART:20251129T013000Z
-DTEND:20251129T040000Z
-UID:csgo_mc_2388550@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388550\n赛事: ANZC Locals 布里斯班 20
- 25\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388550
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANZC Locals 布里斯班 2025: TBD vs TBD
-DTSTART:20251129T013000Z
-DTEND:20251129T040000Z
-UID:csgo_mc_2388551@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388551\n赛事: ANZC Locals 布里斯班 20
- 25\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388551
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ANZC Locals 布里斯班 2025: Underground vs Rooster
-DTSTART:20251129T023000Z
-DTEND:20251129T033000Z
+DTSTART:20251129T043000Z
+DTEND:20251129T053000Z
 UID:csgo_mc_2388523@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388523\n赛事: ANZC Locals 布里斯班 20
  25\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等
@@ -40,8 +16,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2388523
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ANZC Locals 布里斯班 2025: Bbbmbcbs vs Blingus
-DTSTART:20251129T023000Z
-DTEND:20251129T033000Z
+DTSTART:20251129T043000Z
+DTEND:20251129T053000Z
 UID:csgo_mc_2388524@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388524\n赛事: ANZC Locals 布里斯班 20
  25\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO1\n等
@@ -52,8 +28,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2388524
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ANZC Locals 布里斯班 2025: TBD vs TBD
-DTSTART:20251129T043000Z
-DTEND:20251129T070000Z
+DTSTART:20251129T053000Z
+DTEND:20251129T080000Z
 UID:csgo_mc_2388553@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388553\n赛事: ANZC Locals 布里斯班 20
  25\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等
@@ -64,8 +40,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2388553
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ANZC Locals 布里斯班 2025: TBD vs TBD
-DTSTART:20251129T043000Z
-DTEND:20251129T070000Z
+DTSTART:20251129T053000Z
+DTEND:20251129T080000Z
 UID:csgo_mc_2388554@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388554\n赛事: ANZC Locals 布里斯班 20
  25\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等
@@ -444,5 +420,28 @@ DESCRIPTION:比赛ID: csgo_mc_2388234\n赛事: ESL Impact 联赛 第8赛
   5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388234
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exort Series 第19赛季: Flame Sharks vs FORZE Reload
+DTSTART:20251129T163000Z
+DTEND:20251129T190000Z
+UID:csgo_mc_2388530@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388530\n赛事: Exort Series 第19赛季\n
+ 阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388530
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: TBD vs TBD
+DTSTART:20251129T170000Z
+DTEND:20251129T193000Z
+UID:csgo_mc_2388542@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388542\n赛事: DreamHack 斯德哥尔摩 
+ 锦标赛 2025\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388542
 END:VEVENT
 END:VCALENDAR
