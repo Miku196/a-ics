@@ -3,41 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:META 杯 第2赛季: HOTU vs Yoru
-DTSTART:20251129T070000Z
-DTEND:20251129T093000Z
-UID:csgo_mc_2388363@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388363\n赛事: META 杯 第2赛季\n阶段
- : 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388363
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANZC Locals 布里斯班 2025: Time Waves vs The Bardolphs
-DTSTART:20251129T073000Z
-DTEND:20251129T100000Z
-UID:csgo_mc_2388552@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388552\n赛事: ANZC Locals 布里斯班 20
- 25\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388552
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANZC Locals 布里斯班 2025: TBD vs TBD
-DTSTART:20251129T073000Z
-DTEND:20251129T100000Z
-UID:csgo_mc_2388555@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388555\n赛事: ANZC Locals 布里斯班 20
- 25\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388555
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛 3: RUBY vs MOUZ.N
 DTSTART:20251129T090000Z
 DTEND:20251129T113000Z
@@ -48,6 +13,30 @@ DESCRIPTION:比赛ID: csgo_mc_2388296\n赛事: 欧洲职业联赛 系列
  5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388296
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANZC Locals 布里斯班 2025: Time Waves vs The Bardolphs
+DTSTART:20251129T090000Z
+DTEND:20251129T113000Z
+UID:csgo_mc_2388552@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388552\n赛事: ANZC Locals 布里斯班 20
+ 25\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388552
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANZC Locals 布里斯班 2025: TBD vs TBD
+DTSTART:20251129T090000Z
+DTEND:20251129T113000Z
+UID:csgo_mc_2388555@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388555\n赛事: ANZC Locals 布里斯班 20
+ 25\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388555
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:United21 联赛 第41赛季: BIG.A vs MASONIC
@@ -431,5 +420,16 @@ DESCRIPTION:比赛ID: csgo_mc_2388540\n赛事: DreamHack 斯德哥尔摩
  lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388540
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第二阶段: TBD vs TBD
+DTSTART:20251129T170000Z
+DTEND:20251129T180000Z
+UID:csgo_mc_2388066@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388066\n赛事: 布达佩斯Major 第二阶
+ 段\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: 
+ S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388066
 END:VEVENT
 END:VCALENDAR
