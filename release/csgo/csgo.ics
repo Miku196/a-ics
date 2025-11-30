@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:ANZC Locals 布里斯班 2025: TBD vs TBD
+SUMMARY:ANZC Locals 布里斯班 2025: Mindfreak vs TBD
 DTSTART:20251130T043000Z
 DTEND:20251130T070000Z
 UID:csgo_mc_2388560@5eplay.com
@@ -440,5 +440,16 @@ DESCRIPTION:比赛ID: csgo_mc_2388082\n赛事: 布达佩斯Major 第二阶
  S级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388082
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第二阶段: TBD vs TBD
+DTSTART:20251201T140000Z
+DTEND:20251201T163000Z
+UID:csgo_mc_2388083@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388083\n赛事: 布达佩斯Major 第二阶
+ 段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
+ S级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388083
 END:VEVENT
 END:VCALENDAR
