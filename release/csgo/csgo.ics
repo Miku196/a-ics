@@ -3,37 +3,15 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:META 杯 第2赛季: Yoru vs Omega
-DTSTART:20251130T070000Z
-DTEND:20251130T093000Z
-UID:csgo_mc_2388366@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388366\n赛事: META 杯 第2赛季\n阶段
- : 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其他\
- n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388366
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANZC Locals 布里斯班 2025: Rooster vs TBD
-DTSTART:20251130T073000Z
-DTEND:20251130T100000Z
+SUMMARY:ANZC Locals 布里斯班 2025: Rooster vs Mindfreak
+DTSTART:20251130T081500Z
+DTEND:20251130T104500Z
 UID:csgo_mc_2388561@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388561\n赛事: ANZC Locals 布里斯班 20
  25\n阶段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\n等级: 
  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388561
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2 印度大师赛 28: TBD vs TBD
-DTSTART:20251130T080000Z
-DTEND:20251130T103000Z
-UID:csgo_mc_2388549@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388549\n赛事: Dust2 印度大师赛 28\n
- 阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状
- 态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388549
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: Monte vs OG
@@ -429,5 +407,39 @@ DESCRIPTION:比赛ID: csgo_mc_2388406\n赛事: CCT 第3赛季 欧洲系列
   5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388406
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: NODWIN Clutch 系列 第3赛季: Nuclear TigeRES vs Fire Flux
+DTSTART:20251201T150000Z
+DTEND:20251201T173000Z
+UID:csgo_mc_2388464@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388464\n赛事:  NODWIN Clutch 系列 第3
+ 赛季\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第二阶段: TBD vs TBD
+DTSTART:20251201T163000Z
+DTEND:20251201T190000Z
+UID:csgo_mc_2388084@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388084\n赛事: 布达佩斯Major 第二阶
+ 段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
+ S级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388084
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第二阶段: TBD vs TBD
+DTSTART:20251201T163000Z
+DTEND:20251201T190000Z
+UID:csgo_mc_2388085@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388085\n赛事: 布达佩斯Major 第二阶
+ 段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
+ S级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388085
 END:VEVENT
 END:VCALENDAR
