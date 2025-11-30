@@ -3,21 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:DreamHack 斯德哥尔摩 锦标赛 2025: FUT vs TBD
-DTSTART:20251130T130000Z
-DTEND:20251130T153000Z
-UID:csgo_mc_2388546@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388546\n赛事: DreamHack 斯德哥尔摩 
- 锦标赛 2025\n阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO
- 3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来
- 源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388546
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:META 杯 第2赛季: HOTU vs TBD
-DTSTART:20251130T130000Z
-DTEND:20251130T153000Z
+SUMMARY:META 杯 第2赛季: HOTU vs AI
+DTSTART:20251130T141500Z
+DTEND:20251130T164500Z
 UID:csgo_mc_2388368@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388368\n赛事: META 杯 第2赛季\n阶段
  : 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO3\n等级: 其他\n
@@ -26,26 +14,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388368
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第二阶段: Passion UA vs  3DMAX
-DTSTART:20251130T140000Z
-DTEND:20251130T150000Z
-UID:csgo_mc_2388074@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388074\n赛事: 布达佩斯Major 第二阶
- 段\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO1\n等级: 
- S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+SUMMARY:ESL Impact 联赛 第8赛季 决赛: MIBR.fe vs BIG.E
+DTSTART:20251130T141500Z
+DTEND:20251130T164500Z
+UID:csgo_mc_2388237@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388237\n赛事: ESL Impact 联赛 第8赛
+ 季 决赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级:
+  B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388074
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第二阶段: M80 vs TYLOO
-DTSTART:20251130T140000Z
-DTEND:20251130T150000Z
-UID:csgo_mc_2388075@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388075\n赛事: 布达佩斯Major 第二阶
- 段\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO1\n等级: 
- S级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388075
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388237
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛 3: kONO vs FORZE Reload
@@ -92,17 +69,6 @@ DESCRIPTION:比赛ID: csgo_mc_2388402\n赛事: CCT 第3赛季 欧洲系列
  据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388402
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESL Impact 联赛 第8赛季 决赛: MIBR.fe vs TBD
-DTSTART:20251130T153500Z
-DTEND:20251130T180500Z
-UID:csgo_mc_2388237@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388237\n赛事: ESL Impact 联赛 第8赛
- 季 决赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级:
-  B级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388237
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:布达佩斯Major 第二阶段: FaZe vs NIP
@@ -391,5 +357,51 @@ DESCRIPTION:比赛ID: csgo_mc_2388466\n赛事:  NODWIN Clutch 系列 第3
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388466
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛 3: TBD vs TBD
+DTSTART:20251202T113000Z
+DTEND:20251202T140000Z
+UID:csgo_mc_2388302@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388302\n赛事: 欧洲职业联赛 系列
+ 赛 3\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
+ : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+DTSTART:20251202T120000Z
+DTEND:20251202T143000Z
+UID:csgo_mc_2388409@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388409\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: NODWIN Clutch 系列 第3赛季: BASEMENT BOYS vs Novaq
+DTSTART:20251202T120000Z
+DTEND:20251202T143000Z
+UID:csgo_mc_2388467@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388467\n赛事:  NODWIN Clutch 系列 第3
+ 赛季\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388467
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:布达佩斯Major 第二阶段: TBD vs TBD
+DTSTART:20251202T140000Z
+DTEND:20251202T163000Z
+UID:csgo_mc_2388088@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388088\n赛事: 布达佩斯Major 第二阶
+ 段\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: 
+ S级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388088
 END:VEVENT
 END:VCALENDAR
