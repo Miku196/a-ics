@@ -3,15 +3,37 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第二阶段: B8 vs  3DMAX
-DTSTART:20251201T201500Z
-DTEND:20251201T224500Z
-UID:csgo_mc_2388086@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388086\n赛事: 布达佩斯Major 第二阶
- 段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
- S级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+SUMMARY:Dust2.us 猎鹰大师赛 S5: Voca vs Straight2Killin
+DTSTART:20251202T010000Z
+DTEND:20251202T033000Z
+UID:csgo_mc_2388563@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388563\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388086
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S5: BOSS vs ex-Kiri
+DTSTART:20251202T010000Z
+DTEND:20251202T033000Z
+UID:csgo_mc_2388564@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388564\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388564
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S5: SkinRave vs Akimbo
+DTSTART:20251202T010000Z
+DTEND:20251202T033000Z
+UID:csgo_mc_2388562@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388562\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388562
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:United21 联赛 第41赛季: Y.NIP vs MANA
@@ -25,7 +47,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388383
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: 500 vs Sangal
 DTSTART:20251202T090000Z
 DTEND:20251202T113000Z
 UID:csgo_mc_2388408@5eplay.com
@@ -60,7 +82,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388302
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: Nemiga vs Oramond
 DTSTART:20251202T120000Z
 DTEND:20251202T143000Z
 UID:csgo_mc_2388409@5eplay.com
@@ -95,7 +117,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388088
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: Johnny Speeds vs SPARTA
 DTSTART:20251202T150000Z
 DTEND:20251202T173000Z
 UID:csgo_mc_2388410@5eplay.com
@@ -118,7 +140,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388089
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: Partizan vs BASEMENT BOYS
 DTSTART:20251202T180000Z
 DTEND:20251202T203000Z
 UID:csgo_mc_2388411@5eplay.com
@@ -153,6 +175,61 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388090
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S5: regain vs Wanted Goons
+DTSTART:20251203T010000Z
+DTEND:20251203T033000Z
+UID:csgo_mc_2388566@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388566\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S5: LAG vs Outfit 49
+DTSTART:20251203T010000Z
+DTEND:20251203T033000Z
+UID:csgo_mc_2388565@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388565\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388565
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S5: InControl vs Lotus
+DTSTART:20251203T010000Z
+DTEND:20251203T033000Z
+UID:csgo_mc_2388567@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388567\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388567
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S5: TBD vs TBD
+DTSTART:20251203T010000Z
+DTEND:20251203T033000Z
+UID:csgo_mc_2388569@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388569\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388569
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S5: TBD vs TBD
+DTSTART:20251203T020000Z
+DTEND:20251203T043000Z
+UID:csgo_mc_2388568@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388568\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388568
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛 3: Partizan vs FORZE Reload
 DTSTART:20251203T090000Z
 DTEND:20251203T113000Z
@@ -164,7 +241,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: CYBERSHOKE vs Nexus
 DTSTART:20251203T090000Z
 DTEND:20251203T113000Z
 UID:csgo_mc_2388412@5eplay.com
@@ -199,7 +276,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388304
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: Alliance vs RUBY
 DTSTART:20251203T120000Z
 DTEND:20251203T143000Z
 UID:csgo_mc_2388413@5eplay.com
@@ -234,7 +311,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388516
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: Betera vs ECLOT
 DTSTART:20251203T150000Z
 DTEND:20251203T173000Z
 UID:csgo_mc_2388414@5eplay.com
@@ -269,7 +346,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388517
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: Sashi vs FORZE Reload
 DTSTART:20251203T180000Z
 DTEND:20251203T203000Z
 UID:csgo_mc_2388415@5eplay.com
@@ -359,85 +436,5 @@ DESCRIPTION:比赛ID: csgo_mc_2388092\n赛事: StarLadder布达佩斯Major
  级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388092
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
-DTSTART:20251204T120000Z
-DTEND:20251204T143000Z
-UID:csgo_mc_2388417@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388417\n赛事: CCT 第3赛季 欧洲系列
- 赛 12\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388417
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: NODWIN Clutch 系列 第3赛季: TBD vs TBD
-DTSTART:20251204T120000Z
-DTEND:20251204T143000Z
-UID:csgo_mc_2388475@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388475\n赛事:  NODWIN Clutch 系列 第3
- 赛季\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388475
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
-DTSTART:20251204T130000Z
-DTEND:20251204T140000Z
-UID:csgo_mc_2388093@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388093\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: S
- 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388093
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
-DTSTART:20251204T130000Z
-DTEND:20251204T140000Z
-UID:csgo_mc_2388094@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388094\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: S
- 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388094
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
-DTSTART:20251204T140000Z
-DTEND:20251204T150000Z
-UID:csgo_mc_2388095@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388095\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: S
- 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388095
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
-DTSTART:20251204T140000Z
-DTEND:20251204T150000Z
-UID:csgo_mc_2388096@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388096\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: S
- 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388096
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Svenska Elitserien 秋季赛 2025 决赛: Kappa Bar vs Megoshort
-DTSTART:20251204T140000Z
-DTEND:20251204T163000Z
-UID:csgo_mc_2388456@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388456\n赛事: Svenska Elitserien 秋季
- 赛 2025 决赛\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388456
 END:VEVENT
 END:VCALENDAR
