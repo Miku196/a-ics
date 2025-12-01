@@ -4,36 +4,14 @@ PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
 SUMMARY:布达佩斯Major 第二阶段: B8 vs  3DMAX
-DTSTART:20251201T190000Z
-DTEND:20251201T213000Z
+DTSTART:20251201T201500Z
+DTEND:20251201T224500Z
 UID:csgo_mc_2388086@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388086\n赛事: 布达佩斯Major 第二阶
  段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
  S级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388086
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:布达佩斯Major 第二阶段: Liquid vs TYLOO
-DTSTART:20251201T190000Z
-DTEND:20251201T213000Z
-UID:csgo_mc_2388087@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388087\n赛事: 布达佩斯Major 第二阶
- 段\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: 
- S级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388087
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛 3: BC.Game vs MOUZ.N
-DTSTART:20251202T090000Z
-DTEND:20251202T113000Z
-UID:csgo_mc_2388301@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388301\n赛事: 欧洲职业联赛 系列
- 赛 3\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
- : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388301
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:United21 联赛 第41赛季: Y.NIP vs MANA
@@ -416,5 +394,50 @@ DESCRIPTION:比赛ID: csgo_mc_2388093\n赛事: StarLadder布达佩斯Major
  级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388093
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+DTSTART:20251204T130000Z
+DTEND:20251204T140000Z
+UID:csgo_mc_2388094@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388094\n赛事: StarLadder布达佩斯Major
+ \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: S
+ 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388094
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+DTSTART:20251204T140000Z
+DTEND:20251204T150000Z
+UID:csgo_mc_2388095@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388095\n赛事: StarLadder布达佩斯Major
+ \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: S
+ 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388095
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+DTSTART:20251204T140000Z
+DTEND:20251204T150000Z
+UID:csgo_mc_2388096@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388096\n赛事: StarLadder布达佩斯Major
+ \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: S
+ 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388096
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svenska Elitserien 秋季赛 2025 决赛: Kappa Bar vs Megoshort
+DTSTART:20251204T140000Z
+DTEND:20251204T163000Z
+UID:csgo_mc_2388456@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388456\n赛事: Svenska Elitserien 秋季
+ 赛 2025 决赛\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388456
 END:VEVENT
 END:VCALENDAR
