@@ -3,39 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: Voca vs Straight2Killin
-DTSTART:20251202T010000Z
-DTEND:20251202T033000Z
-UID:csgo_mc_2388563@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388563\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388563
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: BOSS vs ex-Kiri
-DTSTART:20251202T010000Z
-DTEND:20251202T033000Z
-UID:csgo_mc_2388564@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388564\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388564
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: SkinRave vs Akimbo
-DTSTART:20251202T010000Z
-DTEND:20251202T033000Z
-UID:csgo_mc_2388562@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388562\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388562
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:United21 联赛 第41赛季: Y.NIP vs MANA
 DTSTART:20251202T090000Z
 DTEND:20251202T113000Z
@@ -460,5 +427,27 @@ DESCRIPTION:比赛ID: csgo_mc_2388475\n赛事:  NODWIN Clutch 系列 第3
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388475
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+DTSTART:20251204T130000Z
+DTEND:20251204T140000Z
+UID:csgo_mc_2388093@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388093\n赛事: StarLadder布达佩斯Major
+ \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: S
+ 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388093
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+DTSTART:20251204T130000Z
+DTEND:20251204T140000Z
+UID:csgo_mc_2388094@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388094\n赛事: StarLadder布达佩斯Major
+ \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: S
+ 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388094
 END:VEVENT
 END:VCALENDAR
