@@ -117,6 +117,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388471
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛 3: 500 vs SPARTA
+DTSTART:20251203T143000Z
+DTEND:20251203T170000Z
+UID:csgo_mc_2388306@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388306\n赛事: 欧洲职业联赛 系列
+ 赛 3\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
+ : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388306
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:幽灵 TESFED联赛第二季: GANK vs PCIFIC
 DTSTART:20251203T150000Z
 DTEND:20251203T173000Z
@@ -244,18 +255,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388474
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛 3: 500 vs SPARTA
-DTSTART:20251204T113000Z
-DTEND:20251204T140000Z
-UID:csgo_mc_2388306@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388306\n赛事: 欧洲职业联赛 系列
- 赛 3\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
- : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388306
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+SUMMARY:StarLadder布达佩斯Major: MOUZ vs PARIVISION
 DTSTART:20251204T120000Z
 DTEND:20251204T130000Z
 UID:csgo_mc_2388091@5eplay.com
@@ -266,7 +266,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388091
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+SUMMARY:StarLadder布达佩斯Major: Imperial vs Mongolz
 DTSTART:20251204T120000Z
 DTEND:20251204T130000Z
 UID:csgo_mc_2388092@5eplay.com
@@ -301,7 +301,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388475
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+SUMMARY:StarLadder布达佩斯Major: Spirit vs Liquid
 DTSTART:20251204T130000Z
 DTEND:20251204T140000Z
 UID:csgo_mc_2388093@5eplay.com
@@ -312,7 +312,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388093
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+SUMMARY:StarLadder布达佩斯Major: Passion UA vs G2
 DTSTART:20251204T130000Z
 DTEND:20251204T140000Z
 UID:csgo_mc_2388094@5eplay.com
@@ -323,7 +323,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388094
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+SUMMARY:StarLadder布达佩斯Major: Vitality vs FaZe
 DTSTART:20251204T140000Z
 DTEND:20251204T150000Z
 UID:csgo_mc_2388095@5eplay.com
@@ -334,7 +334,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388095
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+SUMMARY:StarLadder布达佩斯Major: paiN vs  3DMAX
 DTSTART:20251204T140000Z
 DTEND:20251204T150000Z
 UID:csgo_mc_2388096@5eplay.com
@@ -357,7 +357,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388456
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+SUMMARY:StarLadder布达佩斯Major: B8 vs Falcons
 DTSTART:20251204T150000Z
 DTEND:20251204T160000Z
 UID:csgo_mc_2388098@5eplay.com
@@ -368,7 +368,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388098
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+SUMMARY:StarLadder布达佩斯Major: FURIA vs NAVI
 DTSTART:20251204T150000Z
 DTEND:20251204T160000Z
 UID:csgo_mc_2388097@5eplay.com
@@ -445,5 +445,18 @@ DESCRIPTION:比赛ID: csgo_mc_2388419\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388419
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svenska Elitserien 秋季赛 2025 决赛: Souls Heart vs privatesh
+ ow
+DTSTART:20251204T180000Z
+DTEND:20251204T203000Z
+UID:csgo_mc_2388457@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388457\n赛事: Svenska Elitserien 秋季
+ 赛 2025 决赛\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388457
 END:VEVENT
 END:VCALENDAR
