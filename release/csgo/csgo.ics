@@ -423,4 +423,26 @@ DESCRIPTION:比赛ID: csgo_mc_2388420\n赛事: CCT 第3赛季 欧洲系列
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388420
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛 3: Sangal vs Oramond
+DTSTART:20251205T113000Z
+DTEND:20251205T140000Z
+UID:csgo_mc_2388308@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388308\n赛事: 欧洲职业联赛 系列
+ 赛 3\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
+ : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388308
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: FUT vs CPH Wolves
+DTSTART:20251205T120000Z
+DTEND:20251205T143000Z
+UID:csgo_mc_2387474@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387474\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387474
+END:VEVENT
 END:VCALENDAR
