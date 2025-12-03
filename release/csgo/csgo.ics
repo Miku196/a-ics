@@ -3,20 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:幽灵 TESFED联赛第二季: FUT TR vs EF
-DTSTART:20251203T170000Z
-DTEND:20251203T193000Z
-UID:csgo_mc_2388517@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388517\n赛事: 幽灵 TESFED联赛第二
- 季\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- \n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388517
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CCT 第3赛季 欧洲系列赛 12: Sashi vs FORZE Reload
-DTSTART:20251203T180000Z
-DTEND:20251203T203000Z
+DTSTART:20251203T183000Z
+DTEND:20251203T210000Z
 UID:csgo_mc_2388415@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388415\n赛事: CCT 第3赛季 欧洲系列
  赛 12\n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO3\n等
@@ -27,8 +16,8 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2388415
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: NODWIN Clutch 系列 第3赛季: RUBY vs CPH Wolves
-DTSTART:20251203T180000Z
-DTEND:20251203T203000Z
+DTSTART:20251203T183000Z
+DTEND:20251203T210000Z
 UID:csgo_mc_2388473@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388473\n赛事:  NODWIN Clutch 系列 第3
  赛季\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
@@ -410,5 +399,28 @@ DESCRIPTION:比赛ID: csgo_mc_2388421\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388421
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svenska Elitserien 秋季赛 2025 决赛: TBD vs TBD
+DTSTART:20251205T130000Z
+DTEND:20251205T153000Z
+UID:csgo_mc_2388459@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388459\n赛事: Svenska Elitserien 秋季
+ 赛 2025 决赛\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388459
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+DTSTART:20251205T140000Z
+DTEND:20251205T150000Z
+UID:csgo_mc_2388108@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388108\n赛事: StarLadder布达佩斯Major
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO1\n等级: S
+ 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388108
 END:VEVENT
 END:VCALENDAR
