@@ -25,7 +25,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388305
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: Nemiga vs RUBY
 DTSTART:20251204T090000Z
 DTEND:20251204T113000Z
 UID:csgo_mc_2388416@5eplay.com
@@ -59,7 +59,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388092
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: ECLOT vs Nexus
 DTSTART:20251204T120000Z
 DTEND:20251204T143000Z
 UID:csgo_mc_2388417@5eplay.com
@@ -161,7 +161,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388097
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: Johnny Speeds vs FORZE Reload
 DTSTART:20251204T150000Z
 DTEND:20251204T173000Z
 UID:csgo_mc_2388418@5eplay.com
@@ -229,7 +229,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388102
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: 500 vs BASEMENT BOYS
 DTSTART:20251204T180000Z
 DTEND:20251204T203000Z
 UID:csgo_mc_2388419@5eplay.com
@@ -320,7 +320,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387473
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: Sashi vs SPARTA
 DTSTART:20251205T090000Z
 DTEND:20251205T113000Z
 UID:csgo_mc_2388420@5eplay.com
@@ -354,7 +354,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387474
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: CYBERSHOKE vs Betera
 DTSTART:20251205T120000Z
 DTEND:20251205T143000Z
 UID:csgo_mc_2388421@5eplay.com
@@ -420,5 +420,39 @@ DESCRIPTION:比赛ID: csgo_mc_2388109\n赛事: StarLadder布达佩斯Major
  级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+DTSTART:20251205T150000Z
+DTEND:20251205T160000Z
+UID:csgo_mc_2388110@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388110\n赛事: StarLadder布达佩斯Major
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO1\n等级: S
+ 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: Alliance vs Sangal
+DTSTART:20251205T150000Z
+DTEND:20251205T173000Z
+UID:csgo_mc_2388422@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388422\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388422
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+DTSTART:20251205T160000Z
+DTEND:20251205T183000Z
+UID:csgo_mc_2388112@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388112\n赛事: StarLadder布达佩斯Major
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: S
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388112
 END:VEVENT
 END:VCALENDAR
