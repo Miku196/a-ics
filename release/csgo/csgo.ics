@@ -3,88 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: Passion UA vs Falcons
-DTSTART:20251204T183000Z
-DTEND:20251204T193000Z
-UID:csgo_mc_2388101@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388101\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: S
- 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388101
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: 500 vs BASEMENT BOYS
-DTSTART:20251204T183000Z
-DTEND:20251204T210000Z
-UID:csgo_mc_2388419@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388419\n赛事: CCT 第3赛季 欧洲系列
- 赛 12\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388419
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Svenska Elitserien 秋季赛 2025 决赛: Souls Heart vs privatesh
- ow
-DTSTART:20251204T183000Z
-DTEND:20251204T210000Z
-UID:csgo_mc_2388457@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388457\n赛事: Svenska Elitserien 秋季
- 赛 2025 决赛\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388457
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: FaZe vs Spirit
-DTSTART:20251204T185000Z
-DTEND:20251204T195000Z
-UID:csgo_mc_2388102@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388102\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: S
- 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Liga 玩家俱乐部 2025 系列赛A 十一月杯: Four Magic vs F
- OLHA AMARELA
-DTSTART:20251204T190000Z
-DTEND:20251204T213000Z
-UID:csgo_mc_2388592@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388592\n赛事: Liga 玩家俱乐部 2025 
- 系列赛A 十一月杯\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388592
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: MOUZ vs B8
-DTSTART:20251204T193000Z
-DTEND:20251204T203000Z
-UID:csgo_mc_2388103@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388103\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: S
- 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: Liquid vs Mongolz
-DTSTART:20251204T193000Z
-DTEND:20251204T203000Z
-UID:csgo_mc_2388104@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388104\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO1\n等级: S
- 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388104
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:StarLadder布达佩斯Major: FURIA vs Imperial
 DTSTART:20251204T203000Z
 DTEND:20251204T213000Z
@@ -431,5 +349,62 @@ DESCRIPTION:比赛ID: csgo_mc_2388591\n赛事: Dust2.us 猎鹰大师赛 S5
  n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388591
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛 3: MOUZ.N vs Betera
+DTSTART:20251206T090000Z
+DTEND:20251206T113000Z
+UID:csgo_mc_2388309@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388309\n赛事: 欧洲职业联赛 系列
+ 赛 3\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388309
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+DTSTART:20251206T090000Z
+DTEND:20251206T113000Z
+UID:csgo_mc_2388424@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388424\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388424
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: 9INE vs CYBERSHOKE
+DTSTART:20251206T090000Z
+DTEND:20251206T113000Z
+UID:csgo_mc_2387477@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387477\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387477
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SHAIQAS 第一赛季: GUN5 vs WW
+DTSTART:20251206T100000Z
+DTEND:20251206T123000Z
+UID:csgo_mc_2388510@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388510\n赛事: SHAIQAS 第一赛季\n阶
+ 段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svenska Elitserien 秋季赛 2025 决赛: TBD vs TBD
+DTSTART:20251206T110000Z
+DTEND:20251206T133000Z
+UID:csgo_mc_2388460@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388460\n赛事: Svenska Elitserien 秋季
+ 赛 2025 决赛\n阶段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛
+ 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
+ 据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388460
 END:VEVENT
 END:VCALENDAR
