@@ -3,31 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: Spirit vs Liquid
-DTSTART:20251204T130000Z
-DTEND:20251204T140000Z
-UID:csgo_mc_2388093@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388093\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: S
- 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388093
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: Passion UA vs G2
-DTSTART:20251204T130000Z
-DTEND:20251204T140000Z
-UID:csgo_mc_2388094@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388094\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: S
- 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388094
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:StarLadder布达佩斯Major: Vitality vs FaZe
-DTSTART:20251204T140000Z
-DTEND:20251204T150000Z
+DTSTART:20251204T143000Z
+DTEND:20251204T153000Z
 UID:csgo_mc_2388095@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388095\n赛事: StarLadder布达佩斯Major
  \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: S
@@ -37,26 +15,14 @@ URL:https://event.5eplay.com/csgo/session/csgo_mc_2388095
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:StarLadder布达佩斯Major: paiN vs  3DMAX
-DTSTART:20251204T140000Z
-DTEND:20251204T150000Z
+DTSTART:20251204T143000Z
+DTEND:20251204T153000Z
 UID:csgo_mc_2388096@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388096\n赛事: StarLadder布达佩斯Major
  \n阶段: 小组赛 第一轮\n轮次: 第一轮\n赛制: BO1\n等级: S
  级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388096
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Svenska Elitserien 秋季赛 2025 决赛: Kappa Bar vs Megoshort
-DTSTART:20251204T140000Z
-DTEND:20251204T163000Z
-UID:csgo_mc_2388456@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388456\n赛事: Svenska Elitserien 秋季
- 赛 2025 决赛\n阶段: 淘汰赛 胜者组 首轮\n轮次: 首轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388456
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:StarLadder布达佩斯Major: B8 vs Falcons
@@ -407,5 +373,39 @@ DESCRIPTION:比赛ID: csgo_mc_2388112\n赛事: StarLadder布达佩斯Major
  级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+DTSTART:20251205T160000Z
+DTEND:20251205T183000Z
+UID:csgo_mc_2388111@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388111\n赛事: StarLadder布达佩斯Major
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: S
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388111
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: SAW vs Novaq
+DTSTART:20251205T180000Z
+DTEND:20251205T203000Z
+UID:csgo_mc_2387476@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387476\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387476
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: Partizan vs Oramond
+DTSTART:20251205T180000Z
+DTEND:20251205T203000Z
+UID:csgo_mc_2388423@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388423\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388423
 END:VEVENT
 END:VCALENDAR
