@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛 3: Sangal vs Oramond
-DTSTART:20251205T113000Z
-DTEND:20251205T140000Z
-UID:csgo_mc_2388308@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388308\n赛事: 欧洲职业联赛 系列
- 赛 3\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级
- : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: FUT vs CPH Wolves
-DTSTART:20251205T120000Z
-DTEND:20251205T143000Z
-UID:csgo_mc_2387474@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387474\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387474
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: CYBERSHOKE vs Betera
-DTSTART:20251205T120000Z
-DTEND:20251205T143000Z
-UID:csgo_mc_2388421@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388421\n赛事: CCT 第3赛季 欧洲系列
- 赛 12\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388421
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Svenska Elitserien 秋季赛 2025 决赛: Kappa Bar vs privateshow
 DTSTART:20251205T130000Z
 DTEND:20251205T153000Z
@@ -259,8 +225,9 @@ DTSTART:20251206T043000Z
 DTEND:20251206T070000Z
 UID:csgo_mc_2388599@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388599\n赛事: DFRAG 公开 系列赛 第2
- 季\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小
- 时\n数据来源: 5EPlay
+ 季\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388599
 END:VEVENT
@@ -270,8 +237,9 @@ DTSTART:20251206T043000Z
 DTEND:20251206T070000Z
 UID:csgo_mc_2388600@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388600\n赛事: DFRAG 公开 系列赛 第2
- 季\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小
- 时\n数据来源: 5EPlay
+ 季\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388600
 END:VEVENT
@@ -281,8 +249,9 @@ DTSTART:20251206T070000Z
 DTEND:20251206T093000Z
 UID:csgo_mc_2388601@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388601\n赛事: DFRAG 公开 系列赛 第2
- 季\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小
- 时\n数据来源: 5EPlay
+ 季\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等
+ 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
+ lay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388601
 END:VEVENT
@@ -420,5 +389,39 @@ DESCRIPTION:比赛ID: csgo_mc_2388115\n赛事: StarLadder布达佩斯Major
  级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388115
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+DTSTART:20251206T140000Z
+DTEND:20251206T163000Z
+UID:csgo_mc_2388116@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388116\n赛事: StarLadder布达佩斯Major
+ \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: S
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+DTSTART:20251206T150000Z
+DTEND:20251206T173000Z
+UID:csgo_mc_2388426@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388426\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388426
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: ECSTATIC vs 500
+DTSTART:20251206T150000Z
+DTEND:20251206T173000Z
+UID:csgo_mc_2387479@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387479\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387479
 END:VEVENT
 END:VCALENDAR
