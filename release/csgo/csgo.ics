@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Liga 玩家俱乐部 2025 系列赛A 十一月杯: LP vs Crashers
-DTSTART:20251204T223000Z
-DTEND:20251205T010000Z
-UID:csgo_mc_2388593@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388593\n赛事: Liga 玩家俱乐部 2025 
- 系列赛A 十一月杯\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n
- 赛制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n
- 数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388593
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S5: Voca vs Akimbo
 DTSTART:20251205T010000Z
 DTEND:20251205T033000Z
@@ -318,6 +306,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388114
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Liga 玩家俱乐部 2025 系列赛A 十一月杯: FOLHA AMARELA v
+ s LP
+DTSTART:20251205T190000Z
+DTEND:20251205T213000Z
+UID:csgo_mc_2388598@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388598\n赛事: Liga 玩家俱乐部 2025 
+ 系列赛A 十一月杯\n赛制: BO3\n等级: 其他\n状态: 未开始\n
+ 预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388598
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S5: Phoenix vs InControl
 DTSTART:20251206T010000Z
 DTEND:20251206T033000Z
@@ -327,6 +327,28 @@ DESCRIPTION:比赛ID: csgo_mc_2388587\n赛事: Dust2.us 猎鹰大师赛 S5
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388587
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRAG Open Series 2: Underground vs THUNDER dOWNUNDER
+DTSTART:20251206T010000Z
+DTEND:20251206T033000Z
+UID:csgo_mc_2388595@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388595\n赛事: DFRAG Open Series 2\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388595
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRAG Open Series 2: Mindfreak vs LITE
+DTSTART:20251206T010000Z
+DTEND:20251206T033000Z
+UID:csgo_mc_2388594@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388594\n赛事: DFRAG Open Series 2\n赛制
+ : BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据
+ 来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388594
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛 3: MOUZ.N vs Betera
@@ -429,16 +451,5 @@ DESCRIPTION:比赛ID: csgo_mc_2388511\n赛事: SHAIQAS 第一赛季\n阶
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388511
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A1 Adria 联赛 第15赛季: Diamant vs Toronto
-DTSTART:20251206T130000Z
-DTEND:20251206T153000Z
-UID:csgo_mc_2388577@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388577\n赛事: A1 Adria 联赛 第15赛季
- \n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级:
-  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388577
 END:VEVENT
 END:VCALENDAR
