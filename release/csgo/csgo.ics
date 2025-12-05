@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Svenska Elitserien 秋季赛 2025 决赛: Kappa Bar vs privateshow
-DTSTART:20251205T130000Z
-DTEND:20251205T153000Z
-UID:csgo_mc_2388459@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388459\n赛事: Svenska Elitserien 秋季
- 赛 2025 决赛\n阶段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛
- 制: BO3\n等级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数
- 据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388459
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: B8 vs Vitality
-DTSTART:20251205T140000Z
-DTEND:20251205T150000Z
-UID:csgo_mc_2388108@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388108\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO1\n等级: S
- 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388108
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: FaZe vs Mongolz
-DTSTART:20251205T140000Z
-DTEND:20251205T150000Z
-UID:csgo_mc_2388107@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388107\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO1\n等级: S
- 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388107
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:银河之战 2025 第5阶段: Venom vs Oramond
 DTSTART:20251205T150000Z
 DTEND:20251205T173000Z
@@ -423,5 +389,27 @@ DESCRIPTION:比赛ID: csgo_mc_2387479\n赛事: 银河之战 2025 第5阶
  C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387479
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SHAIQAS 第一赛季: TBD vs TBD
+DTSTART:20251206T160000Z
+DTEND:20251206T183000Z
+UID:csgo_mc_2388512@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388512\n赛事: SHAIQAS 第一赛季\n阶
+ 段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388512
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Svenska Elitserien 秋季赛 2025 决赛: TBD vs TBD
+DTSTART:20251206T160000Z
+DTEND:20251206T200000Z
+UID:csgo_mc_2388461@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388461\n赛事: Svenska Elitserien 秋季
+ 赛 2025 决赛\n阶段: 淘汰赛\n赛制: BO5\n等级: 其他\n状态: 
+ 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388461
 END:VEVENT
 END:VCALENDAR
