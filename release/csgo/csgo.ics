@@ -445,4 +445,15 @@ DESCRIPTION:比赛ID: csgo_mc_2388426\n赛事: CCT 第3赛季 欧洲系列
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388426
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: ECSTATIC vs 500
+DTSTART:20251206T150000Z
+DTEND:20251206T173000Z
+UID:csgo_mc_2387479@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387479\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387479
+END:VEVENT
 END:VCALENDAR
