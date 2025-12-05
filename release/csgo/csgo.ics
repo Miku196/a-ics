@@ -3,65 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: Venom vs Oramond
-DTSTART:20251205T150000Z
-DTEND:20251205T173000Z
-UID:csgo_mc_2387475@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387475\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387475
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: paiN vs NAVI
-DTSTART:20251205T150000Z
-DTEND:20251205T160000Z
-UID:csgo_mc_2388109@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388109\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO1\n等级: S
- 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: Imperial vs Falcons
-DTSTART:20251205T150000Z
-DTEND:20251205T160000Z
-UID:csgo_mc_2388110@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388110\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO1\n等级: S
- 级\n状态: 未开始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388110
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: Alliance vs Sangal
-DTSTART:20251205T150000Z
-DTEND:20251205T173000Z
-UID:csgo_mc_2388422@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388422\n赛事: CCT 第3赛季 欧洲系列
- 赛 12\n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388422
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: Passion UA vs Liquid
-DTSTART:20251205T160000Z
-DTEND:20251205T183000Z
-UID:csgo_mc_2388112@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388112\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: S
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388112
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:StarLadder布达佩斯Major: MOUZ vs Spirit
-DTSTART:20251205T160000Z
-DTEND:20251205T183000Z
+DTSTART:20251205T161500Z
+DTEND:20251205T184500Z
 UID:csgo_mc_2388111@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388111\n赛事: StarLadder布达佩斯Major
  \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: S
@@ -267,7 +211,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388510
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Svenska Elitserien 秋季赛 2025 决赛: TBD vs TBD
+SUMMARY:Svenska Elitserien 秋季赛 2025 决赛: Kappa Bar vs TBD
 DTSTART:20251206T110000Z
 DTEND:20251206T133000Z
 UID:csgo_mc_2388460@5eplay.com
@@ -411,5 +355,72 @@ DESCRIPTION:比赛ID: csgo_mc_2388461\n赛事: Svenska Elitserien 秋季
  未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388461
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+DTSTART:20251206T163000Z
+DTEND:20251206T190000Z
+UID:csgo_mc_2388117@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388117\n赛事: StarLadder布达佩斯Major
+ \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: S
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388117
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+DTSTART:20251206T163000Z
+DTEND:20251206T190000Z
+UID:csgo_mc_2388118@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388118\n赛事: StarLadder布达佩斯Major
+ \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: S
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+DTSTART:20251206T180000Z
+DTEND:20251206T203000Z
+UID:csgo_mc_2388427@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388427\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388427
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: Nemiga vs SPARTA
+DTSTART:20251206T180000Z
+DTEND:20251206T203000Z
+UID:csgo_mc_2387480@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387480\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387480
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 Adria 联赛 第15赛季: PSYCHOACTIVE vs MANA
+DTSTART:20251206T183000Z
+DTEND:20251206T210000Z
+UID:csgo_mc_2388578@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388578\n赛事: A1 Adria 联赛 第15赛季
+ \n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级:
+  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388578
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+DTSTART:20251206T190000Z
+DTEND:20251206T213000Z
+UID:csgo_mc_2388119@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388119\n赛事: StarLadder布达佩斯Major
+ \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: S
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388119
 END:VEVENT
 END:VCALENDAR
