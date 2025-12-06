@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第2季: THUNDER dOWNUNDER vs Mindfreak
-DTSTART:20251206T043000Z
-DTEND:20251206T070000Z
-UID:csgo_mc_2388599@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388599\n赛事: DFRAG 公开 系列赛 第2
- 季\n阶段: 小组赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388599
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第2季: Underground vs LITE
-DTSTART:20251206T043000Z
-DTEND:20251206T070000Z
-UID:csgo_mc_2388600@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388600\n赛事: DFRAG 公开 系列赛 第2
- 季\n阶段: 小组赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388600
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DFRAG 公开 系列赛 第2季: TBD vs TBD
 DTSTART:20251206T070000Z
 DTEND:20251206T093000Z
@@ -332,6 +308,50 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388597
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S5: SkinRave vs Outfit 49
+DTSTART:20251207T010000Z
+DTEND:20251207T033000Z
+UID:csgo_mc_2388614@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388614\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388614
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S5: regain vs Ghost
+DTSTART:20251207T010000Z
+DTEND:20251207T033000Z
+UID:csgo_mc_2388613@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388613\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388613
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S5: Aether vs LAG
+DTSTART:20251207T010000Z
+DTEND:20251207T033000Z
+UID:csgo_mc_2388615@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388615\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388615
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S5: Voca vs InControl
+DTSTART:20251207T010000Z
+DTEND:20251207T033000Z
+UID:csgo_mc_2388611@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388611\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388611
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DFRAG 公开 系列赛 第2季: TBD vs TBD
 DTSTART:20251207T043000Z
 DTEND:20251207T070000Z
@@ -423,27 +443,5 @@ DESCRIPTION:比赛ID: csgo_mc_2387481\n赛事: 银河之战 2025 第5阶
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387481
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SHAIQAS 第一赛季: TBD vs TBD
-DTSTART:20251207T110000Z
-DTEND:20251207T133000Z
-UID:csgo_mc_2388514@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388514\n赛事: SHAIQAS 第一赛季\n阶
- 段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388514
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛 3: EYE vs Sangal
-DTSTART:20251207T113000Z
-DTEND:20251207T140000Z
-UID:csgo_mc_2388312@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388312\n赛事: 欧洲职业联赛 系列
- 赛 3\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388312
 END:VEVENT
 END:VCALENDAR
