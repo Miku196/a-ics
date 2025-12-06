@@ -3,95 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: ECSTATIC vs 500
-DTSTART:20251206T161500Z
-DTEND:20251206T184500Z
-UID:csgo_mc_2387479@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387479\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387479
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:数码战士杯秋季杯 2025 决赛: mXm vs TBD
-DTSTART:20251206T163000Z
-DTEND:20251206T190000Z
-UID:csgo_mc_2388621@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388621\n赛事: 数码战士杯秋季杯 20
- 25 决赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388621
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:数码战士杯秋季杯 2025 决赛: WiLD vs TBD
-DTSTART:20251206T163000Z
-DTEND:20251206T173000Z
-UID:csgo_mc_2388622@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388622\n赛事: 数码战士杯秋季杯 20
- 25 决赛\n阶段: 淘汰赛\n赛制: BO1\n等级: 其他\n状态: 未开
- 始\n预估时长: 1.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388622
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: MOUZ vs Falcons
-DTSTART:20251206T163000Z
-DTEND:20251206T190000Z
-UID:csgo_mc_2388117@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388117\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: S
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388117
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: Passion UA vs Imperial
-DTSTART:20251206T163000Z
-DTEND:20251206T190000Z
-UID:csgo_mc_2388118@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388118\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: S
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SHAIQAS 第一赛季: WW vs TBD
-DTSTART:20251206T170000Z
-DTEND:20251206T193000Z
-UID:csgo_mc_2388512@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388512\n赛事: SHAIQAS 第一赛季\n阶
- 段: 淘汰赛 败者组 首轮\n轮次: 首轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388512
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: Partizan vs ECLOT
-DTSTART:20251206T180000Z
-DTEND:20251206T203000Z
-UID:csgo_mc_2388427@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388427\n赛事: CCT 第3赛季 欧洲系列
- 赛 12\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388427
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: Nemiga vs SPARTA
-DTSTART:20251206T180000Z
-DTEND:20251206T203000Z
-UID:csgo_mc_2387480@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387480\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387480
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A1 Adria 联赛 第15赛季: PSYCHOACTIVE vs MANA
 DTSTART:20251206T183000Z
 DTEND:20251206T210000Z
@@ -101,6 +12,17 @@ DESCRIPTION:比赛ID: csgo_mc_2388578\n赛事: A1 Adria 联赛 第15赛季
   其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388578
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: Nemiga vs SPARTA
+DTSTART:20251206T184500Z
+DTEND:20251206T211500Z
+UID:csgo_mc_2387480@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387480\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387480
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:StarLadder布达佩斯Major: G2 vs Mongolz
@@ -229,7 +151,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388604
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SHAIQAS 第一赛季: GUN5 vs TBD
+SUMMARY:SHAIQAS 第一赛季: GUN5 vs K27
 DTSTART:20251207T080000Z
 DTEND:20251207T103000Z
 UID:csgo_mc_2388513@5eplay.com
@@ -385,5 +307,73 @@ DESCRIPTION:比赛ID: csgo_mc_2388580\n赛事: A1 Adria 联赛 第15赛季
  其他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388580
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:kleverr Virsliga 第5赛季 决赛: TBD vs TBD
+DTSTART:20251207T150000Z
+DTEND:20251207T173000Z
+UID:csgo_mc_2388583@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388583\n赛事: kleverr Virsliga 第5赛季
+  决赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
+ 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388583
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: Alliance vs SPARTA
+DTSTART:20251207T150000Z
+DTEND:20251207T173000Z
+UID:csgo_mc_2388430@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388430\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388430
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+DTSTART:20251207T150000Z
+DTEND:20251207T173000Z
+UID:csgo_mc_2387483@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387483\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387483
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+DTSTART:20251207T163000Z
+DTEND:20251207T190000Z
+UID:csgo_mc_2388122@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388122\n赛事: StarLadder布达佩斯Major
+ \n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: S
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: CYBERSHOKE vs Oramond
+DTSTART:20251207T180000Z
+DTEND:20251207T203000Z
+UID:csgo_mc_2388431@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388431\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388431
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+DTSTART:20251207T180000Z
+DTEND:20251207T203000Z
+UID:csgo_mc_2387484@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387484\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387484
 END:VEVENT
 END:VCALENDAR
