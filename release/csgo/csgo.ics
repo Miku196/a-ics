@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第2季: THUNDER dOWNUNDER vs TBD
+SUMMARY:DFRAG 公开 系列赛 第2季: THUNDER dOWNUNDER vs Mindfreak
 DTSTART:20251206T043000Z
 DTEND:20251206T070000Z
 UID:csgo_mc_2388599@5eplay.com
@@ -15,7 +15,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388599
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第2季: Underground vs TBD
+SUMMARY:DFRAG 公开 系列赛 第2季: Underground vs LITE
 DTSTART:20251206T043000Z
 DTEND:20251206T070000Z
 UID:csgo_mc_2388600@5eplay.com
@@ -434,5 +434,16 @@ DESCRIPTION:比赛ID: csgo_mc_2388514\n赛事: SHAIQAS 第一赛季\n阶
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388514
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛 3: EYE vs Sangal
+DTSTART:20251207T113000Z
+DTEND:20251207T140000Z
+UID:csgo_mc_2388312@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388312\n赛事: 欧洲职业联赛 系列
+ 赛 3\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388312
 END:VEVENT
 END:VCALENDAR
