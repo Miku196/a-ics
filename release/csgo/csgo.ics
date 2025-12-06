@@ -27,50 +27,6 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388597
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: SkinRave vs Outfit 49
-DTSTART:20251207T010000Z
-DTEND:20251207T033000Z
-UID:csgo_mc_2388614@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388614\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388614
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: regain vs Ghost
-DTSTART:20251207T010000Z
-DTEND:20251207T033000Z
-UID:csgo_mc_2388613@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388613\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388613
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: Aether vs LAG
-DTSTART:20251207T010000Z
-DTEND:20251207T033000Z
-UID:csgo_mc_2388615@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388615\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388615
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: Voca vs InControl
-DTSTART:20251207T010000Z
-DTEND:20251207T033000Z
-UID:csgo_mc_2388611@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388611\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388611
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DFRAG 公开 系列赛 第2季: TBD vs TBD
 DTSTART:20251207T043000Z
 DTEND:20251207T070000Z
@@ -153,7 +109,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388428
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+SUMMARY:银河之战 2025 第5阶段: BB vs Oramond
 DTSTART:20251207T090000Z
 DTEND:20251207T113000Z
 UID:csgo_mc_2387481@5eplay.com
@@ -162,17 +118,6 @@ DESCRIPTION:比赛ID: csgo_mc_2387481\n赛事: 银河之战 2025 第5阶
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387481
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SHAIQAS 第一赛季: TBD vs TBD
-DTSTART:20251207T110000Z
-DTEND:20251207T133000Z
-UID:csgo_mc_2388514@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388514\n赛事: SHAIQAS 第一赛季\n阶
- 段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388514
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛 3: EYE vs Sangal
@@ -186,7 +131,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388312
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A1 Adria 联赛 第15赛季: Diamant vs TBD
+SUMMARY:SHAIQAS 第一赛季: WW vs TBD
+DTSTART:20251207T120000Z
+DTEND:20251207T143000Z
+UID:csgo_mc_2388514@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388514\n赛事: SHAIQAS 第一赛季\n阶
+ 段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388514
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A1 Adria 联赛 第15赛季: Diamant vs PSYCHOACTIVE
 DTSTART:20251207T120000Z
 DTEND:20251207T143000Z
 UID:csgo_mc_2388579@5eplay.com
@@ -221,7 +177,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388429
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+SUMMARY:银河之战 2025 第5阶段: FUT vs Inner Circle
 DTSTART:20251207T120000Z
 DTEND:20251207T143000Z
 UID:csgo_mc_2387482@5eplay.com
@@ -232,18 +188,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387482
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SHAIQAS 第一赛季: TBD vs TBD
-DTSTART:20251207T140000Z
-DTEND:20251207T163000Z
-UID:csgo_mc_2388515@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388515\n赛事: SHAIQAS 第一赛季\n阶
- 段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时
- 长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388515
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+SUMMARY:StarLadder布达佩斯Major: B8 vs NAVI
 DTSTART:20251207T140000Z
 DTEND:20251207T163000Z
 UID:csgo_mc_2388121@5eplay.com
@@ -254,7 +199,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388121
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A1 Adria 联赛 第15赛季: TBD vs TBD
+SUMMARY:A1 Adria 联赛 第15赛季: MANA vs TBD
 DTSTART:20251207T143000Z
 DTEND:20251207T183000Z
 UID:csgo_mc_2388580@5eplay.com
@@ -288,7 +233,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388430
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+SUMMARY:银河之战 2025 第5阶段: CYBERSHOKE vs ECSTATIC
 DTSTART:20251207T150000Z
 DTEND:20251207T173000Z
 UID:csgo_mc_2387483@5eplay.com
@@ -299,7 +244,18 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387483
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+SUMMARY:SHAIQAS 第一赛季: TBD vs TBD
+DTSTART:20251207T160000Z
+DTEND:20251207T183000Z
+UID:csgo_mc_2388515@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388515\n赛事: SHAIQAS 第一赛季\n阶
+ 段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时
+ 长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388515
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder布达佩斯Major: FaZe vs Passion UA
 DTSTART:20251207T163000Z
 DTEND:20251207T190000Z
 UID:csgo_mc_2388122@5eplay.com
@@ -322,7 +278,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388431
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+SUMMARY:银河之战 2025 第5阶段: Nemiga vs SAW
 DTSTART:20251207T180000Z
 DTEND:20251207T203000Z
 UID:csgo_mc_2387484@5eplay.com
@@ -333,7 +289,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387484
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+SUMMARY:StarLadder布达佩斯Major: G2 vs Falcons
 DTSTART:20251207T190000Z
 DTEND:20251207T213000Z
 UID:csgo_mc_2388123@5eplay.com
@@ -344,26 +300,26 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388123
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: BOSS vs Take Flyte
+SUMMARY:Dust2.us 猎鹰大师赛 S5: regain vs Ghost
 DTSTART:20251208T010000Z
 DTEND:20251208T033000Z
-UID:csgo_mc_2388612@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388612\n赛事: Dust2.us 猎鹰大师赛 S5
+UID:csgo_mc_2388613@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388613\n赛事: Dust2.us 猎鹰大师赛 S5
  \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388612
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388613
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: Lotus vs Straight2Killin
+SUMMARY:Dust2.us 猎鹰大师赛 S5: Aether vs LAG
 DTSTART:20251208T010000Z
 DTEND:20251208T033000Z
-UID:csgo_mc_2388617@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388617\n赛事: Dust2.us 猎鹰大师赛 S5
+UID:csgo_mc_2388615@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388615\n赛事: Dust2.us 猎鹰大师赛 S5
  \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388617
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388615
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dust2.us 猎鹰大师赛 S5: Akimbo vs ex-Kiri
@@ -377,15 +333,15 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388618
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: Phoenix vs Wanted Goons
+SUMMARY:Dust2.us 猎鹰大师赛 S5: Voca vs InControl
 DTSTART:20251208T010000Z
 DTEND:20251208T033000Z
-UID:csgo_mc_2388616@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388616\n赛事: Dust2.us 猎鹰大师赛 S5
+UID:csgo_mc_2388611@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388611\n赛事: Dust2.us 猎鹰大师赛 S5
  \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
  他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388616
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388611
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛 3: Betera vs VP.P
@@ -397,5 +353,110 @@ DESCRIPTION:比赛ID: csgo_mc_2388313\n赛事: 欧洲职业联赛 系列
  : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛 3: TBD vs TBD
+DTSTART:20251208T113000Z
+DTEND:20251208T140000Z
+UID:csgo_mc_2388314@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388314\n赛事: 欧洲职业联赛 系列
+ 赛 3\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
+ : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+DTSTART:20251208T120000Z
+DTEND:20251208T143000Z
+UID:csgo_mc_2388432@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388432\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388432
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: NODWIN Clutch 系列 第3赛季: ARCRED vs Novaq
+DTSTART:20251208T120000Z
+DTEND:20251208T143000Z
+UID:csgo_mc_2388479@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388479\n赛事:  NODWIN Clutch 系列 第3
+ 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388479
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+DTSTART:20251208T150000Z
+DTEND:20251208T173000Z
+UID:csgo_mc_2388433@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388433\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: NODWIN Clutch 系列 第3赛季: SPARTA vs MOUZ.N
+DTSTART:20251208T150000Z
+DTEND:20251208T173000Z
+UID:csgo_mc_2388480@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388480\n赛事:  NODWIN Clutch 系列 第3
+ 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388480
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+DTSTART:20251208T150000Z
+DTEND:20251208T173000Z
+UID:csgo_mc_2387485@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387485\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387485
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+DTSTART:20251208T180000Z
+DTEND:20251208T203000Z
+UID:csgo_mc_2388434@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388434\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388434
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: NODWIN Clutch 系列 第3赛季: Nuclear TigeRES vs Betera
+DTSTART:20251208T180000Z
+DTEND:20251208T203000Z
+UID:csgo_mc_2388478@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388478\n赛事:  NODWIN Clutch 系列 第3
+ 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388478
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+DTSTART:20251208T180000Z
+DTEND:20251208T203000Z
+UID:csgo_mc_2387486@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387486\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
+ C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387486
 END:VEVENT
 END:VCALENDAR
