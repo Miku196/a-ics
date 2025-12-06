@@ -3,53 +3,7 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: Phoenix vs InControl
-DTSTART:20251206T010000Z
-DTEND:20251206T033000Z
-UID:csgo_mc_2388587@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388587\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388587
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第2季: Underground vs THUNDER dOWNUNDER
-DTSTART:20251206T010000Z
-DTEND:20251206T033000Z
-UID:csgo_mc_2388595@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388595\n赛事: DFRAG 公开 系列赛 第2
- 季\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388595
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第2季: Mindfreak vs LITE
-DTSTART:20251206T010000Z
-DTEND:20251206T033000Z
-UID:csgo_mc_2388594@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388594\n赛事: DFRAG 公开 系列赛 第2
- 季\n阶段: 小组赛 胜者组 首轮\n轮次: 首轮\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388594
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: LAG vs ex-Kiri
-DTSTART:20251206T030000Z
-DTEND:20251206T053000Z
-UID:csgo_mc_2388589@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388589\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第二轮\n轮次: 第二轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388589
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第2季: TBD vs TBD
+SUMMARY:DFRAG 公开 系列赛 第2季: THUNDER dOWNUNDER vs TBD
 DTSTART:20251206T043000Z
 DTEND:20251206T070000Z
 UID:csgo_mc_2388599@5eplay.com
@@ -61,7 +15,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388599
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第2季: TBD vs TBD
+SUMMARY:DFRAG 公开 系列赛 第2季: Underground vs TBD
 DTSTART:20251206T043000Z
 DTEND:20251206T070000Z
 UID:csgo_mc_2388600@5eplay.com
@@ -458,5 +412,27 @@ DESCRIPTION:比赛ID: csgo_mc_2388428\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388428
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
+DTSTART:20251207T090000Z
+DTEND:20251207T113000Z
+UID:csgo_mc_2387481@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2387481\n赛事: 银河之战 2025 第5阶
+ 段\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n
+ 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2387481
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SHAIQAS 第一赛季: TBD vs TBD
+DTSTART:20251207T110000Z
+DTEND:20251207T133000Z
+UID:csgo_mc_2388514@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388514\n赛事: SHAIQAS 第一赛季\n阶
+ 段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388514
 END:VEVENT
 END:VCALENDAR
