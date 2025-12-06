@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第2季: TBD vs TBD
-DTSTART:20251206T070000Z
-DTEND:20251206T093000Z
-UID:csgo_mc_2388601@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388601\n赛事: DFRAG 公开 系列赛 第2
- 季\n阶段: 小组赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等
- 级: 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EP
- lay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388601
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛 3: MOUZ.N vs Betera
 DTSTART:20251206T090000Z
 DTEND:20251206T113000Z
@@ -443,5 +431,16 @@ DESCRIPTION:比赛ID: csgo_mc_2387481\n赛事: 银河之战 2025 第5阶
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387481
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SHAIQAS 第一赛季: TBD vs TBD
+DTSTART:20251207T110000Z
+DTEND:20251207T133000Z
+UID:csgo_mc_2388514@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388514\n赛事: SHAIQAS 第一赛季\n阶
+ 段: 淘汰赛 败者组 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388514
 END:VEVENT
 END:VCALENDAR
