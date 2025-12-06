@@ -3,50 +3,6 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:A1 Adria 联赛 第15赛季: PSYCHOACTIVE vs MANA
-DTSTART:20251206T183000Z
-DTEND:20251206T210000Z
-UID:csgo_mc_2388578@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388578\n赛事: A1 Adria 联赛 第15赛季
- \n阶段: 淘汰赛 胜者组 决赛\n轮次: 决赛\n赛制: BO3\n等级:
-  其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388578
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: Nemiga vs SPARTA
-DTSTART:20251206T184500Z
-DTEND:20251206T211500Z
-UID:csgo_mc_2387480@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387480\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 淘汰赛 十六强\n轮次: 十六强\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387480
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: G2 vs Mongolz
-DTSTART:20251206T190000Z
-DTEND:20251206T213000Z
-UID:csgo_mc_2388119@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388119\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: S
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388119
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major:  3DMAX vs FaZe
-DTSTART:20251206T190000Z
-DTEND:20251206T213000Z
-UID:csgo_mc_2388120@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388120\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等级: S
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388120
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DFRAG 公开 系列赛 第2季: Gz vs Rooster
 DTSTART:20251207T010000Z
 DTEND:20251207T033000Z
@@ -375,5 +331,71 @@ DESCRIPTION:比赛ID: csgo_mc_2387484\n赛事: 银河之战 2025 第5阶
  状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StarLadder布达佩斯Major: TBD vs TBD
+DTSTART:20251207T190000Z
+DTEND:20251207T213000Z
+UID:csgo_mc_2388123@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388123\n赛事: StarLadder布达佩斯Major
+ \n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: S
+ 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388123
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S5: BOSS vs Take Flyte
+DTSTART:20251208T010000Z
+DTEND:20251208T033000Z
+UID:csgo_mc_2388612@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388612\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388612
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S5: Lotus vs Straight2Killin
+DTSTART:20251208T010000Z
+DTEND:20251208T033000Z
+UID:csgo_mc_2388617@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388617\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388617
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S5: Akimbo vs ex-Kiri
+DTSTART:20251208T010000Z
+DTEND:20251208T033000Z
+UID:csgo_mc_2388618@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388618\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388618
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S5: Phoenix vs Wanted Goons
+DTSTART:20251208T010000Z
+DTEND:20251208T033000Z
+UID:csgo_mc_2388616@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388616\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388616
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛 3: Betera vs VP.P
+DTSTART:20251208T090000Z
+DTEND:20251208T113000Z
+UID:csgo_mc_2388313@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388313\n赛事: 欧洲职业联赛 系列
+ 赛 3\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
+ : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388313
 END:VEVENT
 END:VCALENDAR
