@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第2季: TBD vs TBD
+SUMMARY:DFRAG 公开 系列赛 第2季: Gz vs Fury
 DTSTART:20251207T043000Z
 DTEND:20251207T070000Z
 UID:csgo_mc_2388602@5eplay.com
@@ -15,7 +15,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388602
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DFRAG 公开 系列赛 第2季: TBD vs TBD
+SUMMARY:DFRAG 公开 系列赛 第2季: Rooster vs Animus Victoria
 DTSTART:20251207T043000Z
 DTEND:20251207T070000Z
 UID:csgo_mc_2388603@5eplay.com
@@ -445,5 +445,16 @@ DESCRIPTION:比赛ID: csgo_mc_2387486\n赛事: 银河之战 2025 第5阶
  C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387486
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dust2.us 猎鹰大师赛 S5: SkinRave vs Outfit 49
+DTSTART:20251209T010000Z
+DTEND:20251209T033000Z
+UID:csgo_mc_2388614@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388614\n赛事: Dust2.us 猎鹰大师赛 S5
+ \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
+ 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388614
 END:VEVENT
 END:VCALENDAR
