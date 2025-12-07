@@ -120,6 +120,17 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2387481
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RESF 公开赛 2025: RUSTEC vs HOLLYWOOD
+DTSTART:20251207T094500Z
+DTEND:20251207T121500Z
+UID:csgo_mc_2388623@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388623\n赛事: RESF 公开赛 2025\n阶段
+ : 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其他\n状态: 
+ 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388623
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:欧洲职业联赛 系列赛 3: EYE vs Sangal
 DTSTART:20251207T113000Z
 DTEND:20251207T140000Z
@@ -447,16 +458,5 @@ DESCRIPTION:比赛ID: csgo_mc_2388478\n赛事:  NODWIN Clutch 系列 第3
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388478
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
-DTSTART:20251208T180000Z
-DTEND:20251208T203000Z
-UID:csgo_mc_2387486@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387486\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387486
 END:VEVENT
 END:VCALENDAR
