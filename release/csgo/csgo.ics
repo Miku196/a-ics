@@ -3,54 +3,9 @@ VERSION:2.0
 PRODID:-//5EPlay CS:GO 赛事日历//
 X-WR-CALNAME:CS:GO 赛事日程
 BEGIN:VEVENT
-SUMMARY:A1 Adria 联赛 第15赛季: MANA vs PSYCHOACTIVE
-DTSTART:20251207T143000Z
-DTEND:20251207T183000Z
-UID:csgo_mc_2388580@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388580\n赛事: A1 Adria 联赛 第15赛季
- \n阶段: 淘汰赛  总决赛\n轮次: 总决赛\n赛制: BO5\n等级: 
- 其他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388580
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:kleverr Virsliga 第5赛季 决赛: HAVENs vs TBD
-DTSTART:20251207T150000Z
-DTEND:20251207T173000Z
-UID:csgo_mc_2388583@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388583\n赛事: kleverr Virsliga 第5赛季
-  决赛\n阶段: 淘汰赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 
- 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388583
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: Alliance vs SPARTA
-DTSTART:20251207T150000Z
-DTEND:20251207T173000Z
-UID:csgo_mc_2388430@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388430\n赛事: CCT 第3赛季 欧洲系列
- 赛 12\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388430
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: CYBERSHOKE vs ECSTATIC
-DTSTART:20251207T150000Z
-DTEND:20251207T173000Z
-UID:csgo_mc_2387483@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387483\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
-LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387483
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SHAIQAS 第一赛季: K27 vs TBD
-DTSTART:20251207T160000Z
-DTEND:20251207T183000Z
+SUMMARY:SHAIQAS 第一赛季: K27 vs GUN5
+DTSTART:20251207T162000Z
+DTEND:20251207T185000Z
 UID:csgo_mc_2388515@5eplay.com
 DESCRIPTION:比赛ID: csgo_mc_2388515\n赛事: SHAIQAS 第一赛季\n阶
  段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时
@@ -159,7 +114,7 @@ LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388313
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛 3: TBD vs TBD
+SUMMARY:欧洲职业联赛 系列赛 3: Johnny Speeds vs EYE
 DTSTART:20251208T113000Z
 DTEND:20251208T140000Z
 UID:csgo_mc_2388314@5eplay.com
@@ -400,5 +355,64 @@ DESCRIPTION:比赛ID: csgo_mc_2388437\n赛事: CCT 第3赛季 欧洲系列
  y
 LOCATION:5EPlay 赛事平台
 URL:https://event.5eplay.com/csgo/session/csgo_mc_2388437
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:欧洲职业联赛 系列赛 3: TBD vs TBD
+DTSTART:20251210T090000Z
+DTEND:20251210T130000Z
+UID:csgo_mc_2388316@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388316\n赛事: 欧洲职业联赛 系列
+ 赛 3\n阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO5\n等级
+ : 其他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: NODWIN Clutch 系列 第3赛季: TBD vs TBD
+DTSTART:20251210T090000Z
+DTEND:20251210T113000Z
+UID:csgo_mc_2388486@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388486\n赛事:  NODWIN Clutch 系列 第3
+ 赛季\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388486
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+DTSTART:20251210T120000Z
+DTEND:20251210T143000Z
+UID:csgo_mc_2388438@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388438\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388438
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: NODWIN Clutch 系列 第3赛季: TBD vs TBD
+DTSTART:20251210T120000Z
+DTEND:20251210T143000Z
+UID:csgo_mc_2388487@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388487\n赛事:  NODWIN Clutch 系列 第3
+ 赛季\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388487
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
+DTSTART:20251210T150000Z
+DTEND:20251210T173000Z
+UID:csgo_mc_2388439@5eplay.com
+DESCRIPTION:比赛ID: csgo_mc_2388439\n赛事: CCT 第3赛季 欧洲系列
+ 赛 12\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
+ 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
+ y
+LOCATION:5EPlay 赛事平台
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2388439
 END:VEVENT
 END:VCALENDAR
