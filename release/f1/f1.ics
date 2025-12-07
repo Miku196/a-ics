@@ -2056,97 +2056,92 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 阿布扎比大奖赛即将开始 - 阿布扎比大奖赛 第1
- 次练习赛
+SUMMARY:F1 阿布扎比大奖赛 - 阿布扎比大奖赛 第1次练习赛
 DTSTART:20251205T093000
 DTEND:20251205T113000
-UID:阿布扎比大奖赛即将开始_阿布扎比大奖赛_第1次练习
- 赛_20251205@f1calendar.com
+UID:阿布扎比大奖赛_阿布扎比大奖赛_第1次练习赛_20251205@
+ f1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 阿布扎比大奖赛即将开始 - 阿布扎比大奖赛 
- 第1次练习赛\n时间: 09:30 (东八区)
-LOCATION:阿布扎比大奖赛即将开始
+DESCRIPTION:F1 阿布扎比大奖赛 - 阿布扎比大奖赛 第1次练习
+ 赛\n时间: 09:30 (东八区)
+LOCATION:阿布扎比大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 阿布扎比大奖赛即将开始 - 阿布扎比大奖赛 
- 第1次练习赛 即将开始
+DESCRIPTION:F1 阿布扎比大奖赛 - 阿布扎比大奖赛 第1次练习
+ 赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 阿布扎比大奖赛即将开始 - 阿布扎比大奖赛 第2
- 次练习赛
+SUMMARY:F1 阿布扎比大奖赛 - 阿布扎比大奖赛 第2次练习赛
 DTSTART:20251205T130000
 DTEND:20251205T150000
-UID:阿布扎比大奖赛即将开始_阿布扎比大奖赛_第2次练习
- 赛_20251205@f1calendar.com
+UID:阿布扎比大奖赛_阿布扎比大奖赛_第2次练习赛_20251205@
+ f1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 阿布扎比大奖赛即将开始 - 阿布扎比大奖赛 
- 第2次练习赛\n时间: 13:00 (东八区)
-LOCATION:阿布扎比大奖赛即将开始
+DESCRIPTION:F1 阿布扎比大奖赛 - 阿布扎比大奖赛 第2次练习
+ 赛\n时间: 13:00 (东八区)
+LOCATION:阿布扎比大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 阿布扎比大奖赛即将开始 - 阿布扎比大奖赛 
- 第2次练习赛 即将开始
+DESCRIPTION:F1 阿布扎比大奖赛 - 阿布扎比大奖赛 第2次练习
+ 赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 阿布扎比大奖赛即将开始 - 阿布扎比大奖赛 第3
- 次练习赛
+SUMMARY:F1 阿布扎比大奖赛 - 阿布扎比大奖赛 第3次练习赛
 DTSTART:20251206T103000
 DTEND:20251206T123000
-UID:阿布扎比大奖赛即将开始_阿布扎比大奖赛_第3次练习
- 赛_20251206@f1calendar.com
+UID:阿布扎比大奖赛_阿布扎比大奖赛_第3次练习赛_20251206@
+ f1calendar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 阿布扎比大奖赛即将开始 - 阿布扎比大奖赛 
- 第3次练习赛\n时间: 10:30 (东八区)
-LOCATION:阿布扎比大奖赛即将开始
+DESCRIPTION:F1 阿布扎比大奖赛 - 阿布扎比大奖赛 第3次练习
+ 赛\n时间: 10:30 (东八区)
+LOCATION:阿布扎比大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 阿布扎比大奖赛即将开始 - 阿布扎比大奖赛 
- 第3次练习赛 即将开始
+DESCRIPTION:F1 阿布扎比大奖赛 - 阿布扎比大奖赛 第3次练习
+ 赛 即将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 阿布扎比大奖赛即将开始 - 阿布扎比大奖赛 排
- 位赛
+SUMMARY:F1 阿布扎比大奖赛 - 阿布扎比大奖赛 排位赛
 DTSTART:20251206T140000
 DTEND:20251206T160000
-UID:阿布扎比大奖赛即将开始_阿布扎比大奖赛_排位赛_2025
- 1206@f1calendar.com
+UID:阿布扎比大奖赛_阿布扎比大奖赛_排位赛_20251206@f1calen
+ dar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 阿布扎比大奖赛即将开始 - 阿布扎比大奖赛 
- 排位赛\n时间: 14:00 (东八区)
-LOCATION:阿布扎比大奖赛即将开始
+DESCRIPTION:F1 阿布扎比大奖赛 - 阿布扎比大奖赛 排位赛\n
+ 时间: 14:00 (东八区)
+LOCATION:阿布扎比大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 阿布扎比大奖赛即将开始 - 阿布扎比大奖赛 
- 排位赛 即将开始
+DESCRIPTION:F1 阿布扎比大奖赛 - 阿布扎比大奖赛 排位赛 即
+ 将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:F1 阿布扎比大奖赛即将开始 - 阿布扎比大奖赛 大
- 奖赛
+SUMMARY:F1 阿布扎比大奖赛 - 阿布扎比大奖赛 大奖赛
 DTSTART:20251207T130000
 DTEND:20251207T150000
-UID:阿布扎比大奖赛即将开始_阿布扎比大奖赛_大奖赛_2025
- 1207@f1calendar.com
+UID:阿布扎比大奖赛_阿布扎比大奖赛_大奖赛_20251207@f1calen
+ dar.com
 CATEGORIES:SPORTS\,MOTORSPORTS\,F1
-DESCRIPTION:F1 阿布扎比大奖赛即将开始 - 阿布扎比大奖赛 
- 大奖赛\n时间: 13:00 (东八区)
-LOCATION:阿布扎比大奖赛即将开始
+DESCRIPTION:F1 阿布扎比大奖赛 - 阿布扎比大奖赛 大奖赛\n
+ 时间: 13:00 (东八区)
+LOCATION:阿布扎比大奖赛
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:F1 阿布扎比大奖赛即将开始 - 阿布扎比大奖赛 
- 大奖赛 即将开始
+DESCRIPTION:F1 阿布扎比大奖赛 - 阿布扎比大奖赛 大奖赛 即
+ 将开始
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
