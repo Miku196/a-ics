@@ -1,0 +1,25 @@
+{
+  "name": "a-ics",
+  "version": "2.0.0",
+  "description": "赛事日历 ICS 生成器 — 自动抓取 WRC/F1/CSGO/Dota2/LoL/Valorant/OW/WorldCup 赛程",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "wrc": "node src/index.js wrc",
+    "f1": "node src/index.js f1",
+    "csgo": "node src/index.js csgo",
+    "dota2": "node src/index.js dota2",
+    "lol": "node src/index.js lol",
+    "valorant": "node src/index.js valorant",
+    "overwatch": "node src/index.js overwatch",
+    "worldcup": "node src/index.js worldcup"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "ics": "^3.8.1"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

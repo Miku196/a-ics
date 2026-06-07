@@ -1,418 +1,2607 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//5EPlay CS:GO 赛事日历//
-X-WR-CALNAME:CS:GO 赛事日程
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-SUMMARY:SHAIQAS 第一赛季: K27 vs GUN5
-DTSTART:20251207T162000Z
-DTEND:20251207T185000Z
-UID:csgo_mc_2388515@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388515\n赛事: SHAIQAS 第一赛季\n阶
- 段: 淘汰赛\n赛制: BO3\n等级: 其他\n状态: 未开始\n预估时
- 长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2395159_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季封闭预选: ENCE vs brazylijski luz
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T080000Z
+DTEND:20260607T110000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季封闭预选\n对阵: ENCE vs brazylijski luz\n赛制: BO
+	3\n轮次: 决赛\n阶段: 小组赛 败者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395159
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388515
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: FaZe vs Passion UA
-DTSTART:20251207T163000Z
-DTEND:20251207T190000Z
-UID:csgo_mc_2388122@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388122\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: S
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2394810_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: KOLESIE vs Lazer Cats
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T080000Z
+DTEND:20260607T110000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: KOLESIE vs Lazer Cats\n赛制: BO3\n轮次: 首轮\n阶
+	段: 小组赛 胜者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394810
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388122
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: CYBERSHOKE vs Oramond
-DTSTART:20251207T180000Z
-DTEND:20251207T203000Z
-UID:csgo_mc_2388431@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388431\n赛事: CCT 第3赛季 欧洲系列
- 赛 12\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2395107_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: SPARTA vs AM
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T080000Z
+DTEND:20260607T110000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: SPARTA vs AM\n赛制: BO3\n轮次: 第三轮\n
+	阶段: 小组赛 第三轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395107
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388431
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: Nemiga vs SAW
-DTSTART:20251207T180000Z
-DTEND:20251207T203000Z
-UID:csgo_mc_2387484@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387484\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 淘汰赛 八强\n轮次: 八强\n赛制: BO3\n等级: C级\n
- 状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2394811_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: VP vs Genone
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T103000Z
+DTEND:20260607T133000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: VP vs Genone\n赛制: BO3\n轮次: 首轮\n阶段: 小组赛 胜者
+	组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394811
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387484
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:StarLadder布达佩斯Major: G2 vs Falcons
-DTSTART:20251207T190000Z
-DTEND:20251207T213000Z
-UID:csgo_mc_2388123@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388123\n赛事: StarLadder布达佩斯Major
- \n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等级: S
- 级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2395160_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季封闭预选: Atreides vs HyperSpirit
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T110000Z
+DTEND:20260607T140000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季封闭预选\n对阵: Atreides vs HyperSpirit\n赛制: BO
+	3\n轮次: 决赛\n阶段: 小组赛 败者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395160
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388123
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: regain vs Ghost
-DTSTART:20251208T010000Z
-DTEND:20251208T033000Z
-UID:csgo_mc_2388613@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388613\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2395108_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: Betclic vs Atreides
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T110000Z
+DTEND:20260607T140000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: Betclic vs Atreides\n赛制: BO3\n轮次
+	: 第三轮\n阶段: 小组赛 第三轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395108
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388613
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: Aether vs LAG
-DTSTART:20251208T010000Z
-DTEND:20251208T033000Z
-UID:csgo_mc_2388615@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388615\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2394881_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: Monte vs Legacy
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T123000Z
+DTEND:20260607T140000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: Monte vs Legacy\n赛制: BO1\n轮次: 第三轮\n阶段
+	: 小组赛 第三轮\n等级: S级\n预计时长: 1.5小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394881
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388615
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: Akimbo vs ex-Kiri
-DTSTART:20251208T010000Z
-DTEND:20251208T033000Z
-UID:csgo_mc_2388618@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388618\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2394882_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: Astralis vs TYLOO
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T123000Z
+DTEND:20260607T140000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: Astralis vs TYLOO\n赛制: BO1\n轮次: 第三轮\n
+	阶段: 小组赛 第三轮\n等级: S级\n预计时长: 1.5小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394882
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388618
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: Voca vs InControl
-DTSTART:20251208T010000Z
-DTEND:20251208T033000Z
-UID:csgo_mc_2388611@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388611\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2394883_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: BB vs M80
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T133000Z
+DTEND:20260607T150000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: BB vs M80\n赛制: BO1\n轮次: 第三轮\n阶段: 小组赛 
+	第三轮\n等级: S级\n预计时长: 1.5小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394883
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388611
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛 3: Betera vs VP.P
-DTSTART:20251208T090000Z
-DTEND:20251208T113000Z
-UID:csgo_mc_2388313@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388313\n赛事: 欧洲职业联赛 系列
- 赛 3\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
- : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2394884_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: MIBR vs BIG
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T133000Z
+DTEND:20260607T150000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: MIBR vs BIG\n赛制: BO1\n轮次: 第三轮\n阶段: 小组
+	赛 第三轮\n等级: S级\n预计时长: 1.5小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394884
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388313
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛 3: Johnny Speeds vs EYE
-DTSTART:20251208T113000Z
-DTEND:20251208T140000Z
-UID:csgo_mc_2388314@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388314\n赛事: 欧洲职业联赛 系列
- 赛 3\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级
- : 其他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2395109_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: ARCRED vs Walczaki
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T140000Z
+DTEND:20260607T170000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: ARCRED vs Walczaki\n赛制: BO3\n轮次:
+	 第三轮\n阶段: 小组赛 第三轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395109
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388314
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
-DTSTART:20251208T120000Z
-DTEND:20251208T143000Z
-UID:csgo_mc_2388432@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388432\n赛事: CCT 第3赛季 欧洲系列
- 赛 12\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2395161_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季封闭预选: Lilmix vs NEW VISION
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T140000Z
+DTEND:20260607T170000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季封闭预选\n对阵: Lilmix vs NEW VISION\n赛制: BO3\n
+	轮次: 决赛\n阶段: 小组赛 败者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395161
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388432
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: NODWIN Clutch 系列 第3赛季: ARCRED vs Novaq
-DTSTART:20251208T120000Z
-DTEND:20251208T143000Z
-UID:csgo_mc_2388479@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388479\n赛事:  NODWIN Clutch 系列 第3
- 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2394885_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: B8 vs GL
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T143000Z
+DTEND:20260607T173000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: B8 vs GL\n赛制: BO3\n轮次: 第三轮\n阶段: 小组赛 第
+	三轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394885
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388479
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
-DTSTART:20251208T150000Z
-DTEND:20251208T173000Z
-UID:csgo_mc_2388433@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388433\n赛事: CCT 第3赛季 欧洲系列
- 赛 12\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2394886_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: FlyQuest vs paiN
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T143000Z
+DTEND:20260607T173000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: FlyQuest vs paiN\n赛制: BO3\n轮次: 第三轮\n阶
+	段: 小组赛 第三轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394886
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388433
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: NODWIN Clutch 系列 第3赛季: SPARTA vs MOUZ.N
-DTSTART:20251208T150000Z
-DTEND:20251208T173000Z
-UID:csgo_mc_2388480@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388480\n赛事:  NODWIN Clutch 系列 第3
- 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2395110_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TDK vs INOX Division
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T170000Z
+DTEND:20260607T200000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TDK vs INOX Division\n赛制: BO3\n轮
+	次: 第三轮\n阶段: 小组赛 第三轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395110
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388480
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: BB vs FUT
-DTSTART:20251208T150000Z
-DTEND:20251208T173000Z
-UID:csgo_mc_2387485@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387485\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2394887_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: G2 vs FUT
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T170000Z
+DTEND:20260607T200000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: G2 vs FUT\n赛制: BO3\n轮次: 第三轮\n阶段: 小组赛 
+	第三轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394887
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387485
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
-DTSTART:20251208T180000Z
-DTEND:20251208T203000Z
-UID:csgo_mc_2388434@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388434\n赛事: CCT 第3赛季 欧洲系列
- 赛 12\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2394888_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: Spirit vs 9z
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T170000Z
+DTEND:20260607T200000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: Spirit vs 9z\n赛制: BO3\n轮次: 第三轮\n阶段: 小
+	组赛 第三轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394888
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388434
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: NODWIN Clutch 系列 第3赛季: Nuclear TigeRES vs Betera
-DTSTART:20251208T180000Z
-DTEND:20251208T203000Z
-UID:csgo_mc_2388478@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388478\n赛事:  NODWIN Clutch 系列 第3
- 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2395162_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季封闭预选: Genone vs BIG.A
+DTSTAMP:20260607T073742Z
+DTSTART:20260607T170000Z
+DTEND:20260607T200000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季封闭预选\n对阵: Genone vs BIG.A\n赛制: BO3\n轮次: 决
+	赛\n阶段: 小组赛 败者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395162
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388478
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
-DTSTART:20251208T180000Z
-DTEND:20251208T203000Z
-UID:csgo_mc_2387486@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387486\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 淘汰赛 半决赛\n轮次: 半决赛\n赛制: BO3\n等级: 
- C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2395245_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 北美: Chicken Coop vs Third Prime
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T013000Z
+DTEND:20260608T043000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 北美\n对阵: Chicken Coop vs Third Prime\n赛制: BO
+	3\n轮次: 首轮\n阶段: 淘汰赛 胜者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395245
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387486
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: SkinRave vs Outfit 49
-DTSTART:20251209T010000Z
-DTEND:20251209T033000Z
-UID:csgo_mc_2388614@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388614\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2395111_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: KOLESIE vs ASTRAL
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T080000Z
+DTEND:20260608T110000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: KOLESIE vs ASTRAL\n赛制: BO3\n轮次: 
+	第三轮\n阶段: 小组赛 第三轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395111
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388614
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: Lotus vs Straight2Killin
-DTSTART:20251209T020000Z
-DTEND:20251209T043000Z
-UID:csgo_mc_2388617@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388617\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2395163_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季封闭预选: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T080000Z
+DTEND:20260608T110000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季封闭预选\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决胜局\n阶
+	段: 淘汰赛 决胜局\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395163
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388617
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: Phoenix vs Wanted Goons
-DTSTART:20251209T020000Z
-DTEND:20251209T043000Z
-UID:csgo_mc_2388616@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388616\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2394812_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: PsychoFace vs brazylijski luz
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T080000Z
+DTEND:20260608T110000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: PsychoFace vs brazylijski luz\n赛制: BO3\n轮
+	次: 首轮\n阶段: 小组赛 败者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394812
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388616
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dust2.us 猎鹰大师赛 S5: BOSS vs Take Flyte
-DTSTART:20251209T030000Z
-DTEND:20251209T053000Z
-UID:csgo_mc_2388612@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388612\n赛事: Dust2.us 猎鹰大师赛 S5
- \n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2395227_1780817862613@a-ics
+SUMMARY:DFRAG 公开 系列赛 第5季: Abyssal vs MGLBROS
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T083000Z
+DTEND:20260608T113000Z
+DESCRIPTION:赛事: DFRAG 公开 系列赛 第5季\n对阵: Abyssal vs MGLBROS\n赛制: BO3\n轮次: 首轮\n
+	阶段: 小组赛 胜者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395227
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388612
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛 3: TBD vs TBD
-DTSTART:20251209T090000Z
-DTEND:20251209T113000Z
-UID:csgo_mc_2388315@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388315\n赛事: 欧洲职业联赛 系列
- 赛 3\n阶段: 季军赛 决赛\n轮次: 决赛\n赛制: BO3\n等级: 其
- 他\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2395226_1780817862613@a-ics
+SUMMARY:DFRAG 公开 系列赛 第5季: Rooster vs MARKandLARRY
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T083000Z
+DTEND:20260608T113000Z
+DESCRIPTION:赛事: DFRAG 公开 系列赛 第5季\n对阵: Rooster vs MARKandLARRY\n赛制: BO3\n轮次:
+	 首轮\n阶段: 小组赛 胜者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395226
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388315
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: NODWIN Clutch 系列 第3赛季: RUBY vs Oramond
-DTSTART:20251209T090000Z
-DTEND:20251209T113000Z
-UID:csgo_mc_2388482@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388482\n赛事:  NODWIN Clutch 系列 第3
- 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2394813_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: HyperSpirit vs INOX Division
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T103000Z
+DTEND:20260608T133000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: HyperSpirit vs INOX Division\n赛制: BO3\n轮次
+	: 决赛\n阶段: 小组赛 胜者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394813
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388482
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:银河之战 2025 第5阶段: TBD vs TBD
-DTSTART:20251209T120000Z
-DTEND:20251209T160000Z
-UID:csgo_mc_2387487@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2387487\n赛事: 银河之战 2025 第5阶
- 段\n阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO5\n等级: 
- C级\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2395112_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: Nuclear TigeRES vs CYBERSHOKE
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T110000Z
+DTEND:20260608T140000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: Nuclear TigeRES vs CYBERSHOKE\n赛
+	制: BO3\n轮次: 第三轮\n阶段: 小组赛 第三轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395112
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2387487
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
-DTSTART:20251209T120000Z
-DTEND:20251209T143000Z
-UID:csgo_mc_2388435@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388435\n赛事: CCT 第3赛季 欧洲系列
- 赛 12\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2395164_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季封闭预选: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T110000Z
+DTEND:20260608T140000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季封闭预选\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决胜局\n阶
+	段: 淘汰赛 决胜局\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395164
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388435
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: NODWIN Clutch 系列 第3赛季: CPH Wolves vs EF
-DTSTART:20251209T120000Z
-DTEND:20251209T143000Z
-UID:csgo_mc_2388483@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388483\n赛事:  NODWIN Clutch 系列 第3
- 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2394889_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T120000Z
+DTEND:20260608T150000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小组赛
+	 第四轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394889
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388483
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
-DTSTART:20251209T150000Z
-DTEND:20251209T173000Z
-UID:csgo_mc_2388436@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388436\n赛事: CCT 第3赛季 欧洲系列
- 赛 12\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2394890_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T120000Z
+DTEND:20260608T150000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小组赛
+	 第四轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394890
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388436
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: NODWIN Clutch 系列 第3赛季: FORZE Reload vs Fire Flux
-DTSTART:20251209T150000Z
-DTEND:20251209T173000Z
-UID:csgo_mc_2388484@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388484\n赛事:  NODWIN Clutch 系列 第3
- 赛季\n阶段: 小组赛 第三轮\n轮次: 第三轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2395113_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: Ursa vs RUSTEC
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T140000Z
+DTEND:20260608T170000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: Ursa vs RUSTEC\n赛制: BO3\n轮次: 第三轮
+	\n阶段: 小组赛 第三轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395113
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388484
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
-DTSTART:20251209T180000Z
-DTEND:20251209T203000Z
-UID:csgo_mc_2388437@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388437\n赛事: CCT 第3赛季 欧洲系列
- 赛 12\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2395165_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季封闭预选: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T140000Z
+DTEND:20260608T170000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季封闭预选\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决胜局\n阶
+	段: 淘汰赛 决胜局\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395165
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388437
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:欧洲职业联赛 系列赛 3: TBD vs TBD
-DTSTART:20251210T090000Z
-DTEND:20251210T130000Z
-UID:csgo_mc_2388316@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388316\n赛事: 欧洲职业联赛 系列
- 赛 3\n阶段: 淘汰赛 总决赛\n轮次: 总决赛\n赛制: BO5\n等级
- : 其他\n状态: 未开始\n预估时长: 4.0小时\n数据来源: 5EPlay
+UID:csgo_csgo_mc_2394891_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T143000Z
+DTEND:20260608T173000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小组赛
+	 第四轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394891
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388316
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: NODWIN Clutch 系列 第3赛季: TBD vs TBD
-DTSTART:20251210T090000Z
-DTEND:20251210T113000Z
-UID:csgo_mc_2388486@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388486\n赛事:  NODWIN Clutch 系列 第3
- 赛季\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2394892_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T143000Z
+DTEND:20260608T173000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小组赛
+	 第四轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394892
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388486
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
-DTSTART:20251210T120000Z
-DTEND:20251210T143000Z
-UID:csgo_mc_2388438@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388438\n赛事: CCT 第3赛季 欧洲系列
- 赛 12\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2395114_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: Acend vs ex-RUBY
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T170000Z
+DTEND:20260608T200000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: Acend vs ex-RUBY\n赛制: BO3\n轮次: 第
+	三轮\n阶段: 小组赛 第三轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395114
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388438
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: NODWIN Clutch 系列 第3赛季: TBD vs TBD
-DTSTART:20251210T120000Z
-DTEND:20251210T143000Z
-UID:csgo_mc_2388487@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388487\n赛事:  NODWIN Clutch 系列 第3
- 赛季\n阶段: 小组赛 第四轮\n轮次: 第四轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2394893_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T170000Z
+DTEND:20260608T200000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小组赛
+	 第四轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394893
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388487
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CCT 第3赛季 欧洲系列赛 12: TBD vs TBD
-DTSTART:20251210T150000Z
-DTEND:20251210T173000Z
-UID:csgo_mc_2388439@5eplay.com
-DESCRIPTION:比赛ID: csgo_mc_2388439\n赛事: CCT 第3赛季 欧洲系列
- 赛 12\n阶段: 小组赛 第五轮\n轮次: 第五轮\n赛制: BO3\n等
- 级: C级\n状态: 未开始\n预估时长: 2.5小时\n数据来源: 5EPla
- y
+UID:csgo_csgo_mc_2394894_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T170000Z
+DTEND:20260608T200000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小组赛
+	 第四轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394894
 LOCATION:5EPlay 赛事平台
-URL:https://event.5eplay.com/csgo/session/csgo_mc_2388439
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395166_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季封闭预选: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T170000Z
+DTEND:20260608T200000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季封闭预选\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决胜局\n阶
+	段: 淘汰赛 决胜局\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395166
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395074_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 欧洲: Misa vs eternal premium
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T173000Z
+DTEND:20260608T203000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 欧洲\n对阵: Misa vs eternal premium\n赛制: BO3\n轮
+	次: 第2轮\n阶段: 淘汰赛 败者组 第2轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395074
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395075_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 欧洲: XI vs Clutchain
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T173000Z
+DTEND:20260608T203000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 欧洲\n对阵: XI vs Clutchain\n赛制: BO3\n轮次: 第2轮\n
+	阶段: 淘汰赛 败者组 第2轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395075
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395076_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 欧洲: RoundsGG vs OLDBOYS
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T173000Z
+DTEND:20260608T203000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 欧洲\n对阵: RoundsGG vs OLDBOYS\n赛制: BO3\n轮次: 第
+	2轮\n阶段: 淘汰赛 败者组 第2轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395076
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395077_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 欧洲: Donstu vs Banger Gang
+DTSTAMP:20260607T073742Z
+DTSTART:20260608T173000Z
+DTEND:20260608T203000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 欧洲\n对阵: Donstu vs Banger Gang\n赛制: BO3\n轮次:
+	 第2轮\n阶段: 淘汰赛 败者组 第2轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395077
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395246_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 北美: Brahmas vs Villainous union
+DTSTAMP:20260607T073742Z
+DTSTART:20260609T003000Z
+DTEND:20260609T033000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 北美\n对阵: Brahmas vs Villainous union\n赛制: BO
+	3\n轮次: 决赛\n阶段: 淘汰赛 胜者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395246
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395247_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 北美: 33 vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260609T003000Z
+DTEND:20260609T033000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 北美\n对阵: 33 vs TBD\n赛制: BO3\n轮次: 决赛\n阶段: 淘汰赛
+	 胜者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395247
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395115_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260609T080000Z
+DTEND:20260609T110000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段
+	: 小组赛 第四轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395115
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395167_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260609T080000Z
+DTEND:20260609T110000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第一轮\n阶段: 小
+	组赛 第一轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395167
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394814_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: MANA vs Oxuji
+DTSTAMP:20260607T073742Z
+DTSTART:20260609T080000Z
+DTEND:20260609T110000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: MANA vs Oxuji\n赛制: BO3\n轮次: 首轮\n阶段: 小组赛 败
+	者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394814
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395228_1780817862613@a-ics
+SUMMARY:DFRAG 公开 系列赛 第5季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260609T083000Z
+DTEND:20260609T113000Z
+DESCRIPTION:赛事: DFRAG 公开 系列赛 第5季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决赛\n阶段: 小组赛 
+	胜者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395228
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395229_1780817862613@a-ics
+SUMMARY:DFRAG 公开 系列赛 第5季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260609T083000Z
+DTEND:20260609T113000Z
+DESCRIPTION:赛事: DFRAG 公开 系列赛 第5季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 首轮\n阶段: 小组赛 
+	败者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395229
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394815_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: Lavked vs Misa
+DTSTAMP:20260607T073742Z
+DTSTART:20260609T103000Z
+DTEND:20260609T133000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: Lavked vs Misa\n赛制: BO3\n轮次: 决赛\n阶段: 小组赛 
+	胜者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394815
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395116_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260609T110000Z
+DTEND:20260609T140000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段
+	: 小组赛 第四轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395116
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395168_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260609T110000Z
+DTEND:20260609T140000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第一轮\n阶段: 小
+	组赛 第一轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395168
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394895_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260609T120000Z
+DTEND:20260609T150000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第五轮\n阶段: 小组赛
+	 第五轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394895
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395117_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260609T140000Z
+DTEND:20260609T170000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段
+	: 小组赛 第四轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395117
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395169_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260609T140000Z
+DTEND:20260609T170000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第一轮\n阶段: 小
+	组赛 第一轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395169
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394896_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260609T143000Z
+DTEND:20260609T173000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第五轮\n阶段: 小组赛
+	 第五轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394896
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394897_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 第二阶段: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260609T170000Z
+DTEND:20260609T200000Z
+DESCRIPTION:赛事: IEM 科隆Major 第二阶段\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第五轮\n阶段: 小组赛
+	 第五轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394897
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395170_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260609T170000Z
+DTEND:20260609T200000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第一轮\n阶段: 小
+	组赛 第一轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395170
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395118_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260610T080000Z
+DTEND:20260610T110000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段
+	: 小组赛 第四轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395118
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395171_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260610T080000Z
+DTEND:20260610T110000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第一轮\n阶段: 小
+	组赛 第一轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395171
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394816_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: aAa vs RUSTEC
+DTSTAMP:20260607T073742Z
+DTSTART:20260610T080000Z
+DTEND:20260610T110000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: aAa vs RUSTEC\n赛制: BO3\n轮次: 首轮\n阶段: 小组赛 败
+	者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394816
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395230_1780817862613@a-ics
+SUMMARY:DFRAG 公开 系列赛 第5季: Gz vs Masked Regime
+DTSTAMP:20260607T073742Z
+DTSTART:20260610T083000Z
+DTEND:20260610T113000Z
+DESCRIPTION:赛事: DFRAG 公开 系列赛 第5季\n对阵: Gz vs Masked Regime\n赛制: BO3\n轮次: 首轮\
+	n阶段: 小组赛 胜者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395230
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395231_1780817862613@a-ics
+SUMMARY:DFRAG 公开 系列赛 第5季: Ding Cuts vs DXA
+DTSTAMP:20260607T073742Z
+DTSTART:20260610T083000Z
+DTEND:20260610T113000Z
+DESCRIPTION:赛事: DFRAG 公开 系列赛 第5季\n对阵: Ding Cuts vs DXA\n赛制: BO3\n轮次: 首轮\n阶段
+	: 小组赛 胜者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395231
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394817_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: G2 Ares vs Y.NIP
+DTSTAMP:20260607T073742Z
+DTSTART:20260610T103000Z
+DTEND:20260610T133000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: G2 Ares vs Y.NIP\n赛制: BO3\n轮次: 决赛\n阶段: 小组
+	赛 胜者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394817
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395119_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260610T110000Z
+DTEND:20260610T140000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段
+	: 小组赛 第四轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395119
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395172_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260610T110000Z
+DTEND:20260610T140000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第一轮\n阶段: 小
+	组赛 第一轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395172
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395120_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260610T140000Z
+DTEND:20260610T170000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段
+	: 小组赛 第四轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395120
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395173_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260610T140000Z
+DTEND:20260610T170000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第一轮\n阶段: 小
+	组赛 第一轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395173
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395174_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260610T170000Z
+DTEND:20260610T200000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第一轮\n阶段: 小
+	组赛 第一轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395174
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395079_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 欧洲: Wingman vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260610T173000Z
+DTEND:20260610T203000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 欧洲\n对阵: Wingman vs TBD\n赛制: BO3\n轮次: 第3轮\n阶
+	段: 淘汰赛 败者组 第3轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395079
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395080_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 欧洲: B8 Academy vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260610T173000Z
+DTEND:20260610T203000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 欧洲\n对阵: B8 Academy vs TBD\n赛制: BO3\n轮次: 第3轮
+	\n阶段: 淘汰赛 败者组 第3轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395080
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395081_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 欧洲: Falcons Force vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260610T173000Z
+DTEND:20260610T203000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 欧洲\n对阵: Falcons Force vs TBD\n赛制: BO3\n轮次: 
+	第3轮\n阶段: 淘汰赛 败者组 第3轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395081
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395078_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 欧洲: NEW VISION vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260610T173000Z
+DTEND:20260610T203000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 欧洲\n对阵: NEW VISION vs TBD\n赛制: BO3\n轮次: 第3轮
+	\n阶段: 淘汰赛 败者组 第3轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395078
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395121_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T080000Z
+DTEND:20260611T110000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第五轮\n阶段
+	: 小组赛 第五轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395121
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395175_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T080000Z
+DTEND:20260611T110000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第二轮\n阶段: 小
+	组赛 第二轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395175
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394818_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T080000Z
+DTEND:20260611T110000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 首轮\n阶段: 小组赛 败者组 
+	首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394818
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395232_1780817862613@a-ics
+SUMMARY:DFRAG 公开 系列赛 第5季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T083000Z
+DTEND:20260611T113000Z
+DESCRIPTION:赛事: DFRAG 公开 系列赛 第5季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决赛\n阶段: 小组赛 
+	胜者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395232
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395233_1780817862613@a-ics
+SUMMARY:DFRAG 公开 系列赛 第5季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T083000Z
+DTEND:20260611T113000Z
+DESCRIPTION:赛事: DFRAG 公开 系列赛 第5季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 首轮\n阶段: 小组赛 
+	败者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395233
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394898_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: Vitality vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T090000Z
+DTEND:20260611T120000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: Vitality vs TBD\n赛制: BO3\n轮次: 第一轮\n阶段
+	: 小组赛 第一轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394898
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394899_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: Falcons vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T090000Z
+DTEND:20260611T120000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: Falcons vs TBD\n赛制: BO3\n轮次: 第一轮\n阶段:
+	 小组赛 第一轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394899
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394900_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: NAVI vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T090000Z
+DTEND:20260611T120000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: NAVI vs TBD\n赛制: BO3\n轮次: 第一轮\n阶段: 小组
+	赛 第一轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394900
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394901_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: FURIA vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T090000Z
+DTEND:20260611T120000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: FURIA vs TBD\n赛制: BO3\n轮次: 第一轮\n阶段: 小
+	组赛 第一轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394901
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394902_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: Aurora vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T090000Z
+DTEND:20260611T120000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: Aurora vs TBD\n赛制: BO3\n轮次: 第一轮\n阶段: 
+	小组赛 第一轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394902
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394903_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: PARIVISION vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T090000Z
+DTEND:20260611T120000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: PARIVISION vs TBD\n赛制: BO3\n轮次: 第一轮\n
+	阶段: 小组赛 第一轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394903
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394904_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: Mongolz vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T090000Z
+DTEND:20260611T120000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: Mongolz vs TBD\n赛制: BO3\n轮次: 第一轮\n阶段:
+	 小组赛 第一轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394904
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394905_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: MOUZ vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T090000Z
+DTEND:20260611T120000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: MOUZ vs TBD\n赛制: BO3\n轮次: 第一轮\n阶段: 小组
+	赛 第一轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394905
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394819_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T103000Z
+DTEND:20260611T133000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决赛\n阶段: 小组赛 胜者组 
+	决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394819
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395122_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T110000Z
+DTEND:20260611T140000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第五轮\n阶段
+	: 小组赛 第五轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395122
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395176_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T110000Z
+DTEND:20260611T140000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第二轮\n阶段: 小
+	组赛 第二轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395176
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395123_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T140000Z
+DTEND:20260611T170000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第五轮\n阶段
+	: 小组赛 第五轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395123
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395177_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T140000Z
+DTEND:20260611T170000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第二轮\n阶段: 小
+	组赛 第二轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395177
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395178_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260611T170000Z
+DTEND:20260611T200000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第二轮\n阶段: 小
+	组赛 第二轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395178
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395179_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T080000Z
+DTEND:20260612T110000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第二轮\n阶段: 小
+	组赛 第二轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395179
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394820_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T080000Z
+DTEND:20260612T110000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决赛\n阶段: 小组赛 败者组 
+	决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394820
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395234_1780817862613@a-ics
+SUMMARY:DFRAG 公开 系列赛 第5季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T083000Z
+DTEND:20260612T113000Z
+DESCRIPTION:赛事: DFRAG 公开 系列赛 第5季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决赛\n阶段: 小组赛 
+	败者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395234
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395235_1780817862613@a-ics
+SUMMARY:DFRAG 公开 系列赛 第5季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T083000Z
+DTEND:20260612T113000Z
+DESCRIPTION:赛事: DFRAG 公开 系列赛 第5季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决赛\n阶段: 小组赛 
+	败者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395235
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394971_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T090000Z
+DTEND:20260612T120000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第二轮\n阶段: 小组赛
+	 第二轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394971
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394972_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T090000Z
+DTEND:20260612T120000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第二轮\n阶段: 小组赛
+	 第二轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394972
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394821_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T103000Z
+DTEND:20260612T133000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决赛\n阶段: 小组赛 败者组 
+	决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394821
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395180_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T110000Z
+DTEND:20260612T140000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第二轮\n阶段: 小
+	组赛 第二轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395180
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394973_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T113000Z
+DTEND:20260612T143000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第二轮\n阶段: 小组赛
+	 第二轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394973
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394974_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T113000Z
+DTEND:20260612T143000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第二轮\n阶段: 小组赛
+	 第二轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394974
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395181_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T140000Z
+DTEND:20260612T170000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第二轮\n阶段: 小
+	组赛 第二轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395181
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394975_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T140000Z
+DTEND:20260612T170000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第二轮\n阶段: 小组赛
+	 第二轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394975
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394976_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T140000Z
+DTEND:20260612T170000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第二轮\n阶段: 小组赛
+	 第二轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394976
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394977_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T163000Z
+DTEND:20260612T193000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第二轮\n阶段: 小组赛
+	 第二轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394977
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394978_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T163000Z
+DTEND:20260612T193000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第二轮\n阶段: 小组赛
+	 第二轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394978
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395182_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T170000Z
+DTEND:20260612T200000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第二轮\n阶段: 小
+	组赛 第二轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395182
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395082_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 欧洲: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T173000Z
+DTEND:20260612T203000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 欧洲\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 半决赛\n阶段: 淘
+	汰赛 败者组 半决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395082
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395083_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 欧洲: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260612T173000Z
+DTEND:20260612T203000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 欧洲\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 半决赛\n阶段: 淘
+	汰赛 败者组 半决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395083
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395249_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 北美: LAG vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T003000Z
+DTEND:20260613T033000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 北美\n对阵: LAG vs TBD\n赛制: BO3\n轮次: 首轮\n阶段: 淘汰
+	赛 败者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395249
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395248_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 北美: Wanted Goons vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T003000Z
+DTEND:20260613T033000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 北美\n对阵: Wanted Goons vs TBD\n赛制: BO3\n轮次: 首
+	轮\n阶段: 淘汰赛 败者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395248
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395250_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 北美: raisedbypixels vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T003000Z
+DTEND:20260613T033000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 北美\n对阵: raisedbypixels vs TBD\n赛制: BO3\n轮次:
+	 首轮\n阶段: 淘汰赛 败者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395250
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395251_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 北美: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T003000Z
+DTEND:20260613T033000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 北美\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 首轮\n阶段: 淘汰
+	赛 败者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395251
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395183_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T080000Z
+DTEND:20260613T110000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第三轮\n阶段: 小
+	组赛 第三轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395183
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394822_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T080000Z
+DTEND:20260613T110000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决赛\n阶段: 小组赛 败者组 
+	决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394822
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394979_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T090000Z
+DTEND:20260613T120000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第三轮\n阶段: 小组赛
+	 第三轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394979
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394980_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T090000Z
+DTEND:20260613T120000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第三轮\n阶段: 小组赛
+	 第三轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394980
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394823_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T103000Z
+DTEND:20260613T133000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决赛\n阶段: 小组赛 败者组 
+	决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394823
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395184_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T110000Z
+DTEND:20260613T140000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第三轮\n阶段: 小
+	组赛 第三轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395184
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394981_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T113000Z
+DTEND:20260613T143000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第三轮\n阶段: 小组赛
+	 第三轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394981
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394982_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T113000Z
+DTEND:20260613T143000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第三轮\n阶段: 小组赛
+	 第三轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394982
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395185_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T140000Z
+DTEND:20260613T170000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第三轮\n阶段: 小
+	组赛 第三轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395185
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394984_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T140000Z
+DTEND:20260613T170000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第三轮\n阶段: 小组赛
+	 第三轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394984
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394983_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T140000Z
+DTEND:20260613T170000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第三轮\n阶段: 小组赛
+	 第三轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394983
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394985_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T163000Z
+DTEND:20260613T193000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第三轮\n阶段: 小组赛
+	 第三轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394985
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394986_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T163000Z
+DTEND:20260613T193000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第三轮\n阶段: 小组赛
+	 第三轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394986
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395186_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260613T170000Z
+DTEND:20260613T200000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第三轮\n阶段: 小
+	组赛 第三轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395186
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395252_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 北美: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T003000Z
+DTEND:20260614T033000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 北美\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 半决赛\n阶段: 淘
+	汰赛 败者组 半决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395252
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395253_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 北美: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T003000Z
+DTEND:20260614T033000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 北美\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 半决赛\n阶段: 淘
+	汰赛 败者组 半决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395253
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395124_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T080000Z
+DTEND:20260614T110000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段
+	: 淘汰赛 十六强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395124
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395187_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T080000Z
+DTEND:20260614T110000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第三轮\n阶段: 小
+	组赛 第三轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395187
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394824_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T080000Z
+DTEND:20260614T110000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段: 淘汰赛 十六强
+	\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394824
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394825_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T103000Z
+DTEND:20260614T133000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段: 淘汰赛 十六强
+	\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394825
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395125_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T110000Z
+DTEND:20260614T140000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段
+	: 淘汰赛 十六强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395125
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395188_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T110000Z
+DTEND:20260614T140000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第三轮\n阶段: 小
+	组赛 第三轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395188
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394987_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T120000Z
+DTEND:20260614T150000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小组赛
+	 第四轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394987
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394988_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T120000Z
+DTEND:20260614T150000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小组赛
+	 第四轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394988
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395126_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T140000Z
+DTEND:20260614T170000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段
+	: 淘汰赛 十六强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395126
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395189_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T140000Z
+DTEND:20260614T170000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第三轮\n阶段: 小
+	组赛 第三轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395189
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394989_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T143000Z
+DTEND:20260614T173000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小组赛
+	 第四轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394989
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394990_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T143000Z
+DTEND:20260614T173000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小组赛
+	 第四轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394990
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395127_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T170000Z
+DTEND:20260614T200000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段
+	: 淘汰赛 十六强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395127
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395190_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T170000Z
+DTEND:20260614T200000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第三轮\n阶段: 小
+	组赛 第三轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395190
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394991_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T170000Z
+DTEND:20260614T200000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小组赛
+	 第四轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394991
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394992_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T170000Z
+DTEND:20260614T200000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小组赛
+	 第四轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394992
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395084_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 欧洲: ReThink vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T173000Z
+DTEND:20260614T203000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 欧洲\n对阵: ReThink vs TBD\n赛制: BO3\n轮次: 决赛\n阶段
+	: 淘汰赛 败者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395084
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395085_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 欧洲: Arch vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260614T173000Z
+DTEND:20260614T203000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 欧洲\n对阵: Arch vs TBD\n赛制: BO3\n轮次: 决赛\n阶段: 淘
+	汰赛 败者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395085
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395254_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 北美: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260615T003000Z
+DTEND:20260615T033000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 北美\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决赛\n阶段: 淘汰
+	赛 败者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395254
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395255_1780817862613@a-ics
+SUMMARY: ESEA发展联赛 第57赛季 北美: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260615T003000Z
+DTEND:20260615T033000Z
+DESCRIPTION:赛事:  ESEA发展联赛 第57赛季 北美\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决赛\n阶段: 淘汰
+	赛 败者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395255
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395128_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260615T080000Z
+DTEND:20260615T110000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段
+	: 淘汰赛 十六强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395128
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394826_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260615T080000Z
+DTEND:20260615T110000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段: 淘汰赛 十六强
+	\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394826
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395236_1780817862613@a-ics
+SUMMARY:DFRAG 公开 系列赛 第5季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260615T083000Z
+DTEND:20260615T113000Z
+DESCRIPTION:赛事: DFRAG 公开 系列赛 第5季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 首轮\n阶段: 淘汰赛 
+	胜者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395236
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395237_1780817862613@a-ics
+SUMMARY:DFRAG 公开 系列赛 第5季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260615T083000Z
+DTEND:20260615T113000Z
+DESCRIPTION:赛事: DFRAG 公开 系列赛 第5季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 首轮\n阶段: 淘汰赛 
+	胜者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395237
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394827_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260615T103000Z
+DTEND:20260615T133000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段: 淘汰赛 十六强
+	\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394827
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395129_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260615T110000Z
+DTEND:20260615T140000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段
+	: 淘汰赛 十六强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395129
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394993_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260615T120000Z
+DTEND:20260615T150000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第五轮\n阶段: 小组赛
+	 第五轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394993
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395130_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260615T140000Z
+DTEND:20260615T170000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段
+	: 淘汰赛 十六强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395130
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394994_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260615T143000Z
+DTEND:20260615T173000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第五轮\n阶段: 小组赛
+	 第五轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394994
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395131_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260615T170000Z
+DTEND:20260615T200000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段
+	: 淘汰赛 十六强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395131
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394995_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260615T170000Z
+DTEND:20260615T200000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第五轮\n阶段: 小组赛
+	 第五轮\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394995
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395132_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260616T080000Z
+DTEND:20260616T110000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 八强\n阶段:
+	 淘汰赛 八强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395132
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394828_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260616T080000Z
+DTEND:20260616T110000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段: 淘汰赛 十六强
+	\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394828
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395238_1780817862613@a-ics
+SUMMARY:DFRAG 公开 系列赛 第5季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260616T083000Z
+DTEND:20260616T113000Z
+DESCRIPTION:赛事: DFRAG 公开 系列赛 第5季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决赛\n阶段: 淘汰赛 
+	胜者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395238
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395239_1780817862613@a-ics
+SUMMARY:DFRAG 公开 系列赛 第5季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260616T083000Z
+DTEND:20260616T113000Z
+DESCRIPTION:赛事: DFRAG 公开 系列赛 第5季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 首轮\n阶段: 淘汰赛 
+	败者组 首轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395239
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394829_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260616T103000Z
+DTEND:20260616T133000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段: 淘汰赛 十六强
+	\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394829
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395133_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260616T110000Z
+DTEND:20260616T140000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 八强\n阶段:
+	 淘汰赛 八强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395133
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395191_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260616T110000Z
+DTEND:20260616T140000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小
+	组赛 第四轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395191
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395134_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260616T140000Z
+DTEND:20260616T170000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 八强\n阶段:
+	 淘汰赛 八强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395134
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395192_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260616T140000Z
+DTEND:20260616T170000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小
+	组赛 第四轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395192
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395135_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260616T170000Z
+DTEND:20260616T200000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 八强\n阶段:
+	 淘汰赛 八强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395135
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395193_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260616T170000Z
+DTEND:20260616T200000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小
+	组赛 第四轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395193
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395136_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260617T080000Z
+DTEND:20260617T110000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 半决赛\n阶段
+	: 淘汰赛 半决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395136
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394830_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260617T080000Z
+DTEND:20260617T110000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段: 淘汰赛 十六强
+	\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394830
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395240_1780817862613@a-ics
+SUMMARY:DFRAG 公开 系列赛 第5季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260617T083000Z
+DTEND:20260617T113000Z
+DESCRIPTION:赛事: DFRAG 公开 系列赛 第5季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决赛\n阶段: 淘汰赛 
+	败者组 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395240
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394831_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260617T103000Z
+DTEND:20260617T133000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段: 淘汰赛 十六强
+	\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394831
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395137_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260617T110000Z
+DTEND:20260617T140000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 半决赛\n阶段
+	: 淘汰赛 半决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395137
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395197_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260617T110000Z
+DTEND:20260617T140000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小
+	组赛 第四轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395197
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395194_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260617T110000Z
+DTEND:20260617T140000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小
+	组赛 第四轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395194
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395138_1780817862613@a-ics
+SUMMARY:NODWIN Clutch 系列赛 第9季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260617T140000Z
+DTEND:20260617T170000Z
+DESCRIPTION:赛事: NODWIN Clutch 系列赛 第9季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 总决赛\n阶段
+	: 淘汰赛 总决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395138
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395195_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260617T140000Z
+DTEND:20260617T170000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第五轮\n阶段: 小
+	组赛 第五轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395195
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395198_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260617T140000Z
+DTEND:20260617T170000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第四轮\n阶段: 小
+	组赛 第四轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395198
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395196_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260617T170000Z
+DTEND:20260617T200000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第五轮\n阶段: 小
+	组赛 第五轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395196
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395199_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260617T170000Z
+DTEND:20260617T200000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 第五轮\n阶段: 小
+	组赛 第五轮\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395199
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395200_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260618T080000Z
+DTEND:20260618T110000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段: 淘
+	汰赛 十六强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395200
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394832_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260618T080000Z
+DTEND:20260618T110000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 八强\n阶段: 淘汰赛 八强\n
+	等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394832
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395241_1780817862613@a-ics
+SUMMARY:DFRAG 公开 系列赛 第5季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260618T083000Z
+DTEND:20260618T113000Z
+DESCRIPTION:赛事: DFRAG 公开 系列赛 第5季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 决赛\n阶段: 淘汰赛 
+	 决赛\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395241
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394833_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260618T103000Z
+DTEND:20260618T133000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 八强\n阶段: 淘汰赛 八强\n
+	等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394833
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395201_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260618T110000Z
+DTEND:20260618T140000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段: 淘
+	汰赛 十六强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395201
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394996_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260618T134500Z
+DTEND:20260618T164500Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 1/4决赛\n阶段: 淘
+	汰赛 1/4决赛\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394996
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395202_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260618T140000Z
+DTEND:20260618T170000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段: 淘
+	汰赛 十六强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395202
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395203_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260618T170000Z
+DTEND:20260618T200000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段: 淘
+	汰赛 十六强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395203
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394997_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260618T170000Z
+DTEND:20260618T200000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 1/4决赛\n阶段: 淘
+	汰赛 1/4决赛\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394997
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395204_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260619T080000Z
+DTEND:20260619T110000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段: 淘
+	汰赛 十六强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395204
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394834_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260619T080000Z
+DTEND:20260619T110000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 八强\n阶段: 淘汰赛 八强\n
+	等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394834
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394835_1780817862613@a-ics
+SUMMARY:欧洲职业联赛 系列赛 7: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260619T103000Z
+DTEND:20260619T133000Z
+DESCRIPTION:赛事: 欧洲职业联赛 系列赛 7\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 八强\n阶段: 淘汰赛 八强\n
+	等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394835
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395205_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260619T110000Z
+DTEND:20260619T140000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段: 淘
+	汰赛 十六强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395205
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394998_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260619T134500Z
+DTEND:20260619T164500Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 1/4决赛\n阶段: 淘
+	汰赛 1/4决赛\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394998
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395206_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260619T140000Z
+DTEND:20260619T170000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段: 淘
+	汰赛 十六强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395206
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2395207_1780817862613@a-ics
+SUMMARY:CCT 2026 欧洲系列赛 第4季: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260619T170000Z
+DTEND:20260619T200000Z
+DESCRIPTION:赛事: CCT 2026 欧洲系列赛 第4季\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 十六强\n阶段: 淘
+	汰赛 十六强\n等级: 其他\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2395207
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
+END:VEVENT
+BEGIN:VEVENT
+UID:csgo_csgo_mc_2394999_1780817862613@a-ics
+SUMMARY:IEM 科隆Major 2026: TBD vs TBD
+DTSTAMP:20260607T073742Z
+DTSTART:20260619T170000Z
+DTEND:20260619T200000Z
+DESCRIPTION:赛事: IEM 科隆Major 2026\n对阵: TBD vs TBD\n赛制: BO3\n轮次: 1/4决赛\n阶段: 淘
+	汰赛 1/4决赛\n等级: S级\n预计时长: 3小时\n数据来源: 5EPlay
+URL:https://event.5eplay.com/csgo/session/csgo_mc_2394999
+LOCATION:5EPlay 赛事平台
+STATUS:CONFIRMED
+CATEGORIES:SPORTS,ESPORTS,CS:GO
 END:VEVENT
 END:VCALENDAR

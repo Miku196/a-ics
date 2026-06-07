@@ -1,1 +1,91 @@
-[]
+{
+  "events": [
+    {
+      "title": "WRC Rallye Monte-Carlo",
+      "race": "🇲🇨 WRC Rallye Monte-Carlo",
+      "startDate": "2026-01-22T00:00:00.000Z",
+      "endDate": "2026-01-25T00:00:00.000Z"
+    },
+    {
+      "title": "WRC Rally Sweden",
+      "race": "🇸🇪 WRC Rally Sweden",
+      "startDate": "2026-02-12T00:00:00.000Z",
+      "endDate": "2026-02-15T00:00:00.000Z"
+    },
+    {
+      "title": "WRC Safari Rally Kenya",
+      "race": "🇰🇪 WRC Safari Rally Kenya",
+      "startDate": "2026-03-12T00:00:00.000Z",
+      "endDate": "2026-03-15T00:00:00.000Z"
+    },
+    {
+      "title": "WRC Croatia Rally",
+      "race": "🇭🇷 WRC Croatia Rally",
+      "startDate": "2026-04-09T00:00:00.000Z",
+      "endDate": "2026-04-12T00:00:00.000Z"
+    },
+    {
+      "title": "WRC Rally Islas Canarias",
+      "race": "🇪🇸 WRC Rally Islas Canarias",
+      "startDate": "2026-04-23T00:00:00.000Z",
+      "endDate": "2026-04-26T00:00:00.000Z"
+    },
+    {
+      "title": "WRC Vodafone Rally de Portugal",
+      "race": "🇵🇹 WRC Vodafone Rally de Portugal",
+      "startDate": "2026-05-07T00:00:00.000Z",
+      "endDate": "2026-05-10T00:00:00.000Z"
+    },
+    {
+      "title": "WRC FORUM8 Rally Japan",
+      "race": "🇯🇵 WRC FORUM8 Rally Japan",
+      "startDate": "2026-05-28T00:00:00.000Z",
+      "endDate": "2026-05-31T00:00:00.000Z"
+    },
+    {
+      "title": "WRC EKO Acropolis Rally Greece",
+      "race": "🇬🇷 WRC EKO Acropolis Rally Greece",
+      "startDate": "2026-06-25T00:00:00.000Z",
+      "endDate": "2026-06-28T00:00:00.000Z"
+    },
+    {
+      "title": "WRC Delfi Rally Estonia",
+      "race": "🇪🇪 WRC Delfi Rally Estonia",
+      "startDate": "2026-07-16T00:00:00.000Z",
+      "endDate": "2026-07-19T00:00:00.000Z"
+    },
+    {
+      "title": "WRC Secto Rally Finland",
+      "race": "🇫🇮 WRC Secto Rally Finland",
+      "startDate": "2026-08-02T00:00:00.000Z",
+      "endDate": "2026-08-02T00:00:00.000Z"
+    },
+    {
+      "title": "WRC ueno Rally del Paraguay",
+      "race": "🇵🇾 WRC ueno Rally del Paraguay",
+      "startDate": "2026-08-27T00:00:00.000Z",
+      "endDate": "2026-08-30T00:00:00.000Z"
+    },
+    {
+      "title": "WRC Rally Chile Bio Bío",
+      "race": "🇨🇱 WRC Rally Chile Bio Bío",
+      "startDate": "2026-09-10T00:00:00.000Z",
+      "endDate": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "WRC Rally Italia Sardegna",
+      "race": "🇮🇹 WRC Rally Italia Sardegna",
+      "startDate": "2026-10-01T00:00:00.000Z",
+      "endDate": "2026-10-04T00:00:00.000Z"
+    },
+    {
+      "title": "WRC Rally Saudi Arabia",
+      "race": "🇸🇦 WRC Rally Saudi Arabia",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "endDate": "2026-11-14T00:00:00.000Z"
+    }
+  ],
+  "metadata": {
+    "source": "https://www.wrc.com/en/calendar?rb3TabId=upcoming"
+  }
+}
