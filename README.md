@@ -18,25 +18,28 @@
 
 ## 订阅日历
 
-部署后通过以下链接订阅（替换 `<用户名>`）：
+将以下链接添加到你的日历应用（iOS 日历、Google Calendar、Outlook 等）：
 
-| 赛事 | ICS |
-|------|-----|
-| WRC | `https://<用户名>.github.io/a-ics/release/wrc/wrc.ics` |
-| F1 | `https://<用户名>.github.io/a-ics/release/f1/f1.ics` |
-| CS:GO | `https://<用户名>.github.io/a-ics/release/csgo/csgo.ics` |
-| Dota 2 | `https://<用户名>.github.io/a-ics/release/dota2/dota2.ics` |
-| LoL | `https://<用户名>.github.io/a-ics/release/lol/lol.ics` |
-| Valorant | `https://<用户名>.github.io/a-ics/release/valorant/valorant.ics` |
-| OWCS | `https://<用户名>.github.io/a-ics/release/overwatch/overwatch.ics` |
-| 世界杯 | `https://<用户名>.github.io/a-ics/release/worldcup/worldcup.ics` |
-| NBA | `https://<用户名>.github.io/a-ics/release/nba/nba.ics` |
+| 赛事 | 原始链接 | 加速链接（国内） |
+|------|----------|------------------|
+| WRC | [ICS](https://Miku196.github.io/a-ics/release/wrc/wrc.ics) | [加速](https://gh-proxy.com/https://Miku196.github.io/a-ics/release/wrc/wrc.ics) |
+| F1 | [ICS](https://Miku196.github.io/a-ics/release/f1/f1.ics) | [加速](https://gh-proxy.com/https://Miku196.github.io/a-ics/release/f1/f1.ics) |
+| CS:GO | [ICS](https://Miku196.github.io/a-ics/release/csgo/csgo.ics) | [加速](https://gh-proxy.com/https://Miku196.github.io/a-ics/release/csgo/csgo.ics) |
+| Dota 2 | [ICS](https://Miku196.github.io/a-ics/release/dota2/dota2.ics) | [加速](https://gh-proxy.com/https://Miku196.github.io/a-ics/release/dota2/dota2.ics) |
+| LoL | [ICS](https://Miku196.github.io/a-ics/release/lol/lol.ics) | [加速](https://gh-proxy.com/https://Miku196.github.io/a-ics/release/lol/lol.ics) |
+| Valorant | [ICS](https://Miku196.github.io/a-ics/release/valorant/valorant.ics) | [加速](https://gh-proxy.com/https://Miku196.github.io/a-ics/release/valorant/valorant.ics) |
+| OWCS | [ICS](https://Miku196.github.io/a-ics/release/overwatch/overwatch.ics) | [加速](https://gh-proxy.com/https://Miku196.github.io/a-ics/release/overwatch/overwatch.ics) |
+| 世界杯 | [ICS](https://Miku196.github.io/a-ics/release/worldcup/worldcup.ics) | [加速](https://gh-proxy.com/https://Miku196.github.io/a-ics/release/worldcup/worldcup.ics) |
+| NBA | [ICS](https://Miku196.github.io/a-ics/release/nba/nba.ics) | [加速](https://gh-proxy.com/https://Miku196.github.io/a-ics/release/nba/nba.ics) |
 
 ## 部署步骤
 
-1. **Fork** 本项目
+1. **Fork** 本项目到你的 GitHub 账号
 2. Settings → Pages → Source: `main` 分支，目录选 `/release`
-3. GitHub Actions 每 2 小时自动更新
+3. Fork 后将上方订阅链接中的 `Miku196` 替换为你的用户名即可
+4. GitHub Actions 每 2 小时自动更新
+
+> 💡 **加速说明**：GitHub Pages 在国内访问可能较慢，加速链接通过 `gh-proxy.com` 代理，加载更快。
 
 ## 本地运行
 
