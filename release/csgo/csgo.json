@@ -39,25 +39,6 @@
       "title": "FRAG TAP 重制版 2026: LAG vs makeSHIFT"
     },
     {
-      "id": "csgo_mc_2395031",
-      "startTimestamp": 1780149600,
-      "startDate": "2026-05-30T14:00:00.000Z",
-      "endDate": "2026-05-30T17:00:00.000Z",
-      "duration": 3,
-      "tournament": "FRAG TAP 重制版 2026",
-      "team1": "F5",
-      "team2": "absolute cinema",
-      "format": "BO3",
-      "status": "已结束",
-      "statusCode": "2",
-      "apiStatus": 2,
-      "grade": "其他",
-      "roundName": "首轮",
-      "stageDesc": "淘汰赛 胜者组 首轮",
-      "score": "2-1",
-      "title": "FRAG TAP 重制版 2026: F5 vs absolute cinema"
-    },
-    {
       "id": "csgo_mc_2394725",
       "startTimestamp": 1780150200,
       "startDate": "2026-05-30T14:10:00.000Z",
@@ -3801,6 +3782,25 @@
       "title": " ESEA发展联赛 第57赛季 北美: 33 vs raisedbypixels"
     },
     {
+      "id": "csgo_mc_2395160",
+      "startTimestamp": 1780817697,
+      "startDate": "2026-06-07T07:34:57.000Z",
+      "endDate": "2026-06-07T10:34:57.000Z",
+      "duration": 3,
+      "tournament": "CCT 2026 欧洲系列赛 第4季封闭预选",
+      "team1": "Atreides",
+      "team2": "HyperSpirit",
+      "format": "BO3",
+      "status": "已结束",
+      "statusCode": "2",
+      "apiStatus": 2,
+      "grade": "其他",
+      "roundName": "决赛",
+      "stageDesc": "小组赛 败者组 决赛",
+      "score": "0-1",
+      "title": "CCT 2026 欧洲系列赛 第4季封闭预选: Atreides vs HyperSpirit"
+    },
+    {
       "id": "csgo_mc_2395159",
       "startTimestamp": 1780819200,
       "startDate": "2026-06-07T08:00:00.000Z",
@@ -3875,25 +3875,6 @@
       "stageDesc": "小组赛 胜者组 首轮",
       "score": "0-0",
       "title": "欧洲职业联赛 系列赛 7: VP vs Genone"
-    },
-    {
-      "id": "csgo_mc_2395160",
-      "startTimestamp": 1780830000,
-      "startDate": "2026-06-07T11:00:00.000Z",
-      "endDate": "2026-06-07T14:00:00.000Z",
-      "duration": 3,
-      "tournament": "CCT 2026 欧洲系列赛 第4季封闭预选",
-      "team1": "Atreides",
-      "team2": "HyperSpirit",
-      "format": "BO3",
-      "status": "未开始",
-      "statusCode": "0",
-      "apiStatus": 1,
-      "grade": "其他",
-      "roundName": "决赛",
-      "stageDesc": "小组赛 败者组 决赛",
-      "score": "0-0",
-      "title": "CCT 2026 欧洲系列赛 第4季封闭预选: Atreides vs HyperSpirit"
     },
     {
       "id": "csgo_mc_2395108",
@@ -7599,11 +7580,30 @@
       "stageDesc": "淘汰赛 1/4决赛",
       "score": "0-0",
       "title": "IEM 科隆Major 2026: TBD vs TBD"
+    },
+    {
+      "id": "csgo_mc_2395208",
+      "startTimestamp": 1781942400,
+      "startDate": "2026-06-20T08:00:00.000Z",
+      "endDate": "2026-06-20T11:00:00.000Z",
+      "duration": 3,
+      "tournament": "CCT 2026 欧洲系列赛 第4季",
+      "team1": "TBD",
+      "team2": "TBD",
+      "format": "BO3",
+      "status": "未开始",
+      "statusCode": "0",
+      "apiStatus": 1,
+      "grade": "其他",
+      "roundName": "八强",
+      "stageDesc": "淘汰赛 八强",
+      "score": "0-0",
+      "title": "CCT 2026 欧洲系列赛 第4季: TBD vs TBD"
     }
   ],
   "metadata": {
     "source": "5EPlay API",
-    "scrapedAt": "2026-06-07T07:37:42.609Z",
+    "scrapedAt": "2026-06-07T07:45:17.391Z",
     "total": 400
   }
 }
